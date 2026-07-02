@@ -27,81 +27,130 @@ def load_okai():
 # ----------------------------
 
 st.markdown("""
-
 <style>
 
+/* ---------------- Main ---------------- */
+
 .block-container{
-
-    padding-top:2rem;
-
+    padding-top:3rem;
+    padding-bottom:2rem;
+    padding-left:2rem;
+    padding-right:2rem;
 }
+
+/* Hide Streamlit Branding */
+
+#MainMenu{
+    visibility:hidden;
+}
+
+footer{
+    visibility:hidden;
+}
+
+header{
+    visibility:hidden;
+}
+
+/* Sidebar */
+
+[data-testid="stSidebar"]{
+    background:#171923;
+}
+
+/* Hero Title */
 
 .main-title{
 
-    font-size:42px;
+    font-size:50px;
 
-    font-weight:700;
+    font-weight:800;
 
     color:#FFD54F;
+
+    margin-bottom:0px;
+
+    line-height:1.2;
 
 }
 
 .sub-title{
 
-    color:gray;
+    font-size:20px;
 
-    font-size:18px;
+    color:#BDBDBD;
+
+    margin-top:5px;
+
+    margin-bottom:25px;
 
 }
 
-.status-card{
+/* Buttons */
 
-    border-radius:15px;
+.stButton>button{
 
-    padding:12px;
+    width:100%;
+
+    border-radius:12px;
+
+    height:45px;
+
+    background:#262730;
+
+    color:white;
+
+    border:1px solid #444;
+
+    transition:0.3s;
+
+}
+
+.stButton>button:hover{
+
+    background:#FFD54F;
+
+    color:black;
+
+}
+
+/* Metrics */
+
+[data-testid="stMetric"]{
 
     background:#202123;
 
-    margin-bottom:12px;
-
-}
-
-.user-msg{
-
-    background:#2563EB;
-
     padding:15px;
 
-    border-radius:15px;
-
-    margin-bottom:12px;
+    border-radius:12px;
 
 }
 
-.bot-msg{
+/* Chat Input */
 
-    background:#2D2D2D;
+[data-testid="stChatInput"]{
 
-    padding:15px;
-
-    border-radius:15px;
-
-    margin-bottom:12px;
+    padding-top:10px;
 
 }
 
-.footer{
+/* Scrollbar */
 
-    text-align:center;
+::-webkit-scrollbar{
 
-    color:gray;
-
-    margin-top:40px;
+    width:8px;
 
 }
 
-</style>
+::-webkit-scrollbar-thumb{
 
+    background:#444;
+
+    border-radius:20px;
+
+}
+
+    </style>
 """, unsafe_allow_html=True)
 
 # ----------------------------
@@ -114,15 +163,12 @@ with st.sidebar:
 
     st.markdown("---")
 
-    st.success("Knowledge Base Loaded")
+    st.success("🟢 Knowledge Base Loaded")
+    st.success("🧠 Embeddings Ready")
+    st.success("✨ Gemini Connected")
 
-    st.success("Embeddings Loaded")
-
-    st.success("Gemini Connected")
-
-    st.info("Topics : 70")
-
-    st.info("Top-K Retrieval : 3")
+    st.metric("Knowledge Topics","70")
+    st.metric("Top-K Retrieval","3")
 
     st.markdown("---")
 
@@ -136,24 +182,22 @@ with st.sidebar:
 # Title
 # ----------------------------
 
-st.markdown(
+st.markdown("""
+<div style="padding-top:25px;padding-bottom:15px;">
 
-'<p class="main-title">🤖 OKIE DOKIE OKAI</p>',
+<h1 class="main-title">
+🤖 OKIE DOKIE OKAI
+</h1>
 
-unsafe_allow_html=True
+<p class="sub-title">
+Your AI Powered ERP Assistant using RAG + Gemini
+</p>
 
-)
+</div>
 
-st.markdown(
+<hr style="border:1px solid #2F3136;">
 
-'<p class="sub-title">AI Powered ERP Assistant</p>',
-
-unsafe_allow_html=True
-
-)
-
-st.divider()
-
+""", unsafe_allow_html=True)
 # ----------------------------
 # Session
 # ----------------------------
@@ -282,9 +326,56 @@ ERP KNOWLEDGE
 
             except Exception as e:
 
-                answer = f"❌ Error\n\n{e}"
+                error_message = str(e)
 
-                st.error(answer)
+                # ------------------------------------
+                # Gemini Quota Exceeded (429)
+                # ------------------------------------
+                if "429" in error_message or "RESOURCE_EXHAUSTED" in error_message:
+
+                    answer = f"""
+## ⚠️ Gemini API Limit Reached
+
+The free Gemini API request limit has been exceeded.
+
+### 📚 Retrieved ERP Knowledge
+
+{context}
+
+---
+
+💡 **Suggestion:** Please wait for a minute or use another configured API key.
+"""
+
+                    st.warning(answer)
+
+                # ------------------------------------
+                # Gemini Busy (503)
+                # ------------------------------------
+                elif "503" in error_message or "UNAVAILABLE" in error_message:
+
+                    answer = """
+## ⚠️ Gemini is Busy
+
+The Gemini servers are currently experiencing high demand.
+
+Please try again in a few moments.
+"""
+
+                    st.warning(answer)
+
+                # ------------------------------------
+                # Any Other Error
+                # ------------------------------------
+                else:
+
+                    answer = f"""
+## ❌ Unexpected Error
+
+{error_message}
+"""
+
+                    st.error(answer)
 
     # ------------------------
     # Save Assistant Message
@@ -332,30 +423,52 @@ if question:
 
             st.divider()
 
-# ============================================================
-# Knowledge Statistics
-# ============================================================
+#animations
 
-with st.sidebar:
+st.markdown("""
+<style>
 
-    st.markdown("---")
+.typing-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:20px 0 30px 0;
+}
 
-    st.subheader("📊 AI Statistics")
+.typing-text{
+    font-size:36px;
+    font-weight:700;
+    color:#FFD54F;
+    overflow:hidden;
+    white-space:nowrap;
+    border-right:3px solid #FFD54F;
+    animation:typing 4s steps(55,end), blink .8s infinite;
+}
 
-    st.metric(
-        "Knowledge Topics",
-        "70"
-    )
+@keyframes typing{
+    from{width:0;}
+    to{width:100%;}
+}
 
-    st.metric(
-        "Retrieved",
-        "Top 3"
-    )
+@keyframes blink{
+    50%{
+        border-color:transparent;
+    }
+}
 
-    st.metric(
-        "Embedding Size",
-        "384"
-    )
+</style>
+
+<div class="typing-container">
+<div class="typing-text">
+
+🧠 Different Questions • Same Meaning • Same Accurate Answer
+
+</div>
+</div>
+
+""", unsafe_allow_html=True)
+
+
 
 # ============================================================
 # Suggested Questions

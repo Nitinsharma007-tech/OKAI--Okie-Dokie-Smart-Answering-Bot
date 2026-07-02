@@ -11,61 +11,107 @@ class GeminiAgent:
 
         load_dotenv()
 
-        api_key = os.getenv("GEMINI_API_KEY")
+        self.api_keys = [
 
-        if not api_key:
-            raise ValueError("GEMINI_API_KEY not found.")
+            os.getenv("GEMINI_API_KEY_1"),
+            os.getenv("GEMINI_API_KEY_2"),
+            os.getenv("GEMINI_API_KEY_3")
 
-        self.client = genai.Client(
-            api_key=api_key
-        )
+        ]
+
+        # Remove empty keys
+        self.api_keys = [key for key in self.api_keys if key]
+
+        if not self.api_keys:
+            raise ValueError("No Gemini API Keys Found.")
 
         self.model = "gemini-2.5-flash"
 
         print("=" * 60)
-        print("Gemini Agent Ready")
+        print(f"Gemini Agent Ready ({len(self.api_keys)} API Keys)")
         print("=" * 60)
 
-    def generate_json(
-        self,
-        system_prompt,
-        user_prompt
-    ):
+    # =====================================================
+    # JSON Generation
+    # =====================================================
 
-        response = self.client.models.generate_content(
-            model=self.model,
-            contents=f"""
+    def generate_json(self, system_prompt, user_prompt):
+
+        prompt = f"""
 {system_prompt}
 
 --------------------------
 
 {user_prompt}
-""",
-            config={
-                "response_mime_type": "application/json",
-                "temperature": 0.2
-            }
-        )
+"""
 
-        return json.loads(response.text)
-        # =====================================================
+        last_error = None
+
+        for i, api_key in enumerate(self.api_keys):
+
+            try:
+
+                client = genai.Client(api_key=api_key)
+
+                response = client.models.generate_content(
+
+                    model=self.model,
+
+                    contents=prompt,
+
+                    config={
+                        "response_mime_type": "application/json",
+                        "temperature": 0.2
+                    }
+
+                )
+
+                print(f"✅ JSON Success using API Key {i+1}")
+
+                return json.loads(response.text)
+
+            except Exception as e:
+
+                print(f"❌ API Key {i+1} Failed")
+
+                last_error = e
+
+        raise last_error
+
+    # =====================================================
     # Chat Response
     # =====================================================
 
     def generate(self, prompt):
 
-        response = self.client.models.generate_content(
+        last_error = None
 
-            model=self.model,
+        for i, api_key in enumerate(self.api_keys):
 
-            contents=prompt,
+            try:
 
-            config={
+                client = genai.Client(api_key=api_key)
 
-                "temperature": 0.2
+                response = client.models.generate_content(
 
-            }
+                    model=self.model,
 
-        )
+                    contents=prompt,
 
-        return response.text
+                    config={
+                        "temperature": 0.2
+                    }
+
+                )
+
+                print(f"✅ Chat Success using API Key {i+1}")
+
+                return response.text
+
+            except Exception as e:
+
+                print(f"❌ API Key {i+1} Failed")
+
+                last_error = e
+
+        raise last_error
