@@ -1,0 +1,57 @@
+{
+    "module": "Transport",
+    "topic": "Assigning Transport to Students (Bulk Upload)",
+    "summary": "This topic describes how to assign transport details (vehicle route and pick-up point) to multiple students simultaneously using an Excel upload. This method is efficient for initial assignments or promoting students with similar transport arrangements.",
+    "navigation": [
+        "Settings Icon",
+        "Institute Setup",
+        "Transport",
+        "Transport Excel Upload"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Transport Excel Upload'.",
+        "Download the 'Sample Excel' file.",
+        "Prepare the Excel file with the following columns:",
+        "  'Reg Number' (unique student ID).",
+        "  'Vehicle Route' (the name of the route defined in the system).",
+        "  'Pick-up Point' (the name of the pick-up point defined for that route).",
+        "Choose the prepared Excel file from your system.",
+        "Click 'Submit' to upload and assign transport details to students."
+    ],
+    "business_rules": [
+        "Each student must have a unique 'Reg Number' for identification.",
+        "The 'Vehicle Route' and 'Pick-up Point' names in the Excel must exactly match those defined in the system.",
+        "Upon successful upload, the system automatically fetches and applies the corresponding transport fees to the student's demand."
+    ],
+    "important_notes": [
+        "This method is particularly useful for promoting students from a previous session, where transport details often remain similar. The previous session's transport report can be exported and adapted for the new session's bulk upload.",
+        "The 'Vehicle Number' is not required in the Excel, as it is implicitly linked to the 'Vehicle Route'."
+    ],
+    "questions": [
+        "How can I assign transport routes to many students at once?",
+        "What information is needed in the Excel file for bulk transport assignment?",
+        "Does the system automatically calculate transport fees after bulk assignment?",
+        "Can I use this feature to assign transport to promoted students?",
+        "Why is the vehicle number not required in the bulk upload Excel?"
+    ],
+    "keywords": [
+        "Transport assignment",
+        "Bulk upload",
+        "Student transport",
+        "Reg number",
+        "Vehicle route",
+        "Pick-up point",
+        "Excel upload",
+        "Student promotion"
+    ],
+    "related_topics": [
+        "Vehicle Route Management",
+        "Assigning Transport to Students (Manually)"
+    ],
+    "id": "transport_assigning_transport_to_students_bulk_upload",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,3460 @@
+1
+00:00:02,640 --> 00:00:04,519
+Is my screen visible?
+
+2
+00:00:07,150 --> 00:00:08,369
+Yes ma'am.
+
+3
+00:00:09,949 --> 00:00:10,570
+Okay fine.
+
+4
+00:00:11,349 --> 00:00:13,949
+So first of all, what we have to do is
+
+5
+00:00:13,949 --> 00:00:15,410
+the part of discussion today
+
+6
+00:00:15,410 --> 00:00:16,670
+will be transport setup
+
+7
+00:00:16,670 --> 00:00:18,489
+and the concession groups
+
+8
+00:00:18,489 --> 00:00:19,690
+which are created in the system.
+
+9
+00:00:20,410 --> 00:00:22,710
+This is your interface, login
+
+10
+00:00:22,710 --> 00:00:23,429
+system.
+
+11
+00:00:48,600 --> 00:00:50,500
+So first of all
+
+12
+00:00:50,500 --> 00:00:51,679
+whenever we have to do
+
+13
+00:00:51,679 --> 00:00:53,640
+transport setup, where is our
+
+14
+00:00:53,640 --> 00:00:55,079
+basic transport setup option?
+
+15
+00:00:56,020 --> 00:00:58,259
+Let's see, basic transport setup.
+
+16
+00:00:58,320 --> 00:01:00,659
+What do you have?
+
+17
+00:01:00,899 --> 00:01:01,579
+Here are the settings.
+
+18
+00:01:02,020 --> 00:01:03,920
+You must have noticed
+
+19
+00:01:03,920 --> 00:01:05,739
+that our basic setup is
+
+20
+00:01:05,739 --> 00:01:07,079
+in the settings icon.
+
+21
+00:01:09,060 --> 00:01:10,819
+They depend on which
+
+22
+00:01:10,819 --> 00:01:11,540
+section you are doing
+
+23
+00:01:11,540 --> 00:01:13,959
+and they will access that section and do the basic setup.
+
+24
+00:01:15,780 --> 00:01:18,359
+What we have to do today is the basic setup of transport.
+
+25
+00:01:18,540 --> 00:01:19,900
+What will be in the basic setup of transport?
+
+26
+00:01:20,400 --> 00:01:21,799
+For example, there is an institute.
+
+27
+00:01:22,959 --> 00:01:24,400
+Which buses are there in that institute?
+
+28
+00:01:25,480 --> 00:01:28,159
+Which pick up points are being considered in that bus?
+
+29
+00:01:28,180 --> 00:01:28,799
+Like there is a bus
+
+30
+00:01:28,799 --> 00:01:30,439
+which bus goes to which pick up points?
+
+31
+00:01:30,859 --> 00:01:32,420
+Where are the drop points of the student?
+
+32
+00:01:33,159 --> 00:01:34,459
+So that data
+
+33
+00:01:34,459 --> 00:01:35,859
+which we are managing
+
+34
+00:01:36,719 --> 00:01:38,439
+which pick up point is assigned to a student
+
+35
+00:01:38,439 --> 00:01:40,099
+which drop point is assigned to a student
+
+36
+00:01:40,099 --> 00:01:41,939
+which bus is assigned to a student.
+
+37
+00:01:42,079 --> 00:01:44,840
+To do that, we have to give a basic configuration
+
+38
+00:01:44,840 --> 00:01:45,400
+to the system.
+
+39
+00:01:46,180 --> 00:01:48,200
+Like this is the number of buses in the institute.
+
+40
+00:01:49,500 --> 00:01:50,400
+These are the points in each bus.
+
+41
+00:01:51,959 --> 00:01:53,519
+These are the charges in the bus
+
+42
+00:01:53,519 --> 00:01:55,159
+which we will set up basically.
+
+43
+00:01:56,120 --> 00:01:57,540
+The point is clear. What do we have to discuss?
+
+44
+00:01:59,790 --> 00:02:00,650
+Bhavya Tanvi.
+
+45
+00:02:01,859 --> 00:02:03,689
+Yes ma'am.
+
+46
+00:02:04,430 --> 00:02:05,370
+So how will we do it?
+
+47
+00:02:06,069 --> 00:02:06,909
+You have the option to set up the institute.
+
+48
+00:02:08,569 --> 00:02:09,969
+In this we have
+
+49
+00:02:09,969 --> 00:02:11,469
+an option of transport.
+
+50
+00:02:12,659 --> 00:02:14,620
+Whatever is the basic setup of transport
+
+51
+00:02:14,620 --> 00:02:16,479
+the first level setup of every session
+
+52
+00:02:16,479 --> 00:02:18,199
+we do it from here.
+
+53
+00:02:18,460 --> 00:02:19,259
+Remember one more thing.
+
+54
+00:02:20,259 --> 00:02:22,379
+The transport is
+
+55
+00:02:22,379 --> 00:02:23,360
+session dependent.
+
+56
+00:02:23,360 --> 00:02:24,500
+Session dependent means what?
+
+57
+00:02:24,819 --> 00:02:26,120
+Can anyone tell us?
+
+58
+00:02:30,389 --> 00:02:32,370
+Session dependent is the transport.
+
+59
+00:02:33,009 --> 00:02:33,870
+Session dependent.
+
+60
+00:02:35,469 --> 00:02:36,629
+Like session wise
+
+61
+00:02:36,629 --> 00:02:38,689
+like if we switch the session
+
+62
+00:02:40,289 --> 00:02:40,750
+then
+
+63
+00:02:41,210 --> 00:02:42,069
+means
+
+64
+00:02:42,069 --> 00:02:43,389
+the students' promote
+
+65
+00:02:43,389 --> 00:02:46,289
+whatever we have to set up
+
+66
+00:02:46,289 --> 00:02:47,590
+they are session dependent.
+
+67
+00:02:48,789 --> 00:02:49,250
+Ok.
+
+68
+00:02:49,810 --> 00:02:52,069
+Bhavya, do you know the meaning of session dependent?
+
+69
+00:02:53,460 --> 00:02:54,560
+Yes ma'am.
+
+70
+00:02:55,800 --> 00:02:57,060
+Session dependent means
+
+71
+00:02:57,060 --> 00:02:57,900
+very simple.
+
+72
+00:02:59,979 --> 00:03:01,240
+Like every session
+
+73
+00:03:01,240 --> 00:03:02,259
+the setup will be different.
+
+74
+00:03:03,439 --> 00:03:04,340
+So we will call it session dependent.
+
+75
+00:03:05,159 --> 00:03:05,939
+So you will go to transport.
+
+76
+00:03:06,500 --> 00:03:07,460
+Here you have the option.
+
+77
+00:03:07,800 --> 00:03:08,840
+First is vehicle.
+
+78
+00:03:09,319 --> 00:03:10,379
+Then there is vehicle route.
+
+79
+00:03:12,300 --> 00:03:14,259
+In that institute
+
+80
+00:03:14,259 --> 00:03:15,740
+the number of buses
+
+81
+00:03:16,280 --> 00:03:17,860
+the detail of each bus
+
+82
+00:03:17,860 --> 00:03:18,979
+is your vehicle.
+
+83
+00:03:20,469 --> 00:03:21,889
+You will click on it.
+
+84
+00:03:21,889 --> 00:03:21,949
+Ok.
+
+85
+00:03:24,620 --> 00:03:26,340
+Here you have the super option.
+
+86
+00:03:26,979 --> 00:03:27,599
+New vehicle.
+
+87
+00:03:27,979 --> 00:03:28,840
+I know I have this entity.
+
+88
+00:03:30,060 --> 00:03:31,599
+Bus 1, bus 2, bus 3
+
+89
+00:03:31,599 --> 00:03:32,740
+I have the details of their RC numbers.
+
+90
+00:03:34,659 --> 00:03:35,280
+So how to add a bus?
+
+91
+00:03:36,379 --> 00:03:37,840
+You will click on new vehicle.
+
+92
+00:03:38,699 --> 00:03:40,060
+Then you have a window open.
+
+93
+00:03:40,360 --> 00:03:40,939
+What is this for?
+
+94
+00:03:42,080 --> 00:03:43,379
+The entries of the bus
+
+95
+00:03:43,379 --> 00:03:44,020
+are the details.
+
+96
+00:03:44,659 --> 00:03:46,460
+You have to enter the details of the bus.
+
+97
+00:03:47,840 --> 00:03:49,319
+First comes RC number.
+
+98
+00:03:49,319 --> 00:03:51,120
+Like HR 0123
+
+99
+00:03:51,120 --> 00:03:51,860
+is the number.
+
+100
+00:03:52,840 --> 00:03:53,699
+You can enter that.
+
+101
+00:03:57,080 --> 00:03:58,159
+I am putting a simple one.
+
+102
+00:03:58,879 --> 00:03:59,699
+Then after that
+
+103
+00:03:59,699 --> 00:04:02,400
+how many seating capacity is there in this bus?
+
+104
+00:04:02,659 --> 00:04:03,960
+Like 50 seating capacity,
+
+105
+00:04:04,099 --> 00:04:05,860
+50 seats, 80 seats, 100 seats.
+
+106
+00:04:06,580 --> 00:04:07,500
+Total seats.
+
+107
+00:04:09,740 --> 00:04:11,699
+Then your tank capacity.
+
+108
+00:04:12,000 --> 00:04:12,719
+This is not mandatory.
+
+109
+00:04:13,020 --> 00:04:15,080
+Full tank capacity, GPS ID.
+
+110
+00:04:15,379 --> 00:04:16,279
+This is for GPS tracking.
+
+111
+00:04:16,699 --> 00:04:18,259
+We provide a facility
+
+112
+00:04:18,259 --> 00:04:18,319
+like this.
+
+113
+00:04:19,259 --> 00:04:21,839
+I am giving you a brief introduction.
+
+114
+00:04:22,360 --> 00:04:23,360
+What facility is that?
+
+115
+00:04:23,560 --> 00:04:24,160
+In which it is used.
+
+116
+00:04:25,120 --> 00:04:26,439
+We provide an option
+
+117
+00:04:26,439 --> 00:04:29,920
+like GPS track option.
+
+118
+00:04:30,660 --> 00:04:31,620
+Means student epic.
+
+119
+00:04:31,939 --> 00:04:32,720
+QR code kind of.
+
+120
+00:04:33,220 --> 00:04:34,139
+It will scan the child.
+
+121
+00:04:34,660 --> 00:04:36,120
+It will get the attendance of the child.
+
+122
+00:04:37,620 --> 00:04:39,699
+We provide an option of GPS tracker.
+
+123
+00:04:40,519 --> 00:04:41,300
+GPS is in the bus.
+
+124
+00:04:41,860 --> 00:04:43,079
+It puts the ID here.
+
+125
+00:04:43,079 --> 00:04:44,120
+It is not mandatory.
+
+126
+00:04:44,120 --> 00:04:45,120
+This is your mandatory field.
+
+127
+00:04:46,319 --> 00:04:48,819
+RC number, your seating capacity.
+
+128
+00:04:49,259 --> 00:04:50,360
+Then its insurance date,
+
+129
+00:04:50,839 --> 00:04:52,060
+amount of insurance company.
+
+130
+00:04:52,620 --> 00:04:54,540
+Rest is your non-mandatory
+
+131
+00:04:54,540 --> 00:04:55,120
+information.
+
+132
+00:04:55,939 --> 00:04:58,040
+The corresponding information
+
+133
+00:04:58,040 --> 00:04:58,300
+of the vehicle.
+
+134
+00:04:58,939 --> 00:04:59,920
+This is your information.
+
+135
+00:05:01,939 --> 00:05:03,259
+If you start adding this
+
+136
+00:05:03,259 --> 00:05:06,220
+it will give you the mandatory information.
+
+137
+00:05:06,639 --> 00:05:07,620
+Insurance date.
+
+138
+00:05:08,920 --> 00:05:11,220
+Like I am taking this for now.
+
+139
+00:05:14,870 --> 00:05:15,569
+For example
+
+140
+00:05:15,569 --> 00:05:16,089
+the insurance of this bus
+
+141
+00:05:16,089 --> 00:05:19,870
+is from 2 to 8.
+
+142
+00:05:19,889 --> 00:05:20,629
+Then the insurance date will come.
+
+143
+00:05:21,110 --> 00:05:23,269
+After that if you have a corresponding document
+
+144
+00:05:23,269 --> 00:05:24,889
+you can update it.
+
+145
+00:05:25,709 --> 00:05:27,189
+Same pollution certificate,
+
+146
+00:05:27,329 --> 00:05:29,310
+fitness certificate, road permit, road tax.
+
+147
+00:05:29,850 --> 00:05:30,810
+So we have a vehicle
+
+148
+00:05:30,810 --> 00:05:33,050
+corresponding mandatory information and documents.
+
+149
+00:05:33,509 --> 00:05:35,149
+We save that in the data.
+
+150
+00:05:36,490 --> 00:05:36,889
+Clear?
+
+151
+00:05:38,339 --> 00:05:39,480
+Now I am just adding
+
+152
+00:05:40,459 --> 00:05:41,560
+random data.
+
+153
+00:05:43,040 --> 00:05:44,399
+Here you will get the option
+
+154
+00:05:44,399 --> 00:05:46,259
+to add the vehicle.
+
+155
+00:05:46,879 --> 00:05:47,879
+In the same way you can
+
+156
+00:05:47,879 --> 00:05:50,100
+create N number of vehicles in the system.
+
+157
+00:05:52,720 --> 00:05:54,300
+You have added the vehicle
+
+158
+00:05:54,300 --> 00:05:56,060
+Still you have to update it.
+
+159
+00:05:56,379 --> 00:05:56,779
+You can do this.
+
+160
+00:05:57,259 --> 00:05:58,699
+You have to update
+
+161
+00:06:00,819 --> 00:06:02,240
+more information.
+
+162
+00:06:02,879 --> 00:06:05,319
+You have the option
+
+163
+00:06:05,319 --> 00:06:07,220
+to update the detail.
+
+164
+00:06:07,560 --> 00:06:09,199
+You can update the existing detail as well.
+
+165
+00:06:10,360 --> 00:06:12,139
+Then you have the option
+
+166
+00:06:12,139 --> 00:06:15,060
+to update the data.
+
+167
+00:06:16,009 --> 00:06:18,370
+Any doubts?
+
+168
+00:06:20,100 --> 00:06:21,220
+No ma'am.
+
+169
+00:06:21,680 --> 00:06:21,959
+Is it clear?
+
+170
+00:06:24,129 --> 00:06:25,110
+One minute.
+
+171
+00:07:12,600 --> 00:07:13,040
+Ok.
+
+172
+00:07:15,370 --> 00:07:16,470
+Let's continue.
+
+173
+00:07:17,310 --> 00:07:17,990
+Is this part clear?
+
+174
+00:07:20,800 --> 00:07:22,079
+Yes ma'am.
+
+175
+00:07:23,699 --> 00:07:24,639
+This is your vehicle
+
+176
+00:07:24,639 --> 00:07:26,680
+that you add.
+
+177
+00:07:26,680 --> 00:07:28,439
+You can add bus 1 and bus 2.
+
+178
+00:07:29,420 --> 00:07:30,300
+Now
+
+179
+00:07:30,300 --> 00:07:31,480
+what we have done is
+
+180
+00:07:31,480 --> 00:07:31,980
+we have added the data
+
+181
+00:07:31,980 --> 00:07:32,480
+of buses in the transport
+
+182
+00:07:33,360 --> 00:07:34,079
+institute.
+
+183
+00:07:37,180 --> 00:07:37,899
+Now in that bus
+
+184
+00:07:37,899 --> 00:07:39,759
+where the bus is going,
+
+185
+00:07:39,959 --> 00:07:41,040
+where it drops the students,
+
+186
+00:07:41,180 --> 00:07:42,079
+where it picks them,
+
+187
+00:07:43,060 --> 00:07:46,279
+all that is our vehicle route.
+
+188
+00:07:46,800 --> 00:07:47,360
+Do you understand the route?
+
+189
+00:07:47,939 --> 00:07:49,819
+The whole route of a bus
+
+190
+00:07:49,819 --> 00:07:52,879
+is defined in the system
+
+191
+00:07:54,300 --> 00:07:55,480
+in the vehicle route.
+
+192
+00:07:56,980 --> 00:07:57,399
+Ok.
+
+193
+00:07:57,399 --> 00:08:00,139
+How do we create this?
+
+194
+00:08:00,139 --> 00:08:00,939
+You have the option
+
+195
+00:08:00,939 --> 00:08:02,899
+of new vehicle route, copy from session
+
+196
+00:08:02,899 --> 00:08:03,620
+and then exit.
+
+197
+00:08:03,939 --> 00:08:05,399
+What option do we have?
+
+198
+00:08:05,519 --> 00:08:07,000
+It is possible that
+
+199
+00:08:07,000 --> 00:08:08,459
+there are many entities
+
+200
+00:08:08,459 --> 00:08:10,360
+that are running from the previous session.
+
+201
+00:08:11,819 --> 00:08:12,199
+Ok.
+
+202
+00:08:14,180 --> 00:08:15,019
+The previous session
+
+203
+00:08:15,800 --> 00:08:16,480
+means
+
+204
+00:08:16,480 --> 00:08:21,199
+that the previous session
+
+205
+00:08:21,199 --> 00:08:22,160
+has the same data.
+
+206
+00:08:22,620 --> 00:08:25,500
+It means that you have to copy
+
+207
+00:08:25,500 --> 00:08:25,540
+from the previous session.
+
+208
+00:08:25,779 --> 00:08:26,639
+So we can use this feature
+
+209
+00:08:26,639 --> 00:08:28,079
+which is the button
+
+210
+00:08:28,079 --> 00:08:29,360
+to copy from the previous session.
+
+211
+00:08:31,000 --> 00:08:31,959
+This will be used
+
+212
+00:08:31,959 --> 00:08:33,320
+because you will have a session list.
+
+213
+00:08:33,700 --> 00:08:35,919
+This entity has a single session.
+
+214
+00:08:36,340 --> 00:08:37,879
+If it had only 24-25 entities,
+
+215
+00:08:38,440 --> 00:08:39,279
+it would have come in the drop-down.
+
+216
+00:08:39,620 --> 00:08:40,639
+If I had selected that,
+
+217
+00:08:42,200 --> 00:08:44,679
+the set-up of the vehicle route
+
+218
+00:08:44,679 --> 00:08:45,960
+would have been copied from the previous session.
+
+219
+00:08:48,409 --> 00:08:51,580
+Do you understand the purpose of this?
+
+220
+00:08:51,679 --> 00:08:52,559
+Yes ma'am.
+
+221
+00:08:52,559 --> 00:08:53,620
+We have also done the BAP module
+
+222
+00:08:54,299 --> 00:08:55,519
+in the basic set-up,
+
+223
+00:08:55,799 --> 00:08:57,399
+copy from the previous session.
+
+224
+00:08:57,980 --> 00:08:59,500
+Yes, so you can copy from the previous session
+
+225
+00:08:59,500 --> 00:09:01,919
+if you have any previous
+
+226
+00:09:01,919 --> 00:09:02,960
+already existing entity.
+
+227
+00:09:04,360 --> 00:09:06,679
+Now I have a new entity
+
+228
+00:09:06,679 --> 00:09:08,500
+in which I have to add the vehicle route.
+
+229
+00:09:09,539 --> 00:09:10,399
+What is this Excel?
+
+230
+00:09:10,879 --> 00:09:11,960
+The data that you have here
+
+231
+00:09:11,960 --> 00:09:13,539
+is to export that data in Excel.
+
+232
+00:09:15,340 --> 00:09:17,159
+We will add a new vehicle route.
+
+233
+00:09:17,740 --> 00:09:19,000
+You have the option
+
+234
+00:09:19,000 --> 00:09:19,519
+to add it.
+
+235
+00:09:19,519 --> 00:09:21,259
+Now you have to add the name of the route.
+
+236
+00:09:22,519 --> 00:09:23,879
+For example,
+
+237
+00:09:24,200 --> 00:09:25,139
+I have added route 1.
+
+238
+00:09:26,840 --> 00:09:27,980
+Which vehicle is running on the first route?
+
+239
+00:09:29,340 --> 00:09:30,539
+The whole list will come here.
+
+240
+00:09:31,500 --> 00:09:33,340
+The data that I will give you
+
+241
+00:09:33,899 --> 00:09:36,360
+if you create N number of vehicles,
+
+242
+00:09:37,279 --> 00:09:38,700
+the whole list will come here.
+
+243
+00:09:39,139 --> 00:09:40,960
+You can set the route according to yourself.
+
+244
+00:09:41,519 --> 00:09:43,059
+Like the bus that runs on route 1,
+
+245
+00:09:43,179 --> 00:09:44,039
+which bus runs,
+
+246
+00:09:44,120 --> 00:09:45,299
+I have selected that vehicle.
+
+247
+00:09:46,899 --> 00:09:47,299
+Then,
+
+248
+00:09:47,299 --> 00:09:48,480
+you have to understand
+
+249
+00:09:48,480 --> 00:09:49,879
+what this means.
+
+250
+00:09:50,759 --> 00:09:51,820
+In the case of school,
+
+251
+00:09:52,500 --> 00:09:53,539
+installments are made
+
+252
+00:09:55,279 --> 00:09:57,309
+in case it is monthly.
+
+253
+00:09:57,590 --> 00:09:58,830
+You must have seen it in your fee structure.
+
+254
+00:10:00,409 --> 00:10:01,830
+In case it is not monthly,
+
+255
+00:10:02,470 --> 00:10:03,769
+it is bi-monthly.
+
+256
+00:10:04,809 --> 00:10:05,370
+For example,
+
+257
+00:10:05,370 --> 00:10:06,009
+there is one for 6 months.
+
+258
+00:10:06,429 --> 00:10:07,370
+It will be from April to June.
+
+259
+00:10:09,230 --> 00:10:12,169
+It will be for 6 months.
+
+260
+00:10:12,549 --> 00:10:14,070
+So all the installments are made.
+
+261
+00:10:14,070 --> 00:10:14,870
+We also have installments.
+
+262
+00:10:15,149 --> 00:10:15,490
+So,
+
+263
+00:10:15,490 --> 00:10:16,070
+we have installments.
+
+264
+00:10:17,840 --> 00:10:20,279
+You can add pick-up points.
+
+265
+00:10:21,299 --> 00:10:21,620
+For example,
+
+266
+00:10:21,620 --> 00:10:24,500
+the bus that runs on route 1
+
+267
+00:10:24,500 --> 00:10:26,860
+is going to Ansal,
+
+268
+00:10:27,399 --> 00:10:27,860
+is going to Taiseel,
+
+269
+00:10:28,019 --> 00:10:29,039
+these are the pick-up points.
+
+270
+00:10:30,240 --> 00:10:32,399
+For example, this is Ansal's pick-up point.
+
+271
+00:10:32,860 --> 00:10:34,220
+There are different pick-up points.
+
+272
+00:10:34,919 --> 00:10:37,139
+But our fees are
+
+273
+00:10:37,139 --> 00:10:37,559
+made in this way.
+
+274
+00:10:38,120 --> 00:10:39,399
+In all the installments made,
+
+275
+00:10:39,399 --> 00:10:40,879
+So in this case, it will not be charged in this installment.
+
+276
+00:10:43,299 --> 00:10:45,799
+You may know the criteria in the case of school.
+
+277
+00:10:45,940 --> 00:10:48,240
+In the case of school, we do not take the fees for the transport in the month of June,
+
+278
+00:10:48,899 --> 00:10:50,340
+nor do we assign the children in demand.
+
+279
+00:10:52,409 --> 00:10:54,289
+The fees for the transport in the month of June are not there.
+
+280
+00:10:54,850 --> 00:10:55,909
+So what will happen here?
+
+281
+00:10:56,169 --> 00:10:58,029
+All the installments will come by April to March.
+
+282
+00:10:59,139 --> 00:11:02,580
+So in that case, you will select the installments here.
+
+283
+00:11:03,120 --> 00:11:04,519
+And what is he doing?
+
+284
+00:11:04,919 --> 00:11:07,460
+After selecting that, he is defining in the setup
+
+285
+00:11:07,460 --> 00:11:10,200
+that whatever fees we will pay here,
+
+286
+00:11:10,399 --> 00:11:12,700
+the fees will not be charged in this selected installment.
+
+287
+00:11:15,840 --> 00:11:16,159
+Do you understand?
+
+288
+00:11:16,580 --> 00:11:17,799
+What is the purpose of this?
+
+289
+00:11:17,879 --> 00:11:19,159
+Select skip installment.
+
+290
+00:11:19,320 --> 00:11:25,159
+We have to skip the transport amount for the selected particular installment.
+
+291
+00:11:26,320 --> 00:11:28,960
+Ma'am, we can select multiple months at a time.
+
+292
+00:11:29,879 --> 00:11:30,519
+Exactly.
+
+293
+00:11:30,659 --> 00:11:31,919
+We can select for the first or second installment.
+
+294
+00:11:33,259 --> 00:11:36,000
+But this means that he will skip.
+
+295
+00:11:36,000 --> 00:11:39,740
+Selecting means that he will not pay the fees for that particular installment.
+
+296
+00:11:43,220 --> 00:11:43,340
+Okay.
+
+297
+00:11:43,679 --> 00:11:46,000
+We do this in the case of school, most probably.
+
+298
+00:11:46,559 --> 00:11:47,419
+If we select the month of June,
+
+299
+00:11:48,279 --> 00:11:51,580
+then when we assign a particular pick-up point to the student,
+
+300
+00:11:51,720 --> 00:11:54,480
+then in that case, the fees will not be charged from April to March.
+
+301
+00:11:56,039 --> 00:11:58,019
+Because we have selected the month of June.
+
+302
+00:12:00,009 --> 00:12:01,029
+This is the main agenda.
+
+303
+00:12:02,049 --> 00:12:04,120
+Then we have the select employee.
+
+304
+00:12:04,120 --> 00:12:08,059
+Now, you can also assign the driver of this bus.
+
+305
+00:12:10,259 --> 00:12:11,080
+You can assign more than one.
+
+306
+00:12:12,639 --> 00:12:13,980
+Now, where does this data come from?
+
+307
+00:12:14,200 --> 00:12:14,940
+It comes from the employee.
+
+308
+00:12:15,779 --> 00:12:19,580
+In our setup, you have not seen the basic employee of HRM.
+
+309
+00:12:20,279 --> 00:12:22,659
+Have you seen how the employees are added?
+
+310
+00:12:23,259 --> 00:12:23,840
+No, ma'am.
+
+311
+00:12:24,279 --> 00:12:24,480
+Okay.
+
+312
+00:12:28,350 --> 00:12:29,809
+Basic employees are added.
+
+313
+00:12:30,169 --> 00:12:31,210
+All the employees of the institute,
+
+314
+00:12:31,210 --> 00:12:34,169
+either teaching, non-teaching, driver, daily wages,
+
+315
+00:12:34,649 --> 00:12:35,789
+we also save their data.
+
+316
+00:12:36,169 --> 00:12:36,529
+Then the employee comes.
+
+317
+00:12:37,509 --> 00:12:40,789
+This means that the driver of the bus's list comes.
+
+318
+00:12:41,029 --> 00:12:42,450
+The list is created in your system.
+
+319
+00:12:44,149 --> 00:12:44,730
+Is it clear?
+
+320
+00:12:46,590 --> 00:12:47,590
+Yes, ma'am.
+
+321
+00:12:48,129 --> 00:12:50,230
+Then we have the pick-up point.
+
+322
+00:12:50,250 --> 00:12:51,389
+Like I have this bus.
+
+323
+00:12:52,610 --> 00:12:54,649
+Where does this bus go?
+
+324
+00:12:54,710 --> 00:12:55,570
+On the side of the institute,
+
+325
+00:12:56,129 --> 00:12:57,309
+we have complete data in an Excel format.
+
+326
+00:12:57,309 --> 00:12:57,990
+They have complete data.
+
+327
+00:12:58,909 --> 00:13:01,769
+It will be written in Route 1.
+
+328
+00:13:01,909 --> 00:13:02,490
+This vehicle goes.
+
+329
+00:13:03,830 --> 00:13:05,750
+Which pick-up points are there?
+
+330
+00:13:05,870 --> 00:13:06,289
+Ansel.
+
+331
+00:13:07,149 --> 00:13:09,909
+What is the pick-up time of Ansel?
+
+332
+00:13:09,909 --> 00:13:10,610
+What is the drop time?
+
+333
+00:13:11,990 --> 00:13:14,710
+What time does this bus reach Ansel?
+
+334
+00:13:15,009 --> 00:13:17,330
+At what time does it drop the students at Ansel?
+
+335
+00:13:18,350 --> 00:13:19,230
+That is the timing.
+
+336
+00:13:19,470 --> 00:13:20,710
+For example,
+
+337
+00:13:21,190 --> 00:13:23,490
+I put the time of 6 a.m.
+
+338
+00:13:24,259 --> 00:13:25,600
+What is the drop point?
+
+339
+00:13:25,600 --> 00:13:27,399
+It is 4 p.m.
+
+340
+00:13:28,549 --> 00:13:30,909
+This is the pick-up time and drop point.
+
+341
+00:13:31,029 --> 00:13:31,490
+It will be the drop time.
+
+342
+00:13:32,549 --> 00:13:34,090
+Then you have the amount.
+
+343
+00:13:34,309 --> 00:13:35,769
+The longitude and latitude are not mandatory.
+
+344
+00:13:36,110 --> 00:13:37,230
+In which case does it work?
+
+345
+00:13:37,789 --> 00:13:39,570
+GPS tracking system works.
+
+346
+00:13:41,590 --> 00:13:43,909
+We put the longitude and latitude of the bus.
+
+347
+00:13:44,129 --> 00:13:44,809
+It is of Google Maps.
+
+348
+00:13:45,090 --> 00:13:46,129
+There is no use case now.
+
+349
+00:13:46,409 --> 00:13:47,669
+You will know gradually.
+
+350
+00:13:48,450 --> 00:13:50,210
+Then we put the amount.
+
+351
+00:13:50,970 --> 00:13:51,929
+What is the amount of Ansel's route?
+
+352
+00:13:52,909 --> 00:13:54,450
+For example, 2000.
+
+353
+00:13:54,519 --> 00:13:56,440
+So, this is 2000.
+
+354
+00:13:57,059 --> 00:13:57,659
+Similarly,
+
+355
+00:13:57,919 --> 00:13:59,000
+add another pick-up point.
+
+356
+00:13:59,059 --> 00:14:01,480
+Similarly, you can add a number of pick-up points.
+
+357
+00:14:02,120 --> 00:14:03,440
+Now, we will add one.
+
+358
+00:14:03,860 --> 00:14:04,860
+As soon as you add,
+
+359
+00:14:04,860 --> 00:14:06,679
+it will be created in the system.
+
+360
+00:14:09,149 --> 00:14:10,389
+This was the option
+
+361
+00:14:10,389 --> 00:14:12,210
+to add the pick-up route manually.
+
+362
+00:14:14,730 --> 00:14:15,450
+In the pick-up route,
+
+363
+00:14:15,750 --> 00:14:16,629
+there are pick-up points.
+
+364
+00:14:17,629 --> 00:14:19,450
+If you add more than one,
+
+365
+00:14:19,809 --> 00:14:20,710
+it will be more than one.
+
+366
+00:14:21,500 --> 00:14:22,539
+Let's move ahead.
+
+367
+00:14:22,539 --> 00:14:23,639
+In this case, there are more options.
+
+368
+00:14:24,639 --> 00:14:25,740
+Yes, ma'am.
+
+369
+00:14:27,039 --> 00:14:27,899
+You have added it once.
+
+370
+00:14:28,340 --> 00:14:29,360
+It can happen later.
+
+371
+00:14:29,639 --> 00:14:30,899
+You have to add more pick-up points.
+
+372
+00:14:31,720 --> 00:14:33,940
+In that case, the same option is added.
+
+373
+00:14:34,740 --> 00:14:36,419
+You will edit. The interface will open.
+
+374
+00:14:36,700 --> 00:14:37,879
+You will add another according to you.
+
+375
+00:14:38,200 --> 00:14:39,700
+You will update. It will be updated.
+
+376
+00:14:42,070 --> 00:14:42,690
+What does it mean?
+
+377
+00:14:42,690 --> 00:14:44,509
+You can add multiple points.
+
+378
+00:14:45,389 --> 00:14:46,269
+Yes, exactly.
+
+379
+00:14:46,470 --> 00:14:48,110
+You can add a number of points here.
+
+380
+00:14:49,230 --> 00:14:49,809
+Okay.
+
+381
+00:14:49,809 --> 00:14:51,690
+One is done. Then you will click add.
+
+382
+00:14:52,269 --> 00:14:53,190
+Then you will add another.
+
+383
+00:14:53,629 --> 00:14:53,750
+Okay.
+
+384
+00:14:55,610 --> 00:14:57,149
+This was our option to add manually.
+
+385
+00:14:58,210 --> 00:14:59,590
+You can manually add buttons
+
+386
+00:14:59,590 --> 00:15:00,450
+in the system.
+
+387
+00:15:01,649 --> 00:15:03,490
+Then there is an option to update in bulk
+
+388
+00:15:03,490 --> 00:15:04,590
+via Excel.
+
+389
+00:15:06,009 --> 00:15:07,110
+This will be our option
+
+390
+00:15:07,110 --> 00:15:08,730
+to upload pick-up point.
+
+391
+00:15:09,070 --> 00:15:10,049
+This will be our sample Excel.
+
+392
+00:15:10,389 --> 00:15:13,049
+This is only because we have added
+
+393
+00:15:13,049 --> 00:15:14,190
+one pick-up point in it.
+
+394
+00:15:15,190 --> 00:15:17,490
+You will have to create a route
+
+395
+00:15:18,750 --> 00:15:19,590
+We create a kind of roadmap.
+
+396
+00:15:20,789 --> 00:15:22,570
+We can add all the points in it.
+
+397
+00:15:25,889 --> 00:15:26,809
+It has sample Excel.
+
+398
+00:15:27,549 --> 00:15:28,570
+I will show it to you.
+
+399
+00:15:29,629 --> 00:15:30,549
+Remember one more thing.
+
+400
+00:15:31,190 --> 00:15:33,470
+We don't have in-time
+
+401
+00:15:33,470 --> 00:15:34,470
+and out-time mandatory with sample Excel.
+
+402
+00:15:34,590 --> 00:15:35,889
+It means pick-up time,
+
+403
+00:15:36,049 --> 00:15:38,889
+pick-up time and out-drop time.
+
+404
+00:15:38,970 --> 00:15:39,929
+This is non-mandatory.
+
+405
+00:15:40,769 --> 00:15:42,190
+But if we add it manually,
+
+406
+00:15:42,450 --> 00:15:43,190
+it will take time.
+
+407
+00:15:43,950 --> 00:15:44,990
+It is not mandatory with Excel.
+
+408
+00:15:44,990 --> 00:15:47,330
+Pick-up point name,
+
+409
+00:15:47,990 --> 00:15:49,269
+amount, time.
+
+410
+00:15:49,629 --> 00:15:50,990
+Whatever you are adding manually,
+
+411
+00:15:51,169 --> 00:15:52,450
+you can add it in Excel format.
+
+412
+00:15:53,370 --> 00:15:54,889
+As it is, once you upload Excel,
+
+413
+00:15:55,090 --> 00:15:55,809
+it will be done.
+
+414
+00:15:56,809 --> 00:15:58,990
+Excel format is very simple.
+
+415
+00:15:59,509 --> 00:16:01,529
+Pick-up point, amount, pick-up time
+
+416
+00:16:01,529 --> 00:16:02,370
+and drop latitude.
+
+417
+00:16:02,870 --> 00:16:05,450
+If you have any doubts, tell us in Excel.
+
+418
+00:16:07,399 --> 00:16:08,740
+No, ma'am.
+
+419
+00:16:09,340 --> 00:16:09,500
+Okay.
+
+420
+00:16:10,500 --> 00:16:12,179
+This will be uploaded from Excel.
+
+421
+00:16:13,240 --> 00:16:14,700
+You will choose the file
+
+422
+00:16:14,700 --> 00:16:14,799
+which you will save.
+
+423
+00:16:14,799 --> 00:16:16,860
+Do you understand Excel?
+
+424
+00:16:18,259 --> 00:16:19,200
+You have added data in Excel.
+
+425
+00:16:20,179 --> 00:16:21,059
+You can update it.
+
+426
+00:16:21,679 --> 00:16:23,220
+You have saved it in your system.
+
+427
+00:16:23,740 --> 00:16:24,639
+After saving it,
+
+428
+00:16:24,940 --> 00:16:27,039
+you will choose the file
+
+429
+00:16:27,039 --> 00:16:28,379
+which is saved in your system.
+
+430
+00:16:29,320 --> 00:16:30,379
+It will access it.
+
+431
+00:16:31,480 --> 00:16:32,860
+Then you will click on submit
+
+432
+00:16:32,860 --> 00:16:34,379
+and it will update the data.
+
+433
+00:16:35,179 --> 00:16:36,799
+If it doesn't update,
+
+434
+00:16:36,799 --> 00:16:39,080
+it will generate an error file
+
+435
+00:16:39,080 --> 00:16:39,700
+and give it to you.
+
+436
+00:16:39,700 --> 00:16:40,100
+It will give you an error.
+
+437
+00:16:40,879 --> 00:16:41,759
+What can be an error?
+
+438
+00:16:42,799 --> 00:16:43,580
+You have not added metadata.
+
+439
+00:16:44,539 --> 00:16:45,419
+You have left the amount blank
+
+440
+00:16:45,419 --> 00:16:46,620
+or you have not added a name.
+
+441
+00:16:47,139 --> 00:16:50,019
+In that case, it will give you an error.
+
+442
+00:16:53,259 --> 00:16:53,740
+Is it clear?
+
+443
+00:16:55,559 --> 00:16:56,600
+Yes, ma'am.
+
+444
+00:16:57,980 --> 00:17:02,120
+You can export your existing data
+
+445
+00:17:04,710 --> 00:17:06,730
+This is our basic transport setup.
+
+446
+00:17:07,069 --> 00:17:08,690
+If you have any doubts, tell us.
+
+447
+00:17:09,230 --> 00:17:09,829
+Let's move ahead.
+
+448
+00:17:13,150 --> 00:17:13,910
+Not yet.
+
+449
+00:17:14,710 --> 00:17:15,509
+Then,
+
+450
+00:17:16,109 --> 00:17:17,470
+the third option is
+
+451
+00:17:17,470 --> 00:17:19,109
+Transport Excel Upload.
+
+452
+00:17:19,109 --> 00:17:19,970
+What does this option mean?
+
+453
+00:17:20,650 --> 00:17:22,009
+We have defined the configuration
+
+454
+00:17:22,009 --> 00:17:24,230
+and the number of buses.
+
+455
+00:17:25,190 --> 00:17:27,329
+We have defined the bus road map.
+
+456
+00:17:28,190 --> 00:17:29,509
+Which student
+
+457
+00:17:29,509 --> 00:17:30,349
+has to go in which bus?
+
+458
+00:17:31,170 --> 00:17:32,869
+Which student goes through which pick-up point?
+
+459
+00:17:33,529 --> 00:17:35,109
+We have defined that.
+
+460
+00:17:35,529 --> 00:17:37,470
+For that, we have the same two options.
+
+461
+00:17:37,730 --> 00:17:40,269
+You can assign a bus to a student
+
+462
+00:17:40,269 --> 00:17:42,190
+or you can also assign
+
+463
+00:17:42,190 --> 00:17:43,289
+data from Excel
+
+464
+00:17:43,289 --> 00:17:45,609
+to all the students at once.
+
+465
+00:17:48,190 --> 00:17:49,390
+When we have to assign data
+
+466
+00:17:49,390 --> 00:17:51,589
+from Excel to the students,
+
+467
+00:17:52,910 --> 00:17:55,109
+we have this option
+
+468
+00:17:55,109 --> 00:17:57,670
+Transport Excel Upload.
+
+469
+00:18:01,650 --> 00:18:02,609
+Is the meaning clear?
+
+470
+00:18:03,130 --> 00:18:03,730
+Why is it being used?
+
+471
+00:18:05,700 --> 00:18:06,500
+Repeat it once.
+
+472
+00:18:08,180 --> 00:18:09,400
+What have we done in the system?
+
+473
+00:18:10,019 --> 00:18:10,740
+We have defined the buses
+
+474
+00:18:10,740 --> 00:18:10,839
+and the number of buses.
+
+475
+00:18:11,039 --> 00:18:14,880
+We have defined the pick-up point
+
+476
+00:18:14,880 --> 00:18:16,019
+and the drop point.
+
+477
+00:18:17,259 --> 00:18:18,500
+We have not set a student
+
+478
+00:18:18,500 --> 00:18:20,900
+which pick-up point
+
+479
+00:18:20,900 --> 00:18:22,259
+and which bus he goes through.
+
+480
+00:18:22,960 --> 00:18:23,420
+We have not set that.
+
+481
+00:18:25,490 --> 00:18:28,009
+When we have to assign data
+
+482
+00:18:28,009 --> 00:18:29,490
+from Excel, we have this option
+
+483
+00:18:29,490 --> 00:18:31,809
+Transport Excel Upload.
+
+484
+00:18:32,400 --> 00:18:34,019
+It means that the student details
+
+485
+00:18:34,019 --> 00:18:34,359
+are there.
+
+486
+00:18:35,059 --> 00:18:36,640
+The student's routes are assigned.
+
+487
+00:18:37,539 --> 00:18:38,240
+Exactly.
+
+488
+00:18:38,240 --> 00:18:39,079
+The student is assigned.
+
+489
+00:18:39,599 --> 00:18:40,460
+This is also your sample.
+
+490
+00:18:41,200 --> 00:18:42,259
+I will show you.
+
+491
+00:18:44,240 --> 00:18:44,960
+This is our sample.
+
+492
+00:18:46,759 --> 00:18:48,799
+It will be visible.
+
+493
+00:18:50,799 --> 00:18:52,559
+Yes, ma'am.
+
+494
+00:18:52,900 --> 00:18:54,380
+You must have noticed
+
+495
+00:18:54,380 --> 00:18:56,559
+something in ERP.
+
+496
+00:18:56,720 --> 00:18:59,759
+The student who consists in ERP
+
+497
+00:19:00,049 --> 00:19:01,299
+has a unique ID.
+
+498
+00:19:01,960 --> 00:19:03,259
+That is reg number
+
+499
+00:19:03,259 --> 00:19:04,559
+or admission number.
+
+500
+00:19:05,119 --> 00:19:07,180
+It depends on the word used in the institute.
+
+501
+00:19:08,140 --> 00:19:10,140
+Reg number is a unique ID
+
+502
+00:19:10,140 --> 00:19:10,859
+of the student.
+
+503
+00:19:11,930 --> 00:19:13,349
+We update all the data
+
+504
+00:19:13,349 --> 00:19:13,769
+corresponding to it.
+
+505
+00:19:14,509 --> 00:19:15,430
+Either it is the transport,
+
+506
+00:19:15,710 --> 00:19:17,769
+or the student's fee demand
+
+507
+00:19:17,769 --> 00:19:19,789
+or any existing details.
+
+508
+00:19:20,289 --> 00:19:20,990
+We update the student details.
+
+509
+00:19:22,730 --> 00:19:24,490
+We update the reg number corresponding to it.
+
+510
+00:19:25,109 --> 00:19:25,930
+We do the same here.
+
+511
+00:19:26,549 --> 00:19:27,509
+The reg number of the student
+
+512
+00:19:27,509 --> 00:19:30,230
+will be the reg number.
+
+513
+00:19:31,069 --> 00:19:33,269
+Then the wickle route and pick-up point.
+
+514
+00:19:33,269 --> 00:19:33,950
+What is the wickle route?
+
+515
+00:19:33,950 --> 00:19:37,430
+Here we make the wickle route.
+
+516
+00:19:37,890 --> 00:19:38,910
+This is the wickle route.
+
+517
+00:19:40,829 --> 00:19:40,970
+This is the wickle route.
+
+518
+00:19:41,089 --> 00:19:42,440
+This is the name.
+
+519
+00:19:42,880 --> 00:19:44,039
+This is the wickle route.
+
+520
+00:19:44,279 --> 00:19:45,400
+Then the pick-up point.
+
+521
+00:19:45,400 --> 00:19:45,980
+What is the pick-up point?
+
+522
+00:19:47,980 --> 00:19:49,180
+Like Ansel.
+
+523
+00:19:49,619 --> 00:19:50,140
+I have made another one.
+
+524
+00:19:52,200 --> 00:19:53,720
+Like Faisal camp.
+
+525
+00:19:54,599 --> 00:19:56,339
+The pick-up points are different.
+
+526
+00:19:56,740 --> 00:19:58,240
+Which pick-up point is it coming from?
+
+527
+00:19:58,519 --> 00:19:59,640
+Like it is coming from route 1.
+
+528
+00:20:00,160 --> 00:20:01,579
+What will I keep in Excel?
+
+529
+00:20:01,579 --> 00:20:02,460
+I will keep route 1.
+
+530
+00:20:02,819 --> 00:20:05,039
+The student's reg number will be the student's.
+
+531
+00:20:05,039 --> 00:20:07,180
+Then the wickle route, that is route 1.
+
+532
+00:20:07,480 --> 00:20:08,400
+Then the pick-up point.
+
+533
+00:20:08,420 --> 00:20:08,980
+What is the pick-up point?
+
+534
+00:20:09,420 --> 00:20:10,099
+Like Ansel.
+
+535
+00:20:10,980 --> 00:20:12,839
+If there is another student's pick-up point,
+
+536
+00:20:13,019 --> 00:20:13,960
+then I will keep another one.
+
+537
+00:20:14,839 --> 00:20:15,900
+If there is another route,
+
+538
+00:20:16,059 --> 00:20:16,980
+then I will keep that route.
+
+539
+00:20:20,160 --> 00:20:20,579
+Do you understand?
+
+540
+00:20:21,180 --> 00:20:21,880
+This is the point.
+
+541
+00:20:22,299 --> 00:20:23,779
+We will just re-assign.
+
+542
+00:20:24,220 --> 00:20:25,059
+Then automatically,
+
+543
+00:20:25,059 --> 00:20:26,799
+in the interface of the student,
+
+544
+00:20:27,220 --> 00:20:28,680
+the corresponding fees
+
+545
+00:20:28,680 --> 00:20:29,819
+that we have created here,
+
+546
+00:20:29,920 --> 00:20:30,819
+will be given to him.
+
+547
+00:20:32,859 --> 00:20:34,519
+Is there no need for wickle number in Excel?
+
+548
+00:20:35,839 --> 00:20:36,180
+No.
+
+549
+00:20:36,180 --> 00:20:36,819
+Why is there no need for wickle number?
+
+550
+00:20:37,960 --> 00:20:40,619
+Because we are defining wickle number in Excel.
+
+551
+00:20:40,660 --> 00:20:41,980
+In Excel, the route
+
+552
+00:20:41,980 --> 00:20:44,480
+and its corresponding pick-up point
+
+553
+00:20:44,480 --> 00:20:46,039
+will be given to you.
+
+554
+00:20:50,170 --> 00:20:51,410
+In that case,
+
+555
+00:20:51,609 --> 00:20:52,210
+you will get this.
+
+556
+00:20:52,230 --> 00:20:54,329
+The purpose of this point is simple.
+
+557
+00:20:54,329 --> 00:20:55,869
+The purpose of this point is simple.
+
+558
+00:20:55,869 --> 00:20:58,670
+You are assigning the transport data
+
+559
+00:20:58,670 --> 00:21:00,269
+of the students via Excel.
+
+560
+00:21:03,380 --> 00:21:04,440
+Okay, ma'am.
+
+561
+00:21:13,150 --> 00:21:13,369
+Okay.
+
+562
+00:21:14,009 --> 00:21:16,309
+Then we will discuss one thing.
+
+563
+00:21:16,390 --> 00:21:18,230
+This was our basic transport setup.
+
+564
+00:21:18,670 --> 00:21:20,430
+We will discuss one more thing today.
+
+565
+00:21:20,450 --> 00:21:21,609
+That is concession books.
+
+566
+00:21:22,829 --> 00:21:24,569
+You must have seen the basic fee setup
+
+567
+00:21:25,390 --> 00:21:28,069
+How is the fee heads, term look,
+
+568
+00:21:28,869 --> 00:21:29,609
+fee group, etc.
+
+569
+00:21:29,609 --> 00:21:32,329
+It must have been okay from fee heads to fee group.
+
+570
+00:21:32,329 --> 00:21:34,529
+Okay, ma'am.
+
+571
+00:21:35,309 --> 00:21:36,029
+Okay, ma'am.
+
+572
+00:21:36,509 --> 00:21:36,690
+Okay.
+
+573
+00:21:37,269 --> 00:21:39,049
+Now we will discuss a point.
+
+574
+00:21:39,630 --> 00:21:40,650
+That is concessions.
+
+575
+00:21:41,549 --> 00:21:43,789
+We have an entity, an institute.
+
+576
+00:21:44,730 --> 00:21:46,509
+There are several concessions in the institute
+
+577
+00:21:47,029 --> 00:21:48,309
+like sibling concessions.
+
+578
+00:21:50,369 --> 00:21:51,210
+Other than that,
+
+579
+00:21:51,210 --> 00:21:52,369
+there is staff word concession.
+
+580
+00:21:52,809 --> 00:21:55,210
+If a student is the child of a teacher,
+
+581
+00:21:55,650 --> 00:21:56,910
+they also have a staff word concession.
+
+582
+00:21:58,210 --> 00:22:00,170
+There is third child concession also.
+
+583
+00:22:00,309 --> 00:22:01,450
+Like if there are 3 siblings,
+
+584
+00:22:35,029 --> 00:22:36,529
+Yes, ma'am.
+
+585
+00:22:37,509 --> 00:22:39,329
+Now, how to add a new concession in the system?
+
+586
+00:22:40,289 --> 00:22:42,369
+You have an option, new concession group.
+
+587
+00:22:42,789 --> 00:22:43,750
+Now, see how this comes.
+
+588
+00:22:44,210 --> 00:22:46,109
+Whatever fee you have defined in the system,
+
+589
+00:22:47,009 --> 00:22:48,529
+and the corresponding installments,
+
+590
+00:22:49,130 --> 00:22:51,410
+because the entire fee structure is going according to the installment.
+
+591
+00:22:52,390 --> 00:22:54,309
+So the concession won't go according to the installment.
+
+592
+00:22:54,950 --> 00:22:57,609
+Like, if your fee is tuition fee, tuition fee is four installments,
+
+593
+00:22:57,990 --> 00:22:59,089
+then the concession will also be tuition fee.
+
+594
+00:22:59,089 --> 00:22:59,890
+It will go to four installments.
+
+595
+00:23:02,759 --> 00:23:03,039
+Right?
+
+596
+00:23:04,440 --> 00:23:05,240
+Yes, ma'am.
+
+597
+00:23:05,240 --> 00:23:06,920
+So now we have to make concessions.
+
+598
+00:23:07,359 --> 00:23:09,440
+For example, the concession that I am making,
+
+599
+00:23:09,519 --> 00:23:11,319
+I am making a staff card concession.
+
+600
+00:23:13,059 --> 00:23:16,480
+Here you will define the name of the concession that you are creating.
+
+601
+00:23:17,259 --> 00:23:20,599
+Then, which fee head is the concession that is being created?
+
+602
+00:23:21,019 --> 00:23:23,319
+There is an option, all of our fee heads are being created.
+
+603
+00:23:24,200 --> 00:23:25,420
+It is being created on one fee head.
+
+604
+00:23:26,160 --> 00:23:27,680
+You will select according to yourself.
+
+605
+00:23:27,880 --> 00:23:29,279
+For example, the concession of the staff card,
+
+606
+00:23:30,180 --> 00:23:31,880
+their annual fees are being created on that.
+
+607
+00:23:31,880 --> 00:23:34,319
+And they have said that they have a 50% concession.
+
+608
+00:23:34,920 --> 00:23:38,599
+Like, complete fees per 50%.
+
+609
+00:23:39,220 --> 00:23:41,640
+So, there are two options, percentage or flat.
+
+610
+00:23:42,079 --> 00:23:43,720
+I have talked about 50%.
+
+611
+00:23:43,720 --> 00:23:44,640
+So, I will use the percentage.
+
+612
+00:23:45,200 --> 00:23:47,220
+And here I will list the value of the percentage.
+
+613
+00:23:49,279 --> 00:23:51,819
+Like, in all installments, it is 50%.
+
+614
+00:23:51,819 --> 00:23:53,220
+So, I have done 50 here.
+
+615
+00:23:56,630 --> 00:23:58,589
+In case the concession is not in the percentage,
+
+616
+00:23:59,130 --> 00:23:59,970
+that is, it is in the flat.
+
+617
+00:24:00,150 --> 00:24:03,750
+Flat means that there are 5000 concessions
+
+618
+00:24:03,750 --> 00:24:05,410
+for first installment only.
+
+619
+00:24:05,410 --> 00:24:07,109
+And there is no concession on anyone else.
+
+620
+00:24:09,109 --> 00:24:11,609
+So, you can flat according to yourself and add that value.
+
+621
+00:24:15,710 --> 00:24:17,809
+It is clear that if you add normal to create a concession group,
+
+622
+00:24:18,509 --> 00:24:19,869
+your concession group will be added.
+
+623
+00:24:20,990 --> 00:24:21,650
+This is done.
+
+624
+00:24:21,930 --> 00:24:23,849
+In the system, concession can be done on the staff card,
+
+625
+00:24:24,230 --> 00:24:25,410
+sibling concession.
+
+626
+00:24:25,750 --> 00:24:26,869
+Whatever is their criteria,
+
+627
+00:24:27,549 --> 00:24:29,190
+your concession can be done on the basis of those criteria.
+
+628
+00:24:29,890 --> 00:24:32,009
+Ma'am, in the system, by default,
+
+629
+00:24:32,369 --> 00:24:34,349
+this name, like staff board,
+
+630
+00:24:34,349 --> 00:24:35,890
+we have typed it ourselves.
+
+631
+00:24:36,309 --> 00:24:38,470
+So, by default, all the concessions
+
+632
+00:24:38,470 --> 00:24:39,549
+which are available,
+
+633
+00:24:41,190 --> 00:24:43,950
+they will come by default when you assign concessions.
+
+634
+00:24:44,170 --> 00:24:46,130
+For example, when I assign a concession to a student,
+
+635
+00:24:47,349 --> 00:24:49,619
+then I will get a list of the concessions
+
+636
+00:24:49,849 --> 00:24:50,890
+that are made for the institute.
+
+637
+00:24:51,230 --> 00:24:54,329
+Now, the name of each entity is very different.
+
+638
+00:24:55,349 --> 00:24:55,509
+Okay?
+
+639
+00:24:56,490 --> 00:24:59,529
+So, in that case, we are defining when this will come.
+
+640
+00:25:00,329 --> 00:25:02,690
+The thing that you are saying that it is listed,
+
+641
+00:25:03,170 --> 00:25:05,349
+we are defining that from here.
+
+642
+00:25:05,349 --> 00:25:07,369
+When we will assign a concession to a student,
+
+643
+00:25:07,809 --> 00:25:08,710
+then it will come.
+
+644
+00:25:08,950 --> 00:25:09,569
+It will come for a drop down.
+
+645
+00:25:11,329 --> 00:25:11,630
+One more thing,
+
+646
+00:25:12,049 --> 00:25:13,809
+most of the time, we also do manual concessions.
+
+647
+00:25:14,349 --> 00:25:14,910
+You must have seen one thing.
+
+648
+00:25:15,710 --> 00:25:16,930
+Sometimes, the same concessions are given.
+
+649
+00:25:17,150 --> 00:25:18,670
+Like, the principal said, give me 5,000.
+
+650
+00:25:19,269 --> 00:25:19,750
+Okay?
+
+651
+00:25:19,789 --> 00:25:21,190
+So, that is our manual concession.
+
+652
+00:25:21,430 --> 00:25:23,130
+It is up to us to give at any fee.
+
+653
+00:25:23,650 --> 00:25:25,049
+It is up to us, the institute,
+
+654
+00:25:25,509 --> 00:25:27,750
+to give at any fee.
+
+655
+00:25:27,750 --> 00:25:30,089
+So, we call this kind of concession as manual concession.
+
+656
+00:25:32,609 --> 00:25:33,089
+Okay?
+
+657
+00:25:33,190 --> 00:25:34,609
+I mean, it is used in most of the entities,
+
+658
+00:25:34,750 --> 00:25:35,990
+so I am telling you.
+
+659
+00:25:36,509 --> 00:25:37,309
+Manual concession.
+
+660
+00:25:37,789 --> 00:25:39,049
+In the case of manual concession,
+
+661
+00:25:39,430 --> 00:25:42,230
+we keep all the head sticks flat and then zero them.
+
+662
+00:25:42,769 --> 00:25:43,450
+Why do we do that?
+
+663
+00:25:43,569 --> 00:25:45,029
+Because this is a concession group
+
+664
+00:25:45,029 --> 00:25:46,650
+in which you don't know when you have to give
+
+665
+00:25:46,650 --> 00:25:48,269
+a concession to a student.
+
+666
+00:25:49,809 --> 00:25:51,369
+This, your fee-clerk,
+
+667
+00:25:51,509 --> 00:25:53,369
+or any person concerned in the institute,
+
+668
+00:25:53,990 --> 00:25:54,210
+they will assign it to a student
+
+669
+00:25:54,210 --> 00:25:55,990
+according to their criteria.
+
+670
+00:25:59,700 --> 00:26:01,359
+So, in that case, we also make a manual concession.
+
+671
+00:26:02,930 --> 00:26:03,329
+Okay?
+
+672
+00:26:03,329 --> 00:26:04,769
+When it is not defined,
+
+673
+00:26:05,089 --> 00:26:05,869
+they have to give a concession.
+
+674
+00:26:06,309 --> 00:26:07,470
+But this is not defined,
+
+675
+00:26:07,690 --> 00:26:08,789
+how much concession they have to give.
+
+676
+00:26:09,529 --> 00:26:11,109
+That varies in every student's case.
+
+677
+00:26:11,390 --> 00:26:12,529
+Then manual concession is required.
+
+678
+00:26:17,109 --> 00:26:17,849
+Okay, ma'am.
+
+679
+00:26:18,250 --> 00:26:19,529
+I will also tell you how to apply it.
+
+680
+00:26:19,630 --> 00:26:20,430
+From where it can be applied.
+
+681
+00:26:20,630 --> 00:26:21,430
+You have the student.
+
+682
+00:26:21,930 --> 00:26:22,930
+This is the student's list.
+
+683
+00:26:23,809 --> 00:26:24,130
+Okay?
+
+684
+00:26:24,170 --> 00:26:24,950
+You will click on the student's list.
+
+685
+00:26:25,529 --> 00:26:26,930
+Here, you have the concession fee.
+
+686
+00:26:28,670 --> 00:26:29,069
+Okay?
+
+687
+00:26:29,450 --> 00:26:29,990
+You will click on this.
+
+688
+00:26:30,470 --> 00:26:31,869
+Okay, the transport is also from here.
+
+689
+00:26:31,930 --> 00:26:33,009
+I will also tell you that.
+
+690
+00:26:33,329 --> 00:26:35,029
+Now, the system in which you have created concessions,
+
+691
+00:26:35,650 --> 00:26:36,650
+you will have the list of all those concessions.
+
+692
+00:26:36,650 --> 00:26:37,609
+The list will come to you.
+
+693
+00:26:38,809 --> 00:26:40,329
+What you were saying, right, Kanvi?
+
+694
+00:26:40,569 --> 00:26:41,230
+Yes, ma'am.
+
+695
+00:26:41,309 --> 00:26:42,130
+It will come to you.
+
+696
+00:26:42,309 --> 00:26:43,009
+What you have created.
+
+697
+00:26:43,230 --> 00:26:45,009
+For example, I have to give a manual concession.
+
+698
+00:26:45,730 --> 00:26:45,869
+Okay?
+
+699
+00:26:46,269 --> 00:26:47,490
+So, in the case of manual concession,
+
+700
+00:26:48,049 --> 00:26:50,150
+here, the auto-tick has done annual fee.
+
+701
+00:26:50,349 --> 00:26:50,630
+Why?
+
+702
+00:26:50,910 --> 00:26:51,849
+I have done all the ticks.
+
+703
+00:26:52,309 --> 00:26:53,690
+Because if you look at the fee demand,
+
+704
+00:26:54,250 --> 00:26:55,710
+then it is only in the annual fees.
+
+705
+00:26:56,849 --> 00:26:57,430
+It is not there.
+
+706
+00:26:57,509 --> 00:26:58,609
+So, concession will not be given.
+
+707
+00:26:59,470 --> 00:26:59,730
+Right?
+
+708
+00:26:59,849 --> 00:27:00,990
+When concession is given,
+
+709
+00:27:00,990 --> 00:27:01,970
+the amount will be given.
+
+710
+00:27:02,130 --> 00:27:03,990
+Now, here you have the option,
+
+711
+00:27:04,190 --> 00:27:05,009
+it is editable for you.
+
+712
+00:27:05,009 --> 00:27:08,670
+Means, you can give as much concessions as you want according to you.
+
+713
+00:27:08,670 --> 00:27:09,809
+That is called manual concession.
+
+714
+00:27:12,730 --> 00:27:12,750
+Okay?
+
+715
+00:27:13,230 --> 00:27:14,250
+Whatever remark you want to enter,
+
+716
+00:27:14,509 --> 00:27:15,150
+you will enter the remark.
+
+717
+00:27:15,829 --> 00:27:16,509
+And there is an option,
+
+718
+00:27:16,849 --> 00:27:18,109
+we can upload the file from here.
+
+719
+00:27:18,450 --> 00:27:19,670
+Like, you must have seen it.
+
+720
+00:27:20,269 --> 00:27:21,549
+There is an application at many places.
+
+721
+00:27:22,130 --> 00:27:23,930
+There is a signature on the application.
+
+722
+00:27:24,170 --> 00:27:24,809
+It is written on it.
+
+723
+00:27:24,890 --> 00:27:25,730
+So, that document.
+
+724
+00:27:27,380 --> 00:27:27,779
+Okay?
+
+725
+00:27:28,220 --> 00:27:29,220
+We can upload that in the system,
+
+726
+00:27:29,819 --> 00:27:30,859
+the corresponding of this particular student.
+
+727
+00:27:32,339 --> 00:27:33,480
+You will save it.
+
+728
+00:27:33,539 --> 00:27:34,279
+It will be saved.
+
+729
+00:27:34,500 --> 00:27:36,000
+Here, you are asking for confirmation.
+
+730
+00:27:36,000 --> 00:27:39,559
+We have already received it.
+
+731
+00:27:40,559 --> 00:27:42,799
+See, it has already received the money of the student.
+
+732
+00:27:43,519 --> 00:27:45,140
+So, we are giving it in this.
+
+733
+00:27:45,140 --> 00:27:46,799
+Let's see, in this,
+
+734
+00:27:46,799 --> 00:27:47,500
+let's click concession.
+
+735
+00:27:48,319 --> 00:27:49,819
+We will save it.
+
+736
+00:27:50,529 --> 00:27:50,829
+Okay?
+
+737
+00:27:50,849 --> 00:27:51,250
+In this also,
+
+738
+00:27:52,150 --> 00:27:53,009
+what is he saying?
+
+739
+00:27:53,329 --> 00:27:53,950
+Understand carefully.
+
+740
+00:27:54,230 --> 00:27:54,869
+For example,
+
+741
+00:27:55,450 --> 00:27:56,250
+all the fees of this student,
+
+742
+00:27:56,430 --> 00:27:57,970
+all the money of this student has arrived.
+
+743
+00:27:58,849 --> 00:27:59,230
+Okay?
+
+744
+00:27:59,490 --> 00:28:01,210
+And after that, I am assigning concession.
+
+745
+00:28:01,569 --> 00:28:03,289
+But we have received it.
+
+746
+00:28:03,430 --> 00:28:03,849
+Do you understand?
+
+747
+00:28:04,450 --> 00:28:05,490
+After that, I am doing concession.
+
+748
+00:28:05,490 --> 00:28:07,250
+So, what is he saying?
+
+749
+00:28:07,250 --> 00:28:09,130
+That we will put it in the extra fee.
+
+750
+00:28:10,269 --> 00:28:12,009
+So, you still have to proceed or not?
+
+751
+00:28:12,430 --> 00:28:13,130
+He is saying that.
+
+752
+00:28:15,609 --> 00:28:16,109
+Do you understand?
+
+753
+00:28:16,289 --> 00:28:18,470
+For example, your fees were 10,000.
+
+754
+00:28:18,549 --> 00:28:18,789
+Okay?
+
+755
+00:28:19,309 --> 00:28:21,230
+In that 10,000, you have also deposited 10,000.
+
+756
+00:28:21,950 --> 00:28:22,690
+So, what is your balance?
+
+757
+00:28:22,910 --> 00:28:23,369
+It is zero.
+
+758
+00:28:25,339 --> 00:28:25,839
+It is done, right?
+
+759
+00:28:26,059 --> 00:28:27,339
+But still, you are giving concession.
+
+760
+00:28:27,940 --> 00:28:31,000
+So, that money will be saved in the extra fee.
+
+761
+00:28:32,460 --> 00:28:32,940
+Okay?
+
+762
+00:28:34,160 --> 00:28:35,519
+Here, you will save it normally.
+
+763
+00:28:35,640 --> 00:28:36,799
+Your concession will be saved.
+
+764
+00:28:36,799 --> 00:28:38,940
+Just for the purpose of now being.
+
+765
+00:28:41,150 --> 00:28:42,130
+This is our option to assign concession.
+
+766
+00:28:43,190 --> 00:28:44,329
+Other than that, if it is Stafford,
+
+767
+00:28:45,049 --> 00:28:46,069
+if you do Stafford,
+
+768
+00:28:46,809 --> 00:28:47,549
+in the case of Stafford,
+
+769
+00:28:48,630 --> 00:28:50,569
+whatever percentage you fixed,
+
+770
+00:28:51,250 --> 00:28:52,490
+he automatically took it.
+
+771
+00:28:54,910 --> 00:28:56,750
+He fixed 5,000 flat.
+
+772
+00:28:58,049 --> 00:29:01,130
+So, he automatically fixed 5,000 flat.
+
+773
+00:29:05,710 --> 00:29:06,029
+Okay?
+
+774
+00:29:06,369 --> 00:29:07,250
+Now, you can see one more thing.
+
+775
+00:29:07,789 --> 00:29:10,230
+Here, there is an option to enter by pushing.
+
+776
+00:29:10,329 --> 00:29:11,970
+For example,
+
+777
+00:29:11,970 --> 00:29:13,950
+we have multiple of heads selected.
+
+778
+00:29:15,190 --> 00:29:16,210
+And there is manual concession.
+
+779
+00:29:16,789 --> 00:29:17,789
+In the case of manual concession,
+
+780
+00:29:18,049 --> 00:29:20,410
+we have to give 3,000 concessions.
+
+781
+00:29:20,710 --> 00:29:20,910
+Okay?
+
+782
+00:29:21,329 --> 00:29:22,289
+If you give 3,000 concessions,
+
+783
+00:29:22,509 --> 00:29:23,049
+if you push it,
+
+784
+00:29:23,670 --> 00:29:25,450
+your head will look at it.
+
+785
+00:29:25,769 --> 00:29:26,309
+In this head,
+
+786
+00:29:26,650 --> 00:29:27,750
+you have taken as much as you are getting from one installment.
+
+787
+00:29:28,450 --> 00:29:29,569
+For example, in this head,
+
+788
+00:29:30,009 --> 00:29:31,529
+we had a margin of 2,000.
+
+789
+00:29:32,289 --> 00:29:33,930
+The margin of 2,000 means that
+
+790
+00:29:33,930 --> 00:29:35,150
+your demand was up to 2,000.
+
+791
+00:29:35,769 --> 00:29:37,230
+So, it will not give 2,000 concessions either.
+
+792
+00:29:37,309 --> 00:29:38,410
+You cannot give 3,000.
+
+793
+00:29:40,789 --> 00:29:41,329
+Do you understand?
+
+794
+00:29:42,690 --> 00:29:43,289
+Yes.
+
+795
+00:29:43,289 --> 00:29:44,910
+So, it will give 2,000.
+
+796
+00:29:45,829 --> 00:29:47,349
+From the next head, it will give 1,000.
+
+797
+00:29:47,710 --> 00:29:48,910
+So, in that case, we use this option.
+
+798
+00:29:50,150 --> 00:29:51,890
+In the case of manual concession.
+
+799
+00:29:53,099 --> 00:29:54,779
+Apart from that, you can use it anywhere.
+
+800
+00:29:54,779 --> 00:29:55,339
+It means that you can push it.
+
+801
+00:29:55,859 --> 00:29:58,420
+First, you can utilize the amount.
+
+802
+00:29:58,539 --> 00:30:01,220
+Then, you can utilize the series according to the amount.
+
+803
+00:30:04,950 --> 00:30:05,390
+Okay?
+
+804
+00:30:05,809 --> 00:30:07,609
+Then, I told you that
+
+805
+00:30:07,609 --> 00:30:11,430
+we can assign a vehicle detail to a student manually.
+
+806
+00:30:12,069 --> 00:30:12,630
+Okay?
+
+807
+00:30:12,630 --> 00:30:13,589
+So, we will do that from here.
+
+808
+00:30:13,589 --> 00:30:14,390
+Student profiles.
+
+809
+00:30:14,690 --> 00:30:15,450
+We opened the student interface.
+
+810
+00:30:16,490 --> 00:30:17,130
+You will click on the detail.
+
+811
+00:30:18,049 --> 00:30:18,750
+Click on assign route.
+
+812
+00:30:19,390 --> 00:30:21,329
+Then, you will see a pop-up window opened.
+
+813
+00:30:21,630 --> 00:30:22,170
+What is this?
+
+814
+00:30:22,549 --> 00:30:23,089
+To assign.
+
+815
+00:30:23,569 --> 00:30:25,289
+Like, which bus is the route.
+
+816
+00:30:25,289 --> 00:30:26,450
+We have created a single route.
+
+817
+00:30:27,190 --> 00:30:29,369
+Which pick-up point is the pick-up point.
+
+818
+00:30:29,910 --> 00:30:31,130
+After that, the amount.
+
+819
+00:30:31,349 --> 00:30:33,529
+Here, it automatically fetches the amount.
+
+820
+00:30:34,269 --> 00:30:35,609
+The drop point is the same.
+
+821
+00:30:36,109 --> 00:30:37,470
+Select a different route.
+
+822
+00:30:38,089 --> 00:30:40,029
+If you toggle on the option, it will give you the option.
+
+823
+00:30:40,410 --> 00:30:42,210
+If it is the same, it will show the same.
+
+824
+00:30:42,210 --> 00:30:44,170
+Select the installment.
+
+825
+00:30:44,990 --> 00:30:46,130
+You have to keep it for the sub-installment.
+
+826
+00:30:47,630 --> 00:30:49,329
+If you assign, it will be assigned.
+
+827
+00:30:50,230 --> 00:30:53,690
+Here, it says, Chetan has been assigned route successfully.
+
+828
+00:30:53,809 --> 00:30:55,250
+It means that he has been assigned the route.
+
+829
+00:30:55,670 --> 00:30:57,809
+If you see here, he has been assigned the transport.
+
+830
+00:30:59,359 --> 00:31:01,759
+If you see here, he must have been assigned the transport in demand.
+
+831
+00:31:03,140 --> 00:31:04,980
+He had put his transport in 2000.
+
+832
+00:31:06,000 --> 00:31:07,400
+It is also in the second and third installment.
+
+833
+00:31:11,400 --> 00:31:13,119
+It is clear how he has assigned the transport.
+
+834
+00:31:13,119 --> 00:31:16,680
+We have only assigned the pick-up point and route in transport.
+
+835
+00:31:17,339 --> 00:31:20,079
+The corresponding amount defined in the system.
+
+836
+00:31:20,680 --> 00:31:23,319
+It will automatically go to your demand and get the transport amount.
+
+837
+00:31:25,670 --> 00:31:27,950
+Ma'am, we cannot assign the transport in bulk.
+
+838
+00:31:29,190 --> 00:31:31,910
+Because every student has a particular route.
+
+839
+00:31:33,329 --> 00:31:34,410
+We can do it in bulk.
+
+840
+00:31:35,190 --> 00:31:36,670
+The option we saw just now.
+
+841
+00:31:38,369 --> 00:31:41,650
+We have to assign it in bulk.
+
+842
+00:31:41,650 --> 00:31:45,009
+We use it in bulk.
+
+843
+00:31:45,009 --> 00:31:45,930
+Do you know what happens?
+
+844
+00:31:46,410 --> 00:31:49,849
+The students of the previous session are promoted in the upcoming session.
+
+845
+00:31:50,589 --> 00:31:52,369
+The transport is similar to them.
+
+846
+00:31:52,410 --> 00:31:53,809
+It can be the same in the upcoming.
+
+847
+00:31:53,849 --> 00:31:54,990
+Many students leave it.
+
+848
+00:31:55,609 --> 00:31:57,750
+But in most of the cases, it remains the same.
+
+849
+00:31:58,329 --> 00:32:01,710
+So, in that case, we export the Excel from the previous session.
+
+850
+00:32:02,470 --> 00:32:04,630
+We have the transport report section here.
+
+851
+00:32:04,730 --> 00:32:05,970
+You will get to know about it gradually.
+
+852
+00:32:06,670 --> 00:32:08,369
+The transport report is there.
+
+853
+00:32:08,529 --> 00:32:10,390
+Transport occupancy and transport report.
+
+854
+00:32:10,390 --> 00:32:11,769
+We will export the whole report in Excel.
+
+855
+00:32:12,769 --> 00:32:16,609
+We will keep it in the same sample and assign it in the upcoming session.
+
+856
+00:32:18,579 --> 00:32:19,339
+It is not done manually.
+
+857
+00:32:20,079 --> 00:32:20,940
+You can export it in bulk.
+
+858
+00:32:21,960 --> 00:32:22,680
+You can upload it.
+
+859
+00:32:24,029 --> 00:32:24,390
+Okay.
+
+860
+00:32:26,380 --> 00:32:27,279
+Any doubts so far?
+
+861
+00:32:29,630 --> 00:32:30,769
+No, ma'am.
+
+862
+00:32:30,950 --> 00:32:31,789
+No, ma'am.
+
+863
+00:32:32,549 --> 00:32:32,890
+Okay.
+
+864
+00:32:33,910 --> 00:32:34,710
+That's all for today.
+
+865
+00:32:38,619 --> 00:32:39,799
+Ma'am, share the recording.
+

@@ -1,0 +1,51 @@
+{
+    "module": "Fee Management",
+    "topic": "Concession Group Setup (Defining Concession Types)",
+    "summary": "Explains how to create and define various concession groups within the ERP system, such as sibling concessions, staff ward concessions, or manual concessions, by specifying the fee head, type (percentage or flat), and value.",
+    "navigation": [
+        "Settings icon",
+        "Concession Groups"
+    ],
+    "steps": [
+        "Click 'New Concession Group'.",
+        "Enter the 'Concession Name' (e.g., Staff Card Concession, Sibling Concession, Manual Concession).",
+        "Select the 'Fee Head(s)' to which the concession applies (e.g., Annual Fees, Tuition Fee).",
+        "Choose the 'Concession Type': 'Percentage' or 'Flat'.",
+        "Enter the 'Value' based on the selected type (e.g., 50 for 50%, 5000 for a flat amount).",
+        "Click 'Add' to save the concession group."
+    ],
+    "business_rules": [
+        "Concessions are applied based on the defined fee heads and their corresponding installment structures."
+    ],
+    "important_notes": [
+        "A 'Manual Concession' group can be created by setting all fee heads to 'Flat' with a 'Zero' value, allowing for flexible, ad-hoc concession amounts to be entered when assigned to a student.",
+        "The names of concession groups are user-defined and will appear in a dropdown list when assigning concessions to students."
+    ],
+    "questions": [
+        "How do I create a new concession group in the ERP system?",
+        "What types of concessions can I define?",
+        "How do I set up a staff ward concession?",
+        "What is a 'Manual Concession' and how is it configured?",
+        "Can concessions be applied to specific fee heads?"
+    ],
+    "keywords": [
+        "Concession group setup",
+        "Define concession",
+        "Sibling concession",
+        "Staff ward concession",
+        "Manual concession",
+        "Fee head concession",
+        "Percentage concession",
+        "Flat concession"
+    ],
+    "related_topics": [
+        "Assigning Concession to a Student",
+        "Fee Head Setup"
+    ],
+    "id": "fee_management_concession_group_setup_defining_concession_types",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

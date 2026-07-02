@@ -1,0 +1,49 @@
+{
+    "module": "Inventory",
+    "topic": "Generating Inventory Reports",
+    "summary": "The ERP system provides a wide array of reports related to inventory, such as current stock levels, closing stock, and stock transfer reports. These reports are essential tools for analysis, decision-making, and monitoring inventory movement.",
+    "navigation": [
+        "Inventory",
+        "Reports"
+    ],
+    "steps": [
+        "Navigate to the 'Reports' section within 'Inventory'.",
+        "Select the desired report type (e.g., 'Stock', 'Closing Stock', 'Transfer Report').",
+        "Generate the report based on required parameters (e.g., date range, item group, store).",
+        "Review the generated report for insights."
+    ],
+    "business_rules": [
+        "Reports should be utilized according to specific business needs for effective inventory management."
+    ],
+    "important_notes": [
+        "An extensive number of reports are available to cover various aspects of inventory, providing detailed insights into item movement and stock status."
+    ],
+    "questions": [
+        "Where can I find inventory reports?",
+        "What types of inventory reports are available?",
+        "How can I check the current stock level?",
+        "Can I view reports on stock transfers?",
+        "How do I generate a closing stock report for a specific period?"
+    ],
+    "keywords": [
+        "Inventory reports",
+        "stock report",
+        "closing stock",
+        "transfer report",
+        "inventory analysis",
+        "reporting section",
+        "stock levels",
+        "inventory monitoring"
+    ],
+    "related_topics": [
+        "Inventory Management",
+        "Stock Transfer",
+        "Purchase Entry"
+    ],
+    "id": "inventory_generating_inventory_reports",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

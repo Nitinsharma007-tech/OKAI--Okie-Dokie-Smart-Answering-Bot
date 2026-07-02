@@ -1,0 +1,53 @@
+{
+    "module": "Fee Management",
+    "topic": "Concession Management for Student Fees",
+    "summary": "Explains how to apply concessions to student fees, including selecting concession groups, setting amounts (percentage or fixed), and uploading supporting documents.",
+    "navigation": [
+        "Fee Collection Section (after selecting a student) > Concession Option (e.g., 'Sign Concession')"
+    ],
+    "steps": [
+        "Click on the 'Sign Concession' option within the student's fee collection section.",
+        "Select a concession group (e.g., 'Sports Concession').",
+        "For Percentage-based Concession: If a master concession group is defined (e.g., 10% on tuition fee), selecting it will automatically calculate the concession amount.",
+        "For Manual Concession: Select 'Manual' and enter a fixed amount for the concession.",
+        "Enter a mandatory remark explaining the reason for the concession.",
+        "(Optional) Upload supporting documents (e.g., application with principal's signature) using the 'Choose File' option.",
+        "Save the concession."
+    ],
+    "business_rules": [
+        "Concession groups can be predefined with specific percentages or criteria.",
+        "Remarks are mandatory for applying concessions.",
+        "The payable amount will be updated after the concession is applied and reflected on the fee receipt."
+    ],
+    "important_notes": [
+        "Concession groups need to be shared and configured in the system.",
+        "Uploading supporting documents is optional."
+    ],
+    "questions": [
+        "How do I apply a concession to a student's fee?",
+        "Can concessions be applied as a percentage or a fixed amount?",
+        "Is it possible to upload documents for a concession?",
+        "What information is required when applying a concession?"
+    ],
+    "keywords": [
+        "Concession",
+        "fee concession",
+        "concession group",
+        "manual concession",
+        "percentage concession",
+        "sports concession",
+        "tuition fee",
+        "remarks",
+        "supporting documents"
+    ],
+    "related_topics": [
+        "Fee Structure Configuration",
+        "Fee Collection"
+    ],
+    "id": "fee_management_concession_management_for_student_fees",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "module": "Fee Management",
+    "topic": "Collecting Student Fees (General)",
+    "summary": "This topic details the general process of collecting fees from students, including searching for a student, verifying their details, applying concessions, selecting installments, manually adjusting amounts, and choosing a payment mode.",
+    "navigation": [
+        "Collect Fee"
+    ],
+    "steps": [
+        "Navigate to the 'Collect Fee' option.",
+        "Search for the student using their name, registration number, father's name, or phone number.",
+        "Verify the student's details displayed on the interface.",
+        "Click on the student's record to open the fee collection section.",
+        "Review the student's personal details and fee demand.",
+        "If applicable, click on the 'Concession' option to apply a concession.",
+        "Select the desired installments for payment (by default, the first installment is selected; you can select all or specific ones).",
+        "If the student is paying a partial amount, you can manually enter the amount directly.",
+        "Optionally, you can adjust amounts per individual fee head if required.",
+        "Proceed to the payment section.",
+        "Select the payment mode (e.g., Cash, Cheque, Online).",
+        "For Cash payments, confirm the amount.",
+        "For Cheque/Other payments, enter the reference number, select the date, and add optional remarks.",
+        "Click 'Collect' to process the fee.",
+        "A fee receipt will be generated upon successful collection."
+    ],
+    "business_rules": [
+        "Students can be searched using multiple criteria: name, registration number, father's name, or phone number.",
+        "The system defaults to selecting the first installment for payment.",
+        "Manual adjustment of payment amounts is possible for installments and individual fee heads.",
+        "Reference numbers and dates are required for non-cash payment modes."
+    ],
+    "important_notes": [
+        "Always verify student details before proceeding with fee collection.",
+        "Concessions must be applied before the payment is processed.",
+        "Remarks are optional but can be useful for documenting specific fee collection details."
+    ],
+    "questions": [
+        "How do I collect fees from a student in the ERP?",
+        "What search criteria can I use to find a student for fee collection?",
+        "Can I accept a partial payment for a student's installment?",
+        "How do I apply a concession during the fee collection process?",
+        "What are the available payment modes for collecting fees?"
+    ],
+    "keywords": [
+        "Collect fee",
+        "student search",
+        "fee demand",
+        "installments",
+        "partial payment",
+        "payment mode",
+        "cash payment",
+        "cheque payment",
+        "fee collection process"
+    ],
+    "related_topics": [
+        "Concession Management",
+        "Fee Head Configuration",
+        "Fine Configuration",
+        "Fee Receipt Customization",
+        "Collecting Online Fees"
+    ],
+    "id": "fee_management_collecting_student_fees_general",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

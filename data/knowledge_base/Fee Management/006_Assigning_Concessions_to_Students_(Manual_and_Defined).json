@@ -1,0 +1,62 @@
+{
+    "module": "Fee Management",
+    "topic": "Assigning Concessions to Students (Manual and Defined)",
+    "summary": "Details the process of applying both predefined concession groups and manual concessions to individual students, including options for entering custom amounts, adding remarks, uploading supporting documents, and understanding how concessions interact with paid fees.",
+    "navigation": [
+        "Student List",
+        "Select Student",
+        "Concession Fee"
+    ],
+    "steps": [
+        "Navigate to the 'Student List' and select the desired student.",
+        "Click on 'Concession Fee'.",
+        "From the list of available concession groups, select the appropriate one (e.g., 'Stafford' for a predefined concession or 'Manual Concession' for ad-hoc adjustments).",
+        "For predefined concessions (e.g., Stafford): The system automatically applies the configured percentage or flat amount to the selected fee heads.",
+        "For manual concessions:",
+        "The system will display editable fields for applicable fee heads.",
+        "Enter the desired concession amount for each fee head.",
+        "Use the 'Push' option to distribute a total concession amount across multiple fee heads, respecting the available demand in each.",
+        "Enter any relevant 'Remark'.",
+        "Optionally, 'Upload File' (e.g., application, approval document) as supporting evidence.",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "If a concession is assigned after a student's fees have already been paid, the concession amount will be recorded as an 'extra fee' (credit) for the student.",
+        "The 'Push' option ensures that the concession amount does not exceed the outstanding demand for a particular fee head, distributing any remainder to subsequent fee heads."
+    ],
+    "important_notes": [
+        "Manual concessions provide flexibility for ad-hoc adjustments not covered by predefined concession groups.",
+        "Supporting documents can be attached to a student's concession record for audit purposes.",
+        "The system provides a confirmation/warning if a concession is applied to an already paid fee, explaining the 'extra fee' implication."
+    ],
+    "questions": [
+        "How do I apply a concession to a student?",
+        "What happens if I assign a concession after a student has paid their fees?",
+        "How do I apply a manual concession to a student?",
+        "What is the 'Push' option used for when assigning concessions?",
+        "Can I upload documents when assigning a concession?",
+        "Where can I see the list of available concessions when assigning them?"
+    ],
+    "keywords": [
+        "Assign concession",
+        "Student concession",
+        "Manual concession application",
+        "Stafford concession",
+        "Sibling concession application",
+        "Concession fee",
+        "Extra fee",
+        "Push concession",
+        "Upload concession document"
+    ],
+    "related_topics": [
+        "Concession Group Setup",
+        "Fee Head Setup",
+        "Student Fee Management"
+    ],
+    "id": "fee_management_assigning_concessions_to_students_manual_and_defined",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

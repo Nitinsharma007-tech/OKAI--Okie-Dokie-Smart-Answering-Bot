@@ -1,0 +1,52 @@
+{
+    "module": "HRM",
+    "topic": "Processing Monthly Salary",
+    "summary": "This process generates the monthly salary records for employees based on their assigned contracts and recorded attendance (payable days).",
+    "navigation": [
+        "HRM",
+        "Computer Attendance"
+    ],
+    "steps": [
+        "Ensure that 'Payable Days' (attendance) have been set for the employees for the desired month.",
+        "Navigate to 'Computer Attendance'.",
+        "Select the desired 'Month' and 'Year' for salary processing.",
+        "Click 'Go'.",
+        "A list of all employees will appear. You can use the search function to find a specific employee.",
+        "Select the employee(s) for whom you want to process salary.",
+        "Click 'Process Salary'.",
+        "A success message will confirm that the salary has been created for the selected employees."
+    ],
+    "business_rules": [
+        "Employee 'Payable Days' (attendance) must be accurately recorded before processing salaries.",
+        "The system processes salary based on the employee's assigned salary contract and the number of payable days."
+    ],
+    "important_notes": [
+        "Processing salary here creates the salary record in the system; it does not initiate payment disbursement.",
+        "The term 'Pay Birthdays' in the transcript refers to 'Payable Days' or 'Attendance Days'."
+    ],
+    "questions": [
+        "How do I process salaries for all employees for a specific month?",
+        "What steps are required before processing monthly salaries?",
+        "Can I process salary for a single employee?",
+        "Where can I view the details of processed salaries?"
+    ],
+    "keywords": [
+        "Process salary",
+        "Monthly payroll",
+        "Computer attendance",
+        "Generate salary",
+        "HRM payroll",
+        "Salary calculation",
+        "Payable days"
+    ],
+    "related_topics": [
+        "Viewing and Editing Processed Monthly Salaries",
+        "Assigning Salary Template to Employee"
+    ],
+    "id": "hrm_processing_monthly_salary",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

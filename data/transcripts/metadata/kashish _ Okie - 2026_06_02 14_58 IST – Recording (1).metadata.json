@@ -1,0 +1,9 @@
+{
+    "video_name": "kashish _ Okie - 2026_06_02 14_58 IST \u2013 Recording (1)",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 152.54,
+    "created_at": "2026-07-02T10:12:31.655237"
+}

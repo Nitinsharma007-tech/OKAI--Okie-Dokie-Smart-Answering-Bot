@@ -1,0 +1,51 @@
+{
+    "module": "HRM",
+    "topic": "Viewing Employee Salary Contracts",
+    "summary": "This topic describes how to access and view the currently assigned salary contract (template) for a specific employee directly from their employee profile.",
+    "navigation": [
+        "HRM",
+        "Employee",
+        "View Employee",
+        "Salary Template (within employee profile)"
+    ],
+    "steps": [
+        "Navigate to 'HRM'.",
+        "Go to 'Employee'.",
+        "Search for and select the desired employee to 'View' their profile.",
+        "Scroll to the bottom of the employee's profile page.",
+        "Click on the 'Salary Template' section or button.",
+        "The details of the assigned salary template, including earning and deduction heads, will be displayed."
+    ],
+    "business_rules": [
+        "If an employee has no contract assigned, the 'Salary Template' section will be empty or indicate no template is assigned."
+    ],
+    "important_notes": [
+        "This view is primarily for reviewing the assigned contract. For making changes, it is generally preferable to use the 'Assign Salary Template' option for future contracts or 'Salary Summary Month Wise' for current month adjustments.",
+        "The system shows the complete structure of the assigned contract."
+    ],
+    "questions": [
+        "How can I check an employee's current salary contract?",
+        "Where can I see if an employee has a salary template assigned?",
+        "What details are visible when viewing an employee's salary template?",
+        "Can I edit an employee's contract from their profile view?"
+    ],
+    "keywords": [
+        "View contract",
+        "Employee salary template",
+        "Check pay structure",
+        "HRM employee profile",
+        "Assigned template",
+        "Employee contract details"
+    ],
+    "related_topics": [
+        "Assigning Salary Template to Employee",
+        "Modifying Employee Salary Contracts",
+        "Processing Monthly Salary"
+    ],
+    "id": "hrm_viewing_employee_salary_contracts",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

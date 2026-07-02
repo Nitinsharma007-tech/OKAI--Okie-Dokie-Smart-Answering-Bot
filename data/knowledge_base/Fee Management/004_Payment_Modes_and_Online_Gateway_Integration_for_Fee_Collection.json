@@ -1,0 +1,52 @@
+{
+    "module": "Fee Management",
+    "topic": "Payment Modes and Online Gateway Integration for Fee Collection",
+    "summary": "Details the available payment modes (cash, cheque, online) and the integration with payment gateways like Razorpay for online fee collection.",
+    "navigation": [
+        "Fee Collection Section > Proceed > Payment Mode Selection"
+    ],
+    "steps": [
+        "After confirming the amount, click 'Proceed'.",
+        "Select the payment mode: 'Cash', 'Cheque', or 'Online'.",
+        "For Cash: This is the default selection.",
+        "For Cheque: Enter cheque details (bank, reference number, date).",
+        "For Online (via 'Collect Fee' option): Select 'Online', choose the institute bank, enter a reference number (optional), select a date (optional), and add remarks (optional).",
+        "For Direct Online Collection (via 'Collect Online' option): Select 'Collect Online', and the system will redirect to the payment gateway (e.g., Razorpay) for scanning/card payment."
+    ],
+    "business_rules": [
+        "Razorpay is integrated as the payment gateway.",
+        "Institute banks must be configured in the system."
+    ],
+    "important_notes": [
+        "Direct online collection (via 'Collect Online') immediately redirects to the payment gateway.",
+        "Online payments processed through the general 'Collect Fee' option are for back-gate entries or when payment was made externally and needs to be recorded.",
+        "Payment gateway charges may apply (e.g., GST, bank charges)."
+    ],
+    "questions": [
+        "What payment methods are available for fee collection?",
+        "How do I record an online payment that was made outside the ERP system?",
+        "How does the online payment gateway work for fee collection?",
+        "Are there any charges for online payments?"
+    ],
+    "keywords": [
+        "Payment mode",
+        "cash",
+        "cheque",
+        "online payment",
+        "Razorpay",
+        "payment gateway",
+        "institute bank",
+        "reference number",
+        "online collection"
+    ],
+    "related_topics": [
+        "System Configuration",
+        "Bank Integration"
+    ],
+    "id": "fee_management_payment_modes_and_online_gateway_integration_for_fee_collection",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

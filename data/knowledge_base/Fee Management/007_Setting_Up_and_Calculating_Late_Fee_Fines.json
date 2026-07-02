@@ -1,0 +1,53 @@
+{
+    "module": "Fee Management",
+    "topic": "Setting Up and Calculating Late Fee Fines",
+    "summary": "This topic describes how late fee fines are configured based on installment due dates and how the ERP system automatically calculates and applies these fines during the fee collection process.",
+    "navigation": [
+        "System Setup",
+        "Fee Configuration",
+        "Fine Configuration"
+    ],
+    "steps": [
+        "As an administrator or configurator, set up the fine criteria in the system:",
+        "1. Define the last fee date for each installment.",
+        "2. Specify the initial fine amount (e.g., Rs. 500) that applies if payment is made after the due date.",
+        "3. Define any subsequent fine increments (e.g., an additional Rs. 500 after every 15 days past the initial fine date).",
+        "4. Alternatively, a daily fine amount (e.g., Rs. 40 per day) can be configured.",
+        "During fee collection, if the current date is past the configured due date, the system will automatically calculate and display the applicable fine amount."
+    ],
+    "business_rules": [
+        "Fines are calculated based on the configured criteria (initial amount, periodic increments, or daily rate).",
+        "Once configured, fines are applicable to all courses and students according to the defined rules."
+    ],
+    "important_notes": [
+        "Clear and precise fine criteria must be established and configured in the system.",
+        "The ERP automatically calculates fines based on the current date and the installment due dates.",
+        "The institution needs to confirm its preferred fine calculation method (e.g., fixed amount after due date, daily increment, or periodic increment)."
+    ],
+    "questions": [
+        "How are late fee fines configured in the ERP system?",
+        "Can fines be set as a fixed amount after the due date, or as a daily/periodic increment?",
+        "How does the system automatically calculate fines during fee collection?",
+        "Do fines apply to all students and courses once configured?"
+    ],
+    "keywords": [
+        "Late fee",
+        "fine configuration",
+        "fine calculation",
+        "due date",
+        "installment",
+        "penalty",
+        "fee rules",
+        "fine criteria"
+    ],
+    "related_topics": [
+        "Collecting Student Fees (General)",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_setting_up_and_calculating_late_fee_fines",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

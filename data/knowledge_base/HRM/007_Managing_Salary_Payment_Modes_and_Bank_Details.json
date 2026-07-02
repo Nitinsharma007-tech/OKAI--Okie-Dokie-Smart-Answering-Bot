@@ -1,0 +1,55 @@
+{
+    "module": "HRM",
+    "topic": "Managing Salary Payment Modes and Bank Details",
+    "summary": "This topic explains how to record and update employee bank details and specify the preferred payment mode (e.g., RTGS, Cheque) for their salaries, ensuring these details reflect on salary slips.",
+    "navigation": [
+        "HRM",
+        "Employee",
+        "View Employee",
+        "Salary Details section (within employee profile)"
+    ],
+    "steps": [
+        "Navigate to 'HRM'.",
+        "Go to 'Employee'.",
+        "Search for and select the desired employee to 'View' their profile.",
+        "Locate the 'Salary Details' or 'Bank Details' section within the employee's profile.",
+        "Enter or update the employee's 'Bank Name', 'Branch', 'Account Number', and 'IFSC Code'.",
+        "In the 'Payment Mode' field, specify the method of payment (e.g., 'RTGS', 'Cheque').",
+        "Save the employee's profile to apply the changes."
+    ],
+    "business_rules": [
+        "The bank details and payment mode entered here will be reflected on the employee's salary slip.",
+        "Once saved, these details are stored permanently and do not need to be re-entered each month unless they change."
+    ],
+    "important_notes": [
+        "For specific notes or temporary instructions regarding payment, the 'Remarks' field can be used.",
+        "Accurate bank details are crucial for timely and correct salary disbursement."
+    ],
+    "questions": [
+        "How do I update an employee's bank account details for salary payments?",
+        "Where can I specify if an employee's salary will be paid via cheque or RTGS?",
+        "Will the payment mode appear on the salary slip?",
+        "Do I need to update payment details every month?",
+        "What bank details are required for salary processing?"
+    ],
+    "keywords": [
+        "Bank details",
+        "Payment mode",
+        "Salary disbursement",
+        "RTGS",
+        "Cheque payment",
+        "Employee bank account",
+        "Salary slip details",
+        "Update bank info"
+    ],
+    "related_topics": [
+        "Viewing Employee Salary Contracts",
+        "Processing Monthly Salary"
+    ],
+    "id": "hrm_managing_salary_payment_modes_and_bank_details",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}
