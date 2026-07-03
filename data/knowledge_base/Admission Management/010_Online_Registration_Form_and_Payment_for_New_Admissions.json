@@ -1,0 +1,60 @@
+{
+    "module": "Admission Management",
+    "topic": "Online Registration Form and Payment for New Admissions",
+    "summary": "Details the online registration form for new admissions, its integration with online payment, and the process for receiving application fees and generating receipts.",
+    "navigation": [
+        "External URL for the registration form",
+        "ERP > Admission > Application Data (to view submitted forms)"
+    ],
+    "steps": [
+        "Student fills out the online registration form (student name, photo, gender, email, phone, etc.).",
+        "Student proceeds to online payment for the application fee (e.g., 10,000 INR).",
+        "The payment gateway (Razorpay) processes the payment, including any applicable charges (GST, bank charges).",
+        "Upon successful payment, the transaction details and a receipt are recorded in the ERP under 'Admission > Application Data'.",
+        "The system can be configured to send the payment receipt and prospectus to the student's email ID."
+    ],
+    "business_rules": [
+        "The registration form is integrated with a payment gateway (Razorpay).",
+        "Application fees are fixed (e.g., 10,000 INR) but can be made variable.",
+        "Admission number is generated after payment.",
+        "The receipt should be transferred to the student's email ID."
+    ],
+    "important_notes": [
+        "The form is initially in a test gate for testing purposes; it will go live upon confirmation.",
+        "Payment gateway charges are separate from the application fee.",
+        "The phone number field needs a restriction for up to 12 digits.",
+        "The system will send both the payment receipt and the prospectus to the student's email after successful registration and payment."
+    ],
+    "questions": [
+        "How does the online registration form work for new admissions?",
+        "What is the process for students to pay the application fee online?",
+        "Will students receive a receipt via email after paying the application fee?",
+        "Where can I view submitted registration forms and their payment status in the ERP?",
+        "Are there any charges for online application fee payments?"
+    ],
+    "keywords": [
+        "Online registration",
+        "admission form",
+        "new admissions",
+        "application fee",
+        "online payment",
+        "Razorpay",
+        "payment gateway charges",
+        "email receipt",
+        "prospectus",
+        "test mode",
+        "live mode",
+        "admission number"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "System Configuration",
+        "Marketing Integration"
+    ],
+    "id": "admission_management_online_registration_form_and_payment_for_new_admissions",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

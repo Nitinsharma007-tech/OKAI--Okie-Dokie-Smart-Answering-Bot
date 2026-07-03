@@ -1,0 +1,53 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Reports and Student Payment History",
+    "summary": "Describes the various reports available in the fee module, including daily collection, due fees, and individual student payment history, along with filtering and export options.",
+    "navigation": [
+        "Dashboard > Fee Reports (for various reports)",
+        "Student's Fee Section > Payment History (for individual student history)",
+        "Dashboard > Transaction List (for common daily transactions)"
+    ],
+    "steps": [
+        "Access 'Fee Reports' for a list of available reports (e.g., Daily Fee Report, Combined Daily Collection, Due Fee).",
+        "For Due Fee Report: Apply filters for class, stream, and batch. Use 'Show student with zero dues' (Yes/No) to include/exclude fully paid students. Use 'Awake status' filter to see students who have paid for the current session or only those who haven't paid any amount. Export data to Excel.",
+        "Access 'Transaction List' for a common list of daily transactions, with an export to Excel option.",
+        "Access 'Payment History' within a student's profile to view individual fee transactions and receipts."
+    ],
+    "business_rules": [
+        "Reports can be filtered by various criteria (class, batch, stream, due status, student status).",
+        "Data can be exported to Excel."
+    ],
+    "important_notes": [
+        "'Awake status' refers to students who have paid fees for the current session.",
+        "An amount-wise filter for due fees is not currently available but can be requested for future development."
+    ],
+    "questions": [
+        "Where can I find reports on daily fee collection?",
+        "How do I check the list of students with outstanding fees?",
+        "Can I filter the due fee report by class or batch?",
+        "Is there a report to see a student's individual payment history?",
+        "Can I export fee reports to Excel?"
+    ],
+    "keywords": [
+        "Fee reports",
+        "daily fee report",
+        "due fee",
+        "combined daily collection",
+        "payment history",
+        "transaction list",
+        "filters",
+        "export to Excel",
+        "awake status",
+        "zero dues"
+    ],
+    "related_topics": [
+        "Data Analysis",
+        "Student Management"
+    ],
+    "id": "fee_management_fee_reports_and_student_payment_history",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "module": "Transport",
+    "topic": "Vehicle Management",
+    "summary": "This topic covers the process of adding, viewing, and updating vehicle (bus) details within the ERP system. It includes mandatory information such as RC number, seating capacity, and insurance date, as well as optional details and document uploads.",
+    "navigation": [
+        "Settings",
+        "Institute Setup",
+        "Transport",
+        "Vehicle"
+    ],
+    "steps": [
+        "Navigate to Settings > Institute Setup > Transport > Vehicle.",
+        "Click on 'New Vehicle'.",
+        "Enter the 'RC Number' (e.g., HR 0123).",
+        "Enter the 'Seating Capacity' (e.g., 50).",
+        "Enter the 'Insurance Date' (e.g., 2024-08-02).",
+        "Optionally, enter 'Tank Capacity', 'GPS ID', 'Insurance Company', and upload documents for 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', and 'Road Tax'.",
+        "Click 'Save'.",
+        "To update an existing vehicle, select the vehicle from the list and click 'Update Detail' to modify its information."
+    ],
+    "business_rules": [
+        "RC Number, Seating Capacity, and Insurance Date are mandatory fields for vehicle creation."
+    ],
+    "important_notes": [
+        "The system supports adding an unlimited number of vehicles.",
+        "The 'GPS ID' field is used for GPS tracking functionality."
+    ],
+    "questions": [
+        "How do I add a new bus to the ERP system?",
+        "What information is required to register a new vehicle?",
+        "Can I update the seating capacity of an existing bus?",
+        "Where can I find the list of all registered vehicles?"
+    ],
+    "keywords": [
+        "Vehicle",
+        "Bus",
+        "Transport",
+        "RC Number",
+        "Seating Capacity",
+        "Insurance",
+        "Add Vehicle",
+        "Update Vehicle"
+    ],
+    "related_topics": [
+        "Transport Setup - Vehicle Route Management",
+        "Transport Setup - Student Transport Assignment (Manual)"
+    ],
+    "id": "transport_vehicle_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

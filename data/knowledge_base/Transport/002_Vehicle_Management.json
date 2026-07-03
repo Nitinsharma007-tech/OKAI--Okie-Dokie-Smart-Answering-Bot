@@ -1,0 +1,54 @@
+{
+    "module": "Transport",
+    "topic": "Vehicle Management",
+    "summary": "This topic covers how to add and manage vehicles (buses) within the ERP system's transport module. It details the mandatory and non-mandatory information required for each vehicle, including identification, capacity, and relevant document dates.",
+    "navigation": [
+        "Settings Icon",
+        "Institute Setup",
+        "Transport",
+        "Vehicle"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Vehicle'.",
+        "Click on 'New Vehicle'.",
+        "Enter the 'RC Number' (mandatory).",
+        "Enter the 'Seating Capacity' (mandatory).",
+        "Optionally, enter 'Tank Capacity' and 'GPS ID'.",
+        "Enter the 'Insurance Date' (mandatory).",
+        "Optionally, enter 'Insurance Company', 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', and 'Road Tax' details.",
+        "Click 'Add' to save the vehicle details."
+    ],
+    "business_rules": [
+        "RC Number and Seating Capacity are mandatory fields for adding a new vehicle.",
+        "Insurance Date is a mandatory field for adding a new vehicle."
+    ],
+    "important_notes": [
+        "The system allows for the creation of N number of vehicles.",
+        "Existing vehicle details can be updated at any time."
+    ],
+    "questions": [
+        "How do I add a new bus to the system?",
+        "What information is mandatory when adding a vehicle?",
+        "Can I update the details of an existing vehicle?",
+        "Where do I input the seating capacity for a bus?"
+    ],
+    "keywords": [
+        "Vehicle",
+        "Bus",
+        "RC Number",
+        "Seating capacity",
+        "Insurance date",
+        "Add vehicle",
+        "Update vehicle"
+    ],
+    "related_topics": [
+        "Transport Setup Overview",
+        "Vehicle Route Management"
+    ],
+    "id": "transport_vehicle_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

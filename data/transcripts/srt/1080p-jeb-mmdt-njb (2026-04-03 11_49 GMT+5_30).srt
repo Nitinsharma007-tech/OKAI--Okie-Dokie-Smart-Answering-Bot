@@ -1,0 +1,1152 @@
+1
+00:00:30,000 --> 00:00:36,000
+So we have the settings icon where we have to set up, in settings you will have the option
+
+2
+00:00:36,000 --> 00:00:36,979
+of academics.
+
+3
+00:00:38,829 --> 00:00:43,630
+By clicking on academics, you will have various options defined in which you have to work.
+
+4
+00:00:43,850 --> 00:00:45,350
+Sir, is this much clear at the end of all of you?
+
+5
+00:00:46,399 --> 00:00:47,420
+Yes, it is clear.
+
+6
+00:00:48,240 --> 00:00:55,039
+Now what we have to do is create a timetable, so the first step for timetable is to define
+
+7
+00:00:55,039 --> 00:00:59,859
+the subjects in the system, after defining the subjects, you have to define the subject
+
+8
+00:00:59,859 --> 00:01:00,520
+class mapping.
+
+9
+00:01:01,579 --> 00:01:07,260
+So first of all, we have to define the subjects in the system, you have the first option,
+
+10
+00:01:07,540 --> 00:01:12,060
+now I don't have any subject in the system, you have the option at the top, add subject.
+
+11
+00:01:13,709 --> 00:01:20,709
+You will click on this, I am creating a subject, English, subject name, then there is a unique
+
+12
+00:01:20,709 --> 00:01:24,409
+code of the subject, it may be that the name of the subject is common, but there is a code
+
+13
+00:01:24,409 --> 00:01:25,969
+that defines it.
+
+14
+00:01:26,409 --> 00:01:31,290
+I have put the code, three digit code ENG, then it has an assessment model, scholastic
+
+15
+00:01:31,290 --> 00:01:32,950
+subject, course scholastic subject.
+
+16
+00:01:33,230 --> 00:01:37,549
+Scholastic subjects are basically those subjects in which we have to do marks entry.
+
+17
+00:01:38,549 --> 00:01:45,349
+For example, like your GK, your primary classes, GK, which are your small classes, in that
+
+18
+00:01:45,349 --> 00:01:49,530
+case your course is scholastic or in the discipline, basically you use grading criteria for it,
+
+19
+00:01:49,530 --> 00:01:57,790
+teachers enter the grade, so we have created four assessment models.
+
+20
+00:01:58,469 --> 00:02:00,709
+Can I interrupt a little?
+
+21
+00:02:01,329 --> 00:02:02,269
+Yes, yes, tell me.
+
+22
+00:02:02,530 --> 00:02:07,829
+The subject name is English, it will be of everyone, English is in 7th, will this subject
+
+23
+00:02:07,829 --> 00:02:10,009
+code be different for 6th and 7th?
+
+24
+00:02:10,229 --> 00:02:13,530
+No, no, no, no, no, it remains the same, this subject code is defining your subject,
+
+25
+00:02:14,250 --> 00:02:19,509
+it will not define your class, it is only defining your subject, as can be general knowledge,
+
+26
+00:02:19,509 --> 00:02:23,430
+you have to use general knowledge, you have to use GK, so that is done for that.
+
+27
+00:02:24,229 --> 00:02:25,949
+I have made the assessment model scholastic.
+
+28
+00:02:26,490 --> 00:02:32,270
+Sir, we have the option to define class and stream, there are some such subjects, we want
+
+29
+00:02:32,270 --> 00:02:37,150
+that when we create mapping, it should only show in these particular classes, not in all
+
+30
+00:02:38,370 --> 00:02:43,990
+So in that case, you can map a particular class here, for example, there is a subject
+
+31
+00:02:43,990 --> 00:02:49,270
+that I want, only when I make a mapping of 5th and 6th class, it should only display me,
+
+32
+00:02:50,129 --> 00:02:53,430
+it should not display in other classes, it should not be able to add, so in that case
+
+33
+00:02:53,430 --> 00:02:57,830
+I can select this in a particular class, for example, my English is for everyone, so I
+
+34
+00:02:57,830 --> 00:03:03,050
+did not select a particular class, I will just add a simple one, this is my subject
+
+35
+00:03:03,050 --> 00:03:03,449
+added.
+
+36
+00:03:03,949 --> 00:03:07,930
+In this way, you can add subjects according to your classes, or you can add a simple
+
+37
+00:03:07,930 --> 00:03:10,770
+subject in the system, you can add the data of the subjects.
+
+38
+00:03:11,569 --> 00:03:12,870
+Excuse me ma'am.
+
+39
+00:03:12,909 --> 00:03:13,530
+Yes ma'am.
+
+40
+00:03:13,530 --> 00:03:16,469
+Ma'am, can we give the code, is it necessary to give?
+
+41
+00:03:17,150 --> 00:03:21,750
+Ma'am, this is necessary to give, you can add someone else according to your classes,
+
+42
+00:03:21,810 --> 00:03:23,669
+for example, I used ENG for English.
+
+43
+00:03:24,389 --> 00:03:29,229
+In this way, code is considered a mandatory field in our system, code is mandatory.
+
+44
+00:03:29,729 --> 00:03:33,610
+You can add anything according to your classes, you can use HIN for Hindi, you can use MAT
+
+45
+00:03:33,610 --> 00:03:35,409
+for Math, kind of.
+
+46
+00:03:38,520 --> 00:03:41,900
+This was the subject, sir, let's move ahead, is there any query for any subject?
+
+47
+00:03:44,740 --> 00:03:46,060
+No ma'am, it's okay.
+
+48
+00:03:46,740 --> 00:03:52,020
+Okay sir, one more thing I want to clear here, the subjects we have created, it is possible
+
+49
+00:03:52,020 --> 00:03:56,280
+that later you have to change something in the name of the subject, you feel that I have
+
+50
+00:03:56,280 --> 00:03:57,560
+to change its name, right?
+
+51
+00:03:57,860 --> 00:04:01,199
+So in that case, if you have only created this subject so far, I have not added it in
+
+52
+00:04:01,860 --> 00:04:08,219
+any class in mapping, so I can edit it till then, whatever I want to edit in it, but if
+
+53
+00:04:08,219 --> 00:04:13,819
+I have added it in mapping, then I cannot edit it from here, then I can only change
+
+54
+00:04:13,819 --> 00:04:16,839
+its display name, I cannot change the name of the subject.
+
+55
+00:04:18,009 --> 00:04:23,709
+Okay sir, then now we have created the subjects, then we have the created subjects,
+
+56
+00:04:23,829 --> 00:04:26,910
+we have to map them in their respective class, right?
+
+57
+00:04:27,310 --> 00:04:29,290
+That is an option in the subject class mapping.
+
+58
+00:04:30,370 --> 00:04:33,850
+Okay, subject course mapping and subject class mapping, you can call it that.
+
+59
+00:04:34,250 --> 00:04:38,269
+In this, you have the first option, add new subject class mapping, right?
+
+60
+00:04:38,269 --> 00:04:41,370
+You will click on this, then you will define the class, you are making it for the fifth
+
+61
+00:04:41,370 --> 00:04:47,329
+class, there is one option left, we can select multi, you feel that in fifth, sixth, seventh
+
+62
+00:04:47,329 --> 00:04:53,569
+I have common subjects, first you can create three classes together, okay?
+
+63
+00:04:53,730 --> 00:04:56,829
+Class fifth, by default it will select the stream and by default it will select all
+
+64
+00:04:56,829 --> 00:04:58,990
+the sections, okay?
+
+65
+00:04:59,550 --> 00:05:01,990
+I will create a single section now.
+
+66
+00:05:02,670 --> 00:05:07,769
+Then after that, you have to add the detail of the subject, means in class fifth, you have
+
+67
+00:05:07,769 --> 00:05:09,850
+to add all the subjects, you are defining the subjects.
+
+68
+00:05:11,110 --> 00:05:14,910
+Okay, I have added the subject, I have the subject, the subjects that I have created
+
+69
+00:05:14,910 --> 00:05:16,790
+there, its list comes to me here.
+
+70
+00:05:17,050 --> 00:05:18,810
+I will type and select according to the drop down.
+
+71
+00:05:20,189 --> 00:05:24,129
+Now the assessment model that I have added there, my assessment model has come.
+
+72
+00:05:24,610 --> 00:05:28,089
+Then you have the subject type, what is the subject type basically?
+
+73
+00:05:28,730 --> 00:05:32,050
+There are some such subjects for some classes, which are optional subjects,
+
+74
+00:05:32,509 --> 00:05:36,350
+which are also optional, which are not general, which are not common for all students.
+
+75
+00:05:36,350 --> 00:05:37,129
+Okay?
+
+76
+00:05:37,670 --> 00:05:40,209
+So now there is English, English is common for all the students.
+
+77
+00:05:40,949 --> 00:05:45,269
+So all the students in this class, I have to apply this subject from here.
+
+78
+00:05:46,029 --> 00:05:49,629
+There is no such option that two children have it, three children do not have it.
+
+79
+00:05:49,709 --> 00:05:51,029
+So now we will do general.
+
+80
+00:05:51,269 --> 00:05:57,009
+But in case like we have in class fifth, sixth, GK came, drawing came, Punjabi,
+
+81
+00:05:57,110 --> 00:05:58,509
+so all these subjects are optional.
+
+82
+00:05:59,569 --> 00:06:01,529
+Okay, so in that case you can use this option.
+
+83
+00:06:01,529 --> 00:06:04,670
+If you make an option from here, then what will happen from here,
+
+84
+00:06:05,009 --> 00:06:07,430
+you define in subject mapping that it is an optional subject,
+
+85
+00:06:07,610 --> 00:06:08,449
+it will not be applied to all students.
+
+86
+00:06:09,470 --> 00:06:11,050
+And then you will go ahead and define it in the next step.
+
+87
+00:06:13,319 --> 00:06:17,720
+Okay, for now, I will just do this as a general and add it from here.
+
+88
+00:06:20,019 --> 00:06:23,279
+Okay, this is my mapping created, in which one subject has been added.
+
+89
+00:06:23,839 --> 00:06:26,259
+Okay, the rest you had the option from here only.
+
+90
+00:06:26,459 --> 00:06:29,000
+You add more subjects in this, that is, other than this,
+
+91
+00:06:29,000 --> 00:06:30,519
+you will keep adding subjects from here.
+
+92
+00:06:31,620 --> 00:06:35,100
+Okay, next subject, in this way, your whole list will be created,
+
+93
+00:06:35,759 --> 00:06:37,279
+how many subjects are coming in this class.
+
+94
+00:06:38,889 --> 00:06:40,389
+Okay, sir, is there any other query in this part?
+
+95
+00:06:41,269 --> 00:06:43,050
+I will explain it to you.
+
+96
+00:06:43,050 --> 00:06:48,319
+Okay, then what happens with us now,
+
+97
+00:06:48,439 --> 00:06:51,220
+we have created the class, defined the subjects in it.
+
+98
+00:06:51,600 --> 00:06:53,899
+Now basically, who is the class teacher in this class,
+
+99
+00:06:54,319 --> 00:06:57,480
+who is its coordinator, who is the subject's corresponding subject teacher,
+
+100
+00:06:57,600 --> 00:06:58,720
+so we have to define that.
+
+101
+00:06:58,720 --> 00:07:01,560
+Okay, class 5th, class 5th in class A,
+
+102
+00:07:01,680 --> 00:07:03,899
+who is my class teacher, you have a list of employees.
+
+103
+00:07:05,100 --> 00:07:06,819
+Right, the ID of the employees we have created.
+
+104
+00:07:07,240 --> 00:07:10,040
+You will define from here, for example, this is my class teacher,
+
+105
+00:07:10,220 --> 00:07:12,160
+so I have set it here as a class teacher.
+
+106
+00:07:12,560 --> 00:07:16,759
+You can also assign a coordinator to any other employee.
+
+107
+00:07:17,120 --> 00:07:18,939
+Okay, in class teacher, we have an option,
+
+108
+00:07:19,259 --> 00:07:21,379
+that we can map a single employee,
+
+109
+00:07:22,240 --> 00:07:23,680
+because the class teacher is always single for a class.
+
+110
+00:07:24,500 --> 00:07:27,399
+But if you want to do multiple,
+
+111
+00:07:27,399 --> 00:07:29,279
+then you can use the coordinator,
+
+112
+00:07:30,060 --> 00:07:32,740
+you can map all the coordinators for this class.
+
+113
+00:07:34,500 --> 00:07:35,740
+Okay, and one more thing,
+
+114
+00:07:36,100 --> 00:07:37,899
+those who are mapped by the class teacher and coordinator,
+
+115
+00:07:39,420 --> 00:07:41,540
+they have all the subjects of a particular class,
+
+116
+00:07:42,339 --> 00:07:43,420
+so they have access to all those subjects.
+
+117
+00:07:45,639 --> 00:07:48,160
+Now you feel that you have to give a single class,
+
+118
+00:07:48,740 --> 00:07:50,079
+sorry, you have to give a single subject,
+
+119
+00:07:50,079 --> 00:07:51,639
+for example, if it is a subject teacher,
+
+120
+00:07:52,180 --> 00:07:53,639
+then from here, the subject teacher is mapped.
+
+121
+00:07:54,060 --> 00:07:55,779
+In the same subject teacher, you also have an option,
+
+122
+00:07:55,899 --> 00:07:57,199
+you can set multiple subject teachers.
+
+123
+00:08:00,170 --> 00:08:01,930
+Okay, this was our teacher mapping.
+
+124
+00:08:02,110 --> 00:08:04,290
+Now there is one more thing, as I told you,
+
+125
+00:08:04,389 --> 00:08:06,910
+by chance you feel that the name of the subject,
+
+126
+00:08:07,329 --> 00:08:08,730
+I have to define something else.
+
+127
+00:08:09,009 --> 00:08:10,350
+So in that case, this is the display name,
+
+128
+00:08:10,350 --> 00:08:12,050
+now the display name that you give,
+
+129
+00:08:12,949 --> 00:08:16,750
+as you will accentuate the visible at the end of the student,
+
+130
+00:08:17,490 --> 00:08:19,629
+then that display name will appear,
+
+131
+00:08:19,889 --> 00:08:21,829
+which you will give the display name here.
+
+132
+00:08:24,800 --> 00:08:27,319
+Okay sir, if I will edit this normal from here,
+
+133
+00:08:29,120 --> 00:08:30,980
+I have done this single subject,
+
+134
+00:08:32,000 --> 00:08:36,039
+now I will edit it, so I have this teacher map in it.
+
+135
+00:08:38,399 --> 00:08:40,960
+Okay, it is showing you that the subject of English,
+
+136
+00:08:41,620 --> 00:08:42,860
+what is the inflow added in it.
+
+137
+00:08:42,860 --> 00:08:45,399
+This is what I have created right now,
+
+138
+00:08:45,399 --> 00:08:46,860
+I have not assigned it to anyone,
+
+139
+00:08:47,019 --> 00:08:48,480
+because this is what I have done to show you,
+
+140
+00:08:48,700 --> 00:08:50,039
+I have put the display name ENG,
+
+141
+00:08:50,159 --> 00:08:52,840
+so now I have ENG name everywhere.
+
+142
+00:08:53,970 --> 00:08:55,809
+Okay sir, we have this edit,
+
+143
+00:08:56,289 --> 00:08:57,669
+after every mapping is created,
+
+144
+00:08:58,230 --> 00:08:59,590
+whatever changes you want to make further,
+
+145
+00:08:59,590 --> 00:09:01,129
+you can make changes from here.
+
+146
+00:09:02,279 --> 00:09:06,379
+Then we have the option to assign by default,
+
+147
+00:09:06,480 --> 00:09:08,840
+all the general subjects added,
+
+148
+00:09:09,360 --> 00:09:11,539
+you will select them from here,
+
+149
+00:09:12,620 --> 00:09:15,399
+if you assign them, then they will be assigned to all the students in the class.
+
+150
+00:09:15,700 --> 00:09:16,460
+I am not doing it right now,
+
+151
+00:09:16,659 --> 00:09:18,600
+because we are making it according to the test,
+
+152
+00:09:18,980 --> 00:09:20,279
+so I am not assigning the students.
+
+153
+00:09:21,600 --> 00:09:22,700
+Okay sir, let's move forward with this part.
+
+154
+00:09:27,059 --> 00:09:32,090
+Okay sir, tell me one thing, do you have the criteria of optional subjects?
+
+155
+00:09:32,090 --> 00:09:36,659
+Do you have the criteria of optional subjects?
+
+156
+00:09:36,659 --> 00:09:37,759
+Yes sir, absolutely.
+
+157
+00:09:38,059 --> 00:09:39,980
+Okay sir, I will explain it once.
+
+158
+00:09:40,259 --> 00:09:43,059
+For example, the subject I have is an optional subject,
+
+159
+00:09:43,639 --> 00:09:45,259
+or it can be additional or vocational,
+
+160
+00:09:45,320 --> 00:09:47,779
+you have to set it according to that,
+
+161
+00:09:47,779 --> 00:09:50,120
+then you have to edit it.
+
+162
+00:09:54,159 --> 00:09:56,220
+After that, you have defined it as optional,
+
+163
+00:09:56,879 --> 00:09:58,600
+but from here you can put it in bulk,
+
+164
+00:09:58,600 --> 00:09:59,480
+then you can assign it to all the students.
+
+165
+00:10:00,580 --> 00:10:03,000
+If it is an optional subject, then it will not be assigned to all,
+
+166
+00:10:03,000 --> 00:10:03,879
+but it will be assigned to some students.
+
+167
+00:10:05,559 --> 00:10:09,759
+For that, you have a separate option for the assigned subject.
+
+168
+00:10:11,379 --> 00:10:13,240
+We assign the optional subjects from here,
+
+169
+00:10:13,399 --> 00:10:14,679
+you have selected the class,
+
+170
+00:10:15,480 --> 00:10:18,220
+you have a list of the students of that class.
+
+171
+00:10:20,610 --> 00:10:23,049
+Now, which of these students
+
+172
+00:10:23,049 --> 00:10:25,070
+do you want to assign the English optional subject to?
+
+173
+00:10:25,070 --> 00:10:26,649
+So, you will select from here,
+
+174
+00:10:26,850 --> 00:10:28,429
+the students you have selected,
+
+175
+00:10:30,710 --> 00:10:34,009
+after selecting, you have the option of assigned subject.
+
+176
+00:10:35,230 --> 00:10:36,889
+You have created that option there,
+
+177
+00:10:36,970 --> 00:10:38,970
+and here you will get that subject.
+
+178
+00:10:41,009 --> 00:10:43,490
+As soon as you add this subject,
+
+179
+00:10:43,490 --> 00:10:44,529
+it will only be assigned to those students
+
+180
+00:10:44,529 --> 00:10:47,070
+whom you have selected, not to all.
+
+181
+00:10:54,200 --> 00:10:55,580
+It will be assigned to all the students
+
+182
+00:10:55,580 --> 00:10:57,279
+from here.
+
+183
+00:10:57,840 --> 00:11:00,100
+Let me tell you again,
+
+184
+00:11:00,360 --> 00:11:01,460
+you have mapped it as a general,
+
+185
+00:11:02,879 --> 00:11:05,220
+you have to map it as a general instead of optional.
+
+186
+00:11:06,279 --> 00:11:07,320
+As soon as you have mapped it as a general,
+
+187
+00:11:07,860 --> 00:11:09,019
+you can also assign it directly from here.
+
+188
+00:11:10,419 --> 00:11:13,679
+I am not doing it now, it will be assigned to all the students.
+
+189
+00:11:13,759 --> 00:11:15,440
+Normally, you will assign it to all the students.
+
+190
+00:11:21,889 --> 00:11:24,309
+Otherwise, you have the option from outside,
+
+191
+00:11:24,309 --> 00:11:25,789
+you have the same icon from here,
+
+192
+00:11:26,029 --> 00:11:27,590
+if you select and assign it, it will be assigned to all the students.
+
+193
+00:11:30,629 --> 00:11:32,830
+Then, this was the part of creating the subject,
+
+194
+00:11:33,570 --> 00:11:34,730
+of creating the subject class mapping.
+
+195
+00:11:35,710 --> 00:11:37,629
+Now, according to this, we will define our timetable.
+
+196
+00:11:38,929 --> 00:11:42,529
+For that, you will have the option of timetable.
+
+197
+00:11:44,519 --> 00:11:45,559
+You will do that part,
+
+198
+00:11:45,919 --> 00:11:47,740
+and from here, we will define the timetable,
+
+199
+00:11:47,980 --> 00:11:50,159
+that in one class, this is the subject, this is the teacher,
+
+200
+00:11:50,159 --> 00:11:51,639
+how you have mapped it in the future.
+
+201
+00:11:53,000 --> 00:11:55,019
+For example, I will create a timetable,
+
+202
+00:11:55,399 --> 00:11:56,759
+add new timetable.
+
+203
+00:11:58,129 --> 00:12:00,889
+You have selected the class, I have a single class in mapping.
+
+204
+00:12:01,169 --> 00:12:02,570
+So, you are making a timetable of a single class.
+
+205
+00:12:04,450 --> 00:12:05,909
+After that, add a new schedule.
+
+206
+00:12:06,649 --> 00:12:09,330
+Now, you will define it, you will get the lecture number.
+
+207
+00:12:10,250 --> 00:12:12,990
+Lecture number 1, when is your lecture number 1 starting?
+
+208
+00:12:13,190 --> 00:12:15,549
+Start time, end time, or just a minute.
+
+209
+00:12:30,610 --> 00:12:33,879
+Start time, end time, or just a minute.
+
+210
+00:12:34,240 --> 00:12:34,679
+Start time, end time, or just a minute.
+
+211
+00:12:36,370 --> 00:12:36,909
+Yes, sir.
+
+212
+00:12:37,429 --> 00:12:40,389
+Shall we continue, sir?
+
+213
+00:12:43,129 --> 00:12:44,149
+One minute.
+
+214
+00:12:45,330 --> 00:12:46,750
+What we have to do is add a schedule.
+
+215
+00:12:47,190 --> 00:12:49,629
+In the schedule, first we have lecture number 1.
+
+216
+00:12:49,970 --> 00:12:54,570
+In the fifth class, when is the lecture number 1 starting?
+
+217
+00:12:54,669 --> 00:12:57,909
+For example, my exact start time is 8 am.
+
+218
+00:12:59,600 --> 00:13:04,240
+From 8 am to 8.45 am is my first lecture.
+
+219
+00:13:04,980 --> 00:13:08,639
+From 8.45 am to 8.45 am is my first lecture.
+
+220
+00:13:08,799 --> 00:13:09,399
+From 8.45 am to 8.45 am is my first lecture.
+
+221
+00:13:09,399 --> 00:13:10,279
+From 8.45 am to 8.45 am is my first lecture.
+
+222
+00:13:10,279 --> 00:13:12,220
+After that, you can save this schedule.
+
+223
+00:13:13,500 --> 00:13:15,519
+Or you can add more lectures after this.
+
+224
+00:13:15,559 --> 00:13:16,519
+You have defined the second lecture.
+
+225
+00:13:18,080 --> 00:13:20,419
+First lecture is my 8.2, 8.40.
+
+226
+00:13:20,559 --> 00:13:22,879
+Then automatically, lecture 2 starts from 8.40.
+
+227
+00:13:22,879 --> 00:13:26,399
+From 8.40 am to 8.40 am is my second lecture.
+
+228
+00:13:26,600 --> 00:13:28,600
+Can you tell me sir, when is your second lecture?
+
+229
+00:13:29,059 --> 00:13:31,620
+From 9.20 am to 9.20 am.
+
+230
+00:13:32,419 --> 00:13:33,840
+Now I am creating only two lectures.
+
+231
+00:13:34,600 --> 00:13:37,320
+I have created two lectures, saved the schedule.
+
+232
+00:13:37,720 --> 00:13:38,840
+I am asking for all the schedules.
+
+233
+00:13:39,059 --> 00:13:41,759
+Sir, you have to add all the timings.
+
+234
+00:13:43,120 --> 00:13:47,320
+From 9.20 am to 9.20 am is my third lecture.
+
+235
+00:13:47,919 --> 00:13:51,730
+From 10.00 am to 10.00 am is my third lecture.
+
+236
+00:13:52,879 --> 00:13:56,259
+Then your fourth lecture will come.
+
+237
+00:13:57,460 --> 00:13:58,139
+How long is your fourth lecture?
+
+238
+00:13:59,669 --> 00:14:02,120
+From 10.40 am to 10.40 am.
+
+239
+00:14:02,539 --> 00:14:04,299
+When is your break after this?
+
+240
+00:14:04,480 --> 00:14:07,139
+After 10.40 am, I have a break of 10 minutes.
+
+241
+00:14:07,539 --> 00:14:09,919
+So this is your break in lecture 5.
+
+242
+00:14:11,120 --> 00:14:13,320
+Yes, I have a break of 10.50 am.
+
+243
+00:14:17,080 --> 00:14:19,600
+Then your lecture is 6.
+
+244
+00:14:22,129 --> 00:14:25,830
+This is from 10.50 am to 11.30 am.
+
+245
+00:14:30,149 --> 00:14:32,529
+From 11.30 am to 11.30 am.
+
+246
+00:14:40,370 --> 00:14:46,860
+Then you can do it from 11.30 am.
+
+247
+00:14:46,919 --> 00:14:49,659
+Then it will be a break of 35 minutes.
+
+248
+00:15:03,539 --> 00:15:04,820
+Then you can do it from 11.30 am to 12.40 am.
+
+249
+00:15:04,820 --> 00:15:11,309
+Then you can do it from 12.40 am.
+
+250
+00:15:11,370 --> 00:15:13,309
+Then you can do it from 11.30 am.
+
+251
+00:15:13,309 --> 00:15:19,309
+Yes, after 6.00 am there will be a break.
+
+252
+00:15:20,539 --> 00:15:22,480
+Was it after 6.00 am?
+
+253
+00:15:23,120 --> 00:15:24,659
+No, they will do it from there.
+
+254
+00:17:51,859 --> 00:17:53,460
+Wednesday, Thursday, Friday, Saturday,
+
+255
+00:17:53,599 --> 00:17:54,259
+how is the subject?
+
+256
+00:17:55,460 --> 00:18:01,000
+You have to add the name of the subject.
+
+257
+00:18:01,000 --> 00:18:02,579
+Right now there is a single subject.
+
+258
+00:18:03,019 --> 00:18:03,599
+You will add the subject.
+
+259
+00:18:04,960 --> 00:18:07,579
+Employee, I have selected two teachers
+
+260
+00:18:07,579 --> 00:18:08,759
+for English for the subject.
+
+261
+00:18:10,700 --> 00:18:12,359
+I will push and I will get the subject.
+
+262
+00:18:14,539 --> 00:18:16,240
+I will remove it.
+
+263
+00:18:17,569 --> 00:18:19,029
+You can also remove it from here.
+
+264
+00:18:19,329 --> 00:18:20,450
+I clicked on it.
+
+265
+00:18:20,450 --> 00:18:23,579
+Subject, English, employee's name.
+
+266
+00:18:23,579 --> 00:18:27,000
+Push and the teacher will map it.
+
+267
+00:18:27,759 --> 00:18:30,319
+If you feel there is someone else on Tuesday,
+
+268
+00:18:30,519 --> 00:18:31,440
+then the same option will be there.
+
+269
+00:18:31,920 --> 00:18:34,160
+If you feel you have to define the break,
+
+270
+00:18:34,359 --> 00:18:35,420
+then define the break from here.
+
+271
+00:18:35,619 --> 00:18:36,859
+Then define the break from here.
+
+272
+00:18:38,529 --> 00:18:40,450
+You can also run two subjects at the same time.
+
+273
+00:18:41,369 --> 00:18:42,990
+There is also an option for another.
+
+274
+00:18:43,940 --> 00:18:45,180
+If there is someone else here,
+
+275
+00:18:45,279 --> 00:18:46,059
+then you can add that too.
+
+276
+00:18:49,710 --> 00:18:51,430
+On Monday, Tuesday, Wednesday,
+
+277
+00:18:51,569 --> 00:18:52,069
+it is proper.
+
+278
+00:18:52,329 --> 00:18:53,670
+Simply define the subject.
+
+279
+00:18:53,670 --> 00:18:56,630
+Define the subject and push from there.
+
+280
+00:18:56,730 --> 00:18:57,390
+On that date,
+
+281
+00:18:58,029 --> 00:18:59,309
+there is a break in that time period.
+
+282
+00:18:59,990 --> 00:19:00,549
+If you click on that and turn on the toggle
+
+283
+00:19:00,549 --> 00:19:03,029
+of this break, then it will be your break.
+
+284
+00:19:04,329 --> 00:19:05,589
+Same push and remove.
+
+285
+00:19:05,589 --> 00:19:06,849
+Both options are there.
+
+286
+00:19:08,089 --> 00:19:13,640
+In this much part,
+
+287
+00:19:13,700 --> 00:19:15,799
+how to create a timetable in a query?
+
+288
+00:19:29,950 --> 00:19:31,150
+Bye.
+

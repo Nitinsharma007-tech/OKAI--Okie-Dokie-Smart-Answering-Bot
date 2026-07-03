@@ -1,0 +1,38 @@
+{
+    "module": "System Configuration",
+    "topic": "ERP System Segments and Branches",
+    "summary": "The ERP system allows for the creation of segments to represent different physical locations or organizational units, such as a main store or institute branches. Each distinct location or branch requires its own segment within the system.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [
+        "To maintain a main store, a segment must be created.",
+        "To manage an institute with two branches, two distinct branch segments must be configured within the same system panel."
+    ],
+    "important_notes": [
+        "Inventory masters, transactions, and reports will be managed and available separately for each segment or branch."
+    ],
+    "questions": [
+        "How do I configure segments for different store locations in the ERP?",
+        "What is the purpose of segments in the ERP system?",
+        "Can an institute have multiple branches within the same ERP panel?",
+        "How does segment creation impact inventory management?"
+    ],
+    "keywords": [
+        "ERP segments",
+        "main store setup",
+        "institute branches",
+        "system configuration",
+        "multi-branch setup",
+        "organizational structure"
+    ],
+    "related_topics": [
+        "Inventory Management Overview",
+        "Organizational Structure Setup"
+    ],
+    "id": "system_configuration_erp_system_segments_and_branches",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

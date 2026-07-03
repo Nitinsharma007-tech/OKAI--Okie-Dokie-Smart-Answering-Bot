@@ -1,0 +1,44 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Collection Process and Student Search",
+    "summary": "Describes the initial steps for collecting fees, including navigating to the collect fee option and searching for a student using various criteria.",
+    "navigation": [
+        "Dashboard > Collect Fee",
+        "Dashboard > Collect Fee Online (alternative for online payments)"
+    ],
+    "steps": [
+        "Navigate to the 'Collect Fee' option.",
+        "Search for the student using their name, registration number, father's name, or phone number.",
+        "Verify the student's details displayed on the interface.",
+        "Click on the student's record to open the fee collection section."
+    ],
+    "business_rules": [
+        "Multiple options are available for fee collection ('Collect Fee', 'Collect Fee Online')."
+    ],
+    "important_notes": [
+        "The 'Collect Fee Online' option can be used for online payments, or online payments can also be processed through the general 'Collect Fee' option."
+    ],
+    "questions": [
+        "How do I collect fees from a student?",
+        "What are the different ways to search for a student for fee collection?",
+        "Can I collect online fees through the general collect fee option?"
+    ],
+    "keywords": [
+        "Collect Fee",
+        "student search",
+        "fee collection",
+        "registration number",
+        "online fee",
+        "student verification"
+    ],
+    "related_topics": [
+        "Student Management",
+        "Fee Payment Modes"
+    ],
+    "id": "fee_management_fee_collection_process_and_student_search",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

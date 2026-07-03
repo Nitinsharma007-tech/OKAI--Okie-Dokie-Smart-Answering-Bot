@@ -1,0 +1,50 @@
+{
+    "module": "Fee Management",
+    "topic": "Managing Fee Installments and Head Sequence during Collection",
+    "summary": "Explains how to handle fee installments, manually adjust amounts, and the importance of the fee head sequence during fee collection.",
+    "navigation": [
+        "Fee Collection Section (after selecting a student)"
+    ],
+    "steps": [
+        "View the fee demand, which includes installments.",
+        "By default, the first installment due will be selected based on the date.",
+        "Select specific installments or 'Select All' to include all installments.",
+        "To manually enter a partial amount, directly input the amount in the designated field. The system will allocate this amount based on the predefined fee head sequence.",
+        "Alternatively, manually adjust amounts for individual fee heads if needed."
+    ],
+    "business_rules": [
+        "Installments are automatically selected based on due dates.",
+        "The system prioritizes fee heads based on a predefined sequence when a partial payment is made."
+    ],
+    "important_notes": [
+        "The fee head sequence is configurable.",
+        "Default fee head sequence: Security > Tuition Fee > Transport > Hostel > Student Funds > Development Funds > Fines/Recharges."
+    ],
+    "questions": [
+        "How do I apply a partial payment to a student's fee?",
+        "What is the default sequence for fee heads when collecting fees?",
+        "Can I change the fee head sequence?",
+        "How do I select multiple installments for payment?"
+    ],
+    "keywords": [
+        "Fee installments",
+        "fee demand",
+        "partial payment",
+        "fee head sequence",
+        "tuition fee",
+        "security",
+        "transport",
+        "hostel",
+        "manual amount entry"
+    ],
+    "related_topics": [
+        "Fee Structure Configuration",
+        "Concession Management"
+    ],
+    "id": "fee_management_managing_fee_installments_and_head_sequence_during_collection",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

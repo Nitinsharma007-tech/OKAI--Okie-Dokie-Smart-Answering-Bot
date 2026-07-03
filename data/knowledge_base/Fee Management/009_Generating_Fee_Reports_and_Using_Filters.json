@@ -1,0 +1,59 @@
+{
+    "module": "Fee Management",
+    "topic": "Generating Fee Reports and Using Filters",
+    "summary": "This topic explains how to access various fee reports within the ERP, with a specific focus on the 'Due Fee' report and its filtering capabilities to identify students with pending fees, active students, or those who have not made any payments for a session.",
+    "navigation": [
+        "Fee Reports",
+        "Due Fee"
+    ],
+    "steps": [
+        "Navigate to 'Fee Reports' from the main menu.",
+        "Select the 'Due Fee' report.",
+        "Apply desired filters to refine the report data:",
+        "  - **Class, Stream, Batch:** To narrow down the student population.",
+        "  - **Show student with zero dues:** Select 'No' to view only students with pending dues, or 'Yes' to include all students.",
+        "  - **Awake Status:** Select 'No' to specifically identify students who have not paid any fees for the current session (i.e., defaulted students).",
+        "Once filters are applied, the report will display the relevant student data.",
+        "Optionally, export the filtered data to Excel for further analysis."
+    ],
+    "business_rules": [
+        "The 'Awake Status' filter helps distinguish between students who have made at least some payment for the current session and those who haven't.",
+        "The 'Show student with zero dues' filter is used to focus on students with outstanding payments."
+    ],
+    "important_notes": [
+        "The ERP offers multiple fee reports, including 'Daily fee report' and 'Combined daily collection'.",
+        "The 'Due Fee' report is essential for managing outstanding payments and identifying defaulters.",
+        "Filters enable precise data extraction for targeted analysis.",
+        "Currently, an amount-wise filter (e.g., filtering students who paid exactly 10,000) is not available but can be requested for future development."
+    ],
+    "questions": [
+        "How can I generate a report of students with outstanding fees?",
+        "What filtering options are available in the 'Due Fee' report?",
+        "How do I find a list of students who have not paid any fees for the current academic session?",
+        "Can I filter the fee report by a specific amount paid by students?",
+        "How do I export fee reports to an Excel file?"
+    ],
+    "keywords": [
+        "Fee reports",
+        "due fee",
+        "pending fees",
+        "defaulters",
+        "filters",
+        "class filter",
+        "stream filter",
+        "batch filter",
+        "zero dues",
+        "awake status",
+        "export to Excel"
+    ],
+    "related_topics": [
+        "Collecting Student Fees (General)",
+        "Student Data Management"
+    ],
+    "id": "fee_management_generating_fee_reports_and_using_filters",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

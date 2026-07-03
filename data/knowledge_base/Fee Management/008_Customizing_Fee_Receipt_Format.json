@@ -1,0 +1,49 @@
+{
+    "module": "Fee Management",
+    "topic": "Customizing Fee Receipt Format",
+    "summary": "This topic covers the ability to customize the format of fee receipts, including integrating the institution's logo and adjusting the display of fee heads, installments, and remarks.",
+    "navigation": [
+        "System Setup",
+        "Receipt Configuration"
+    ],
+    "steps": [
+        "As an administrator or configurator, provide the institution's logo to the ERP team for integration into the receipt template.",
+        "If a specific custom design is required, provide detailed design specifications to the ERP team.",
+        "Otherwise, the system will use a default customizable template that can be adjusted."
+    ],
+    "business_rules": [
+        "Fee receipts will display the collected amount, any entered remarks, and details of the fee heads and installments paid."
+    ],
+    "important_notes": [
+        "The institution's logo can be prominently displayed on the fee receipt.",
+        "The receipt format can be fully customized to meet specific institutional requirements.",
+        "Remarks entered during the fee collection process will be printed on the receipt.",
+        "Concession details, if applied, will also be visible on the receipt."
+    ],
+    "questions": [
+        "Can I customize the layout and content of the fee receipt?",
+        "How do I add our institution's logo to the fee receipts?",
+        "Will the fee receipt show details of concessions applied?",
+        "What information is typically included on the fee receipt?",
+        "Can the display of fee heads and installments on the receipt be changed?"
+    ],
+    "keywords": [
+        "Fee receipt",
+        "receipt format",
+        "receipt customization",
+        "logo integration",
+        "fee head display",
+        "installment display",
+        "remarks on receipt",
+        "template customization"
+    ],
+    "related_topics": [
+        "Collecting Student Fees (General)"
+    ],
+    "id": "fee_management_customizing_fee_receipt_format",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

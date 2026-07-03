@@ -1,0 +1,71 @@
+{
+    "module": "Transport",
+    "topic": "Vehicle Route Management",
+    "summary": "This topic explains how to define and manage vehicle routes, which include assigning a vehicle, specifying pick-up/drop points, timings, and associated charges. It also covers options for copying routes from previous sessions and bulk uploading pick-up points via Excel.",
+    "navigation": [
+        "Settings Icon",
+        "Institute Setup",
+        "Transport",
+        "Vehicle Route"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Vehicle Route'.",
+        "To create a new route, click 'New Vehicle Route'.",
+        "Enter the 'Route Name' (e.g., Route 1).",
+        "Select the 'Vehicle' that will operate on this route from the dropdown list.",
+        "Optionally, select 'Skip Installment(s)' if transport fees should not be charged for specific installments (e.g., June).",
+        "Optionally, assign 'Employee(s)' (drivers) to the route.",
+        "To add pick-up points manually:",
+        "  Enter 'Pick-up Point Name' (e.g., Ansal).",
+        "  Enter 'Pick-up Time' (e.g., 6 a.m.).",
+        "  Enter 'Drop Time' (e.g., 4 p.m.).",
+        "  Enter the 'Amount' for this pick-up point (e.g., 2000).",
+        "  Optionally, enter 'Longitude' and 'Latitude' for GPS tracking.",
+        "  Click 'Add' to save the pick-up point. Repeat for multiple points.",
+        "To add pick-up points in bulk via Excel:",
+        "  Click 'Upload Pick-up Point'.",
+        "  Download the 'Sample Excel' to understand the required format.",
+        "  Prepare your Excel file with 'Pick-up Point Name', 'Amount', 'Pick-up Time', 'Drop Time', 'Latitude', and 'Longitude' (Pick-up/Drop Time, Latitude/Longitude are non-mandatory for Excel upload).",
+        "  Choose the prepared Excel file.",
+        "  Click 'Submit' to upload the data."
+    ],
+    "business_rules": [
+        "Transport fees for selected 'Skip Installment(s)' will not be charged to students assigned to this route.",
+        "Employee data for drivers must be pre-configured in the HRM module to be available for assignment.",
+        "When uploading pick-up points via Excel, 'Pick-up Point Name' and 'Amount' are mandatory. 'Pick-up Time', 'Drop Time', 'Latitude', and 'Longitude' are non-mandatory."
+    ],
+    "important_notes": [
+        "The 'Copy from Session' feature allows duplicating vehicle routes from a previous academic session.",
+        "The system will generate an error file if there are issues during Excel upload (e.g., missing mandatory data).",
+        "Existing pick-up points can be edited or new ones added to an existing route."
+    ],
+    "questions": [
+        "How do I define a new bus route?",
+        "What is the purpose of the 'Skip Installment' option in vehicle route setup?",
+        "Can I assign multiple drivers to a single route?",
+        "How can I add many pick-up points to a route efficiently?",
+        "What fields are mandatory when adding pick-up points manually?",
+        "What happens if my Excel upload for pick-up points has errors?"
+    ],
+    "keywords": [
+        "Vehicle route",
+        "Route management",
+        "Pick-up point",
+        "Drop point",
+        "Skip installment",
+        "Assign driver",
+        "Bulk upload",
+        "Excel upload",
+        "Route charges"
+    ],
+    "related_topics": [
+        "Vehicle Management",
+        "Student Transport Assignment"
+    ],
+    "id": "transport_vehicle_route_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

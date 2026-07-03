@@ -1,0 +1,47 @@
+{
+    "module": "Inventory",
+    "topic": "Managing Inventory Items",
+    "summary": "The foundational step in inventory management is to create master data for all items in the system. This involves creating new items, viewing existing items, and editing their details. Examples of items include tables, chairs, pens, pencils, and chalk.",
+    "navigation": [
+        "Inventory",
+        "Masters",
+        "Items"
+    ],
+    "steps": [
+        "Navigate to the 'Items' section within 'Inventory Masters'.",
+        "Create new items.",
+        "View existing items.",
+        "Edit created items."
+    ],
+    "business_rules": [
+        "All items (e.g., table, chair, pen, pencil, chalk) must have their data created in the system before they can be used in transactions."
+    ],
+    "important_notes": [
+        "This is a crucial first step for accurate inventory tracking and management."
+    ],
+    "questions": [
+        "How do I create a new item in inventory?",
+        "Where can I view existing inventory items?",
+        "What is the process for editing an item's details?",
+        "What information is required for an item master record?"
+    ],
+    "keywords": [
+        "Inventory items",
+        "item master",
+        "create item",
+        "view item",
+        "edit item",
+        "inventory management setup"
+    ],
+    "related_topics": [
+        "Inventory Masters - Units",
+        "Creating an Item",
+        "Item Group Management"
+    ],
+    "id": "inventory_managing_inventory_items",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

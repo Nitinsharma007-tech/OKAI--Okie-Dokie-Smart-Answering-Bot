@@ -1,0 +1,55 @@
+{
+    "module": "Transport",
+    "topic": "Assigning Transport to Students (Manually)",
+    "summary": "This topic outlines the process of manually assigning a specific vehicle route and pick-up point to an individual student. The system automatically calculates and adds the corresponding transport fees to the student's fee demand based on the assigned route and pick-up point.",
+    "navigation": [
+        "Student List",
+        "Select Student",
+        "Detail",
+        "Assign Route"
+    ],
+    "steps": [
+        "Navigate to 'Student List' and select the desired student.",
+        "Click on the 'Detail' option for the student.",
+        "Click on 'Assign Route'.",
+        "In the pop-up window, select the 'Vehicle Route' from the dropdown list.",
+        "Select the 'Pick-up Point' from the dropdown list (points associated with the selected route will appear).",
+        "The 'Amount' for the selected pick-up point will be automatically fetched.",
+        "Confirm or select the 'Drop Point' (can be the same as pick-up or different if toggled).",
+        "Select the 'Installment(s)' for which the transport fee should be applied.",
+        "Click 'Assign' to save the transport assignment."
+    ],
+    "business_rules": [
+        "The system automatically fetches the transport amount based on the selected pick-up point and route.",
+        "Upon assignment, the transport amount is automatically added to the student's fee demand for the selected installments."
+    ],
+    "important_notes": [
+        "This method is suitable for individual student assignments or modifications, whereas 'Transport Excel Upload' is for bulk assignments.",
+        "The system confirms successful route assignment to the student."
+    ],
+    "questions": [
+        "How do I manually assign a transport route to a single student?",
+        "Will the transport fees be automatically added to the student's demand after manual assignment?",
+        "Can I select different drop points than pick-up points during manual assignment?",
+        "What happens after I assign a route to a student manually?"
+    ],
+    "keywords": [
+        "Assign route",
+        "Manual transport assignment",
+        "Student profile",
+        "Vehicle route",
+        "Pick-up point",
+        "Transport amount",
+        "Fee demand"
+    ],
+    "related_topics": [
+        "Vehicle Route Management",
+        "Assigning Transport to Students (Bulk Upload)"
+    ],
+    "id": "transport_assigning_transport_to_students_manually",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

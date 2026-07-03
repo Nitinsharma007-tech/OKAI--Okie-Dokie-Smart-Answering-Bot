@@ -1,0 +1,62 @@
+{
+    "module": "Fee Management",
+    "topic": "Collecting Online Fees",
+    "summary": "This topic outlines the two methods for handling online fee collection: directly through the ERP's integrated payment gateway (Razorpay) or by recording an online payment received via external channels (e.g., shared QR scanner).",
+    "navigation": [
+        "Collect Fee",
+        "Collect Fee Online"
+    ],
+    "steps": [
+        "**Method 1: Direct Online Collection (via ERP Payment Gateway)**",
+        "1. Navigate to 'Collect Fee' or 'Collect Fee Online'.",
+        "2. Search and select the student as you would for general fee collection.",
+        "3. Select 'Online' as the payment mode.",
+        "4. The system will redirect to the integrated payment gateway (Razorpay).",
+        "5. The student completes the payment using available options (e.g., scanner, card).",
+        "6. Upon successful payment, the transaction is processed, and a receipt is generated.",
+        "**Method 2: Recording External Online Payment**",
+        "1. Navigate to 'Collect Fee'.",
+        "2. Search and select the student.",
+        "3. Select 'Online' as the payment mode.",
+        "4. Choose the relevant institute bank where the payment was received.",
+        "5. Enter the reference number corresponding to the external online payment.",
+        "6. Select the date of the payment.",
+        "7. Add any optional remarks.",
+        "8. Click 'Collect' to record the fee."
+    ],
+    "business_rules": [
+        "Razorpay is the integrated payment gateway for direct online collections.",
+        "Recording external online payments requires selecting the institute bank, providing a reference number, and the payment date."
+    ],
+    "important_notes": [
+        "The ERP supports both direct online payments and the manual recording of payments made through external online channels.",
+        "For direct online payments, the system handles the redirection to the payment gateway.",
+        "Payment gateway charges may apply, and their exact rates should be confirmed with Razorpay."
+    ],
+    "questions": [
+        "How can I process an online fee payment directly through the ERP?",
+        "What is the procedure for recording an online payment that a student made using an external scanner?",
+        "Which payment gateway is integrated for online fee collection?",
+        "Will there be additional charges for online fee transactions?"
+    ],
+    "keywords": [
+        "Online fee collection",
+        "payment gateway",
+        "Razorpay",
+        "external online payment",
+        "institute banks",
+        "reference number",
+        "payment charges",
+        "QR code payment"
+    ],
+    "related_topics": [
+        "Collecting Student Fees (General)",
+        "Payment Gateway Charges"
+    ],
+    "id": "fee_management_collecting_online_fees",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

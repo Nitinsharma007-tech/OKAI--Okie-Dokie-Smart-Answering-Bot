@@ -1,0 +1,177 @@
+number of segments created.
+If you want to keep a main store,
+you have to keep a segment.
+If you want to keep an institute,
+you have to have two branches.
+You have one here and one there.
+So you have to have two branches
+in the same panel.
+Then you have the masters
+in the inventory.
+In the masters, in the transactions,
+whether it is a report,
+you will get the inventory separately
+in which you will work.
+Right.
+The first step is
+to have masters created in the system.
+Like in your institute,
+the data of all the items
+should be in this.
+So in the inventory, you will have items
+like your table, chair, pen, pencil, chalk
+etc.
+So in the first level,
+you have to create your items
+You have to view the existing items.
+You have to edit the created items.
+So this is the option.
+In the same way,
+you have units like items.
+For example,
+your chemical will be in liters.
+It will be in liters.
+Erasers will be in your pieces.
+Like furniture,
+it will be in your numbers.
+In which unit will you save it?
+So that is the unit.
+Now I will tell you how to create an item.
+You will click on create.
+In this way, your interface will open.
+This item code is non-mandatory.
+For example,
+you have erasers.
+You have two types of erasers.
+You have to define them by code.
+Or you can keep them even.
+Whatever code you have,
+you can do it according to your code.
+It means that it is non-mandatory.
+So I have created erasers.
+Which item will be in your group?
+Is it stationary data?
+Is it an instrument?
+In case you feel that you are putting an item group
+which does not exist in the item group.
+So you have an icon here.
+You can create your item group here.
+For example,
+I need stationary data.
+So I can create my item group here.
+I have to keep it in the primary.
+It will be individual.
+It means that you are creating
+a group under an existing item group.
+For example,
+you have three or four types of erasers.
+Or you can take pens.
+For example,
+you can take ball pens,
+gel pens,
+and you can keep them under pens.
+And you can keep pens under stationary data.
+In that case, it can be used.
+Like stationary data.
+You can create categories.
+Yes.
+For example,
+if I create it here.
+Hello.
+Sorry.
+I was a bit busy.
+I was lost in the internet.
+Ok, sir.
+As you put the item here,
+it will share the item successuler.
+Ok.
+Whatever item you have created here is yours.
+You have to hit cross edit
+for an existing item.
+You have to book and click edit.
+You can search all from here.
+You will start searching all by clicking edit.
+Go down the name. You already exist.
+Then
+segments
+primary
+then
+normal
+this has
+success.
+created
+same option.
+first level
+single time.
+down.
+pencil.
+the icon.
+She can.
+masters.
+Okay.
+Yes.
+items.
+for example.
+right.
+the system.
+the opening.
+the opening.
+the opening.
+opening.
+opening.
+the opening.
+every year.
+opening.
+the CR.
+Then stock transfer.
+For example,
+As I told you, we have purchase entries.
+Sorry, you purchased the erasers,
+whatever items you purchased.
+You have purchased them and kept them in a single store.
+Now you have to transfer them to different departments.
+Like the department you are in, the teaching department.
+Like our 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th etc.
+So all those that you are taking.
+They will be in stock transfer.
+For example, your main store.
+For example, the central store.
+From the central store,
+you are transferring it to which store.
+For example, I am transferring it to this store.
+Which item am I transferring?
+See, I did it from here.
+Which date is coming?
+Stock transfer is coming.
+Which item am I transferring?
+I will enter the item from here.
+How much quantity is going?
+Narration.
+Why am I doing it?
+I will put a reason for it and save it.
+You can also upload additional documents.
+This is how stock transfer works.
+Apart from that, how will you enter the purchase?
+Your purchase is here.
+From whom you have purchased, in what cash.
+All that is your purchase entry.
+This is not just the purchase bill.
+It details everything.
+How much purchase has been done.
+Even the document is uploaded.
+This is the corresponding reporting section.
+What is the stock?
+What is the closing stock?
+What is the item?
+This is the end number of reports you have.
+The way the items are coming,
+you will have the end number of reports.
+It will be used according to you.
+What is the transfer?
+How much is in it?
+This is the time.
+This is the end of the stock reports.
+Any queries, sir?
+Okay, sir?
+Yes, ma'am.
+Okay.
