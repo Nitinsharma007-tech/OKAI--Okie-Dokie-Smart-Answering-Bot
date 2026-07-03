@@ -1,9 +1,0 @@
-{
-    "video_name": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30)",
-    "model": "medium",
-    "language": "en",
-    "device": "cuda",
-    "compute_type": "float16",
-    "processing_time_seconds": 461.99,
-    "created_at": "2026-07-01T22:05:37.875747"
-}
