@@ -247,4 +247,8 @@ This project is developed for educational and research purposes.
 
 ---
 
+<<<<<<< HEAD
 # ⭐ If you like this project, don't forget to Star the repository!
+=======
+# ⭐ If you like this project, don't forget to Star the repository!
+>>>>>>> 8969619 (Added clickable suggested questions support)

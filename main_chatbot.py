@@ -225,9 +225,26 @@ for message in st.session_state.messages:
 # Chat Input
 # ============================================================
 
-question = st.chat_input(
+# ============================================================
+# Chat Input
+# ============================================================
+
+# Store clicked suggested question
+if "pending_question" not in st.session_state:
+    st.session_state.pending_question = None
+
+typed_question = st.chat_input(
     "Ask anything about the ERP..."
 )
+
+# Use typed question if available
+question = typed_question
+
+# If a suggested question was clicked,
+# process it exactly like a new user message.
+if st.session_state.pending_question:
+    question = st.session_state.pending_question
+    st.session_state.pending_question = None
 
 # ============================================================
 # When User Sends Message
@@ -475,36 +492,48 @@ st.markdown("""
 # ============================================================
 
 st.markdown("---")
-
 st.subheader("💡 Suggested Questions")
 
 col1, col2 = st.columns(2)
 
 with col1:
 
-    if st.button("💰 How do I collect student fees?"):
-        question = "How do I collect student fees?"
-
+    if st.button(
+        "💰 How do I collect student fees?",
+        use_container_width=True
+    ):
+        st.session_state.pending_question = (
+            "How do I collect student fees?"
+        )
         st.rerun()
 
-    if st.button("🚌 How do I assign transport?"):
-
-        question = "How do I assign transport to students?"
-
+    if st.button(
+        "🚌 How do I assign transport?",
+        use_container_width=True
+    ):
+        st.session_state.pending_question = (
+            "How do I assign transport to students?"
+        )
         st.rerun()
 
 with col2:
 
-    if st.button("👨‍💼 How do I process salary?"):
-
-        question = "How do I process employee salary?"
-
+    if st.button(
+        "👨‍💼 How do I process salary?",
+        use_container_width=True
+    ):
+        st.session_state.pending_question = (
+            "How do I process employee salary?"
+        )
         st.rerun()
 
-    if st.button("📦 How do I add inventory items?"):
-
-        question = "How do I create a new inventory item?"
-
+    if st.button(
+        "📦 How do I add inventory items?",
+        use_container_width=True
+    ):
+        st.session_state.pending_question = (
+            "How do I create a new inventory item?"
+        )
         st.rerun()
 
 # ============================================================
