@@ -1,6 +1,6 @@
 {
-  "$schema": "https://railway.app/railway.schema.json",
+  "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
-    "startCommand": "streamlit run main_chatbot.py --server.address 0.0.0.0 --server.port $PORT"
+    "startCommand": "uvicorn main_api:app --host 0.0.0.0 --port $PORT"
   }
 }
