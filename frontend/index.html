@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OKAI ERP Assistant</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar-panel">
+        <div class="brand-block">
+          <span class="brand-mark">OKAI</span>
+          <h1>ERP Assistant</h1>
+          <p>Knowledge-driven ERP help with AI and semantic search.</p>
+        </div>
+
+        <div class="status-grid">
+          <div class="status-card">
+            <span>Status</span>
+            <strong id="status-connection">Connecting...</strong>
+          </div>
+          <div class="status-card">
+            <span>Knowledge Topics</span>
+            <strong id="status-topics">--</strong>
+          </div>
+          <div class="status-card">
+            <span>Top-K Retrieval</span>
+            <strong id="status-topk">3</strong>
+          </div>
+          <div class="status-card">
+            <span>Model</span>
+            <strong id="status-model">--</strong>
+          </div>
+        </div>
+
+        <div class="sidebar-footnote">
+          <h2>Quick Start</h2>
+          <p>Ask questions about ERP workflows, student fees, transport setup, and more.</p>
+        </div>
+      </aside>
+
+      <main class="main-panel">
+        <section class="hero-panel">
+          <div>
+            <p class="eyebrow">Professional ERP Assistant</p>
+            <h2>OKIE DOKIE OKAI</h2>
+            <p>Fast, clean, and accurate ERP answers powered by semantic search and Gemini.</p>
+          </div>
+          <div class="hero-actions">
+            <button type="button" class="pill-button" data-suggestion="How do I collect student fees?">How do I collect student fees?</button>
+            <button type="button" class="pill-button" data-suggestion="How do I assign transport to students?">How do I assign transport to students?</button>
+            <button type="button" class="pill-button" data-suggestion="What is the process for timetable creation?">What is the process for timetable creation?</button>
+          </div>
+        </section>
+
+        <section class="chat-panel">
+          <div id="chat-list" class="chat-list"></div>
+        </section>
+
+        <section class="knowledge-panel">
+          <div class="knowledge-header">
+            <h3>Retrieved Knowledge</h3>
+            <p>The top matched ERP topics used to generate the answer.</p>
+          </div>
+          <div id="knowledge-container" class="knowledge-list"></div>
+        </section>
+
+        <form id="chat-form" class="composer-panel">
+          <input id="question-input" type="text" placeholder="Ask anything about the ERP..." autocomplete="off" />
+          <button id="send-button" type="submit">Send</button>
+        </form>
+      </main>
+    </div>
+
+    <div id="error-banner" class="toast hidden"></div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
