@@ -20,12 +20,31 @@ function appendMessage(role, content) {
   const message = document.createElement("div");
   message.className = `message ${role}`;
   if (role === "assistant") {
-    message.innerHTML = `<strong>OKAI</strong><div>${content}</div>`;
+    const points = formatAsPoints(content);
+    message.innerHTML = `<strong>OKAI</strong>${points}`;
   } else {
     message.textContent = content;
   }
   chatList.appendChild(message);
   chatList.scrollTop = chatList.scrollHeight;
+}
+
+function formatAsPoints(text) {
+  const sanitized = text
+    .replace(/\n\s*\n/g, "\n")
+    .trim();
+
+  const lines = sanitized.split(/\n|\.|\?|!/).map((line) => line.trim()).filter(Boolean);
+  if (lines.length === 0) {
+    return `<div>${sanitized}</div>`;
+  }
+
+  const pointLines = lines.map((line) => {
+    const cleanLine = line.replace(/^\d+\.|^\-\s*/g, "").trim();
+    return `<li>${cleanLine}</li>`;
+  }).join("");
+
+  return `<ul class="assistant-points">${pointLines}</ul>`;
 }
 
 function setLoading(isLoading) {

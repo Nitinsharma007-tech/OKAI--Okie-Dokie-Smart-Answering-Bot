@@ -4,6 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OKAI ERP Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
@@ -34,6 +37,25 @@
           </div>
         </div>
 
+        <div class="modules-panel">
+          <div class="modules-header">
+            <h2>Modules</h2>
+            <span>30</span>
+          </div>
+          <div class="module-list">
+            <button class="module-item active">All FAQs <span>110</span></button>
+            <button class="module-item">Transport Setup <span>19</span></button>
+            <button class="module-item">Fee <span>18</span></button>
+            <button class="module-item">Admission <span>8</span></button>
+            <button class="module-item">Salary <span>8</span></button>
+            <button class="module-item">Time Table <span>6</span></button>
+            <button class="module-item">Academics <span>5</span></button>
+            <button class="module-item">Concession <span>5</span></button>
+            <button class="module-item">Employee <span>4</span></button>
+            <button class="module-item">Fee Structure <span>3</span></button>
+          </div>
+        </div>
+
         <div class="sidebar-footnote">
           <h2>Quick Start</h2>
           <p>Ask questions about ERP workflows, student fees, transport setup, and more.</p>
@@ -41,30 +63,42 @@
       </aside>
 
       <main class="main-panel">
-        <section class="hero-panel">
-          <div>
-            <p class="eyebrow">Professional ERP Assistant</p>
-            <h2>OKIE DOKIE OKAI</h2>
-            <p>Fast, clean, and accurate ERP answers powered by semantic search and Gemini.</p>
-          </div>
-          <div class="hero-actions">
+        <div class="main-top">
+          <section class="main-header">
+            <div>
+              <p class="eyebrow">Professional ERP Assistant</p>
+              <h2>OKIE DOKIE OKAI</h2>
+              <p>Fast, clean ERP answers in points with AI-powered knowledge retrieval.</p>
+            </div>
+            <div class="search-block">
+              <div class="search-label">Search FAQs</div>
+              <div class="search-field">
+                <input id="faq-search" type="text" placeholder="Search FAQs, modules, or ERP workflows..." autocomplete="off" />
+                <button type="button" id="faq-search-button">Search</button>
+              </div>
+            </div>
+          </section>
+
+          <section class="hero-actions">
             <button type="button" class="pill-button" data-suggestion="How do I collect student fees?">How do I collect student fees?</button>
             <button type="button" class="pill-button" data-suggestion="How do I assign transport to students?">How do I assign transport to students?</button>
             <button type="button" class="pill-button" data-suggestion="What is the process for timetable creation?">What is the process for timetable creation?</button>
-          </div>
-        </section>
+          </section>
+        </div>
 
-        <section class="chat-panel">
-          <div id="chat-list" class="chat-list"></div>
-        </section>
+        <div class="main-content">
+          <section class="chat-panel">
+            <div id="chat-list" class="chat-list"></div>
+          </section>
 
-        <section class="knowledge-panel">
-          <div class="knowledge-header">
-            <h3>Retrieved Knowledge</h3>
-            <p>The top matched ERP topics used to generate the answer.</p>
-          </div>
-          <div id="knowledge-container" class="knowledge-list"></div>
-        </section>
+          <section class="knowledge-panel">
+            <div class="knowledge-header">
+              <h3>Retrieved Knowledge</h3>
+              <p>The top matched ERP topics used to generate the answer.</p>
+            </div>
+            <div id="knowledge-container" class="knowledge-list"></div>
+          </section>
+        </div>
 
         <form id="chat-form" class="composer-panel">
           <input id="question-input" type="text" placeholder="Ask anything about the ERP..." autocomplete="off" />
