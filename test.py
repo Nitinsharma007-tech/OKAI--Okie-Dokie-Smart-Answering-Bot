@@ -1,4 +1,4 @@
-from app.knowledge_loader_embedding import KnowledgeLoader
+from app.Data_pipelining.knowledge_loader_embedding import KnowledgeLoader
 
 
 def main():

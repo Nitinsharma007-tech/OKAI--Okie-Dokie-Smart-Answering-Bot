@@ -1,5 +1,5 @@
 import os
-from app.transcript import TranscriptGenerator
+from app.Data_pipelining.transcript import TranscriptGenerator
 
 
 def main():
