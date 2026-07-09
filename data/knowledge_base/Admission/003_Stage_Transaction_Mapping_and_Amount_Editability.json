@@ -1,0 +1,61 @@
+{
+    "module": "Admission",
+    "topic": "Stage Transaction Mapping and Amount Editability",
+    "summary": "This topic covers how to link specific admission heads to different stages of the admission process and configure whether the amount for these heads can be modified during payment collection.",
+    "navigation": [
+        "Stage Setup",
+        "View (a specific stage)",
+        "Transactions tab",
+        "Add Transaction Mapping"
+    ],
+    "steps": [
+        "Navigate to 'Stage Setup'.",
+        "Select and 'View' the desired admission stage (e.g., 'Lead Stage').",
+        "Go to the 'Transactions' tab within the stage details.",
+        "Ensure the transaction option is enabled for the stage.",
+        "Click 'Add Transaction Mapping'.",
+        "Select the relevant 'Course' for which the transaction applies.",
+        "Select the 'Head' (e.g., 'Registration Fees') to be collected at this stage.",
+        "Enter the default 'Amount' for the selected head.",
+        "Toggle the 'Editable' switch: ON to allow amount modification during collection, OFF to fix the amount.",
+        "Use the 'Copy Course Head' option to quickly apply the same mapping to other courses.",
+        "Click 'Update' to save the changes."
+    ],
+    "business_rules": [
+        "If 'Editable' is ON, users can change the amount collected for that head during the transaction.",
+        "If 'Editable' is OFF, the amount is fixed as configured and cannot be changed during collection.",
+        "Multiple admission heads can be mapped to a single stage.",
+        "Different heads can be mapped to different stages based on the admission workflow."
+    ],
+    "important_notes": [
+        "The decision to make an amount editable or fixed should align with the institution's payment policies.",
+        "The 'Copy Course Head' feature streamlines the process of mapping transactions across multiple courses."
+    ],
+    "questions": [
+        "How do I link an admission fee to a specific stage?",
+        "Can I make the registration fee amount editable during collection?",
+        "What is the purpose of the 'Editable' setting in transaction mapping?",
+        "How do I add multiple transaction heads to a single admission stage?"
+    ],
+    "keywords": [
+        "Stage setup",
+        "Transaction mapping",
+        "Editable amount",
+        "Fixed amount",
+        "Course head",
+        "Admission stage",
+        "Payment collection",
+        "Transaction configuration"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Save Zero Amount Transaction Configuration",
+        "Token Money Adjustment in Fees"
+    ],
+    "id": "admission_stage_transaction_mapping_and_amount_editability",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

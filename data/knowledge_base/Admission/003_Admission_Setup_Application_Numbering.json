@@ -1,0 +1,48 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup: Application Numbering",
+    "summary": "Describes how to configure the automatic generation of unique application numbers (e.g., application form numbers) for admission leads. This setup allows defining prefixes, suffixes, and a starting number, which the system then uses to auto-update a counter for each new lead.",
+    "navigation": [
+        "Admission module > Admission Setup > Admission Master > Application Number Setup"
+    ],
+    "steps": [
+        "Navigate to \"Application Number Setup\".",
+        "Select the specific course or program for which numbering is to be configured, or choose \"All\" for a universal setup.",
+        "Add a desired prefix (e.g., \"APP-\").",
+        "Specify the starting number for the sequence.",
+        "Add a desired suffix (optional).",
+        "The system will automatically assign and increment application numbers as new leads are added."
+    ],
+    "business_rules": [
+        "Each application receives a unique, auto-generated number.",
+        "The counter automatically updates with each new lead."
+    ],
+    "important_notes": [
+        "This setup is crucial for uniquely identifying each application.",
+        "The process is similar to setting up registration numbers for students."
+    ],
+    "questions": [
+        "How do I set up automatic application numbering in the Admission module?",
+        "Where can I configure prefixes and suffixes for application form numbers?",
+        "Can I have different numbering sequences for different courses?"
+    ],
+    "keywords": [
+        "Application number",
+        "auto-generate",
+        "prefix",
+        "suffix",
+        "application form number",
+        "Admission Master",
+        "unique identifier"
+    ],
+    "related_topics": [
+        "Admission Setup",
+        "Stage Master Configuration"
+    ],
+    "id": "admission_admission_setup_application_numbering",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

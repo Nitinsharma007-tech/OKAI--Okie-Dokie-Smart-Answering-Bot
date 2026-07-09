@@ -1,0 +1,47 @@
+{
+    "module": "Fee Management",
+    "topic": "Generating and Customizing Fee Receipts",
+    "summary": "Upon successful fee collection, the system generates a fee receipt. This receipt confirms the transaction, showing the amount received, date, and any remarks entered during collection. The receipt format is customizable to align with the office's requirements, including the ability to display the institute's logo, fee heads, and installment details. The receipt can be printed or saved.",
+    "navigation": [
+        "Collect Fee > Collect > Confirmation Screen > Print Receipt"
+    ],
+    "steps": [
+        "After confirming the fee collection, the system will display a confirmation.",
+        "Click 'Yes' to receive the transaction and generate the receipt.",
+        "The receipt will be displayed, showing collected amount, fee heads, installments, and remarks.",
+        "Print or save the receipt."
+    ],
+    "business_rules": [
+        "Receipts are generated automatically upon successful collection.",
+        "Receipts display collected amount, fee heads, installments, and remarks."
+    ],
+    "important_notes": [
+        "The receipt template can be customized to include the institute's logo and specific design requirements.",
+        "The institute's logo needs to be shared for integration into the app/receipt template."
+    ],
+    "questions": [
+        "How do I generate a fee receipt?",
+        "What information is included in the fee receipt?",
+        "Can I customize the design of the fee receipt?",
+        "How do I add our institute's logo to the receipt?",
+        "Will remarks entered during collection appear on the receipt?"
+    ],
+    "keywords": [
+        "fee receipt",
+        "receipt format",
+        "receipt customization",
+        "transaction confirmation",
+        "institute logo",
+        "print receipt"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Head Configuration"
+    ],
+    "id": "fee_management_generating_and_customizing_fee_receipts",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

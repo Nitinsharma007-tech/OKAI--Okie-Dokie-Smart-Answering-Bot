@@ -1,0 +1,46 @@
+{
+    "module": "Fee Management",
+    "topic": "Collecting Student Fees",
+    "summary": "Fees can be collected through the 'Collect Fee' option, which is often available as a quick link. There are multiple ways to initiate fee collection: directly from 'Collect Fee' or 'Collect Fee Online'. The system allows searching for students using various criteria such as name, registration number, father's name, or phone number. Once a student is selected, their personal details and fee demand are displayed for verification before proceeding with collection.",
+    "navigation": [
+        "Dashboard > Quick Links > Collect Fee",
+        "Dashboard > Collect Fee",
+        "Dashboard > Collect Fee Online"
+    ],
+    "steps": [
+        "Access the 'Collect Fee' or 'Collect Fee Online' option.",
+        "Search for the student using their name, registration number, father's name, or phone number.",
+        "Verify the student's details displayed on the interface.",
+        "Click on the student's record to open the fee collection section."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "Multiple options are available for fee collection.",
+        "Student details must be verified before proceeding."
+    ],
+    "questions": [
+        "How do I collect fees from a student?",
+        "What are the different ways to search for a student to collect fees?",
+        "Can I collect fees online through the ERP?",
+        "What information is displayed when I select a student for fee collection?"
+    ],
+    "keywords": [
+        "collect fee",
+        "fee collection",
+        "student search",
+        "registration number",
+        "fee demand",
+        "online fee collection"
+    ],
+    "related_topics": [
+        "Fee Concession",
+        "Fee Installments",
+        "Payment Modes"
+    ],
+    "id": "fee_management_collecting_student_fees",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

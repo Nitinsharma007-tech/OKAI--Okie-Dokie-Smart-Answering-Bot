@@ -1,4 +1,4 @@
-from app.Data_pipelining.embedding_generator import EmbeddingGenerator
+from app.pipeline.embedding_generator import EmbeddingGenerator
 
 
 def main():

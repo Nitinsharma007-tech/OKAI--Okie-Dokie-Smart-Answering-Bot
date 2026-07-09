@@ -1,0 +1,51 @@
+{
+    "module": "CRM",
+    "topic": "Automatic Lead Assignment using Councillor Mapper",
+    "summary": "This topic describes the 'Councillor Mapper' settings, which enable automatic assignment of leads to counselors based on specific courses or sources using the 'Round Robin' method, with two distinct types: 'All' and 'Devise'.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Councillor Mapper"
+    ],
+    "steps": [
+        "Navigate to 'Councillor Mapper' settings.",
+        "Select the specific courses or sources for which leads need to be automatically assigned.",
+        "Select multiple counselors who will receive leads from these chosen courses/sources.",
+        "The system will then automatically assign leads to the selected counselors one by one using the configured Round Robin method."
+    ],
+    "business_rules": [
+        "**Round Robin 'All'**: This method aims to balance the lead load among all assigned counselors. If a new counselor is added, they will receive leads exclusively until their lead count matches that of existing counselors, after which leads are distributed one-by-one to all.",
+        "**Round Robin 'Devise'**: This method assigns leads strictly one-by-one in a sequential order to all assigned counselors, irrespective of their current lead counts or when they were added to the system."
+    ],
+    "important_notes": [
+        "Councillor Mapper significantly reduces manual lead assignment efforts.",
+        "Understanding the difference between 'All' and 'Devise' Round Robin is crucial for effective lead distribution strategy."
+    ],
+    "questions": [
+        "How do I set up automatic lead assignment to counselors?",
+        "What is the 'Round Robin' method for lead assignment?",
+        "Explain the difference between 'All' and 'Devise' Round Robin in lead assignment.",
+        "Can I assign leads to counselors based on specific sources or courses?",
+        "Where can I configure counselor lead mapping?"
+    ],
+    "keywords": [
+        "councillor mapper",
+        "lead assignment",
+        "automatic assignment",
+        "round robin",
+        "all round robin",
+        "devise round robin",
+        "counselor mapping",
+        "lead distribution",
+        "lead management"
+    ],
+    "related_topics": [
+        "Admission Team Structure"
+    ],
+    "id": "crm_automatic_lead_assignment_using_councillor_mapper",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

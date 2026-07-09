@@ -1,0 +1,56 @@
+{
+    "module": "Transport Management",
+    "topic": "GPS Tracking API Configuration (Track Config)",
+    "summary": "Track Config defines the parameters for calling a vendor's GPS tracking API, including the API URL, HTTP method (GET/POST), query parameters (e.g., tokens, extra values), request headers, and the key used to identify the vehicle in the request.",
+    "navigation": [],
+    "steps": [
+        "**API URL:** Copy the base API URL (the part before the first '?' if present) and paste it into the 'API URL' field.",
+        "**Method:** Select the appropriate HTTP method: 'GET' if query patterns are sent in the URL (after '?'), or 'POST' if data is sent in an object (request body).",
+        "**Query Parameters:** For 'GET' requests, attach tokens or additional values required by the API. Example: `token=your_token_value`. Copy the full string (e.g., `your_token_value`) and paste it after the equals sign.",
+        "**Headers:** Configure the expected response format. For JSON, input 'accept' as the key and 'application/json' as the value.",
+        "**Request Body:** For 'POST' requests, add key-value pairs for the object to be sent in the request body.",
+        "**GPS ID Key (Request Parameter Name):** Copy the key name (e.g., 'vehicle_id' or 'vehicleNumber') from the vendor's documentation that the API expects as the identifier for the vehicle, and paste it into the 'GPS ID Key' field. This is the parameter name that the backend will use to send the vehicle's unique ID."
+    ],
+    "business_rules": [
+        "Query patterns are values appended to the URL after a question mark (?).",
+        "POST requests send data within an object in the request body.",
+        "The ERP backend automatically calls the vendor API based on this configuration when the internal tracking API is invoked.",
+        "The 'GPS ID Key' in Track Config is the parameter name used by the backend to send the vehicle's unique ID to the vendor API."
+    ],
+    "important_notes": [
+        "This configuration needs to be set up only once.",
+        "The 'Test Connection' feature might not always provide a response due to external API issues, but the configuration should still be completed.",
+        "Ensure the API URL is accurate and includes all necessary base path components."
+    ],
+    "questions": [
+        "How do I configure the API URL for GPS tracking in Track Config?",
+        "What is the difference between GET and POST methods in Track Config?",
+        "How do I add authentication tokens or extra values as query parameters?",
+        "What headers are necessary for receiving a JSON response from the GPS API?",
+        "Where do I specify the parameter name that identifies the vehicle in the GPS API request?"
+    ],
+    "keywords": [
+        "Track Config",
+        "GPS tracking setup",
+        "API URL",
+        "HTTP method",
+        "GET request",
+        "POST request",
+        "query parameters",
+        "API headers",
+        "request body",
+        "GPS ID Key",
+        "vendor API integration"
+    ],
+    "related_topics": [
+        "AuthConfig",
+        "GPS Tracking API Response Configuration",
+        "Assigning GPS ID to Vehicles"
+    ],
+    "id": "transport_management_gps_tracking_api_configuration_track_config",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

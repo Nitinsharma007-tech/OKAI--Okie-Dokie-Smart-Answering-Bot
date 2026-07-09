@@ -1,0 +1,54 @@
+{
+    "module": "Inventory",
+    "topic": "Stock Transfer",
+    "summary": "This topic explains the process of transferring inventory items from one store or department to another within the ERP system. It is typically used to distribute items purchased and stored centrally to various operational departments or branches.",
+    "navigation": [
+        "Inventory",
+        "Transactions",
+        "Stock Transfer"
+    ],
+    "steps": [
+        "Navigate to Inventory > Transactions > Stock Transfer.",
+        "Select the 'Source Store' (e.g., Central Store) from which items are being transferred.",
+        "Select the 'Destination Store' or department to which items are being transferred.",
+        "Enter the 'Date' of the stock transfer.",
+        "Select the 'Item' to be transferred.",
+        "Enter the 'Quantity' of the item being transferred.",
+        "Add a 'Narration' or reason for the transfer.",
+        "Optionally, upload 'Additional Documents' related to the transfer.",
+        "Save the stock transfer entry."
+    ],
+    "business_rules": [
+        "Stock transfers move items between defined stores or departments.",
+        "A reason or narration should be provided for each transfer."
+    ],
+    "important_notes": [
+        "This function is crucial for managing inventory distribution across multiple locations or departments (e.g., from a main store to teaching departments)."
+    ],
+    "questions": [
+        "How do I transfer stock between different stores?",
+        "What information is required for a stock transfer?",
+        "Can I transfer items from a central store to multiple departments?",
+        "Where do I record the reason for a stock transfer?",
+        "Can I attach documents to a stock transfer entry?"
+    ],
+    "keywords": [
+        "Stock transfer",
+        "Inventory transfer",
+        "Move stock",
+        "Warehouse transfer",
+        "Department transfer",
+        "Central store"
+    ],
+    "related_topics": [
+        "Purchase Entry",
+        "Inventory Reports",
+        "Store Management"
+    ],
+    "id": "inventory_stock_transfer",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

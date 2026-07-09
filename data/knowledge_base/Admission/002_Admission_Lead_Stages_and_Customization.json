@@ -1,0 +1,40 @@
+{
+    "module": "Admission",
+    "topic": "Admission Lead Stages and Customization",
+    "summary": "Explains that admission leads progress through multiple stages, which are highly customizable based on the institute's specific process. Examples include initial lead, data requested, registration, payment, document upload, various verifications, and final approval or rejection.",
+    "navigation": [
+        "Admission module > Application Leads page (to view current stages)"
+    ],
+    "steps": [],
+    "business_rules": [
+        "Stages are client-dependent and vary for every entity/institute.",
+        "A lead moves through multiple stages before admission is finalized."
+    ],
+    "important_notes": [
+        "Stages can include steps like counseling, fee submission, document verification, and transport allotment.",
+        "Some institutes may have prospectus fees or registration fees as part of their stages, while others may not."
+    ],
+    "questions": [
+        "How do admission leads progress through different stages?",
+        "Can I customize the admission stages for my institute?",
+        "What are typical stages an admission lead goes through?"
+    ],
+    "keywords": [
+        "Admission stages",
+        "lead progression",
+        "application stages",
+        "customizable stages",
+        "lead lifecycle",
+        "admission process flow"
+    ],
+    "related_topics": [
+        "Stage Master Configuration",
+        "Stage Field Configuration, Counselor Assignment, and Communication Automation"
+    ],
+    "id": "admission_admission_lead_stages_and_customization",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

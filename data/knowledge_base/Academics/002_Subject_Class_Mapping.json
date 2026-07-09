@@ -1,56 +1,57 @@
 {
     "module": "Academics",
     "topic": "Subject Class Mapping",
-    "summary": "This topic details how to map previously defined subjects to specific classes and sections. It includes selecting the class, stream, sections, and defining the subject type (e.g., General, Optional).",
+    "summary": "This topic details the process of mapping defined subjects to specific classes, streams, and sections. It includes selecting the class, adding subjects, and defining the subject type (General, Optional, Additional, Vocational) which impacts how subjects are assigned to students.",
     "navigation": [
         "Settings icon",
         "Academics",
-        "Subject Class Mapping",
+        "Subject Class Mapping (or Subject Course Mapping)",
         "Add New Subject Class Mapping"
     ],
     "steps": [
-        "Click on the 'Settings' icon.",
-        "Select 'Academics'.",
-        "Choose 'Subject Class Mapping'.",
+        "Navigate to the 'Academics' section via the 'Settings' icon.",
+        "Go to 'Subject Class Mapping' (or 'Subject Course Mapping').",
         "Click 'Add New Subject Class Mapping'.",
-        "Select the 'Class' (e.g., Class 5th).",
-        "Optionally, select 'Stream' and 'Sections' (multiple classes/sections can be selected if subjects are common).",
-        "Click 'Add Detail of Subject'.",
-        "Select the 'Subject' from the dropdown list.",
-        "The 'Assessment Model' will automatically populate.",
-        "Select 'Subject Type' (General, Optional, Additional, Vocational).",
-        "Click 'Add' to map the subject.",
-        "Repeat for all subjects to be added to the class."
+        "Select the 'Class' for which you are creating the mapping (e.g., Class 5th).",
+        "Optionally, select multiple classes if they share common subjects.",
+        "The 'Stream' and 'Section' will be selected by default or can be specified.",
+        "Click to 'Add Detail of the Subject' (or similar option).",
+        "Select the 'Subject' from the dropdown list (this list contains subjects previously defined).",
+        "The 'Assessment Model' will automatically populate based on the subject definition.",
+        "Select the 'Subject Type' (e.g., General, Optional, Additional, Vocational).",
+        "Click 'Add' to map the subject to the class.",
+        "Repeat the process to add all relevant subjects for the selected class."
     ],
     "business_rules": [
-        "'General' subjects are automatically applied to all students in the mapped class.",
-        "'Optional' subjects are not automatically applied to all students and require a separate assignment process.",
-        "If a subject is already mapped to a class, its original name cannot be changed from the subject definition screen; only its 'Display Name' can be edited within the mapping."
+        "If a subject is already mapped to a class, its original name cannot be changed from the subject definition; only its 'Display Name' can be edited within the mapping.",
+        "Subjects marked as 'General' are applied to all students in the class by default.",
+        "Subjects marked as 'Optional', 'Additional', or 'Vocational' are not applied to all students by default and require a separate assignment process for individual students."
     ],
     "important_notes": [
-        "You can map a subject to multiple classes or sections simultaneously if they share common subjects.",
-        "The 'Display Name' set here will be the name visible to students."
+        "The 'Display Name' set in the mapping is what students will see.",
+        "You can map common subjects to multiple classes simultaneously."
     ],
     "questions": [
-        "How do I map subjects to specific classes in the ERP system?",
-        "What is the purpose of 'Subject Type' in subject class mapping?",
-        "Can I map a single subject to multiple classes at once?",
-        "How do I change the display name of a subject for a specific class?",
-        "What happens if I select 'Optional' as the subject type?"
+        "How do I map subjects to a specific class?",
+        "What is the difference between 'General' and 'Optional' subject types in class mapping?",
+        "Can I map the same subject to several classes at once?",
+        "Where can I change the name of a subject as it appears to students?",
+        "What happens if I don't define a subject type?"
     ],
     "keywords": [
-        "Subject Class Mapping",
-        "Class Mapping",
-        "Subject Type",
-        "General Subject",
-        "Optional Subject",
+        "Subject class mapping",
+        "Subject course mapping",
+        "Class subjects",
+        "Subject type",
+        "General subject",
+        "Optional subject",
         "Academics",
-        "Add New Subject Class Mapping"
+        "Class stream section"
     ],
     "related_topics": [
-        "Subject Definition",
-        "Optional Subject Assignment",
-        "Teacher Assignment to Classes and Subjects"
+        "Defining Subjects",
+        "Teacher Mapping for Classes and Subjects",
+        "Assigning Optional Subjects to Individual Students"
     ],
     "id": "academics_subject_class_mapping",
     "source": {

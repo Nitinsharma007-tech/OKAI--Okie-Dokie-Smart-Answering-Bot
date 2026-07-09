@@ -1,0 +1,42 @@
+{
+    "module": "Fee Management",
+    "topic": "Configuring Fee Head Sequence",
+    "summary": "The sequence of fee heads is crucial for how payments are allocated, especially when collecting custom amounts. The system allows for a configurable sequence. The recommended sequence is: Security, Tuition Fee, Transport, Hostel, Student Funds, Development Funds, and then Fines. This ensures that core fees are covered before other charges.",
+    "navigation": [],
+    "steps": [
+        "Provide the desired fee head sequence to the ERP team for configuration."
+    ],
+    "business_rules": [
+        "The fee head sequence determines the order in which payments are applied to different fee components."
+    ],
+    "important_notes": [
+        "The recommended sequence is: Security, Tuition Fee, Transport, Hostel, Student Funds, Development Funds, Fines."
+    ],
+    "questions": [
+        "What is the default fee head sequence for payment allocation?",
+        "Can I customize the order of fee heads for payment collection?",
+        "Why is the fee head sequence important?",
+        "Where can I define the fee head sequence?"
+    ],
+    "keywords": [
+        "fee head sequence",
+        "payment allocation",
+        "security fee",
+        "tuition fee",
+        "transport fee",
+        "hostel fee",
+        "student funds",
+        "development funds",
+        "fines"
+    ],
+    "related_topics": [
+        "Fee Installments",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_configuring_fee_head_sequence",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

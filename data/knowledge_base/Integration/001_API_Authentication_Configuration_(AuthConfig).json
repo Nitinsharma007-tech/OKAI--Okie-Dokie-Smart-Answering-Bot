@@ -1,0 +1,42 @@
+{
+    "module": "Integration",
+    "topic": "API Authentication Configuration (AuthConfig)",
+    "summary": "AuthConfig is used to manage API tokens for vendor APIs that require authentication (login) before subsequent API calls. It defines how to obtain and use these tokens to access protected API endpoints.",
+    "navigation": [],
+    "steps": [
+        "Identify if the vendor API requires a token for authentication (i.e., a login API to get a token).",
+        "If only one client utilizes AuthConfig, modify the ID of that client to set up AuthConfig."
+    ],
+    "business_rules": [
+        "Some APIs are open, while others require prior login to obtain a token.",
+        "The token obtained from a login API is then used to call subsequent APIs."
+    ],
+    "important_notes": [
+        "Currently, only one client utilizes AuthConfig.",
+        "AuthConfig is essential for integrating with vendor APIs that implement token-based authentication."
+    ],
+    "questions": [
+        "What is the purpose of AuthConfig in ERP integrations?",
+        "How do I configure AuthConfig for a vendor API that requires a token?",
+        "When is it necessary to set up AuthConfig for an API?"
+    ],
+    "keywords": [
+        "AuthConfig",
+        "API authentication",
+        "vendor API",
+        "API token",
+        "login API",
+        "integration setup",
+        "token management"
+    ],
+    "related_topics": [
+        "Track Config",
+        "API Integration Best Practices"
+    ],
+    "id": "integration_api_authentication_configuration_authconfig",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "module": "Inventory",
+    "topic": "Purchase Entry",
+    "summary": "This topic describes how to record purchase transactions in the ERP system. It involves detailing who the purchase was made from, the payment method (e.g., cash), and allows for the upload of supporting purchase documents.",
+    "navigation": [
+        "Inventory",
+        "Transactions",
+        "Purchase Entry"
+    ],
+    "steps": [
+        "Navigate to Inventory > Transactions > Purchase Entry.",
+        "Enter details of the vendor from whom the purchase was made.",
+        "Specify the payment method (e.g., cash).",
+        "Enter details of the purchased items and quantities.",
+        "Upload relevant purchase documents (e.g., purchase bill, invoice).",
+        "Save the purchase entry."
+    ],
+    "business_rules": [
+        "Purchase entries must detail the vendor and payment method.",
+        "Supporting documents should be uploaded for comprehensive record-keeping."
+    ],
+    "important_notes": [
+        "This entry is more than just a purchase bill; it's a detailed record of the transaction."
+    ],
+    "questions": [
+        "How do I record a new purchase in the system?",
+        "What details are needed for a purchase entry?",
+        "Can I upload a purchase bill to the system?",
+        "Where do I specify the vendor for a purchase?",
+        "Is there a way to track all purchase details, not just the bill?"
+    ],
+    "keywords": [
+        "Purchase entry",
+        "Record purchase",
+        "Inventory purchase",
+        "Procurement",
+        "Purchase bill upload",
+        "Vendor details"
+    ],
+    "related_topics": [
+        "Stock Transfer",
+        "Inventory Reports",
+        "Accounts Payable"
+    ],
+    "id": "inventory_purchase_entry",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

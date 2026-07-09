@@ -1,0 +1,47 @@
+{
+    "module": "Admission",
+    "topic": "Save Zero Amount Transaction Configuration",
+    "summary": "This topic explains how to configure the system to allow or prevent the saving of transactions with a zero amount, particularly when the amount is set as editable.",
+    "navigation": [
+        "Stage Setup",
+        "View (a specific stage)",
+        "Transactions tab"
+    ],
+    "steps": [
+        "Navigate to 'Stage Setup'.",
+        "Select and 'View' the desired admission stage.",
+        "Go to the 'Transactions' tab.",
+        "Toggle the 'Save Zero Amount Transaction' switch: ON to allow saving transactions with a zero amount, OFF to prevent it.",
+        "Click 'Update' to save the changes."
+    ],
+    "business_rules": [
+        "If 'Save Zero Amount Transaction' is OFF (default), the system will prevent saving a transaction with a zero amount, even if the 'Editable' setting for the amount is ON.",
+        "If 'Save Zero Amount Transaction' is ON, the system will allow saving a transaction with a zero amount, effectively bypassing the payment requirement for that specific transaction."
+    ],
+    "important_notes": [
+        "This feature is useful for scenarios where certain students are exempt from a fee (e.g., registration fee) but a transaction record is still required to move them through the admission stages.",
+        "Enabling this option allows for flexibility in handling fee exemptions without manual workarounds."
+    ],
+    "questions": [
+        "How do I allow students to complete a transaction with a zero amount?",
+        "What is the 'Save Zero Amount Transaction' setting used for?",
+        "Why would I enable zero amount transactions for an admission head?"
+    ],
+    "keywords": [
+        "Zero amount transaction",
+        "Save zero amount",
+        "Bypass payment",
+        "Transaction bypass",
+        "Editable amount",
+        "Fee exemption"
+    ],
+    "related_topics": [
+        "Stage Transaction Mapping and Amount Editability"
+    ],
+    "id": "admission_save_zero_amount_transaction_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

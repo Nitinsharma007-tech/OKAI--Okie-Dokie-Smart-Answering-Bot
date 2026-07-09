@@ -1,5 +1,5 @@
 import os
-from app.Data_pipelining.transcript_cleaner import TranscriptCleaner
+from app.pipeline.transcript_cleaner import TranscriptCleaner
 
 
 def main():

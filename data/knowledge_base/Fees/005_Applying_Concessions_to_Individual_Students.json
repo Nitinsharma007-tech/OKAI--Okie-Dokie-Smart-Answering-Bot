@@ -1,0 +1,61 @@
+{
+    "module": "Fees",
+    "topic": "Applying Concessions to Individual Students",
+    "summary": "This topic describes how to apply predefined concession groups or manually set concession amounts for individual students directly from their student profile. It covers both automatic application of fixed concessions and flexible manual adjustments.",
+    "navigation": [
+        "Student List",
+        "Select Student",
+        "Concession Fee"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Select the desired student from the list.",
+        "Click on 'Concession Fee'.",
+        "From the dropdown, select the 'Concession Group' to apply (e.g., Staff Ward Concession, Manual Concession).",
+        "If a predefined concession group (e.g., Staff Ward) is selected, the percentage or flat amount will automatically populate.",
+        "If 'Manual Concession' is selected:",
+        "  - The concession amount fields will be editable.",
+        "  - Enter the desired 'Concession Amount' for each applicable fee head.",
+        "  - Optionally, use the 'Push' option to distribute a total concession amount across multiple fee heads, respecting the available demand in each head.",
+        "Enter any relevant 'Remark' (optional).",
+        "Optionally, 'Upload File' to attach supporting documents (e.g., concession application).",
+        "Click 'Save' to apply the concession."
+    ],
+    "business_rules": [
+        "If a concession is applied to a student after their fees have already been paid, the concession amount will be recorded as an 'extra fee' in the system.",
+        "The 'Push' option intelligently distributes a total concession amount across selected fee heads, ensuring that the concession for any single head does not exceed its remaining demand."
+    ],
+    "important_notes": [
+        "The system will prompt for confirmation if a concession is being applied to a fee that has already been paid, indicating that the amount will be treated as an extra fee.",
+        "The list of available concession groups for selection is populated from the 'Concession Group' setup.",
+        "Manual concessions provide flexibility for unique or ad-hoc discount scenarios not covered by predefined rules."
+    ],
+    "questions": [
+        "How do I apply a concession to a specific student?",
+        "What happens if I apply a concession after a student has already paid their fees?",
+        "How does the 'Push' option work when applying manual concessions?",
+        "Can I upload supporting documents for a student's concession application?",
+        "Where do I find the list of available concession groups when assigning them?"
+    ],
+    "keywords": [
+        "Assign Concession",
+        "Student Concession",
+        "Manual Concession",
+        "Staff Ward Concession",
+        "Sibling Concession",
+        "Concession Fee",
+        "Extra Fee",
+        "Push Option",
+        "Apply Discount"
+    ],
+    "related_topics": [
+        "Creating and Managing Concession Groups",
+        "Fee Structure Setup"
+    ],
+    "id": "fees_applying_concessions_to_individual_students",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

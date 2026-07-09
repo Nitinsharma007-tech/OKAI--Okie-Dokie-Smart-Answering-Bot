@@ -1,0 +1,1732 @@
+1
+00:01:59,090 --> 00:02:11,180
+I have a GPS ID and ID key I will provide you with their details like their API URL etc.
+
+2
+00:02:12,110 --> 00:02:13,509
+Bhavya, can you tell us a little bit about AuthConfig?
+
+3
+00:02:18,949 --> 00:02:24,650
+AuthConfig is basically an API of some vendors for which we need to call their tokens.
+
+4
+00:02:24,650 --> 00:02:26,629
+If we want to call their API.
+
+5
+00:02:29,129 --> 00:02:30,889
+So what is AuthConfig basically?
+
+6
+00:02:31,490 --> 00:02:35,110
+Suppose we have a login API from which we call their tokens.
+
+7
+00:02:35,889 --> 00:02:38,810
+Then we use that token to call their next API.
+
+8
+00:02:43,400 --> 00:02:48,219
+So AuthConfig is basically the same as if we want to call their API from the token itself.
+
+9
+00:02:49,060 --> 00:02:52,400
+And if we want to set up an API then what do we have to do in AuthConfig?
+
+10
+00:02:52,400 --> 00:02:57,129
+I will tell you about that.
+
+11
+00:02:57,469 --> 00:03:01,129
+If we have only one client then we will change the ID of that client.
+
+12
+00:03:01,990 --> 00:03:04,919
+For that we will set up AuthConfig.
+
+13
+00:03:05,400 --> 00:03:07,740
+For the other two, we are taking that as our priority.
+
+14
+00:03:08,379 --> 00:03:11,719
+Because we have only one client in which we have AuthConfig.
+
+15
+00:03:12,599 --> 00:03:13,939
+The other two don't have AuthConfig.
+
+16
+00:03:15,500 --> 00:03:16,479
+AuthConfig is something like this.
+
+17
+00:03:16,800 --> 00:03:18,240
+Some APIs are open to us.
+
+18
+00:03:18,939 --> 00:03:21,080
+And some APIs are the ones that we have to login first.
+
+19
+00:03:23,729 --> 00:03:26,270
+So we have the API from the vendor's side.
+
+20
+00:03:27,810 --> 00:03:31,150
+As soon as we run that API, we have tracked it.
+
+21
+00:03:31,909 --> 00:03:35,229
+The other thing is that we have run that API to the URL.
+
+22
+00:03:35,370 --> 00:03:37,189
+So we have to log in there.
+
+23
+00:03:37,530 --> 00:03:38,569
+That means some token will be added.
+
+24
+00:03:38,669 --> 00:03:39,830
+Token means login.
+
+25
+00:03:41,150 --> 00:03:42,610
+We will be able to test everything on that behalf.
+
+26
+00:03:45,129 --> 00:03:46,610
+So that is AuthConfig.
+
+27
+00:03:47,069 --> 00:03:49,189
+We have only one client in which we have AuthConfig.
+
+28
+00:03:49,530 --> 00:03:50,370
+We will discuss that later.
+
+29
+00:03:50,370 --> 00:03:53,430
+Before that, I will tell you about the other one.
+
+30
+00:03:55,550 --> 00:03:55,729
+Okay?
+
+31
+00:03:57,009 --> 00:04:00,949
+Okay, sir.
+
+32
+00:04:03,090 --> 00:04:15,400
+So before track confirmation, we have the API URL.
+
+33
+00:04:16,879 --> 00:04:20,540
+I have made some documents for all the clients.
+
+34
+00:04:22,019 --> 00:04:24,100
+So if we are looking at Springdale,
+
+35
+00:04:24,100 --> 00:04:27,279
+the API URL starts from here.
+
+36
+00:04:27,279 --> 00:04:27,699
+From HTTP.
+
+37
+00:04:29,379 --> 00:04:30,459
+This is a question mark.
+
+38
+00:04:30,800 --> 00:04:31,920
+These are our query patterns.
+
+39
+00:04:34,500 --> 00:04:38,000
+So all the parts before this are the API URL.
+
+40
+00:04:39,000 --> 00:04:39,620
+The starting part.
+
+41
+00:04:41,920 --> 00:04:42,180
+Okay?
+
+42
+00:04:42,620 --> 00:04:45,779
+So we will copy this and put it here.
+
+43
+00:04:45,779 --> 00:04:46,699
+In the API URL.
+
+44
+00:04:49,740 --> 00:04:52,199
+After this, we have methods.
+
+45
+00:04:52,439 --> 00:04:53,740
+There are three types of methods.
+
+46
+00:04:53,819 --> 00:04:54,759
+Get, Post, and Post.
+
+47
+00:04:55,139 --> 00:05:00,160
+If we send query patterns in the API.
+
+48
+00:05:00,480 --> 00:05:02,100
+If we attach something after the question mark.
+
+49
+00:05:04,680 --> 00:05:06,259
+We call this query pattern.
+
+50
+00:05:06,920 --> 00:05:10,120
+And if we send it in an object.
+
+51
+00:05:11,600 --> 00:05:12,720
+Like this.
+
+52
+00:05:15,500 --> 00:05:16,160
+Like this.
+
+53
+00:05:16,339 --> 00:05:17,120
+We send it in an object.
+
+54
+00:05:18,959 --> 00:05:20,980
+We call this type of post request.
+
+55
+00:05:25,290 --> 00:05:25,730
+Okay.
+
+56
+00:05:25,870 --> 00:05:26,610
+Did you understand that much?
+
+57
+00:05:28,220 --> 00:05:29,060
+Yes.
+
+58
+00:05:32,470 --> 00:05:32,730
+Okay.
+
+59
+00:05:33,170 --> 00:05:36,410
+So for Springdale, we will call the get method.
+
+60
+00:05:37,449 --> 00:05:39,949
+I have written the method to get and post.
+
+61
+00:05:40,589 --> 00:05:40,910
+Okay.
+
+62
+00:05:41,310 --> 00:05:42,110
+So we will call the get method.
+
+63
+00:05:46,310 --> 00:05:47,750
+And then we have the query parameters.
+
+64
+00:05:48,269 --> 00:05:50,209
+We attach the token in this.
+
+65
+00:05:50,709 --> 00:05:54,209
+Or the extra values that we have to pass to call this.
+
+66
+00:05:54,550 --> 00:05:56,689
+We add those in this.
+
+67
+00:05:57,879 --> 00:05:59,420
+In this case, we have the token.
+
+68
+00:06:00,620 --> 00:06:02,399
+So we get the token.
+
+69
+00:06:04,100 --> 00:06:06,660
+And the value is also written in front of this.
+
+70
+00:06:06,660 --> 00:06:07,379
+Is equal to what?
+
+71
+00:06:11,329 --> 00:06:12,129
+This is the whole stream.
+
+72
+00:06:13,269 --> 00:06:16,189
+We have to copy and paste it here.
+
+73
+00:06:19,430 --> 00:06:21,250
+So we have to paste this after equal to?
+
+74
+00:06:23,339 --> 00:06:23,939
+Yes.
+
+75
+00:06:24,120 --> 00:06:25,459
+Token is equal to this.
+
+76
+00:06:25,699 --> 00:06:26,720
+From here to the end.
+
+77
+00:06:28,480 --> 00:06:31,139
+So every time we have to call the get method.
+
+78
+00:06:34,100 --> 00:06:34,680
+What are you doing?
+
+79
+00:06:36,139 --> 00:06:38,319
+Every time when we will hit the API,
+
+80
+00:06:39,120 --> 00:06:40,120
+we will have to call the get method.
+
+81
+00:06:44,370 --> 00:06:46,410
+Basically, what we are setting up,
+
+82
+00:06:46,529 --> 00:06:48,029
+we call the API on the backend.
+
+83
+00:06:51,660 --> 00:06:54,199
+We have to set up this setup once.
+
+84
+00:06:54,879 --> 00:06:56,060
+When we use this in our app,
+
+85
+00:06:56,699 --> 00:06:57,759
+we will call their other API,
+
+86
+00:06:58,319 --> 00:06:59,300
+which is our own API.
+
+87
+00:07:02,430 --> 00:07:04,350
+When we call that,
+
+88
+00:07:04,509 --> 00:07:06,930
+our backend automatically calls on the base of the config
+
+89
+00:07:06,930 --> 00:07:08,870
+on the base of the API.
+
+90
+00:07:17,410 --> 00:07:20,410
+Then we have headers.
+
+91
+00:07:21,329 --> 00:07:23,970
+Headers are basically what our response will be.
+
+92
+00:07:24,410 --> 00:07:26,209
+What format should it be in.
+
+93
+00:07:26,370 --> 00:07:27,850
+We can also fill this from here.
+
+94
+00:07:29,370 --> 00:07:30,709
+So here we will input accept.
+
+95
+00:07:34,050 --> 00:07:37,449
+And its value will be application slash json.
+
+96
+00:07:37,750 --> 00:07:39,670
+So that the response will be in json format.
+
+97
+00:07:49,410 --> 00:07:49,870
+Okay.
+
+98
+00:08:00,540 --> 00:08:01,819
+Now we have a bus.
+
+99
+00:08:04,920 --> 00:08:06,139
+One second.
+
+100
+00:08:06,819 --> 00:08:07,480
+Let me see the ID.
+
+101
+00:08:48,360 --> 00:08:49,220
+Is their API running?
+
+102
+00:09:07,559 --> 00:09:08,720
+Hello?
+
+103
+00:09:59,120 --> 00:10:00,120
+Yes.
+
+104
+00:10:00,759 --> 00:10:04,059
+Is their springdance API running?
+
+105
+00:10:04,649 --> 00:10:05,730
+It is running.
+
+106
+00:10:07,929 --> 00:10:10,389
+I can't hit their API.
+
+107
+00:10:14,480 --> 00:10:16,000
+You can directly check the API.
+
+108
+00:10:18,230 --> 00:10:18,909
+Postman?
+
+109
+00:10:20,529 --> 00:10:21,370
+No, it didn't work.
+
+110
+00:10:22,360 --> 00:10:23,179
+It might be an issue.
+
+111
+00:10:29,279 --> 00:10:30,059
+No, it's running.
+
+112
+00:10:36,269 --> 00:10:38,970
+Live location is unavailable.
+
+113
+00:10:40,549 --> 00:10:41,690
+Live location is unavailable.
+
+114
+00:10:41,909 --> 00:10:42,690
+It might be an issue.
+
+115
+00:10:45,110 --> 00:10:45,710
+Okay.
+
+116
+00:10:48,549 --> 00:10:49,210
+Entity change.
+
+117
+00:10:52,480 --> 00:10:53,159
+Okay.
+
+118
+00:10:53,860 --> 00:10:55,399
+Tinku, you understood the API.
+
+119
+00:10:55,519 --> 00:10:56,519
+Tinku, you understood the API.
+
+120
+00:10:58,259 --> 00:10:59,059
+Yes, sir.
+
+121
+00:11:00,480 --> 00:11:02,000
+I understood even the headers.
+
+122
+00:11:02,879 --> 00:11:05,600
+I understood even the headers.
+
+123
+00:11:10,149 --> 00:11:10,169
+Okay.
+
+124
+00:11:15,039 --> 00:11:17,840
+So in track config, we just have to put the API URL.
+
+125
+00:11:18,299 --> 00:11:18,980
+We have to set its method.
+
+126
+00:11:19,620 --> 00:11:20,779
+Which we have given.
+
+127
+00:11:22,480 --> 00:11:24,019
+And Tinku.
+
+128
+00:11:25,990 --> 00:11:26,789
+Okay.
+
+129
+00:11:34,870 --> 00:11:37,590
+So in track config, we just have to put the API URL.
+
+130
+00:11:38,230 --> 00:11:39,129
+We have to set its method.
+
+131
+00:11:39,129 --> 00:11:39,590
+So in track config, we just have to put the API URL.
+
+132
+00:11:40,009 --> 00:11:48,580
+And we have to put the API URL.
+
+133
+00:11:50,139 --> 00:12:02,659
+In request body?
+
+134
+00:12:04,460 --> 00:12:05,360
+In request body.
+
+135
+00:12:06,059 --> 00:12:07,639
+In request body.
+
+136
+00:13:03,289 --> 00:13:09,629
+So, like, get request or post request, what are the use cases, like, what is the situation
+
+137
+00:13:09,629 --> 00:13:12,350
+we have to use, what is the situation we have to post-release?
+
+138
+00:13:14,120 --> 00:13:20,799
+Situation wise, I mean, it depends on how they have configured the vendors in the API.
+
+139
+00:13:21,399 --> 00:13:28,519
+Okay, so, like, we just need to, like, put it over here.
+
+140
+00:14:06,389 --> 00:14:12,970
+And response config, basically, like, suppose, if we use our app or portal,
+
+141
+00:14:14,899 --> 00:14:17,980
+how should we get the response in return?
+
+142
+00:14:21,879 --> 00:14:24,820
+Okay, how do we configure this? I will run an API.
+
+143
+00:14:26,820 --> 00:16:29,320
+Is there an issue, sir?
+
+144
+00:16:38,440 --> 00:16:38,879
+Hello.
+
+145
+00:17:05,299 --> 00:17:09,500
+I mean, this configuration will look like this, but there won't be a track, right?
+
+146
+00:17:10,950 --> 00:17:13,529
+Yes, I mean, the test connection one won't be checked, right?
+
+147
+00:17:13,650 --> 00:17:17,569
+Because based on the response of the test connection, we will configure the response, right?
+
+148
+00:17:18,430 --> 00:17:20,849
+Okay, no problem, just set it up once.
+
+149
+00:17:21,069 --> 00:17:24,529
+The entities, the data of the entities, will be sent to me by the word file.
+
+150
+00:17:26,559 --> 00:17:28,740
+I have made a JSON for that.
+
+151
+00:17:29,180 --> 00:17:31,940
+Yes, so, you will put it in the word and send it to me in the word file.
+
+152
+00:17:33,690 --> 00:17:35,430
+Okay, I will give it to you.
+
+153
+00:17:36,250 --> 00:17:39,009
+I mean, don't make a simple copy, or send a text file or something else.
+
+154
+00:17:39,029 --> 00:17:40,430
+Send a text file or a word file.
+
+155
+00:17:41,519 --> 00:17:42,440
+Okay, by writing the name of the entity.
+
+156
+00:17:42,980 --> 00:17:44,240
+Okay, I can put it in the group once.
+
+157
+00:17:44,579 --> 00:17:46,980
+Let's complete the setup once, then let's see how to do the test.
+
+158
+00:17:50,089 --> 00:17:53,950
+Okay, okay. If I show it now, as I had shared it.
+
+159
+00:17:54,430 --> 00:17:55,450
+Let me show you one thing.
+
+160
+00:17:57,589 --> 00:18:00,750
+Pinku, you have to be clear. First, confirm that you have to do the setup.
+
+161
+00:18:02,470 --> 00:18:05,069
+The response config has not been done yet.
+
+162
+00:18:05,630 --> 00:18:09,990
+The other VBS config that we had, the track config has been cleared.
+
+163
+00:18:11,730 --> 00:18:13,730
+Okay, then you have to tell me the device ID as well.
+
+164
+00:18:14,190 --> 00:18:14,809
+How to set up the device ID.
+
+165
+00:18:15,789 --> 00:18:17,009
+Have you put the device ID now?
+
+166
+00:18:18,740 --> 00:18:19,579
+What is the device ID?
+
+167
+00:18:20,799 --> 00:18:22,460
+Okay, the wickle ID.
+
+168
+00:18:22,920 --> 00:18:23,240
+Yes.
+
+169
+00:18:24,740 --> 00:18:26,660
+No, I will tell you that. I couldn't check it there.
+
+170
+00:18:27,640 --> 00:18:28,339
+I have to see that.
+
+171
+00:18:30,630 --> 00:18:34,190
+And the issue that is coming from the check case side, is it from Ms. Resh's side or from Ms. Resh's side?
+
+172
+00:18:34,190 --> 00:18:36,950
+I will have to see.
+
+173
+00:18:37,470 --> 00:18:38,109
+Put it on the front-end.
+
+174
+00:18:38,890 --> 00:18:40,109
+What should I do with the setup?
+
+175
+00:18:41,329 --> 00:18:50,799
+There is an issue from the front-end.
+
+176
+00:18:52,359 --> 00:18:53,220
+I mean, the cold service is coming.
+
+177
+00:18:53,660 --> 00:18:56,400
+Okay, so will you put this in there as well?
+
+178
+00:18:57,450 --> 00:18:58,609
+Put it in the same task once.
+
+179
+00:19:06,279 --> 00:19:09,019
+Put it in the main task or in case?
+
+180
+00:19:09,019 --> 00:19:09,579
+Put it in the main task.
+
+181
+00:20:11,500 --> 00:20:12,059
+Okay.
+
+182
+00:20:12,880 --> 00:20:13,960
+Once, when will the setup come?
+
+183
+00:20:14,240 --> 00:20:16,259
+Normally, the response postman is coming.
+
+184
+00:20:16,259 --> 00:20:30,170
+Is the screen visible?
+
+185
+00:20:35,450 --> 00:20:36,490
+You understood so much, right?
+
+186
+00:20:36,490 --> 00:20:38,470
+You put the URL on A, we have to check the method,
+
+187
+00:20:38,789 --> 00:20:39,930
+we will add the query patterns,
+
+188
+00:20:40,230 --> 00:20:41,170
+the tokens, etc.
+
+189
+00:20:42,269 --> 00:20:44,869
+And in headers, we will add the accept application recently.
+
+190
+00:20:48,670 --> 00:20:49,009
+Okay.
+
+191
+00:20:49,450 --> 00:20:51,750
+And if our method is posted in any of them,
+
+192
+00:20:52,049 --> 00:20:53,329
+we will add the body in it.
+
+193
+00:20:53,809 --> 00:20:55,089
+In the object, the key value is there.
+
+194
+00:20:57,589 --> 00:20:58,150
+Okay.
+
+195
+00:20:59,210 --> 00:21:01,569
+Next, we have two keys left.
+
+196
+00:21:01,970 --> 00:21:03,529
+One is the GPS ID location
+
+197
+00:21:03,529 --> 00:21:04,730
+and the other is the GPS ID key.
+
+198
+00:21:06,900 --> 00:21:07,859
+Okay.
+
+199
+00:21:07,859 --> 00:21:09,279
+Now, I have mentioned in the document
+
+200
+00:21:11,819 --> 00:21:13,380
+that the matching key
+
+201
+00:21:13,380 --> 00:21:14,500
+is equal to the vehicle number.
+
+202
+00:21:20,140 --> 00:21:21,880
+So, we have to copy the key
+
+203
+00:21:21,880 --> 00:21:22,740
+mentioned here
+
+204
+00:21:24,500 --> 00:21:26,519
+and add it here.
+
+205
+00:21:26,700 --> 00:21:27,539
+In the GPS ID key.
+
+206
+00:21:30,559 --> 00:21:31,720
+Okay. Once again,
+
+207
+00:21:31,720 --> 00:21:32,500
+put it on the back.
+
+208
+00:21:37,410 --> 00:21:38,009
+Okay.
+
+209
+00:21:39,980 --> 00:21:41,039
+Just in matching key,
+
+210
+00:21:41,920 --> 00:21:43,279
+we will pass our ID
+
+211
+00:21:45,670 --> 00:21:47,930
+Basically, we will pass our ID
+
+212
+00:21:47,930 --> 00:21:48,970
+in this key and
+
+213
+00:21:48,970 --> 00:21:51,269
+the back end will match with this key.
+
+214
+00:21:56,759 --> 00:21:58,220
+And we will send it in the query parameter.
+
+215
+00:22:03,630 --> 00:22:04,109
+Okay.
+
+216
+00:22:04,630 --> 00:22:05,769
+So, we have
+
+217
+00:22:05,769 --> 00:22:07,069
+set up this much
+
+218
+00:22:07,069 --> 00:22:08,630
+in the track config.
+
+219
+00:22:13,789 --> 00:22:16,289
+Then, we have the response config.
+
+220
+00:22:17,670 --> 00:22:18,150
+Basically,
+
+221
+00:22:18,690 --> 00:22:19,730
+the response of our vendor,
+
+222
+00:22:19,910 --> 00:22:23,160
+vendor API, we set it up
+
+223
+00:22:23,160 --> 00:22:25,839
+What will be the path of the list?
+
+224
+00:22:26,819 --> 00:22:28,440
+Suppose, we talk about this.
+
+225
+00:22:30,420 --> 00:22:31,240
+So, here you can see
+
+226
+00:22:31,240 --> 00:22:32,819
+that we have a list in the data.
+
+227
+00:22:36,339 --> 00:22:36,759
+Yes.
+
+228
+00:22:38,779 --> 00:22:39,740
+That is why we have written
+
+229
+00:22:39,740 --> 00:22:41,559
+data.list here.
+
+230
+00:22:41,799 --> 00:22:44,779
+That is how we access
+
+231
+00:22:44,779 --> 00:22:45,779
+the arrays from the dot operator.
+
+232
+00:22:48,970 --> 00:22:49,289
+Okay.
+
+233
+00:22:50,210 --> 00:22:52,450
+So, data.list is our path key.
+
+234
+00:22:52,450 --> 00:22:53,690
+Basically, it tells us that
+
+235
+00:22:53,690 --> 00:22:55,990
+the data of our vendor API
+
+236
+00:22:55,990 --> 00:22:57,710
+will come in this.
+
+237
+00:22:57,710 --> 00:22:59,289
+It will come in the list array.
+
+238
+00:23:03,660 --> 00:23:03,900
+Okay.
+
+239
+00:23:05,059 --> 00:23:06,380
+Then, we have the match key.
+
+240
+00:23:09,680 --> 00:23:10,720
+The key
+
+241
+00:23:10,720 --> 00:23:10,960
+that comes in this,
+
+242
+00:23:11,039 --> 00:23:11,779
+the unique key,
+
+243
+00:23:12,160 --> 00:23:14,359
+that every vehicle has its own key.
+
+244
+00:23:16,750 --> 00:23:17,269
+Okay.
+
+245
+00:23:17,269 --> 00:23:18,490
+So, the key that we will pass
+
+246
+00:23:18,490 --> 00:23:19,809
+and the response that will come,
+
+247
+00:23:20,680 --> 00:23:21,900
+if we have to make a comparison,
+
+248
+00:23:21,960 --> 00:23:23,559
+with which key will we match the values?
+
+249
+00:23:28,099 --> 00:23:30,200
+So, here the name of that key is vehicle number.
+
+250
+00:23:30,200 --> 00:23:31,579
+So, we will take this
+
+251
+00:23:31,579 --> 00:23:34,220
+and replace it in the match key.
+
+252
+00:23:38,039 --> 00:23:38,180
+Okay.
+
+253
+00:23:38,640 --> 00:23:40,220
+Then, we have the latitude,
+
+254
+00:23:40,420 --> 00:23:41,599
+longitude and speed key.
+
+255
+00:23:42,299 --> 00:23:44,460
+This is basically the key
+
+256
+00:23:44,460 --> 00:23:45,880
+that we have here, latitude, longitude and speed.
+
+257
+00:23:46,160 --> 00:23:47,259
+We will copy these keys
+
+258
+00:23:47,259 --> 00:23:49,019
+and insert them there.
+
+259
+00:23:53,759 --> 00:23:55,640
+Just add these keys here.
+
+260
+00:24:02,390 --> 00:24:03,069
+Okay.
+
+261
+00:24:03,430 --> 00:24:04,130
+So, this is our setup.
+
+262
+00:24:07,380 --> 00:24:08,059
+Okay.
+
+263
+00:24:21,910 --> 00:24:22,710
+Any issues
+
+264
+00:24:26,579 --> 00:24:27,539
+It's clear.
+
+265
+00:24:29,859 --> 00:24:31,339
+Just tell me about the match key.
+
+266
+00:24:31,579 --> 00:24:33,759
+The previous track config
+
+267
+00:24:33,759 --> 00:24:36,119
+that we did in GPS ID,
+
+268
+00:24:36,240 --> 00:24:36,660
+shouldn't it be the same?
+
+269
+00:24:38,910 --> 00:24:39,809
+Yes, it should be the same.
+
+270
+00:24:41,589 --> 00:24:42,490
+No, it shouldn't be the same.
+
+271
+00:24:43,509 --> 00:24:45,509
+The document that I will give you,
+
+272
+00:24:45,509 --> 00:24:47,049
+it has the matching key in it.
+
+273
+00:24:48,660 --> 00:24:49,220
+Okay.
+
+274
+00:24:50,460 --> 00:24:51,539
+So, like...
+
+275
+00:24:51,930 --> 00:24:52,369
+Yes?
+
+276
+00:24:52,970 --> 00:24:53,970
+It can be different.
+
+277
+00:24:53,970 --> 00:24:54,430
+It can be different.
+
+278
+00:24:54,470 --> 00:24:55,329
+The matching key
+
+279
+00:24:55,329 --> 00:24:57,309
+that we have to put on the track config
+
+280
+00:24:57,309 --> 00:25:00,309
+and the response that we will get
+
+281
+00:25:00,309 --> 00:25:03,670
+in the match key,
+
+282
+00:25:03,849 --> 00:25:04,750
+we will get the response.
+
+283
+00:25:08,099 --> 00:25:08,339
+Then,
+
+284
+00:25:10,289 --> 00:25:10,609
+till now,
+
+285
+00:25:11,789 --> 00:25:13,170
+we have to put the GPS ID of each vehicle.
+
+286
+00:25:16,269 --> 00:25:17,089
+Where is that?
+
+287
+00:25:17,809 --> 00:25:18,690
+We have vehicles in transport.
+
+288
+00:25:20,289 --> 00:25:20,650
+Okay.
+
+289
+00:25:29,890 --> 00:25:30,509
+We have vehicles in transport.
+
+290
+00:25:30,509 --> 00:25:33,500
+We have vehicles in transport.
+
+291
+00:25:33,500 --> 00:25:34,680
+Here, suppose,
+
+292
+00:25:34,980 --> 00:25:37,460
+if we want to configure this vehicle,
+
+293
+00:25:39,809 --> 00:25:40,670
+then we
+
+294
+00:25:40,670 --> 00:25:42,349
+search for it in our response.
+
+295
+00:25:45,960 --> 00:25:46,519
+there must be a vehicle.
+
+296
+00:25:49,150 --> 00:26:08,759
+So, the keys
+
+297
+00:26:08,759 --> 00:26:10,799
+that we added,
+
+298
+00:26:10,960 --> 00:26:13,079
+the matching key and the key key,
+
+299
+00:26:16,400 --> 00:26:18,339
+we have to set up
+
+300
+00:26:18,339 --> 00:26:19,480
+that vehicle number.
+
+301
+00:26:21,500 --> 00:26:24,039
+We save that
+
+302
+00:26:26,250 --> 00:26:27,890
+and then it will run our API.
+
+303
+00:26:28,750 --> 00:26:30,630
+Because it will get the data
+
+304
+00:26:30,630 --> 00:26:31,970
+from the vendor's API.
+
+305
+00:26:34,200 --> 00:26:36,259
+I will just repeat
+
+306
+00:26:36,259 --> 00:26:37,140
+the last one.
+
+307
+00:26:39,250 --> 00:26:40,950
+What we have set up till now,
+
+308
+00:26:41,750 --> 00:26:43,269
+if we want to run that set up,
+
+309
+00:26:45,710 --> 00:26:47,230
+then the vehicle key
+
+310
+00:26:47,230 --> 00:26:47,950
+that we have set up,
+
+311
+00:26:48,089 --> 00:26:49,009
+that it should be the vehicle number.
+
+312
+00:26:50,369 --> 00:26:50,809
+Yes.
+
+313
+00:26:52,740 --> 00:26:54,579
+Now, it happens that every vendor's
+
+314
+00:26:54,579 --> 00:26:54,940
+API,
+
+315
+00:26:56,039 --> 00:26:58,400
+it gives a unique core
+
+316
+00:26:58,400 --> 00:26:59,079
+that will be unique
+
+317
+00:26:59,079 --> 00:27:00,759
+for that vehicle.
+
+318
+00:27:02,400 --> 00:27:03,400
+If we talk about this vehicle,
+
+319
+00:27:04,099 --> 00:27:05,160
+then its code is
+
+320
+00:27:06,900 --> 00:27:07,599
+V2954.
+
+321
+00:27:10,490 --> 00:27:11,670
+Whenever we call on our API,
+
+322
+00:27:12,869 --> 00:27:13,890
+then we will call on this
+
+323
+00:27:13,890 --> 00:27:14,410
+value.
+
+324
+00:27:21,259 --> 00:27:22,599
+Because then it will match
+
+325
+00:27:22,599 --> 00:27:24,019
+that our back-end will also check
+
+326
+00:27:24,019 --> 00:27:24,500
+with this response.
+
+327
+00:27:28,609 --> 00:27:30,450
+Our main comparison will be on this key.
+
+328
+00:27:32,339 --> 00:27:32,660
+Okay.
+
+329
+00:27:33,720 --> 00:27:35,799
+So, what we have to do is
+
+330
+00:27:35,799 --> 00:27:36,539
+take its value.
+
+331
+00:27:38,059 --> 00:27:39,460
+When we come to this page,
+
+332
+00:27:40,859 --> 00:27:41,559
+V2954.
+
+333
+00:27:47,990 --> 00:27:50,170
+We will search the vehicle here.
+
+334
+00:27:50,970 --> 00:27:51,549
+By viewing this,
+
+335
+00:27:51,930 --> 00:27:52,809
+we will get GPS ID.
+
+336
+00:27:53,589 --> 00:27:55,529
+We will have to save that value here.
+
+337
+00:27:58,900 --> 00:28:00,740
+Okay. If we don't save it,
+
+338
+00:28:01,039 --> 00:28:02,440
+it will not run on our API,
+
+339
+00:28:02,619 --> 00:28:04,599
+it will give an error that GPS ID
+
+340
+00:28:04,599 --> 00:28:05,400
+is configured in it.
+
+341
+00:28:09,700 --> 00:28:11,099
+We will save this.
+
+342
+00:28:12,079 --> 00:28:13,779
+Now, if we come to our app,
+
+343
+00:28:15,000 --> 00:28:16,440
+here we have the trackwall bus
+
+344
+00:28:16,440 --> 00:28:16,660
+option.
+
+345
+00:28:22,670 --> 00:28:24,009
+Suppose we go to
+
+346
+00:28:24,009 --> 00:28:25,069
+V2954.
+
+347
+00:28:30,670 --> 00:28:31,670
+When we click on this,
+
+348
+00:28:32,009 --> 00:28:33,589
+then our vehicle's API goes
+
+349
+00:28:34,690 --> 00:28:36,130
+one second.
+
+350
+00:28:58,700 --> 00:28:59,940
+Our API
+
+351
+00:28:59,940 --> 00:29:01,339
+goes to this.
+
+352
+00:29:01,339 --> 00:29:02,599
+In this, we are sending GPS ID.
+
+353
+00:29:02,839 --> 00:29:03,980
+The one we set up there,
+
+354
+00:29:05,319 --> 00:29:06,000
+in our vehicle.
+
+355
+00:29:09,579 --> 00:29:11,099
+We will pass it here.
+
+356
+00:29:11,240 --> 00:29:12,200
+So, what we do on the back-end?
+
+357
+00:29:13,019 --> 00:29:14,819
+The track we have configured,
+
+358
+00:29:14,819 --> 00:29:16,980
+it will run it
+
+359
+00:29:16,980 --> 00:29:18,900
+with this GPS ID key.
+
+360
+00:29:23,750 --> 00:29:24,569
+And then the response
+
+361
+00:29:24,569 --> 00:29:26,930
+will be of this vehicle only.
+
+362
+00:29:27,230 --> 00:29:28,910
+And then the latitude and longitude
+
+363
+00:29:28,910 --> 00:29:30,549
+will be rendered here.
+
+364
+00:29:37,700 --> 00:29:38,180
+Okay.
+
+365
+00:29:38,799 --> 00:29:39,980
+So, this much setup is there.
+
+366
+00:29:41,180 --> 00:29:42,259
+Now, suppose here,
+
+367
+00:29:42,500 --> 00:29:45,039
+5861, we don't have GPS ID.
+
+368
+00:29:45,400 --> 00:29:46,319
+We haven't set it up.
+
+369
+00:29:47,440 --> 00:29:48,759
+So, here we get an error that
+
+370
+00:29:48,759 --> 00:29:50,279
+GPS ID is not found. Please contact us.
+
+371
+00:29:54,430 --> 00:29:55,029
+Okay.
+
+372
+00:29:55,029 --> 00:29:59,519
+Now, tell us once,
+
+373
+00:30:00,240 --> 00:30:01,400
+if there are any doubts in this
+
+374
+00:30:01,400 --> 00:30:01,920
+whole setup.
+
+375
+00:30:03,200 --> 00:30:04,940
+Yes, you just told us that
+
+376
+00:30:04,940 --> 00:30:06,359
+in these documents, we will get
+
+377
+00:30:06,359 --> 00:30:09,180
+matching, the response
+
+378
+00:30:09,180 --> 00:30:10,319
+we will get. Where will we get the response?
+
+379
+00:30:11,059 --> 00:30:11,980
+We will provide that also.
+
+380
+00:30:13,589 --> 00:30:15,829
+No, right now,
+
+381
+00:30:16,089 --> 00:30:16,970
+in this portal,
+
+382
+00:30:17,349 --> 00:30:18,250
+the response will not come.
+
+383
+00:30:19,329 --> 00:30:21,549
+There is an error there.
+
+384
+00:30:21,890 --> 00:30:23,210
+So, first, you will update the postman.
+
+385
+00:30:24,450 --> 00:30:24,970
+Yes.
+
+386
+00:30:25,960 --> 00:30:27,660
+So, in this case, normally
+
+387
+00:30:27,660 --> 00:30:28,140
+you can hit the postman.
+
+388
+00:30:31,130 --> 00:30:31,250
+Okay.
+
+389
+00:30:33,619 --> 00:30:35,119
+Like, just in case,
+
+390
+00:30:35,279 --> 00:30:36,559
+I am asking, by hitting the postman,
+
+391
+00:30:37,079 --> 00:30:39,259
+I can find out what data
+
+392
+00:30:39,259 --> 00:30:41,279
+I have to put. But the thing is,
+
+393
+00:30:41,480 --> 00:30:43,480
+once you can tell us where the show is
+
+394
+00:30:43,480 --> 00:30:44,720
+on the front end. So that, whenever
+
+395
+00:30:44,720 --> 00:30:46,480
+it gets updated, we can do it from there.
+
+396
+00:30:48,210 --> 00:30:49,990
+Okay, where will the response come on the front end?
+
+397
+00:30:50,089 --> 00:30:51,750
+That is the problem. Yes.
+
+398
+00:30:53,789 --> 00:30:54,630
+Here is the track config.
+
+399
+00:30:55,009 --> 00:30:56,269
+Here is the test connection.
+
+400
+00:30:56,269 --> 00:30:57,710
+Okay, okay.
+
+401
+00:30:58,029 --> 00:30:59,890
+If you click on this, it will run on A.
+
+402
+00:30:59,990 --> 00:31:00,930
+Right now, we have the address here.
+
+403
+00:31:03,450 --> 00:31:05,650
+Yes. But the response
+
+404
+00:31:05,650 --> 00:31:06,390
+will come here.
+
+405
+00:31:07,829 --> 00:31:10,289
+The postman should also come here.
+
+406
+00:31:13,140 --> 00:31:13,619
+Okay.
+
+407
+00:31:16,910 --> 00:31:17,089
+Yes.
+
+408
+00:31:20,220 --> 00:31:21,000
+That was it.
+
+409
+00:31:36,539 --> 00:31:37,200
+Aishu?
+
+410
+00:31:41,109 --> 00:31:41,650
+Yes, sir.
+
+411
+00:31:43,089 --> 00:31:44,289
+Yes, I showed the pipe one.
+
+412
+00:31:45,430 --> 00:31:47,069
+But the response is not coming here.
+
+413
+00:31:48,079 --> 00:31:48,500
+Okay.
+
+414
+00:31:56,579 --> 00:31:57,980
+Okay.
+
+415
+00:32:05,319 --> 00:32:06,099
+Okay.
+
+416
+00:32:06,980 --> 00:32:08,380
+Okay.
+
+417
+00:32:11,660 --> 00:32:11,940
+Okay.
+
+418
+00:32:14,140 --> 00:32:14,440
+Okay.
+
+419
+00:32:15,519 --> 00:32:16,920
+Okay.
+
+420
+00:32:52,259 --> 00:32:53,420
+I'll send them the data in a minute.
+
+421
+00:32:54,259 --> 00:32:56,160
+I told you, I'll send it here.
+
+422
+00:32:56,380 --> 00:32:57,579
+Because it's easy to read.
+
+423
+00:32:58,660 --> 00:32:59,720
+Yes, yes, send it here.
+
+424
+00:33:00,039 --> 00:33:01,660
+Tinku, tell us how easy it is for you.
+
+425
+00:33:03,369 --> 00:33:05,569
+Sir, it's the same as well.
+
+426
+00:33:06,130 --> 00:33:06,970
+I wanted to ask you something.
+
+427
+00:33:07,369 --> 00:33:09,519
+Like what you just said that we have to set up
+
+428
+00:33:10,339 --> 00:33:11,519
+for 2-2 buses,
+
+429
+00:33:11,740 --> 00:33:12,539
+should we do only 2 buses?
+
+430
+00:33:13,059 --> 00:33:15,440
+Or after 2, in the next entity,
+
+431
+00:33:15,599 --> 00:33:16,500
+should we do another 2-2?
+
+432
+00:33:17,200 --> 00:33:18,480
+We have to do 2 buses for every entity.
+
+433
+00:33:20,250 --> 00:33:21,930
+For every entity, okay sir.
+

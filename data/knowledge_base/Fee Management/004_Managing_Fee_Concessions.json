@@ -1,0 +1,52 @@
+{
+    "module": "Fee Management",
+    "topic": "Managing Fee Concessions",
+    "summary": "Concessions can be applied to a student's fee demand. The system supports both percentage-based concessions (e.g., 10% on tuition fee for sports quota) and manual fixed-amount concessions. Concession groups can be defined in the system master data. When applying a concession, a remark is mandatory, and an option to upload supporting documents (e.g., application signature) is available but not mandatory. After a concession is assigned, the student's payable amount is automatically updated.",
+    "navigation": [
+        "Collect Fee > Student Fee Collection Section > Concession option"
+    ],
+    "steps": [
+        "In the student's fee collection section, click on the 'Concession' option.",
+        "Select a concession group (e.g., 'Manual' for fixed amount, or a predefined group like 'Sports Concession').",
+        "If a predefined group is selected, the system automatically calculates the concession based on the defined percentage (e.g., 10% on tuition fee).",
+        "If 'Manual' is selected, enter the fixed concession amount.",
+        "Enter a mandatory remark explaining the reason for the concession.",
+        "Optionally, upload supporting documents (e.g., application document with principal's signature).",
+        "Save the concession."
+    ],
+    "business_rules": [
+        "Concession groups can be defined in the system master.",
+        "Remarks are mandatory when applying a concession.",
+        "Document upload for concession is optional."
+    ],
+    "important_notes": [
+        "Concession criteria (e.g., 50% criteria) need to be shared for setup.",
+        "Concession data for old students needs to be provided for import."
+    ],
+    "questions": [
+        "How do I apply a fee concession for a student?",
+        "Can I give a percentage-based concession or only a fixed amount?",
+        "What information is required when applying a concession?",
+        "Is it mandatory to upload documents for a concession?",
+        "Where can I define concession groups?"
+    ],
+    "keywords": [
+        "fee concession",
+        "concession group",
+        "manual concession",
+        "percentage concession",
+        "concession remarks",
+        "upload concession document"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Structure Setup",
+        "Student Data Import"
+    ],
+    "id": "fee_management_managing_fee_concessions",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "module": "Fee Management",
+    "topic": "Payment Modes for Fee Collection",
+    "summary": "The ERP system supports various payment modes for fee collection, including Cash, Cheque, and Online payments. Cash is typically selected by default. For online payments, the system is integrated with payment gateways like Razorpay. When collecting online fees, users can either select 'Online' as a payment mode for back-gate entries (where payment was made externally) or use the 'Collect Fee Online' option to redirect the student to the payment gateway directly, which provides a scanner/QR code for payment.",
+    "navigation": [
+        "Collect Fee > Proceed > Payment Mode Selection"
+    ],
+    "steps": [
+        "After selecting the student and fee amount, proceed to the payment mode selection.",
+        "Select 'Cash' if the payment is received in cash.",
+        "Select 'Cheque' if the payment is by cheque (requires entering bank details, reference number, date).",
+        "Select 'Online' if the payment was made online outside the direct ERP gateway (requires selecting institute bank, reference number, date, remarks).",
+        "Alternatively, use the 'Collect Fee Online' option from the main menu to directly redirect to the payment gateway for real-time online payment via scanner/card."
+    ],
+    "business_rules": [
+        "Cash is the default payment mode.",
+        "Online payment gateway (Razorpay) is integrated for direct online collections.",
+        "Reference number and date are required for Cheque and 'Online' (back-gate entry) payments."
+    ],
+    "important_notes": [
+        "The institute's bank accounts need to be configured in the system for 'Online' (back-gate entry) payments.",
+        "Remarks are optional for all payment modes."
+    ],
+    "questions": [
+        "What payment methods are available for fee collection?",
+        "How do I record a cash payment?",
+        "How do I record a cheque payment?",
+        "What is the difference between 'Online' payment mode and 'Collect Fee Online'?",
+        "Is Razorpay integrated for online fee collection?"
+    ],
+    "keywords": [
+        "payment mode",
+        "cash payment",
+        "cheque payment",
+        "online payment",
+        "Razorpay",
+        "payment gateway",
+        "collect fee online",
+        "institute bank"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Receipt",
+        "Online Admission Form & Payment"
+    ],
+    "id": "fee_management_payment_modes_for_fee_collection",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

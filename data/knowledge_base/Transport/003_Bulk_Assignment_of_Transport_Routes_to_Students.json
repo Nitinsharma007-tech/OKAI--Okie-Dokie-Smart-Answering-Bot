@@ -1,0 +1,59 @@
+{
+    "module": "Transport",
+    "topic": "Bulk Assignment of Transport Routes to Students",
+    "summary": "This topic explains how to efficiently assign transport routes and pick-up points to multiple students simultaneously using an Excel upload, streamlining the process for large numbers of students.",
+    "navigation": [
+        "Settings icon",
+        "Transport",
+        "Transport Excel Upload"
+    ],
+    "steps": [
+        "Click on the 'Settings' icon.",
+        "Select 'Transport'.",
+        "Click on 'Transport Excel Upload'.",
+        "Download the 'Sample Excel' file provided by the system.",
+        "Fill the Excel sheet with student transport data, ensuring the following columns are populated:",
+        "  - 'Reg Number' (the unique student ID)",
+        "  - 'Vehicle Route' (the exact name of the route as defined in the system, e.g., Route 1)",
+        "  - 'Pick-up Point' (the exact name of the pick-up point as defined for that route, e.g., Ansal).",
+        "Choose the completed Excel file from your system.",
+        "Click 'Submit' to upload and process the data."
+    ],
+    "business_rules": [
+        "The 'Reg Number' (or Admission Number) is the unique identifier for each student in the system.",
+        "The 'Vehicle Route' and 'Pick-up Point' names in the Excel must precisely match the names configured in the ERP system.",
+        "Upon successful upload, the system automatically fetches and applies the corresponding transport fees to the students' fee demands based on the assigned route and pick-up point."
+    ],
+    "important_notes": [
+        "This feature is particularly useful for bulk assignments, such as when promoting students from a previous session where transport details often remain consistent.",
+        "Users can export existing transport assignments from the 'Transport Report' section to use as a template for the bulk upload Excel.",
+        "The system will generate an error file if there are any discrepancies or missing mandatory data in the uploaded Excel sheet."
+    ],
+    "questions": [
+        "How can I assign transport routes to multiple students at once?",
+        "What information is required in the Transport Excel Upload for students?",
+        "Does the transport Excel upload automatically apply the fees?",
+        "Can I use this feature for students promoted from a previous session?",
+        "What should I do if the Excel upload generates an error file?"
+    ],
+    "keywords": [
+        "Transport Excel Upload",
+        "Bulk Assignment",
+        "Student Transport",
+        "Reg Number",
+        "Vehicle Route",
+        "Pick-up Point",
+        "Promote Students",
+        "Mass Assignment"
+    ],
+    "related_topics": [
+        "Defining Vehicle Routes and Pick-up Points",
+        "Assigning Transport Route to Students"
+    ],
+    "id": "transport_bulk_assignment_of_transport_routes_to_students",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

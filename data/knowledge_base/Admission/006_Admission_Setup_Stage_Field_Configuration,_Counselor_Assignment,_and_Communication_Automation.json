@@ -1,0 +1,79 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup: Stage Field Configuration, Counselor Assignment, and Communication Automation",
+    "summary": "This comprehensive setup allows for granular control over each admission stage. It includes configuring which fields are visible and mandatory, assigning specific counselors who can only view applications at their assigned stage, and automating communication (SMS, WhatsApp, Email) when an application transitions to a new stage. It also differentiates between 'Lead' and 'Application' stage types.",
+    "navigation": [
+        "Admission module > Admission Setup > Stage Setup"
+    ],
+    "steps": [
+        "Navigate to \"Stage Setup\".",
+        "(Optional) Copy existing stage configurations from previous sessions or click \"Add Stage Setup\" to create a new one.",
+        "Select the desired stage from the list (e.g., \"Testing\").",
+        "Assign a \"Stage Sequence\" number to define its order in the workflow.",
+        "Select the \"Stage Type\":",
+        "  - **Lead:** For initial, fresh leads where no significant work has been done.",
+        "  - **Application:** For stages where work has commenced, and data is being processed.",
+        "(Optional) Select a \"Counselor\" to assign to this stage. Only applications reaching this stage will be visible to the assigned counselor.",
+        "Configure \"Communication Preferences\":",
+        "  - Select \"SMS\", \"WhatsApp\", or \"Email\" to enable automated messages.",
+        "  - Choose the appropriate template for each communication channel.",
+        "  - These messages will be automatically triggered when an application moves to this stage.",
+        "Configure fields for the stage:",
+        "  - **Copy Fields:** Click \"Copy Field\" to duplicate fields from an existing stage.",
+        "  - **Add Individual Field:** Click \"Add Field\" to add a new field:",
+        "    - Select the field from the dropdown.",
+        "    - Enter a display name.",
+        "    - Toggle \"Mandatory\" if the field is required.",
+        "    - Select \"Field Type\" (e.g., Text, Date, Select Box, Phone Number, File Type).",
+        "    - For \"Select Box\" type, add multiple values (e.g., \"Male\", \"Female\", \"Others\" for Gender).",
+        "    - Use \"Group By\" to categorize fields (e.g., \"Personal Details\", \"Document Upload\", \"Address\").",
+        "    - Set a \"Sequence Number\" to define the display order of fields within their group.",
+        "  - **Add Multiple Fields:** Click \"Add Multiple Field\" to quickly select and add several common fields (e.g., Student's Name, Phone Number, Email, Address).",
+        "Save the stage configuration."
+    ],
+    "business_rules": [
+        "Fields visible at each stage should be relevant to the information required at that specific point in the admission process.",
+        "If a counselor is assigned to a stage, they will only be able to view applications once they reach that specific stage; their screen will be blank for applications in prior stages.",
+        "Automated communication triggers eliminate the need for manual message sending."
+    ],
+    "important_notes": [
+        "The 'Lead' stage is typically the very first stage.",
+        "Grouping and sequencing fields enhance the user experience and data entry process.",
+        "Careful selection of fields at each stage prevents page clutter and improves efficiency."
+    ],
+    "questions": [
+        "How do I customize the fields visible at each admission stage?",
+        "Can I make certain fields mandatory for a specific admission stage?",
+        "How do I assign a counselor to an admission stage, and what are the implications?",
+        "What is the difference between 'Lead' and 'Application' stage types in stage setup?",
+        "How can I automate SMS, WhatsApp, or email notifications when an application moves to a new stage?",
+        "How do I group and order fields within an admission stage?"
+    ],
+    "keywords": [
+        "Stage setup",
+        "field configuration",
+        "mandatory fields",
+        "field type",
+        "group by",
+        "sequence number",
+        "counselor assignment",
+        "communication preferences",
+        "SMS template",
+        "email template",
+        "WhatsApp template",
+        "lead stage",
+        "application stage",
+        "automated communication"
+    ],
+    "related_topics": [
+        "Admission Lead Stages",
+        "Stage Master Configuration",
+        "Communication Module"
+    ],
+    "id": "admission_admission_setup_stage_field_configuration_counselor_assignment_and_communication_automation",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

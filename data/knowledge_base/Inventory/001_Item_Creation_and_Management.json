@@ -1,0 +1,62 @@
+{
+    "module": "Inventory",
+    "topic": "Item Creation and Management",
+    "summary": "This topic covers the process of creating, viewing, and editing items within the ERP system's Inventory module. It details how to define item codes, assign items to groups, and specify units of measurement. The system allows for the creation of new item groups on the fly and supports hierarchical grouping.",
+    "navigation": [
+        "Inventory",
+        "Masters",
+        "Items"
+    ],
+    "steps": [
+        "Navigate to Inventory > Masters > Items.",
+        "Click on 'Create' to add a new item.",
+        "Enter the 'Item Code' (non-mandatory).",
+        "Enter the 'Item Name' (e.g., Erasers).",
+        "Select an existing 'Item Group' (e.g., Stationary Data, Instrument).",
+        "If the required item group does not exist, click the icon to create a new item group.",
+        "When creating an item group, specify if it's 'Primary' or a subgroup under an existing group.",
+        "Define the 'Unit' of measurement for the item (e.g., Liters for chemicals, Pieces for erasers, Numbers for furniture).",
+        "Save the item.",
+        "To view or edit existing items, navigate to Inventory > Masters > Items, search for the item, and click 'Edit'."
+    ],
+    "business_rules": [
+        "Item Code is a non-mandatory field.",
+        "Items must be assigned to an Item Group.",
+        "Item Groups can be created as primary or as subgroups under existing groups.",
+        "Each item must have a defined Unit of Measurement."
+    ],
+    "important_notes": [
+        "Item groups can be created directly from the item creation interface if they don't already exist.",
+        "Item groups can be structured hierarchically (e.g., Ball Pens under Pens, Pens under Stationary Data)."
+    ],
+    "questions": [
+        "How do I create a new inventory item?",
+        "Is the item code required when adding a new item?",
+        "Can I create a new item group while creating an item?",
+        "How do I assign a unit of measurement to an item?",
+        "Where can I view or edit existing items?",
+        "What is the purpose of an item group?"
+    ],
+    "keywords": [
+        "Item creation",
+        "Inventory masters",
+        "Create item",
+        "Edit item",
+        "Item code",
+        "Item group",
+        "Unit of measurement",
+        "Stationary data",
+        "ERP items"
+    ],
+    "related_topics": [
+        "Item Group Management",
+        "Unit of Measurement Configuration",
+        "Inventory Setup"
+    ],
+    "id": "inventory_item_creation_and_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

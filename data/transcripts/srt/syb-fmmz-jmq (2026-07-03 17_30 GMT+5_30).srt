@@ -1,0 +1,2392 @@
+1
+00:00:02,500 --> 00:00:08,039
+Okay, so our topic today is that is a transaction.
+
+2
+00:00:08,820 --> 00:00:11,820
+So if you remember, you take admission anywhere, right?
+
+3
+00:00:12,439 --> 00:00:17,800
+So at the time of admission, you either have to pay the registration fee,
+
+4
+00:00:18,260 --> 00:00:21,239
+or you have to pay the token, right?
+
+5
+00:00:21,640 --> 00:00:23,000
+Or you have to pay the prospectus fees, etc.
+
+6
+00:00:24,100 --> 00:00:25,199
+Is this part clear?
+
+7
+00:00:26,460 --> 00:00:30,320
+So in our module, we have that particular option,
+
+8
+00:00:30,320 --> 00:00:32,500
+like we have set up in this.
+
+9
+00:00:32,840 --> 00:00:36,119
+So the last thing we covered was that
+
+10
+00:00:36,119 --> 00:00:38,100
+where will your application number come from?
+
+11
+00:00:39,479 --> 00:00:43,780
+After the application number, how will you make your stage?
+
+12
+00:00:43,939 --> 00:00:44,979
+What stage do you want?
+
+13
+00:00:48,250 --> 00:00:51,030
+After that, your admission sources are set.
+
+14
+00:00:51,810 --> 00:00:54,049
+Now the point is admission tags.
+
+15
+00:00:54,810 --> 00:00:56,609
+Okay, you understood the tags too.
+
+16
+00:00:57,340 --> 00:01:00,399
+The main thing is that now we have to make a transaction with the student
+
+17
+00:01:00,399 --> 00:01:02,520
+in some or the other use.
+
+18
+00:01:03,619 --> 00:01:06,599
+Whether it is your prospectus, whether it is your token money,
+
+19
+00:01:06,760 --> 00:01:08,200
+or whether it is your registration fees.
+
+20
+00:01:08,760 --> 00:01:11,040
+Because when you take admission, you have to pay some amount
+
+21
+00:01:11,040 --> 00:01:12,280
+for admission at that time.
+
+22
+00:01:13,200 --> 00:01:14,379
+Is it okay, Tanvi Baba?
+
+23
+00:01:16,000 --> 00:01:16,719
+Yes, sir.
+
+24
+00:01:17,500 --> 00:01:18,260
+So what do we have?
+
+25
+00:01:18,760 --> 00:01:21,180
+We have a transaction receipt setup.
+
+26
+00:01:21,540 --> 00:01:22,500
+First of all, we have to do that.
+
+27
+00:01:22,959 --> 00:01:23,680
+Let me tell you the reason.
+
+28
+00:01:23,680 --> 00:01:26,099
+Whenever you get a receipt,
+
+29
+00:01:26,719 --> 00:01:29,060
+it has a number written on it.
+
+30
+00:01:29,500 --> 00:01:29,540
+Right?
+
+31
+00:01:32,209 --> 00:01:33,090
+Yes, sir.
+
+32
+00:01:33,790 --> 00:01:37,969
+So that number is automatically generated from the receipt counter.
+
+33
+00:01:39,230 --> 00:01:42,870
+So what we do here is we set the receipt number here.
+
+34
+00:01:42,930 --> 00:01:44,069
+We need one, two.
+
+35
+00:01:44,170 --> 00:01:45,769
+You have to put a prefix for it.
+
+36
+00:01:45,969 --> 00:01:47,489
+For example, if this is the University of SDI,
+
+37
+00:01:47,629 --> 00:01:48,349
+then I have put SDI.
+
+38
+00:01:49,510 --> 00:01:52,209
+So after SDI, three, four,
+
+39
+00:01:52,209 --> 00:01:53,849
+whatever the counter update is,
+
+40
+00:01:53,849 --> 00:01:54,709
+it keeps changing.
+
+41
+00:01:55,349 --> 00:01:58,069
+So you have to set the receipt number here.
+
+42
+00:01:58,250 --> 00:01:59,030
+Anything can happen.
+
+43
+00:01:59,310 --> 00:02:00,230
+Sometimes the client tells the client,
+
+44
+00:02:00,730 --> 00:02:02,730
+sometimes we make it ourselves by taking their initiation.
+
+45
+00:02:03,890 --> 00:02:05,329
+And after that, the number starts from one.
+
+46
+00:02:05,909 --> 00:02:07,269
+Here it is already counter updated,
+
+47
+00:02:07,510 --> 00:02:08,389
+so it is coming from three.
+
+48
+00:02:09,189 --> 00:02:09,449
+Is it clear?
+
+49
+00:02:11,500 --> 00:02:12,340
+Yes, sir.
+
+50
+00:02:13,639 --> 00:02:16,580
+After that, we have admission heads.
+
+51
+00:02:17,099 --> 00:02:18,180
+Now what is your point?
+
+52
+00:02:19,120 --> 00:02:21,379
+If you want to collect from any student,
+
+53
+00:02:21,379 --> 00:02:21,879
+then you have to do this.
+
+54
+00:02:22,280 --> 00:02:27,319
+The collection can be in any random head.
+
+55
+00:02:28,180 --> 00:02:29,080
+It can be your registration,
+
+56
+00:02:30,560 --> 00:02:32,000
+your prospectus fees,
+
+57
+00:02:33,080 --> 00:02:35,199
+one of which is your pocket money.
+
+58
+00:02:35,680 --> 00:02:37,419
+I will tell you about the concept of pocket money later.
+
+59
+00:02:37,680 --> 00:02:39,360
+Before that, let's go to the direct test
+
+60
+00:02:39,360 --> 00:02:43,219
+for registration and prospectus fees.
+
+61
+00:02:43,639 --> 00:02:46,939
+Registration and prospectus fees.
+
+62
+00:02:49,280 --> 00:02:49,979
+I have put these two.
+
+63
+00:02:50,419 --> 00:02:51,560
+These are my two heads.
+
+64
+00:02:51,560 --> 00:02:53,639
+Now in this head, my transaction will come
+
+65
+00:02:53,639 --> 00:02:55,300
+and in this head, my transaction can come.
+
+66
+00:02:56,259 --> 00:02:57,840
+Now the point is,
+
+67
+00:02:58,080 --> 00:02:59,800
+where will this head's transaction come from?
+
+68
+00:03:02,069 --> 00:03:04,889
+So you had a stage setup
+
+69
+00:03:06,020 --> 00:03:08,300
+What we will do is,
+
+70
+00:03:08,300 --> 00:03:08,919
+if you want to collect
+
+71
+00:03:08,919 --> 00:03:09,699
+from any head,
+
+72
+00:03:09,840 --> 00:03:10,879
+from any particular stage,
+
+73
+00:03:12,539 --> 00:03:13,340
+then you will view that stage.
+
+74
+00:03:13,919 --> 00:03:14,819
+For example, my lead stage.
+
+75
+00:03:14,939 --> 00:03:17,240
+If I want my child to pay me money in my lead stage,
+
+76
+00:03:17,780 --> 00:03:19,020
+then I will view that stage.
+
+77
+00:03:19,020 --> 00:03:21,000
+After viewing, I will go to transactions.
+
+78
+00:03:21,580 --> 00:03:23,259
+From here, the transaction will be enabled.
+
+79
+00:03:24,009 --> 00:03:25,669
+So from here, my transaction will be enabled.
+
+80
+00:03:26,639 --> 00:03:27,159
+Is it clear?
+
+81
+00:03:27,620 --> 00:03:29,020
+After the transaction is enabled,
+
+82
+00:03:29,680 --> 00:03:31,800
+what I will do from here is
+
+83
+00:03:31,800 --> 00:03:33,199
+add transaction mapping.
+
+84
+00:03:34,740 --> 00:03:36,240
+Now while adding transaction mapping,
+
+85
+00:03:36,900 --> 00:03:38,180
+we have all the respective courses.
+
+86
+00:03:38,539 --> 00:03:39,379
+They all come here.
+
+87
+00:03:39,500 --> 00:03:40,879
+Which course do you want to do?
+
+88
+00:03:41,120 --> 00:03:42,979
+Which head do you want the amount in?
+
+89
+00:03:43,020 --> 00:03:44,020
+You will select that.
+
+90
+00:03:44,699 --> 00:03:46,860
+For example, I have selected this head.
+
+91
+00:03:46,860 --> 00:03:48,879
+I have selected your registration.
+
+92
+00:03:49,680 --> 00:03:50,740
+In registration,
+
+93
+00:03:51,099 --> 00:03:52,680
+what I am taking from the child is
+
+94
+00:03:52,680 --> 00:03:54,620
+that I have to take 100 rupees from this.
+
+95
+00:03:55,199 --> 00:03:56,680
+I have put 100 rupees.
+
+96
+00:03:56,860 --> 00:04:00,080
+For example, registration P.A.
+
+97
+00:04:00,120 --> 00:04:01,800
+Now what does the system do?
+
+98
+00:04:01,860 --> 00:04:03,259
+It shows you that
+
+99
+00:04:03,259 --> 00:04:04,159
+editable.
+
+100
+00:04:04,900 --> 00:04:06,860
+So basically what happens is
+
+101
+00:04:09,379 --> 00:04:10,939
+when you go for registration,
+
+102
+00:04:11,620 --> 00:04:12,740
+then some children are like this
+
+103
+00:04:12,740 --> 00:04:14,020
+whose registration is done in 1000 rupees.
+
+104
+00:04:14,919 --> 00:04:17,060
+Some children are like this whose registration is done in 200 rupees.
+
+105
+00:04:17,060 --> 00:04:18,339
+Am I right?
+
+106
+00:04:19,019 --> 00:04:20,759
+It depends on how much
+
+107
+00:04:20,759 --> 00:04:22,300
+you convince the institute
+
+108
+00:04:23,060 --> 00:04:24,319
+that we will be able to give this much.
+
+109
+00:04:25,240 --> 00:04:28,459
+So if you keep this editable,
+
+110
+00:04:28,699 --> 00:04:28,720
+then while collecting the amount
+
+111
+00:04:28,720 --> 00:04:29,660
+for registration,
+
+112
+00:04:30,959 --> 00:04:32,240
+the amount will be editable.
+
+113
+00:04:32,600 --> 00:04:33,939
+If you keep it fixed,
+
+114
+00:04:34,660 --> 00:04:35,680
+then it will be fixed there.
+
+115
+00:04:36,860 --> 00:04:38,660
+For now, let's take this editable.
+
+116
+00:04:39,279 --> 00:04:40,339
+I have turned on the editable.
+
+117
+00:04:41,139 --> 00:04:43,500
+Now you will not add each one manually.
+
+118
+00:04:44,220 --> 00:04:44,819
+You will select one course,
+
+119
+00:04:44,819 --> 00:04:46,360
+then you select one course, then you select registration,
+
+120
+00:04:47,180 --> 00:04:48,220
+then you select another course,
+
+121
+00:04:48,740 --> 00:04:49,319
+then you add the amount.
+
+122
+00:04:49,839 --> 00:04:50,759
+So what do we have?
+
+123
+00:04:51,199 --> 00:04:53,060
+We have the option of copy course head.
+
+124
+00:04:54,060 --> 00:04:55,540
+As soon as you copy the course head,
+
+125
+00:04:55,680 --> 00:04:56,459
+then what will the system do?
+
+126
+00:04:56,899 --> 00:04:58,439
+It will add all the other courses.
+
+127
+00:05:02,620 --> 00:05:03,639
+Is this clear, guys?
+
+128
+00:05:07,069 --> 00:05:08,329
+Is this clear, guys?
+
+129
+00:05:09,139 --> 00:05:10,779
+Now you have two things.
+
+130
+00:05:11,379 --> 00:05:11,879
+You can get the amount collected
+
+131
+00:05:11,879 --> 00:05:14,439
+in a single head at one stage.
+
+132
+00:05:15,420 --> 00:05:16,819
+But in one stage,
+
+133
+00:05:16,819 --> 00:05:18,339
+you can also clear the amount in multiple heads.
+
+134
+00:05:20,610 --> 00:05:23,069
+You can also take prospectus at the same stage.
+
+135
+00:05:24,310 --> 00:05:24,649
+You can also do that.
+
+136
+00:05:24,649 --> 00:05:25,810
+You have to take registration at one stage,
+
+137
+00:05:26,370 --> 00:05:27,269
+you have to take prospectus at one stage.
+
+138
+00:05:27,790 --> 00:05:28,569
+So what will we do?
+
+139
+00:05:28,930 --> 00:05:31,529
+We will take registration at one stage and prospectus at the other.
+
+140
+00:05:32,029 --> 00:05:33,850
+At the end, I have updated this.
+
+141
+00:05:34,829 --> 00:05:37,069
+So if I refresh it and get it checked,
+
+142
+00:05:37,810 --> 00:05:39,550
+then the transaction required here
+
+143
+00:05:39,550 --> 00:05:40,029
+will be on.
+
+144
+00:05:41,379 --> 00:05:42,759
+This transaction required is on.
+
+145
+00:05:43,100 --> 00:05:43,920
+Nothing is coming in this case.
+
+146
+00:05:46,160 --> 00:05:47,379
+Getting my point?
+
+147
+00:05:49,550 --> 00:05:50,589
+Yes, sir.
+
+148
+00:05:50,610 --> 00:05:52,290
+Now we have the next stage,
+
+149
+00:05:52,350 --> 00:05:53,550
+the data requested stage.
+
+150
+00:05:53,970 --> 00:05:55,329
+So what will we do at the data requested stage?
+
+151
+00:05:55,889 --> 00:05:56,490
+We will go to the registration.
+
+152
+00:05:57,689 --> 00:05:58,870
+We have added one head there.
+
+153
+00:05:59,129 --> 00:06:02,230
+We will add one head here, which is your prospectus.
+
+154
+00:06:02,490 --> 00:06:03,110
+It depends.
+
+155
+00:06:03,490 --> 00:06:04,490
+If we are doing this for testing,
+
+156
+00:06:04,970 --> 00:06:05,970
+we can add anything anywhere.
+
+157
+00:06:06,730 --> 00:06:09,329
+But the client will tell you which particular head
+
+158
+00:06:09,329 --> 00:06:10,430
+you have to keep at which stage.
+
+159
+00:06:11,660 --> 00:06:13,100
+What did I do in this case?
+
+160
+00:06:13,100 --> 00:06:15,139
+In this case, I kept it only non-editable.
+
+161
+00:06:16,839 --> 00:06:17,819
+I came,
+
+162
+00:06:18,060 --> 00:06:19,779
+clicked on update after the last one,
+
+163
+00:06:19,779 --> 00:06:20,540
+refreshed,
+
+164
+00:06:23,040 --> 00:06:23,920
+recording is on.
+
+165
+00:06:28,139 --> 00:06:30,300
+Now I came to the application data image.
+
+166
+00:06:31,300 --> 00:06:32,579
+This is my specific lead.
+
+167
+00:06:33,079 --> 00:06:33,899
+Take an example.
+
+168
+00:06:34,139 --> 00:06:35,040
+This is my lead stage.
+
+169
+00:06:35,660 --> 00:06:37,240
+My application is at the lead stage.
+
+170
+00:06:37,759 --> 00:06:38,899
+When I will view it,
+
+171
+00:06:39,160 --> 00:06:41,720
+then after viewing it, we put a thousand rupees there.
+
+172
+00:06:43,439 --> 00:06:44,420
+So I can collect
+
+173
+00:06:44,420 --> 00:06:46,079
+this thousand rupees from here.
+
+174
+00:06:46,079 --> 00:06:50,269
+I can collect this thousand rupees from here.
+
+175
+00:06:51,470 --> 00:06:52,110
+You have collected
+
+176
+00:06:52,110 --> 00:06:53,050
+this thousand rupees
+
+177
+00:06:53,709 --> 00:06:54,730
+payment mode.
+
+178
+00:06:55,490 --> 00:06:56,350
+You have collected this thousand rupees.
+
+179
+00:06:56,949 --> 00:06:58,529
+Which head did you go to?
+
+180
+00:06:58,610 --> 00:06:59,430
+This is your thousand rupees.
+
+181
+00:06:59,589 --> 00:07:00,430
+We have added registration.
+
+182
+00:07:02,500 --> 00:07:03,100
+Clear?
+
+183
+00:07:06,519 --> 00:07:07,720
+Yes, sir.
+
+184
+00:07:10,720 --> 00:07:12,160
+I have collected it.
+
+185
+00:07:12,279 --> 00:07:13,519
+Now I will move it to the next stage.
+
+186
+00:07:14,620 --> 00:07:15,480
+I have collected
+
+187
+00:07:15,480 --> 00:07:16,000
+this thousand rupees.
+
+188
+00:07:16,000 --> 00:07:16,879
+I have collected this thousand rupees.
+
+189
+00:07:16,879 --> 00:07:17,800
+I have collected this thousand rupees in my transaction.
+
+190
+00:07:19,519 --> 00:07:20,199
+I have got my counter,
+
+191
+00:07:20,879 --> 00:07:21,540
+its receipt.
+
+192
+00:07:22,100 --> 00:07:24,639
+I came down, clicked on next,
+
+193
+00:07:24,740 --> 00:07:25,240
+clicked on update.
+
+194
+00:07:26,339 --> 00:07:27,160
+Now what will I do?
+
+195
+00:07:27,899 --> 00:07:28,939
+I can't go to the next stage,
+
+196
+00:07:29,060 --> 00:07:31,259
+the approved stage,
+
+197
+00:07:32,959 --> 00:07:34,279
+until I collect this thousand rupees.
+
+198
+00:07:35,529 --> 00:07:37,350
+I will collect this thousand rupees from here.
+
+199
+00:07:38,800 --> 00:07:39,500
+I clicked on save.
+
+200
+00:07:41,110 --> 00:07:41,430
+Now
+
+201
+00:07:41,430 --> 00:07:43,329
+I have collected this thousand rupees in my prospectus.
+
+202
+00:07:43,329 --> 00:07:45,029
+I have collected this thousand rupees from here.
+
+203
+00:07:45,649 --> 00:07:46,290
+I can understand
+
+204
+00:07:46,290 --> 00:07:48,129
+where this came from,
+
+205
+00:07:48,269 --> 00:07:49,209
+where this came from,
+
+206
+00:07:49,470 --> 00:07:50,350
+I can understand these things.
+
+207
+00:07:53,250 --> 00:07:55,129
+Yes, sir.
+
+208
+00:07:55,129 --> 00:07:55,490
+Yes, sir.
+
+209
+00:07:55,750 --> 00:07:57,569
+We made a stage for this.
+
+210
+00:07:58,250 --> 00:07:59,649
+We made a stage for this.
+
+211
+00:08:00,569 --> 00:08:02,209
+We have set the amount in that stage.
+
+212
+00:08:04,120 --> 00:08:06,699
+Now we have, last but not least,
+
+213
+00:08:07,079 --> 00:08:07,639
+when we go to the next stage,
+
+214
+00:08:08,699 --> 00:08:10,180
+we have another one thousand rupees
+
+215
+00:08:10,180 --> 00:08:12,459
+for collection, which we have set in this.
+
+216
+00:08:12,459 --> 00:08:14,060
+In your admission,
+
+217
+00:08:14,959 --> 00:08:15,819
+in the last stage,
+
+218
+00:08:16,100 --> 00:08:17,019
+in the registration stage.
+
+219
+00:08:18,259 --> 00:08:20,180
+We have set 1100 rupees in the registration stage.
+
+220
+00:08:21,800 --> 00:08:22,879
+This entity table is on.
+
+221
+00:08:24,149 --> 00:08:25,250
+The head is not coming here.
+
+222
+00:08:25,430 --> 00:08:26,069
+Let's do one thing.
+
+223
+00:08:26,069 --> 00:08:27,750
+For this, let's make a separate head.
+
+224
+00:08:30,069 --> 00:08:31,050
+Because it is from the old one,
+
+225
+00:08:31,529 --> 00:08:32,889
+so let's keep this.
+
+226
+00:08:34,879 --> 00:08:37,240
+Registration is done, prospectus is done.
+
+227
+00:08:37,659 --> 00:08:39,259
+Let's keep the voucher.
+
+228
+00:08:40,600 --> 00:08:41,480
+Let's keep the voucher.
+
+229
+00:08:43,720 --> 00:08:44,259
+Keep that too.
+
+230
+00:08:44,259 --> 00:08:47,940
+Let's keep the visit piece.
+
+231
+00:08:49,200 --> 00:08:50,340
+That kid is visiting,
+
+232
+00:08:50,519 --> 00:08:52,840
+that's why Steve East is giving it to him.
+
+233
+00:08:53,169 --> 00:08:54,769
+You go to the next stage.
+
+234
+00:08:55,190 --> 00:08:55,909
+After going to the next stage,
+
+235
+00:08:56,330 --> 00:08:57,649
+you open the same stage.
+
+236
+00:08:59,950 --> 00:09:01,789
+Then you have the transaction.
+
+237
+00:09:01,929 --> 00:09:03,250
+What do we do in the transaction?
+
+238
+00:09:03,529 --> 00:09:04,509
+We delete everything.
+
+239
+00:09:05,250 --> 00:09:06,250
+And we add the single head,
+
+240
+00:09:06,309 --> 00:09:07,490
+which we have just made.
+
+241
+00:09:13,460 --> 00:09:15,019
+Because new courses are coming.
+
+242
+00:09:21,820 --> 00:09:23,580
+What I will do is,
+
+243
+00:09:23,580 --> 00:09:24,179
+I will go to add mapping.
+
+244
+00:09:24,659 --> 00:09:27,879
+Select the head and put it in the visit fee, 1100 rupees.
+
+245
+00:09:30,500 --> 00:09:32,080
+I saved it here.
+
+246
+00:09:32,360 --> 00:09:33,039
+This amount is ready.
+
+247
+00:09:33,139 --> 00:09:35,039
+I have copied everything.
+
+248
+00:09:35,340 --> 00:09:38,730
+And I will edit it at the end.
+
+249
+00:09:41,840 --> 00:09:43,259
+And I will edit it at the end.
+
+250
+00:09:43,259 --> 00:09:44,720
+What was my first stage?
+
+251
+00:09:45,320 --> 00:09:45,659
+What was my first stage?
+
+252
+00:09:45,659 --> 00:09:46,240
+It was my lead stage.
+
+253
+00:09:46,379 --> 00:09:48,480
+In that lead stage, we collected 1000 rupees.
+
+254
+00:09:48,820 --> 00:09:50,000
+Which was in our registration.
+
+255
+00:09:50,879 --> 00:09:52,899
+Then the next stage was
+
+256
+00:09:52,899 --> 00:09:55,700
+our data request stage.
+
+257
+00:09:55,700 --> 00:09:58,379
+On which you collected 1200 rupees.
+
+258
+00:09:58,500 --> 00:09:58,960
+Am I right?
+
+259
+00:10:00,539 --> 00:10:02,039
+From there, you collected 1200 rupees.
+
+260
+00:10:02,259 --> 00:10:03,759
+Now my last stage is,
+
+261
+00:10:03,779 --> 00:10:06,039
+where we are collecting one more amount from the child.
+
+262
+00:10:07,279 --> 00:10:08,519
+That amount is yours.
+
+263
+00:10:09,179 --> 00:10:10,379
+Next stage, you removed it.
+
+264
+00:10:10,379 --> 00:10:11,200
+That amount is yours.
+
+265
+00:10:11,559 --> 00:10:12,740
+One thing you noticed,
+
+266
+00:10:13,179 --> 00:10:14,820
+we had editables there.
+
+267
+00:10:15,000 --> 00:10:16,340
+Now I can edit it.
+
+268
+00:10:16,580 --> 00:10:17,620
+I can pay as much as I want.
+
+269
+00:10:19,220 --> 00:10:21,200
+In the previous one, we kept the editables off.
+
+270
+00:10:21,539 --> 00:10:22,559
+So we couldn't edit there.
+
+271
+00:10:22,559 --> 00:10:23,720
+If you remember,
+
+272
+00:10:23,940 --> 00:10:25,000
+only this one was coming.
+
+273
+00:10:25,460 --> 00:10:28,940
+From here, I collected 11 rupees.
+
+274
+00:10:31,259 --> 00:10:32,679
+I collected 11 rupees in the visit fee.
+
+275
+00:10:34,169 --> 00:10:34,309
+From here, I collected 11 rupees in the visit fee.
+
+276
+00:10:34,309 --> 00:10:35,049
+Now what is the point?
+
+277
+00:10:35,269 --> 00:10:35,809
+Understand this thing.
+
+278
+00:10:36,750 --> 00:10:37,529
+We have done the registration.
+
+279
+00:10:38,289 --> 00:10:39,950
+On this stage, we have collected it.
+
+280
+00:10:40,409 --> 00:10:41,190
+I will show you in the view transaction.
+
+281
+00:10:42,700 --> 00:10:44,879
+You collected 1000 rupees, 1200 rupees,
+
+282
+00:10:45,000 --> 00:10:46,100
+and then you collected 1200 rupees.
+
+283
+00:10:46,730 --> 00:10:47,970
+The transaction part is clear.
+
+284
+00:10:48,110 --> 00:10:49,070
+How to set up?
+
+285
+00:10:49,070 --> 00:10:51,570
+How the head will be made?
+
+286
+00:10:51,730 --> 00:10:52,889
+At what stage will the head be made?
+
+287
+00:10:52,970 --> 00:10:53,590
+Is that thing clear?
+
+288
+00:10:56,019 --> 00:10:57,399
+Yes sir.
+
+289
+00:10:58,200 --> 00:10:59,960
+Is the meaning of amount editable clear?
+
+290
+00:11:01,889 --> 00:11:02,830
+Yes sir.
+
+291
+00:11:03,070 --> 00:11:04,409
+What does it mean to turn on the amount editable?
+
+292
+00:11:05,389 --> 00:11:06,110
+Is it clear?
+
+293
+00:11:06,909 --> 00:11:08,070
+Yes sir.
+
+294
+00:11:08,450 --> 00:11:11,990
+If your editable is enabled,
+
+295
+00:11:12,549 --> 00:11:14,110
+then you can go there and edit the amount
+
+296
+00:11:14,110 --> 00:11:15,470
+and collect it.
+
+297
+00:11:16,009 --> 00:11:17,590
+If your editable is not enabled,
+
+298
+00:11:17,950 --> 00:11:19,950
+then you can collect the amount set there.
+
+299
+00:11:23,169 --> 00:11:24,990
+Now we have
+
+300
+00:11:24,990 --> 00:11:26,029
+one more thing.
+
+301
+00:11:26,169 --> 00:11:28,990
+That is your save zero amount transaction.
+
+302
+00:11:29,950 --> 00:11:31,409
+What happens in save zero amount transaction?
+
+303
+00:11:32,110 --> 00:11:32,809
+I will tell you a small thing.
+
+304
+00:11:33,570 --> 00:11:34,429
+Suppose you have turned on
+
+305
+00:11:34,429 --> 00:11:36,450
+the amount editable.
+
+306
+00:11:37,769 --> 00:11:39,460
+Now the user
+
+307
+00:11:39,950 --> 00:11:40,769
+who is collecting the payment
+
+308
+00:11:40,769 --> 00:11:43,509
+has put zero amount and collected it.
+
+309
+00:11:43,669 --> 00:11:44,889
+That is wrong.
+
+310
+00:11:47,059 --> 00:11:48,279
+Zero amount is not needed
+
+311
+00:11:48,279 --> 00:11:49,120
+to collect it.
+
+312
+00:11:49,120 --> 00:11:51,639
+Yes sir.
+
+313
+00:11:51,899 --> 00:11:54,159
+So in that case,
+
+314
+00:11:54,580 --> 00:11:55,840
+we will turn on the save zero amount transaction.
+
+315
+00:11:57,039 --> 00:11:57,600
+After that,
+
+316
+00:11:57,659 --> 00:11:59,700
+they can save the transaction by zero.
+
+317
+00:12:00,120 --> 00:12:01,980
+We are bypassing it.
+
+318
+00:12:02,639 --> 00:12:03,519
+Some students
+
+319
+00:12:04,019 --> 00:12:05,960
+don't need to pay the registration fee.
+
+320
+00:12:06,600 --> 00:12:07,440
+If they don't need it,
+
+321
+00:12:07,600 --> 00:12:09,080
+then we can't define it student wise.
+
+322
+00:12:09,659 --> 00:12:11,019
+So we have made a structure
+
+323
+00:12:11,019 --> 00:12:13,779
+in which we have turned it on.
+
+324
+00:12:14,159 --> 00:12:15,779
+If any student
+
+325
+00:12:15,779 --> 00:12:17,120
+wants to take zero amount,
+
+326
+00:12:17,120 --> 00:12:18,539
+then they can put zero amount and
+
+327
+00:12:18,539 --> 00:12:19,159
+make the transaction.
+
+328
+00:12:21,960 --> 00:12:23,360
+Now I will show you something.
+
+329
+00:12:24,740 --> 00:12:26,419
+Let's turn on the is editable.
+
+330
+00:12:30,129 --> 00:12:32,269
+And we will keep it off at zero.
+
+331
+00:12:34,460 --> 00:12:35,700
+Let's check the BTEK lead.
+
+332
+00:12:43,210 --> 00:12:49,440
+Let's check the BTEK lead.
+
+333
+00:12:49,519 --> 00:12:49,899
+Let's check the BTEK lead.
+
+334
+00:12:49,899 --> 00:12:54,779
+We have turned on the is editable.
+
+335
+00:12:55,779 --> 00:12:56,460
+Now we will
+
+336
+00:12:56,460 --> 00:12:57,399
+pick a specific course.
+
+337
+00:12:58,940 --> 00:13:00,200
+This is the one.
+
+338
+00:13:07,019 --> 00:13:08,960
+This is my study.
+
+339
+00:13:08,960 --> 00:13:10,240
+I have saved it in the next stage.
+
+340
+00:13:11,000 --> 00:13:11,700
+In the first stage,
+
+341
+00:13:12,059 --> 00:13:13,200
+we are taking a free payment
+
+342
+00:13:13,200 --> 00:13:15,139
+because we have not turned on the is editable.
+
+343
+00:13:16,470 --> 00:13:17,429
+I have saved it.
+
+344
+00:13:19,919 --> 00:13:20,659
+In the next stage,
+
+345
+00:13:20,820 --> 00:13:21,799
+I have come to the registration.
+
+346
+00:13:24,009 --> 00:13:27,320
+I have filtered it.
+
+347
+00:13:27,580 --> 00:13:28,600
+I have filtered it.
+
+348
+00:13:38,179 --> 00:13:39,820
+I have to check the transaction history.
+
+349
+00:13:40,600 --> 00:13:42,580
+You can see all the transaction history from here.
+
+350
+00:13:43,220 --> 00:13:44,379
+So remember this too.
+
+351
+00:13:51,620 --> 00:13:52,879
+I have opened it.
+
+352
+00:13:53,519 --> 00:13:54,240
+I have collected 1000 rupees.
+
+353
+00:13:54,240 --> 00:13:55,419
+In the next stage,
+
+354
+00:13:55,820 --> 00:13:58,240
+I have turned on the is amount editable.
+
+355
+00:13:59,419 --> 00:14:00,919
+If I pay zero here,
+
+356
+00:14:01,919 --> 00:14:03,460
+then the system will not allow me to pay zero.
+
+357
+00:14:03,460 --> 00:14:04,440
+If I pay zero here, then the system will not allow me to pay zero.
+
+358
+00:14:05,179 --> 00:14:06,320
+Amount can't be zero.
+
+359
+00:14:06,360 --> 00:14:08,279
+Please enter a valid amount to proceed.
+
+360
+00:14:08,899 --> 00:14:09,279
+Did you understand?
+
+361
+00:14:12,240 --> 00:14:13,200
+Yes, sir.
+
+362
+00:14:14,159 --> 00:14:15,940
+Now if I go there
+
+363
+00:14:16,850 --> 00:14:18,970
+and turn on the is amount editable
+
+364
+00:14:18,970 --> 00:14:22,289
+in the zero amount save transaction.
+
+365
+00:14:22,389 --> 00:14:24,110
+and turn on the is amount editable.
+
+366
+00:14:24,110 --> 00:14:26,370
+and turn on the is amount editable.
+
+367
+00:14:26,370 --> 00:14:28,370
+I have updated it.
+
+368
+00:14:28,549 --> 00:14:29,710
+I have finished it.
+
+369
+00:14:33,240 --> 00:14:34,200
+I have gone to the application data.
+
+370
+00:14:35,909 --> 00:14:36,649
+I have deleted it.
+
+371
+00:14:38,409 --> 00:14:39,429
+In the next stage,
+
+372
+00:14:39,929 --> 00:14:41,129
+if I zero it,
+
+373
+00:14:41,970 --> 00:14:43,470
+then it will allow me to save it.
+
+374
+00:14:45,789 --> 00:14:48,289
+Now I can take its zero amount transaction.
+
+375
+00:14:49,330 --> 00:14:49,769
+Now I can take its zero amount transaction.
+
+376
+00:14:49,769 --> 00:14:51,049
+Did you understand what is zero amount enable?
+
+377
+00:14:51,710 --> 00:14:53,149
+We have collected zero in this.
+
+378
+00:14:53,190 --> 00:14:54,629
+First it did not allow me to collect.
+
+379
+00:14:56,549 --> 00:14:57,669
+Is it clear, guys?
+
+380
+00:14:59,440 --> 00:15:00,299
+Yes, sir.
+
+381
+00:15:00,299 --> 00:15:02,039
+Yes, sir.
+
+382
+00:15:02,659 --> 00:15:03,980
+Try to understand one thing.
+
+383
+00:15:04,679 --> 00:15:06,100
+The transaction part is clear.
+
+384
+00:15:07,379 --> 00:15:08,600
+You have to take registration fees.
+
+385
+00:15:09,179 --> 00:15:12,320
+You have to take prospectus fees.
+
+386
+00:15:12,639 --> 00:15:14,419
+You have to collect random xyz amount.
+
+387
+00:15:15,960 --> 00:15:17,600
+Whatever registration fee you pay,
+
+388
+00:15:18,379 --> 00:15:20,259
+or whatever prospectus fees you pay,
+
+389
+00:15:21,100 --> 00:15:23,820
+Registration can be adjusted in your fees.
+
+390
+00:15:23,820 --> 00:15:24,139
+Registration can be adjusted in your fees.
+
+391
+00:15:24,899 --> 00:15:26,799
+But the money you pay to the other heads,
+
+392
+00:15:27,899 --> 00:15:29,039
+it does not get adjusted anywhere.
+
+393
+00:15:29,039 --> 00:15:30,679
+It goes directly to their accounts.
+
+394
+00:15:32,379 --> 00:15:34,059
+Suppose you have a fee of 1 lakh rupees.
+
+395
+00:15:34,940 --> 00:15:35,860
+Suppose you have a fee of 1 lakh rupees.
+
+396
+00:15:36,379 --> 00:15:38,059
+When you went for registration or admission,
+
+397
+00:15:38,279 --> 00:15:39,580
+they said that we need
+
+398
+00:15:39,580 --> 00:15:41,519
+Rs.2500 or Rs.5000
+
+399
+00:15:41,519 --> 00:15:42,779
+for prospectus.
+
+400
+00:15:43,299 --> 00:15:44,139
+You gave Rs.5000.
+
+401
+00:15:44,720 --> 00:15:45,980
+That will not be less than 1 lakh.
+
+402
+00:15:46,759 --> 00:15:48,080
+That is a different amount.
+
+403
+00:15:49,210 --> 00:15:49,750
+Is it clear?
+
+404
+00:15:51,710 --> 00:15:52,710
+Yes, sir.
+
+405
+00:15:53,450 --> 00:15:55,889
+So, if we want a head
+
+406
+00:15:56,649 --> 00:15:59,590
+whose amount is less,
+
+407
+00:15:59,590 --> 00:16:00,490
+that means,
+
+408
+00:16:01,409 --> 00:16:02,649
+you gave me a token money.
+
+409
+00:16:03,210 --> 00:16:04,309
+Suppose I have a fee of 1 lakh rupees.
+
+410
+00:16:05,110 --> 00:16:06,509
+I am getting admission now.
+
+411
+00:16:06,850 --> 00:16:09,889
+My registration or prospectus fees
+
+412
+00:16:09,889 --> 00:16:10,549
+will be different.
+
+413
+00:16:11,029 --> 00:16:12,590
+But I have an extra amount
+
+414
+00:16:12,590 --> 00:16:13,850
+in the name of token money
+
+415
+00:16:14,590 --> 00:16:16,190
+which will be adjusted in my fees.
+
+416
+00:16:17,090 --> 00:16:19,509
+So, we have a head
+
+417
+00:16:19,509 --> 00:16:21,470
+of direct token money.
+
+418
+00:16:22,289 --> 00:16:23,889
+It is directly selected.
+
+419
+00:16:24,029 --> 00:16:25,129
+You do not make it.
+
+420
+00:16:25,389 --> 00:16:26,710
+You saved it.
+
+421
+00:16:26,710 --> 00:16:27,970
+This is the head of token money.
+
+422
+00:16:29,100 --> 00:16:29,279
+Is it clear?
+
+423
+00:16:31,100 --> 00:16:32,580
+Now, what we will do is
+
+424
+00:16:32,580 --> 00:16:33,860
+we need to take the token money
+
+425
+00:16:33,860 --> 00:16:34,639
+at any stage.
+
+426
+00:16:36,360 --> 00:16:38,120
+Usually, we take it at the last stage.
+
+427
+00:16:38,240 --> 00:16:40,120
+Suppose we take the token money at the last stage.
+
+428
+00:16:40,879 --> 00:16:42,379
+I went for this.
+
+429
+00:16:42,399 --> 00:16:44,860
+I added another head of token money.
+
+430
+00:16:45,059 --> 00:16:49,289
+I put Rs.10,000 in this.
+
+431
+00:16:49,350 --> 00:16:49,809
+Is it clear?
+
+432
+00:16:52,460 --> 00:16:53,659
+Yes, sir.
+
+433
+00:16:55,679 --> 00:16:57,519
+I saved it.
+
+434
+00:17:03,169 --> 00:17:04,190
+So, basically,
+
+435
+00:17:04,190 --> 00:17:06,470
+when I collect the fees
+
+436
+00:17:06,470 --> 00:17:07,730
+of this particular head,
+
+437
+00:17:09,119 --> 00:17:11,059
+I went to the data requested.
+
+438
+00:17:11,579 --> 00:17:13,079
+I collected 0 in the first one.
+
+439
+00:17:13,559 --> 00:17:15,859
+I collected 1100 in the first one.
+
+440
+00:17:17,259 --> 00:17:18,339
+Now, the point is
+
+441
+00:17:18,339 --> 00:17:22,079
+I have Rs.11,100.
+
+442
+00:17:22,539 --> 00:17:22,839
+Why?
+
+443
+00:17:23,220 --> 00:17:24,519
+Because our Rs.11,100
+
+444
+00:17:24,519 --> 00:17:26,359
+was already added
+
+445
+00:17:26,359 --> 00:17:28,619
+as a visit fee.
+
+446
+00:17:29,220 --> 00:17:31,200
+And we added Rs.10,000 more
+
+447
+00:17:31,200 --> 00:17:32,339
+in the token money.
+
+448
+00:17:32,339 --> 00:17:35,299
+So, what did he make combined?
+
+449
+00:17:35,519 --> 00:17:36,740
+What did he make combined?
+
+450
+00:17:38,519 --> 00:17:39,619
+Rs.11,100.
+
+451
+00:17:39,640 --> 00:17:41,640
+He adjusted it.
+
+452
+00:17:41,720 --> 00:17:42,619
+It hasn't been adjusted yet.
+
+453
+00:17:42,759 --> 00:17:44,539
+We have summed it.
+
+454
+00:17:45,200 --> 00:17:47,039
+Now, we will collect all this.
+
+455
+00:17:47,059 --> 00:17:48,619
+We have collected Rs.11,000 from him.
+
+456
+00:17:48,880 --> 00:17:50,039
+We have collected Rs.11,100 from the child.
+
+457
+00:17:50,880 --> 00:17:52,859
+Now, this money has gone into two things.
+
+458
+00:17:53,319 --> 00:17:54,420
+It has gone into the visit fee
+
+459
+00:17:54,420 --> 00:17:56,079
+and the token money.
+
+460
+00:17:56,819 --> 00:17:57,660
+Now, what is the point?
+
+461
+00:17:58,680 --> 00:18:01,299
+You gave the money Rs.11,100.
+
+462
+00:18:01,339 --> 00:18:02,299
+Okay.
+
+463
+00:18:02,819 --> 00:18:04,859
+But when the child's admission is approved
+
+464
+00:18:04,859 --> 00:18:09,960
+then the system automatically
+
+465
+00:18:09,960 --> 00:18:11,019
+adjusts Rs.10,000
+
+466
+00:18:11,940 --> 00:18:13,740
+out of the amount of Rs.1,00,000.
+
+467
+00:18:13,740 --> 00:18:14,259
+Do you understand?
+
+468
+00:18:14,660 --> 00:18:15,660
+Let me show you.
+
+469
+00:18:16,180 --> 00:18:18,160
+Let's make the fee structure of this child.
+
+470
+00:18:34,779 --> 00:18:35,880
+Let's make the fee structure of this child.
+
+471
+00:18:35,880 --> 00:18:36,680
+Let's say I added the tuition fee.
+
+472
+00:18:37,480 --> 00:18:38,339
+Rs.1,00,000.
+
+473
+00:18:40,490 --> 00:18:40,890
+Okay.
+
+474
+00:18:43,769 --> 00:18:45,130
+I added the tuition fee of Rs.1,00,000.
+
+475
+00:18:45,990 --> 00:18:48,869
+Now, basically what will happen is
+
+476
+00:18:48,960 --> 00:19:02,440
+when I approve this child
+
+477
+00:19:02,440 --> 00:19:04,000
+Now, when I approve this child
+
+478
+00:19:04,000 --> 00:19:05,359
+who lives here
+
+479
+00:19:05,420 --> 00:19:06,279
+approve
+
+480
+00:19:06,470 --> 00:19:09,269
+give the number to the child
+
+481
+00:19:09,269 --> 00:19:11,250
+for now, I have added the test.
+
+482
+00:19:12,349 --> 00:19:12,549
+Okay.
+
+483
+00:19:13,509 --> 00:19:14,920
+Click on save.
+
+484
+00:19:15,579 --> 00:19:16,519
+Now, the child is being approved.
+
+485
+00:19:16,839 --> 00:19:17,720
+It means the admission is done.
+
+486
+00:19:18,240 --> 00:19:20,279
+Now, we are adding it in the student list.
+
+487
+00:19:22,619 --> 00:19:24,359
+Oh no, I didn't even add DO. Sorry.
+
+488
+00:19:33,920 --> 00:19:34,319
+Okay.
+
+489
+00:19:34,319 --> 00:19:35,880
+Basically, guys, what happens is
+
+490
+00:19:35,880 --> 00:19:37,599
+you don't add the student manually.
+
+491
+00:19:37,779 --> 00:19:38,480
+You already have the data
+
+492
+00:19:38,480 --> 00:19:40,759
+so you are transferring it from one module to another.
+
+493
+00:19:42,910 --> 00:19:43,130
+Okay.
+
+494
+00:19:43,950 --> 00:19:46,150
+Now, let me show you one thing.
+
+495
+00:19:46,509 --> 00:19:47,369
+When you go to the student list
+
+496
+00:19:47,369 --> 00:19:49,630
+and search for the test student
+
+497
+00:19:49,630 --> 00:19:50,430
+we added this.
+
+498
+00:19:51,190 --> 00:19:54,390
+When you go to the fee collection
+
+499
+00:19:54,390 --> 00:19:55,069
+and collect the fee
+
+500
+00:19:55,069 --> 00:19:56,849
+we added the fee of Rs.1,00,000.
+
+501
+00:19:59,140 --> 00:20:00,059
+Okay. How much was the total fee?
+
+502
+00:20:01,119 --> 00:20:01,720
+Rs.1,00,000.
+
+503
+00:20:01,720 --> 00:20:04,400
+Yes or no?
+
+504
+00:20:05,609 --> 00:20:06,269
+Yes, sir.
+
+505
+00:20:07,569 --> 00:20:08,210
+Okay. How much was the payable?
+
+506
+00:20:09,509 --> 00:20:10,230
+It should have been Rs.1,00,000.
+
+507
+00:20:10,950 --> 00:20:12,069
+But what did it do?
+
+508
+00:20:12,150 --> 00:20:14,190
+It gave Rs.10,000 for token money.
+
+509
+00:20:15,569 --> 00:20:17,170
+So, when we approved the child
+
+510
+00:20:17,170 --> 00:20:18,309
+and added it in the student list
+
+511
+00:20:18,309 --> 00:20:20,349
+the system reduced its Rs.10,000
+
+512
+00:20:20,349 --> 00:20:21,670
+from its net balance.
+
+513
+00:20:22,809 --> 00:20:24,769
+Now, it has to pay only Rs.90,000.
+
+514
+00:20:27,559 --> 00:20:28,180
+Are things getting clear?
+
+515
+00:20:28,380 --> 00:20:30,339
+Token money and the difference in it
+
+516
+00:20:30,339 --> 00:20:30,740
+is getting clear?
+
+517
+00:20:32,500 --> 00:20:34,559
+Yes, sir. It is clear.
+
+518
+00:20:45,160 --> 00:20:47,140
+So, this is how it is understood
+
+519
+00:20:47,140 --> 00:20:49,299
+that the token money that you have
+
+520
+00:20:49,299 --> 00:20:50,619
+will always be adjusted
+
+521
+00:20:50,619 --> 00:20:51,599
+in its fees.
+
+522
+00:20:52,180 --> 00:20:54,500
+The other heads that you have
+
+523
+00:20:54,500 --> 00:20:55,680
+they get collected directly.
+
+524
+00:20:56,180 --> 00:20:57,819
+They don't have anything to adjust
+
+525
+00:20:57,819 --> 00:21:02,430
+in your fees. Is that okay, guys?
+
+526
+00:21:04,299 --> 00:21:04,920
+Yes, sir.
+
+527
+00:21:05,579 --> 00:21:07,099
+Perfect. Now, tell me
+
+528
+00:21:07,099 --> 00:21:09,039
+if there is any doubt
+
+529
+00:21:09,039 --> 00:21:11,039
+where the head will be added
+
+530
+00:21:11,039 --> 00:21:13,400
+and why we have to set the receipt counter
+
+531
+00:21:14,579 --> 00:21:14,960
+for the transaction.
+
+532
+00:21:15,500 --> 00:21:17,259
+After that, in stage setup
+
+533
+00:21:17,259 --> 00:21:18,819
+what is the meaning of editable?
+
+534
+00:21:20,440 --> 00:21:22,220
+What is the meaning of
+
+535
+00:21:22,220 --> 00:21:23,900
+save zero amount transaction
+
+536
+00:21:23,900 --> 00:21:24,599
+in editable?
+
+537
+00:21:24,720 --> 00:21:25,440
+Is this clear?
+
+538
+00:21:27,839 --> 00:21:29,460
+Yes, sir. It is clear.
+
+539
+00:21:31,250 --> 00:21:33,450
+I am still
+
+540
+00:21:33,450 --> 00:21:34,529
+repeating things.
+
+541
+00:21:35,089 --> 00:21:37,390
+Basically, when you take admission
+
+542
+00:21:37,390 --> 00:21:39,029
+you have to pay some amount.
+
+543
+00:21:40,109 --> 00:21:41,009
+To pay the amount
+
+544
+00:21:41,009 --> 00:21:42,589
+you have to have a head as well.
+
+545
+00:21:43,130 --> 00:21:44,930
+When you pay the fee, you have tuition fee
+
+546
+00:21:44,930 --> 00:21:47,809
+uniform fee, examination fee
+
+547
+00:21:47,809 --> 00:21:48,430
+etc.
+
+548
+00:21:48,430 --> 00:21:50,150
+At the time of admission, you have
+
+549
+00:21:50,150 --> 00:21:52,230
+registration fee, prospectus fee
+
+550
+00:21:52,230 --> 00:21:53,630
+these are different heads.
+
+551
+00:21:54,230 --> 00:21:55,309
+So, here we make heads
+
+552
+00:21:55,309 --> 00:21:56,630
+in our admission head.
+
+553
+00:22:00,460 --> 00:22:01,640
+We also have
+
+554
+00:22:01,640 --> 00:22:02,779
+token money in it.
+
+555
+00:22:03,259 --> 00:22:05,819
+We don't have to add the token money
+
+556
+00:22:05,819 --> 00:22:06,920
+separately and it is not editable.
+
+557
+00:22:07,200 --> 00:22:08,140
+It is removed from here.
+
+558
+00:22:10,000 --> 00:22:12,339
+Then comes the receipt counter.
+
+559
+00:22:12,720 --> 00:22:13,940
+Now, when your transactions
+
+560
+00:22:13,940 --> 00:22:14,400
+will continue
+
+561
+00:22:14,400 --> 00:22:16,279
+then you need
+
+562
+00:22:16,279 --> 00:22:17,119
+some kind of counter.
+
+563
+00:22:17,559 --> 00:22:19,559
+7, 8, 5, 2, 3, 1
+
+564
+00:22:19,559 --> 00:22:20,180
+whatever you need.
+
+565
+00:22:20,859 --> 00:22:22,740
+Your receipt needs a number.
+
+566
+00:22:23,519 --> 00:22:25,359
+So, we set the number
+
+567
+00:22:26,079 --> 00:22:27,900
+in transaction receipt setup.
+
+568
+00:22:29,250 --> 00:22:29,490
+Clear?
+
+569
+00:22:30,859 --> 00:22:31,380
+Guys?
+
+570
+00:22:34,299 --> 00:22:34,819
+After that,
+
+571
+00:22:35,480 --> 00:22:35,940
+what happens is
+
+572
+00:22:35,940 --> 00:22:37,579
+we go to our stage setup
+
+573
+00:22:37,579 --> 00:22:38,920
+and at the stage
+
+574
+00:22:38,920 --> 00:22:40,259
+in which I have to collect
+
+575
+00:22:40,259 --> 00:22:43,359
+I go to the stage
+
+576
+00:22:43,359 --> 00:22:44,500
+and set it.
+
+577
+00:22:45,019 --> 00:22:46,460
+Suppose, I need something at the first stage
+
+578
+00:22:46,460 --> 00:22:48,279
+I need another head at the second stage
+
+579
+00:22:48,279 --> 00:22:51,660
+I need multiple heads at the same stage
+
+580
+00:22:51,660 --> 00:22:53,720
+then that is also possible.
+
+581
+00:22:54,019 --> 00:22:54,880
+Like we did in this
+
+582
+00:22:54,880 --> 00:22:56,039
+data required
+
+583
+00:22:56,039 --> 00:22:57,819
+in registration
+
+584
+00:22:58,680 --> 00:22:59,440
+transaction
+
+585
+00:23:01,519 --> 00:23:04,380
+two heads are set together.
+
+586
+00:23:04,980 --> 00:23:06,119
+We can also do different things for different courses.
+
+587
+00:23:07,380 --> 00:23:07,920
+For example, in this course
+
+588
+00:23:07,920 --> 00:23:09,380
+we are only taking the visit fee
+
+589
+00:23:09,380 --> 00:23:10,700
+and in this course we are taking both.
+
+590
+00:23:11,720 --> 00:23:12,880
+So, what will the system do?
+
+591
+00:23:13,059 --> 00:23:14,180
+As soon as the child is approved
+
+592
+00:23:14,180 --> 00:23:15,119
+after collecting the payment
+
+593
+00:23:15,119 --> 00:23:17,059
+the token money will be adjusted
+
+594
+00:23:17,059 --> 00:23:19,880
+and the rest of the fees will only be visible to you.
+
+595
+00:23:20,359 --> 00:23:25,039
+Is it clear guys?
+
+596
+00:23:27,220 --> 00:23:27,599
+Yes.
+
+597
+00:23:30,599 --> 00:23:33,079
+This was all about your
+
+598
+00:23:33,839 --> 00:23:35,539
+transaction and token money.
+

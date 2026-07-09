@@ -1,0 +1,46 @@
+{
+    "module": "CRM",
+    "topic": "Configuring Duplicate Lead Detection",
+    "summary": "This topic explains how to configure the 'Duplicate Field Master' to specify which fields the system should check for existing values to prevent the creation of duplicate leads.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Duplicate Field Master"
+    ],
+    "steps": [
+        "Navigate to 'Duplicate Field Master' under 'Admission Master'.",
+        "Select the field(s) (e.g., 'Phone Number', 'Email ID', 'Aadhaar Card') that the system should monitor for duplicate entries.",
+        "Click 'Save' to apply the configuration."
+    ],
+    "business_rules": [
+        "If a new lead is entered with a value in a configured duplicate field that already exists in the system, a pop-up alert will notify the user that 'this lead already exists'."
+    ],
+    "important_notes": [
+        "The 'Phone Number' is the most commonly used field for duplicate lead detection.",
+        "Careful selection of duplicate fields helps maintain data integrity and prevents redundant lead entries."
+    ],
+    "questions": [
+        "How do I configure duplicate lead detection in the system?",
+        "Which fields can be used to check for duplicate leads?",
+        "What happens when a duplicate lead is detected?",
+        "Where can I set up duplicate field checks for leads?"
+    ],
+    "keywords": [
+        "duplicate field master",
+        "duplicate lead detection",
+        "duplicate check",
+        "phone number",
+        "lead existing pop-up",
+        "data integrity",
+        "lead validation"
+    ],
+    "related_topics": [
+        "Admission Tags Setup"
+    ],
+    "id": "crm_configuring_duplicate_lead_detection",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

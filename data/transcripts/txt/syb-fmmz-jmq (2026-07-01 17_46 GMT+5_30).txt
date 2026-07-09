@@ -1,0 +1,568 @@
+We have SIS module, we have fee module, you have already given assignments for academics and attendance, right Tanvibha?
+Guys, say yes or no.
+Yes sir.
+Now the point is that we have admission module.
+But before using any module, as you know, we have the option to do its basic setup.
+Whether it is your attendance, fee or SIS.
+In SIS, you add student's fees and basic information.
+In the case of fee, you make fee structure, add groups etc.
+In the case of academics, you make subjects and do subject class mapping.
+Similarly, in the case of admission, I give an overview.
+When you come here, you have admission module, where you have the application data page, admission leads page.
+If we have done any transaction during that particular admission, it will be shown in the transaction.
+Then we have admission reports.
+You have multiple reports in reports, we will do it in detail.
+Then you have the follow-up page.
+So whatever follow-up you add in any lead, it has a separate page to check the follow-up.
+Furthermore, we have admission lead logs.
+In lead logs, if your IVR is integrated, i.e. if your callings are integrated,
+then you will receive the respective IVR calls directly in the ERP.
+Let me switch the session once.
+So you also get callings like this.
+Call came, received, missed call, no one picked, no one's name came.
+So all the things remain in the admission.
+But before that, we will do the basic part, the advanced part.
+Whatever admission site you do, here we have,
+any lead moves from multiple stages and gets admission.
+When you have also taken admission, then your counselling will be done,
+then you must have submitted the fee, right?
+Then your admission will be done, right?
+So for every institute, we have different stages.
+Is it clear? Tanvi Babu and Amit Sir?
+Yes sir.
+So basically what happens is, any particular lead that you have,
+it moves from multiple stages.
+First the lead will come, the counsellor will work on it.
+After working on it, it goes to the data requested stage,
+then it goes to the prospectus stage, right?
+After that, it does the registration, then payment is done.
+So for every entity, there are different ways to set it up.
+There is a prospectus fee somewhere, there is a registration fee somewhere, right?
+There is no such stage anywhere.
+So the lead comes, after the lead comes, you have directly approved it.
+So it depends on the client requirement.
+So when you come to this page, the application leads page,
+then you have stages here.
+For example, in this entity, you have the lead stage,
+the data requested stage, the registration stage and the approved stage.
+Let me show you another entity.
+So I have another entity available in admission.
+In that, the stages we have are different.
+In their case, the application is submitted,
+then they have the document uploaded to the children,
+the counsellor verifies the document,
+then the academic admin or academic person verifies it,
+then we allot the transport to the children.
+Then your leads are approved or rejected.
+Is that point clear?
+In the case of every entity, the stages could be different.
+Getting my point?
+Yes, that's correct.
+Now the point is, where does all this setup happen?
+For example, in the case of academics,
+in the case of institute setup,
+similarly we have admissions setup.
+When you click on the admission setup, you have two things.
+One is your admission master, then you have the stage setup.
+First of all, I will go to the admission master and tell you the basics.
+Then we will come to the stage setup.
+If you remember, when you did the student setup,
+there was a reg number setup.
+That means giving a unique number to the student.
+Say admission number or reg number.
+Am I right?
+Who can do that?
+Yes sir.
+Similarly, we have to give a number to your application.
+For example, application form number.
+If you don't give it a number, how will you identify it?
+To set up a number, in the master setup,
+we have the application number setup.
+You will click on it.
+For which course, you have to keep a separate numbering,
+prefix or suffix, you can keep that.
+For the program, you can keep it separate.
+For example, I have kept school of engineering,
+I want specific in that too, so you can keep that.
+If you do all, then for all the courses,
+whether it is school or college,
+in both the cases, it will be similar.
+The process is almost similar,
+it is just a little advanced in the case of college or university.
+From here, you have to add its prefix or suffix.
+You have added the prefix, you have added the number,
+from where it will start and you have added the suffix.
+As the leads will be added,
+our system will automatically give them numbering.
+Is it okay?
+One lead is added, it gets a number.
+Another lead is added, it gets another number.
+In this sequence, this counter will be auto-updated.
+For example, how much is going on here?
+Your total leads have come here.
+And the counter that is going on here is going on.
+So automatically, the counter,
+if one more lead is added, then it will be 48.
+If one more is added, then it will be 49.
+So this counter will be automatically updated.
+Now coming back,
+what happens after that?
+Now you have to set up a stage,
+from which stage a lead has to move and go.
+So in this case, what we do,
+here we have a stage master setup.
+We have set up the application number.
+After that, the stage master sets up
+the stages that we need.
+So after clicking on the stage master,
+we have three stages,
+which are by default, which are at the back end.
+If you uncheck it, then it will be added.
+If you uncheck it, then it will be removed.
+If you uncheck it, then it will be removed.
+For example, it has approved and rejected.
+Approved and rejected is the last stage.
+We don't make it.
+These three stages come from the back end.
+We don't make them ourselves.
+We have to make any stage,
+so for now, I am taking an example.
+If I want to make any stage,
+I will click on add new.
+I have accepted the fresh setup.
+I have only approved and rejected.
+After that, I have named my stage in the enter value.
+Then I have to make another stage.
+I will name it.
+So here we make stages.
+First of all, application submission.
+Then our document is uploaded.
+So our document is being uploaded here.
+If there is a counselor doc verification,
+then there is a counselor doc verification.
+If there is an academic doc verification,
+then there is an academic doc verification.
+Last but not least, we have
+transport and hostel selection.
+So we have transport and hostel selection.
+Is this clear? Why are we doing it? How are we doing it?
+Guys.
+Yes sir.
+This is done.
+After this is done,
+you have a source part here.
+I will not go in advance for now.
+We have a source part.
+Now basically, if you know,
+the leads that come for admission,
+they can come from multiple sources.
+If you have a direct walk-in,
+if you have an ad from a newspaper,
+if you have a Google ad,
+or if you are running any kind of
+meta ads or something,
+whatever you have done,
+those are sources.
+From which sources do you get data?
+So in general, schools and colleges,
+if there is a high-end college,
+then they have multiple things.
+They get traffic from their websites,
+from their landing pages.
+If they have some third-party integrations,
+like college duniya,
+college dekho,
+then all that is there.
+In general, while setting up,
+online or offline or walk-in is direct.
+You can manually add this
+from here, add new details.
+There is a reference field here.
+What happens in the case of reference,
+if you turn on the reference source,
+then while adding the lead,
+I will show you.
+Sources, reference.
+What will come in this?
+We will have to check if it will come in this or not.
+So what happens in the case of reference,
+we have two more that are added.
+In which you can put a reference,
+from which reference this lead came from.
+Getting my point?
+So sources are what,
+or from which source do you get data?
+So while adding the lead, you select that too.
+Tell me one thing, this much part is clear,
+application number setup is clear,
+state setup is clear?
+Yes sir.
+Now what happens,
+from any application,
+like I have viewed this application,
+after viewing that application,
+at that stage,
+some specific fields are visible to me.
+Student's name, student's email,
+student's phone number, student's gender.
+Multiple fields are there related to
+the father detail, mother detail.
+Where will you set all these things?
+Because if you are getting student's admission,
+then you will get some basic information
+in its basic fields.
+Add setup.
+Now where does your
+field setup stay?
+You will come back here,
+in the master,
+in the admission setup,
+it is called stage setup.
+You will click on stage setup.
+Suppose there is no stage
+added here.
+So I have an option to directly copy
+from my old sessions,
+I can copy the stages.
+Second, I can create a new one here,
+I am clicking on add stage setup.
+After add stage setup,
+like all these are already made,
+the ones that I have already made,
+so because of this, they are grayed out.
+Let's do one thing,
+let's create one.
+Add testing,
+save it,
+I have come to stage setup,
+I have clicked on add stage setup.
+Now see, the one that was not selected
+anywhere in the table,
+it is coming here for selection.
+I will click on stage setup.
+Now our stage sequence
+will come,
+like our application submission
+is in the first sequence,
+here the data is in the first sequence.
+Our
+document uploader
+is in the second sequence,
+so we will give it a sequence of 5,
+because our 4 is already added.
+Then you have a type,
+stage type,
+lead or application.
+What does lead mean?
+Initially, the ones that come first,
+when there is no work on fresh leaders,
+we consider it as lead type.
+For now, just understand that
+it is a very advanced thing,
+just understand that I have a fresh lead,
+if it is getting hit at any stage,
+that is the lead stage for me.
+Later,
+work has started on it,
+some further councilor took action,
+whatever that lead will be,
+that stage will go to your application stage.
+Stage type is its application.
+Furthermore,
+we have a select councilor option here.
+Basically,
+being an admin,
+I have all the data,
+but in the case of
+this entity,
+data came, application submission came,
+councilor moved,
+from here to next stage,
+next stage has an option to move,
+you will pay from here,
+move to next stage.
+After payment,
+when it comes to next stage,
+like document upload stage,
+now I have to move to councilor verification,
+so I moved from here,
+it will come to councilor verification.
+When I update it,
+add some values,
+then I will move it to academic doc verification.
+Now the point is,
+you cannot show all the data
+to the academic person.
+Do you understand the point?
+Just understand that
+there is a file,
+it is passing through multiple tables.
+Table A was there,
+as a person,
+who is coordinating things,
+he can see everything.
+But the point is,
+until that thing goes to that stage,
+he cannot see anything.
+Do you understand?
+So what I will do,
+I will set a stage councilor here.
+Like we have done in this case,
+your academic doc verification,
+I have tagged a person here,
+in this case,
+we have tagged Manna sir.
+So basically what will happen,
+as soon as some application
+will come to that stage,
+in which you have set the councilor,
+then only that person will see that application,
+before that,
+his whole screen will be blank.
+Only these cards will come,
+no values will come,
+no applications will come.
+As soon as a councilor moves to that stage,
+where that person is tagged,
+then that application will be visible.
+Do you understand?
+Assume that I have 4 tables,
+the first file came to the first table,
+moved to the second,
+Tanvi is sitting on the third table.
+Now I have tagged Tanvi,
+he will come to the third table only.
+Before that, he cannot see anything.
+So this is similar to that,
+if you have a table there,
+I have tagged a person on that table,
+when that file will reach that person,
+only then it will be visible,
+before that, it will not be visible.
+Is it clear or not?
+Amit sir, is it clear to you?
+It is a little clear,
+when that file will be visible,
+when that stage...
+What I mean to say is,
+that lead will be visible only
+when that person reaches that stage.
+Before that, all the stages will be blank,
+nothing will be visible to him.
+But if you are an admin,
+then it will be visible to you.
+That's it.
+We will give a role to the counselor,
+according to that.
+Okay, guys, this part is clear.
+After that, what we have here,
+these are the preferences,
+communication preferences,
+that as soon as an application
+reaches this stage,
+it will have a message,
+you can select a template from that.
+Whatever template we have made in communication,
+we have communication,
+when you will do it, do it.
+Then you have WhatsApp,
+if you want to send WhatsApp to a student,
+you can select WhatsApp,
+if you want to send an email, you have email.
+So as soon as you select all this,
+then automatically any lead,
+as soon as it moves,
+the counselor moves,
+then the system,
+an email that you have selected in it,
+an SMS that you have selected in it,
+or a WhatsApp that you have selected in it,
+it will be automatically triggered.
+You will not need to send it manually.
+Is this clear?
+Is it clear, guys?
+Good.
+After that, we come to the next stage.
+There is no WhatsApp template, so I am turning it off.
+We come to the next stage.
+Now we have all the fields.
+Basically, by default,
+nothing is shown to you,
+but I have already made it,
+so it is coming.
+So now what field do you want to keep at that stage?
+Basically, what happens is that
+we do not keep all the fields at every stage.
+Because suppose there is the first stage.
+In the first stage, we need basic information.
+We will get that.
+Later, when we collect the documents,
+we will collect other things,
+we will take its schooling-related information.
+We add all those fields further.
+Do you understand? Is this clear?
+Yes, sir.
+Similarly, in the case of the stage,
+you can add fields from here.
+You can also copy the field.
+Suppose you made the old stage below,
+the stage that was coming at the bottom,
+you can also copy it from here.
+Look at one thing.
+In academic doc verification,
+I have 28 fields.
+In the application submission,
+I have 141 fields.
+Counselor has 26.
+In document upload, 30.
+In transport, we do not need much,
+because we have already collected all the information at the stage.
+So I have kept 5 fields
+to see the basic information.
+Because why keep the page loaded
+where there is no requirement for anything?
+So I clicked on add stage setup.
+I selected testing here.
+I gave 5 number sequencing.
+I selected other things from here.
+You will not do it, it will work.
+This is a specific case in which you have to do it.
+Then you will come to the next field,
+like we came in this case.
+And from here, you can also copy the field
+from the existing one.
+If you copy the stages below,
+then automatically all the fields you put,
+I will not do this one, I will do this one.
+There are fewer fields.
+So automatically my 5 fields that were added,
+will be copied.
+Do you understand guys?
+Do you understand?
+Yes sir.
+After that,
+what happens is,
+you have to add another field.
+If you have added 5 fields,
+then click on add field.
+You will get a drop down below.
+Select whatever field you want.
+Give its name.
+If you want to keep it mandatory,
+then toggle on mandatory from here.
+What will be the type of the field?
+Will there be a date? Will there be a select box?
+If you keep a select box, then you can push values from here.
+I will show you that one.
+Let's consider it for gender.
+So you can put multiple genders
+Male, female.
+Male, female, male.
+What is happening?
+And then others.
+If you push it from here,
+then your 3 options will be pushed.
+Further,
+if it is your phone number,
+then you will set it as phone number.
+If it is your file type, then you will set it as file type.
+If it is toggle type, then you will set it as toggle type.
+Usually, you just have to see
+text, date, select box and fall.
+You have to see this phone and this file.
+Toggle edit doesn't happen anywhere.
+Then what happens is,
+I will show you one thing.
+Every application,
+every field comes in a group.
+For example, in personal details,
+you have some things,
+in document upload, you have some things,
+in address, you have some things.
+So how do we do this grouping?
+So we have the option of group by.
+I have taken 4-5 fields and put them in transport detail.
+So what will happen is,
+if you put them separately in hosted data,
+then both of them will come separately.
+So what will the system do?
+It will show it according to that group on this page.
+Then you put the sequence number.
+There was no sequencing before this.
+So what will the system do?
+According to that sequence,
+it goes to 1, it goes to 2, 3 or 4.
+Before that, it was on 1.
+This will go to 0 and then to 1.
+Then this sequencing will work.
+So sequencing means that
+whatever sequence you want to put,
+it will be visible in it.
+If I set it up now,
+let's make it fresh.
+I came to this.
+Add field.
+If you don't have any stage,
+then you will click on add multiple field.
+Because you don't have that much time
+to add one field from here,
+then add another.
+So select add multiple field.
+What do you want? Student's name, student's date, student's gender.
+Student's phone number,
+email, address, that's it.
+It will depend on your requirement.
+Now I am telling you the basics.
+You have multiple fields.
+You can select whatever you want.
+As soon as you click on save,
+all the fields will be added to you.
+You can give them sequence numbers.
+1, 2, 4,
+you can give them any sequence number.
+You can give the sequence number
+Next, I will tell you about the transaction
+and save it.
+After saving, refresh it.
+Once you check, your stage will be added.
+Your testing stage will be added.
+Is it clear, guys?
+Yes, sir.
+Sir, tell me the difference between lead and application
+so that I can fill the form.
+What happens in the case of lead?
+In general,
+I will tell you in advance.
+I have two pages. One is application data,
+the other is admission leads.
+If you want to show any application
+on the leads page,
+then you need to tag it as lead.
+In general, the lead is
+that nothing has been done on it, it is fresh.
+No data has been added,
+no document request has been filled.
+To keep it on that stage,
+you have to set that stage
+as a lead stage.
+In general,
+the first stage,
+the very first stage,
+is the lead stage.
+The rest is set by the application.
+Because the rest is just taking the data.
+The work that has to be done in advance.
+Is it clear?
+I will not go into too much detail.
+Now tell me the doubts in this.
+Is there any doubt,
+any question that
+we have just done the stage part.
+Amit sir, any doubt?
+No, sir. It is clear.
+So, Amit sir, any doubt?
+Clear, sir.
+No, sir.
+Can I close, sir?
+Yes.
+Thank you for your time. Have a nice day.

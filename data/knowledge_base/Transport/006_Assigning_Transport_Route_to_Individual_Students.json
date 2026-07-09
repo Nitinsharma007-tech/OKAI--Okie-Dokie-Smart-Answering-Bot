@@ -1,0 +1,56 @@
+{
+    "module": "Transport",
+    "topic": "Assigning Transport Route to Individual Students",
+    "summary": "This topic explains how to manually assign a specific transport route and pick-up point to an individual student from their student profile. This process automatically links the student to the defined transport fees.",
+    "navigation": [
+        "Student List",
+        "Select Student",
+        "Detail",
+        "Assign Route"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Select the desired student from the list.",
+        "Click on 'Detail' to open the student's profile.",
+        "Click on 'Assign Route'.",
+        "A pop-up window will appear. Select the 'Route' from the dropdown list.",
+        "Select the 'Pick-up Point' from the dropdown list for the chosen route.",
+        "The corresponding 'Amount' for the selected route and pick-up point will automatically be fetched and displayed.",
+        "Optionally, toggle 'Select a different route' if the drop point differs from the pick-up point route.",
+        "Select the 'Installment(s)' for which the transport fee should be applied.",
+        "Click 'Assign' to save the transport route to the student."
+    ],
+    "business_rules": [
+        "The system automatically retrieves the transport amount based on the selected route and pick-up point, as defined in the 'Vehicle Route' setup.",
+        "Once assigned, the transport amount will be added to the student's fee demand for the specified installments."
+    ],
+    "important_notes": [
+        "This method is for assigning transport to individual students. For bulk assignments, use the 'Transport Excel Upload' feature.",
+        "After assignment, the transport fees will be visible in the student's fee demand."
+    ],
+    "questions": [
+        "How do I manually assign a transport route to a single student?",
+        "Where can I see the transport fees applied to a student after assignment?",
+        "Can I assign different pick-up and drop points for a student?",
+        "What happens to the student's fee demand after assigning a transport route?"
+    ],
+    "keywords": [
+        "Assign Route",
+        "Student Transport",
+        "Pick-up Point",
+        "Drop Point",
+        "Transport Assignment",
+        "Student Profile",
+        "Manual Assignment"
+    ],
+    "related_topics": [
+        "Defining Vehicle Routes and Pick-up Points",
+        "Transport Excel Upload"
+    ],
+    "id": "transport_assigning_transport_route_to_individual_students",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

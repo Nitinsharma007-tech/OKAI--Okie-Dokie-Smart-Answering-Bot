@@ -1,0 +1,43 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup: Lead Source Management",
+    "summary": "Explains how to define and manage various sources from which admission leads originate, such as direct walk-ins, newspaper advertisements, Google ads, websites, or third-party integrations. This setup allows for tracking lead origins and can include an optional 'reference' field.",
+    "navigation": [
+        "Admission module > Admission Setup > Admission Master > (Source part)"
+    ],
+    "steps": [
+        "Navigate to the \"Source part\" within Admission Master.",
+        "Click \"Add New Details\".",
+        "Enter the name of the lead source (e.g., \"Direct Walk-in\", \"Newspaper Ad\", \"Google Ad\", \"Website\", \"CollegeDuniya\").",
+        "(Optional) Enable the \"reference\" field if you wish to capture additional reference details when adding a lead."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "Defining sources helps in analyzing the effectiveness of different marketing and outreach efforts.",
+        "The 'reference' field provides an additional option to specify how a lead was referred."
+    ],
+    "questions": [
+        "How do I add new lead sources in the Admission module?",
+        "Where can I track the origin of my admission leads?",
+        "What is the purpose of the 'reference' field in lead source setup?"
+    ],
+    "keywords": [
+        "Lead source",
+        "admission source",
+        "walk-in",
+        "online leads",
+        "reference source",
+        "marketing channels",
+        "lead origin"
+    ],
+    "related_topics": [
+        "Admission Setup",
+        "Admission Leads"
+    ],
+    "id": "admission_admission_setup_lead_source_management",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

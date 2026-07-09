@@ -1,0 +1,243 @@
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+trim, transpose and count it.
+So I will mention some values, like name, contact number and team.
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+trim, transpose and count it.
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+So let's start with the second formula we have to cover, which is concatenate,
+So let's start with the second formula we have to cover, which is concatenate,
+So let's start with the second formula we have to cover, which is concatenate,
+So let's start with the second formula we have to cover, which is concatenate,
+So let's start with the second formula we have to cover, which is concatenate, concatenate,
+So let's start with the second formula we have to cover, which is concatenate, concatenate,
+So let's start with the second formula we have to cover, which is concatenate, concatenate, concatenate,
+So let's start with the second formula we have to cover, which is concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concaten
+or A plus, x, y, z, we can put any values.
+And if the child's grade percentage is above 80%,
+then the child's grade is D.
+So in that case, what do we do?
+For example, I have 90, 80, and so on.
+So for 90, A is done.
+For 80, D is done.
+If the child's grade percentage is above 90%,
+then A grade is done.
+For 80, D is done.
+For 70, C is done.
+For 60, D is done.
+And EF is done.
+This is done for grading.
+Or it can be done for pass fail as well.
+If the child's grade is below 40%,
+then 30% fail.
+So in that case, what do we do?
+We will have to enter the marks or values.
+This is student.
+This is student.
+Student name.
+Then subject 1, subject 2, subject 3.
+Three subjects are done.
+The child's number is 20, 30, and 50.
+This is total.
+This is total.
+And this is grade.
+This is my grade value.
+This is my grade value.
+And here, after 20, we have 30, 40, and 40.
+OK?
+OK?
+Total is done.
+We will sum these three.
+100.
+We will enter the values here.
+30.
+10.
+OK.
+OK?
+And this is done.
+OK.
+And 30.
+I have made it situational.
+I have given 10 to set any condition.
+OK?
+Now I will set the formula for the grade.
+Key equal if.
+Sorry.
+After if, bracket equal if.
+Bracket start.
+Logical test.
+100.
+This is greater than equal to 90.
+Grade A.
+Common.
+This was if.
+Bracket start.
+This one equal to 15.
+Grade B.
+OK?
+I will answer this one.
+We will try.
+I have set two conditions.
+OK?
+OK.
+Total.
+OK?
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+Now you tell me whether you got it.
+I am giving you an example because I can understand it very well.
+This is the total of the child.
+We have put the grade on this.
+If the student's marks,
+read this condition,
+if the student's marks in total,
+90 equal to 90 or greater than 90.
+These are the symbols I have taken.
+Greater than or equal to.
+If A is printed,
+or if it is equal to 80 or greater than 80,
+then B is printed.
+Otherwise, if it is fail printed,
+then that condition has been put.
+If the student's marks are greater than 90 or greater than 90,
+then A is printed.
+If it is greater than 80 or greater than 80,
+then how much will it go up to?
+It will go up to 90.
+If it is greater than 80 or greater than 89.5,
+then B is printed.
+Otherwise, it fails.
+So, in the grade, the same printing formula has been done.
+If the student's marks were greater than 90 or greater than 90,
+that means they were above 100,
+then A is printed.
+Here, 90 or greater than 90,
+90 means I have also put an equal.
+If it is greater than 90,
+then A is printed.
+So, A is printed.
+Now, if it is greater than 80 or greater than 80,
+then B is printed.
+So, it is equal to 80,
+but it is not 90.
+If it was 90, then A would have been printed.
+So, that's why B is printed.
+And if it is below 80,
+then it fails.
+I have not applied all of them.
+I have only passed 2 pins.
+Now, I will show you by up-downing the marks.
+These are becoming 80 here.
+I will make this 70 here.
+Look at this.
+This kid has failed.
+Because the condition I have applied is at 80.
+Did you understand?
+Yes, sir.
+Did you understand the condition?
+I have applied 2 conditions,
+one is if and the other is if.
+If I apply one,
+then also understand,
+if this one is greater than or equal to,
+how much should we take?
+Let's take 90 or 80.
+If this value,
+whatever is the value in this cell,
+is above 80 or greater than 80,
+then what is the print?
+The print is C.
+Bracket inverted close
+and bracket closed enter.
+So, above C.
+So, C is printed.
+Otherwise, look at this.
+If it is above 80 or 80,
+then C is printed.
+Otherwise, false.
+I have applied one if condition.
+Did you understand?
+Yes, sir.
+Is this thing clear?
+Now, if it is below 80,
+then what is the print?
+By applying comma,
+you don't have to give the condition here.
+Just you have to put a value here,
+then F is printed.
+Sorry, inverted.
+So, this false written here,
+will be converted to F.
+Did you understand?
+Do you want to explain it with any other example?
+Tell me in some other way.
+Yes, will you tell me?
+Sir, I have come.
+Is this clear to everyone?
+Yes, sir.
+If anyone has not been cleared,
+you can ask again.
+And if it is cleared,
+then great.
+Okay.
+So, these were the formulas,
+as much as today.
+And in these formulas,
+if anyone has any doubt,
+any question,
+any need to repeat,
+you can ask again.
+Okay.
+What I have covered,
+if we look up true, concatenate,
+trim, transpose and count it.
+Did you understand?
+Yes, sir.
+So, close it.
+If anyone has any doubt,
+any question,
+you can ask again.

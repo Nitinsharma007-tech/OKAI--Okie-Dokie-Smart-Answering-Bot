@@ -1,0 +1,47 @@
+{
+    "module": "CRM",
+    "topic": "Overview of Admission Follow-ups",
+    "summary": "This topic describes the Admission Follow-up page, which provides a consolidated view of all follow-up activities, categorized by their status (today's, upcoming, overdue, and completed).",
+    "navigation": [
+        "Admission",
+        "Follow-up page"
+    ],
+    "steps": [
+        "Navigate to the 'Follow-up page'.",
+        "View the total number of follow-ups in the system.",
+        "Utilize filters to view specific categories of follow-ups:",
+        "See 'Today's Follow-ups' for those planned for the current day.",
+        "Check 'Upcoming Follow-ups' for future scheduled activities.",
+        "Identify 'Overdue Follow-ups' which are pending and past their due date.",
+        "Review 'Completed Follow-ups' that have been marked as done.",
+        "Use the start date and end date filters to analyze follow-ups within a specific period."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This page serves as a reporting tool for all follow-up activities, providing a collective overview rather than individual lead details."
+    ],
+    "questions": [
+        "Where can I see all pending admission follow-ups?",
+        "How do I check follow-ups completed within a specific date range?",
+        "What is the difference between 'Upcoming' and 'Overdue' follow-ups?",
+        "Can I view today's scheduled follow-ups in one place?"
+    ],
+    "keywords": [
+        "admission follow-up page",
+        "follow-up report",
+        "pending follow-ups",
+        "completed follow-ups",
+        "overdue follow-ups",
+        "upcoming follow-ups",
+        "follow-up status"
+    ],
+    "related_topics": [
+        "Managing Admission Leads: Tags, Follow-ups, and Visits"
+    ],
+    "id": "crm_overview_of_admission_follow_ups",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

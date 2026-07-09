@@ -1,0 +1,53 @@
+{
+    "module": "Transport Management",
+    "topic": "Assigning GPS ID to Vehicles",
+    "summary": "This process involves linking each vehicle in the ERP system to its unique GPS identifier provided by the vendor. This GPS ID is crucial for the system to query the correct tracking data for a specific vehicle.",
+    "navigation": [
+        "Transport",
+        "Vehicles"
+    ],
+    "steps": [
+        "Navigate to the 'Vehicles' section within the 'Transport' module.",
+        "Select the specific vehicle for which you want to configure GPS tracking.",
+        "Locate the 'GPS ID' field for the selected vehicle.",
+        "Enter the unique GPS ID (vendor-specific code, e.g., 'V2954') provided by the GPS vendor into the 'GPS ID' field. This value will be sent as the parameter identified by the 'GPS ID Key' defined in Track Config.",
+        "Save the vehicle configuration."
+    ],
+    "business_rules": [
+        "Every vehicle intended for GPS tracking must have its unique GPS ID configured.",
+        "The value entered in the 'GPS ID' field for a vehicle is passed to the vendor API using the 'GPS ID Key' defined in Track Config.",
+        "The ERP backend uses this GPS ID to fetch data from the vendor API and then matches the response using the 'Match Key' defined in Response Config."
+    ],
+    "important_notes": [
+        "Failure to configure the GPS ID for a vehicle will result in an error (e.g., 'GPS ID not found') when attempting to track it.",
+        "The GPS ID is a unique identifier for each vehicle as recognized by the vendor's GPS system.",
+        "This setup must be performed for every entity (vehicle) that requires GPS tracking."
+    ],
+    "questions": [
+        "How do I link a vehicle in the ERP to its GPS tracking ID?",
+        "Where do I input the unique GPS ID for a specific vehicle?",
+        "What happens if a vehicle's GPS ID is not set up?",
+        "How does the ERP use the GPS ID to retrieve tracking data?",
+        "Do I need to configure GPS ID for every vehicle individually?"
+    ],
+    "keywords": [
+        "Vehicle GPS ID",
+        "vehicle configuration",
+        "transport vehicles",
+        "unique vehicle identifier",
+        "GPS tracking setup",
+        "vehicle master data",
+        "V2954"
+    ],
+    "related_topics": [
+        "GPS Tracking API Configuration (Track Config)",
+        "GPS Tracking API Response Configuration",
+        "Transport Management"
+    ],
+    "id": "transport_management_assigning_gps_id_to_vehicles",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

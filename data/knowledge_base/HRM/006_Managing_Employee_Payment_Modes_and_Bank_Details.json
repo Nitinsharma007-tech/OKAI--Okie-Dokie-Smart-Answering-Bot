@@ -1,0 +1,52 @@
+{
+    "module": "HRM",
+    "topic": "Managing Employee Payment Modes and Bank Details",
+    "summary": "This topic explains how to enter and manage employee bank details and specify the preferred payment mode (e.g., RTGS, Cheque) for salary disbursement.",
+    "navigation": [
+        "HRM",
+        "Employee",
+        "View (for a specific employee)",
+        "Salary Details (section)"
+    ],
+    "steps": [
+        "Navigate to HRM > Employee.",
+        "Search for the desired employee.",
+        "Click 'View' for that employee's record.",
+        "Locate and navigate to the 'Salary Details' section.",
+        "Enter the employee's 'Bank Name', 'Branch', 'Account Number', 'IFSC Code', and any other relevant bank information.",
+        "In the 'Payment Mode' field, specify the method of payment, such as 'RTGS' or 'Cheque'.",
+        "Save the employee details after entering the bank information."
+    ],
+    "business_rules": [
+        "The bank details (Bank Name, Branch, Account Number, IFSC) entered in this section will be reflected on the employee's salary slip."
+    ],
+    "important_notes": [
+        "Specifying 'Cheque' in the payment mode field can be used for internal tracking and reporting purposes.",
+        "If a dedicated pop-up for payment mode remarks is not available, specific notes about payment methods can be added in the general remarks section.",
+        "Once saved, these bank and payment mode details are permanently stored and do not need to be re-entered each month for salary processing."
+    ],
+    "questions": [
+        "How do I add an employee's bank account details for salary payment?",
+        "Where can I specify if an employee's salary should be paid via cheque or RTGS?",
+        "Will the bank details I enter appear on the employee's salary slip?",
+        "Do I need to update bank details every month?"
+    ],
+    "keywords": [
+        "Bank details",
+        "Payment mode",
+        "RTGS",
+        "Cheque payment",
+        "Salary details",
+        "Employee bank account",
+        "Salary disbursement"
+    ],
+    "related_topics": [
+        "Salary Slip Generation"
+    ],
+    "id": "hrm_managing_employee_payment_modes_and_bank_details",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

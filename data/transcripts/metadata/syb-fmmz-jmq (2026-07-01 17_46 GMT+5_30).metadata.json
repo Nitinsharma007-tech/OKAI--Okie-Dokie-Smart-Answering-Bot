@@ -1,0 +1,9 @@
+{
+    "video_name": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30)",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 129.22,
+    "created_at": "2026-07-09T14:22:35.122853"
+}

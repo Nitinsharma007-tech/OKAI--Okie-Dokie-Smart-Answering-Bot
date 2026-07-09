@@ -1,0 +1,44 @@
+{
+    "module": "HRM",
+    "topic": "Viewing Employee Contracts",
+    "summary": "This topic describes how to view the assigned salary template (contract) and its details for a specific employee.",
+    "navigation": [
+        "HRM",
+        "Employee",
+        "View (for a specific employee)",
+        "Salary Template"
+    ],
+    "steps": [
+        "Navigate to HRM > Employee.",
+        "Search for the desired employee.",
+        "Click 'View' for that employee's record.",
+        "Scroll down to locate the 'Salary Template' section.",
+        "Click on the 'Salary Template' link or button to view the detailed information of the assigned contract."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This view displays the *assigned salary template* or contract, not the processed monthly salary for any specific period.",
+        "While it is possible to add new contracts from this section, it is generally preferable to use the 'Assign Salary Template' option for better visibility of calculations and options."
+    ],
+    "questions": [
+        "How can I check which salary contract is currently assigned to an employee?",
+        "Where can I see the details of an employee's current salary structure or template?",
+        "Is there a way to quickly verify if an employee has a contract assigned?"
+    ],
+    "keywords": [
+        "View contract",
+        "Employee salary template",
+        "Check assigned contract",
+        "Employee details",
+        "Salary structure view"
+    ],
+    "related_topics": [
+        "Assigning Salary Templates to Employees"
+    ],
+    "id": "hrm_viewing_employee_contracts",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

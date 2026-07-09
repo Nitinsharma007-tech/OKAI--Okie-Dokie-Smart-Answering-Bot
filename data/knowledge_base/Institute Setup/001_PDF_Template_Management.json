@@ -1,0 +1,59 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Management",
+    "summary": "This topic covers the process of adding, configuring, and managing various PDF templates within the ERP system, such as ID cards, certificates, admission receipts, and fee receipts. It explains how to set up template names, print layouts, associate them with specific courses or schools, and preview their design.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "Navigate to 'PDF Template' under 'Institute Setup'.",
+        "Click the option to add multiple templates.",
+        "Select the desired template type (e.g., 'Fee Receipt', 'ID Card', 'Character Certificate').",
+        "Provide a unique name for the template.",
+        "Choose the print layout: 'Single', 'Two Horizontal', 'Two Vertical', or 'Four'.",
+        "Associate the template with specific courses, classes, or schools if required.",
+        "Select a default template from the available backend options.",
+        "Use the 'Preview' function to review the template design and code."
+    ],
+    "business_rules": [
+        "The content printed by a template is determined by its underlying code, not solely by the template type selected. For example, if a 'Fee Receipt' template contains the code for a 'Bona Fide Certificate', a bona fide certificate will be printed.",
+        "Templates can be customized to be different for specific classes or schools (e.g., separate character certificates for different departments like Engineering or Law)."
+    ],
+    "important_notes": [
+        "The 'Preview' function is primarily for checking the design and code, not the final print output. Unclosed HTML tags or incorrect code can prevent a proper preview.",
+        "Most default templates provided by the system may require minor code adjustments to meet specific institutional requirements.",
+        "Styling, such as converting text to uppercase, can be applied directly within the template's code using HTML/CSS (e.g., `div`, `span`, `x-transform`)."
+    ],
+    "questions": [
+        "How do I create a new PDF template for a fee receipt?",
+        "Can I have different ID card templates for different schools within the institute?",
+        "What are the options for printing multiple copies of a certificate on one page?",
+        "How can I preview a template before making it live?",
+        "Where do I find the 'PDF Template' settings in the ERP system?"
+    ],
+    "keywords": [
+        "PDF template",
+        "template setup",
+        "fee receipt template",
+        "ID card template",
+        "certificate template",
+        "template preferences",
+        "print layout",
+        "template preview",
+        "institute setup"
+    ],
+    "related_topics": [
+        "Template Activation and Printing Logic",
+        "Troubleshooting Template Variables",
+        "Custom Template Design and Advanced Variables"
+    ],
+    "id": "institute_setup_pdf_template_management",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

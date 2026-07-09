@@ -1,0 +1,53 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Reports and Filters",
+    "summary": "The ERP system offers various fee reports, including Daily Fee Report, Combined Daily Collection, and Due Fee Report. The Due Fee Report is particularly useful for identifying students with outstanding payments. It includes filters to narrow down results by class, stream, batch, and student status (active/awake). Users can also filter to show only students with pending dues (zero dues = No) or all students (zero dues = Yes). There is currently no amount-wise filter for due fees, but this can be raised as a feature request.",
+    "navigation": [
+        "Dashboard > Fee Reports > Due Fee"
+    ],
+    "steps": [
+        "Navigate to the 'Due Fee' report.",
+        "Apply filters for 'Class', 'Stream', 'Batch' as needed.",
+        "Use the 'Show student with zero dues' filter: select 'No' to see only students with pending dues, or 'Yes' to see all students.",
+        "Use the 'Awake status' filter: 'Awake' for students who have paid for the current session, 'False' for students who haven't paid any amount for the current session.",
+        "Export the filtered data to Excel or print the report."
+    ],
+    "business_rules": [
+        "Awake status refers to students who have paid fees for the current session.",
+        "Filtering 'Awake status' to 'False' will show students who haven't paid any amount for a particular session."
+    ],
+    "important_notes": [
+        "There is no amount-wise filter available for due fees in the current system, but it can be requested.",
+        "Reports can be exported to Excel or printed."
+    ],
+    "questions": [
+        "What types of fee reports are available?",
+        "How can I check outstanding fees for students?",
+        "What filters are available in the Due Fee report?",
+        "Can I filter students by the amount of fees they have paid or owe?",
+        "What does 'Awake status' mean in the fee reports?"
+    ],
+    "keywords": [
+        "fee reports",
+        "due fee report",
+        "daily fee report",
+        "combined daily collection",
+        "fee filters",
+        "class filter",
+        "stream filter",
+        "batch filter",
+        "zero dues",
+        "awake status",
+        "export report"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Student Data Management"
+    ],
+    "id": "fee_management_fee_reports_and_filters",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

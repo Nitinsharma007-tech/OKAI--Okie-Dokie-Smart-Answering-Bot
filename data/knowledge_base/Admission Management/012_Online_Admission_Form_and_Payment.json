@@ -1,0 +1,56 @@
+{
+    "module": "Admission Management",
+    "topic": "Online Admission Form and Payment",
+    "summary": "The ERP system includes an online admission form integrated with a payment gateway (Razorpay) for collecting application fees. The form is available in a test mode for verification before going live. After a student fills out the form and makes the payment, their entry is recorded in the ERP. The system is configured to show the transaction details and generate a receipt. There is a requirement for the system to automatically send the payment receipt and prospectus to the student's email ID upon successful payment.",
+    "navigation": [],
+    "steps": [
+        "Access the online admission form (currently in test mode).",
+        "Fill in mandatory student details (name, photo, gender, email, phone number).",
+        "Proceed to the payment section.",
+        "Make the payment via the integrated payment gateway (e.g., UPI scanner).",
+        "Upon successful payment, the student's entry and transaction will be recorded in the ERP.",
+        "A receipt will be generated and displayed (and ideally sent to the student's email)."
+    ],
+    "business_rules": [
+        "The online admission form is integrated with Razorpay for payment.",
+        "The form can be set to a test gate for testing payments without actual deductions.",
+        "A fixed application fee (e.g., 10,000) is collected through the form.",
+        "Payment gateway charges (GST, bank charges) may be added to the application fee.",
+        "Admission number is created after the payment is received and processed."
+    ],
+    "important_notes": [
+        "The system should send the payment receipt and prospectus to the student's email after successful online payment.",
+        "Payment gateway charges need to be clarified and potentially optimized.",
+        "Phone number field on the form needs a restriction for up to 12 digits."
+    ],
+    "questions": [
+        "How does the online admission form work?",
+        "Is the online admission form integrated with a payment gateway?",
+        "What happens after a student fills the form and pays online?",
+        "Will the student receive a receipt via email after online payment?",
+        "Are there any charges for online payments through the admission form?",
+        "How can we test the online admission payment process?"
+    ],
+    "keywords": [
+        "online admission form",
+        "admission payment",
+        "Razorpay integration",
+        "payment gateway charges",
+        "test mode",
+        "application fee",
+        "email receipt",
+        "prospectus",
+        "admission transaction"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Payment Modes",
+        "Student Data Management"
+    ],
+    "id": "admission_management_online_admission_form_and_payment",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

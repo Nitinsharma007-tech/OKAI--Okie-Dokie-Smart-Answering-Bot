@@ -1,0 +1,57 @@
+{
+    "module": "HRM",
+    "topic": "Viewing and Editing Processed Salaries",
+    "summary": "This topic details how to view the monthly salary summary for employees and make necessary adjustments to individual salary components, such as adding advance recovery or modifying basic pay, for a specific month.",
+    "navigation": [
+        "HRM",
+        "Salary Summary Month Wise"
+    ],
+    "steps": [
+        "Navigate to HRM > Salary Summary Month Wise.",
+        "Select the 'Year' and 'Month' for which you want to view salaries.",
+        "Click 'Go'. (Leaving other fields blank will display data for all employees.)",
+        "A list of employees with their processed salaries (Gross, Deduction, Paid Salary) will be displayed.",
+        "To view or edit a specific employee's salary, click the 'View' option corresponding to that employee.",
+        "The employee's complete salary structure for the selected month will open.",
+        "Make the desired changes (e.g., adjust basic pay, add/remove earning/deduction heads like 'Advance Recovery').",
+        "Enter the amount for the change (e.g., 11000 for advance recovery). The system will automatically recalculate Gross Salary, Deduction, and Paid Salary.",
+        "Enter 'Remarks' explaining the change (e.g., 'Advance Recovery').",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "Any changes made to a processed salary must be accompanied by remarks to be successfully saved and reflected."
+    ],
+    "important_notes": [
+        "Changes made in this section are specific to the *processed salary for that particular month* and do not alter the employee's underlying salary contract (template).",
+        "If a required earning or deduction head is not available, it must first be created in the Payroll Master settings."
+    ],
+    "questions": [
+        "How can I see the detailed salary breakdown for an employee for a specific month?",
+        "Can I deduct an advance from an employee's salary after it has been processed?",
+        "How do I add a new deduction or earning to an employee's salary for a particular month?",
+        "Why is it mandatory to add remarks when saving changes to a processed salary?",
+        "Where can I find the gross salary, deduction amount, and paid salary for an employee?"
+    ],
+    "keywords": [
+        "Salary summary",
+        "View salary",
+        "Edit salary",
+        "Modify salary",
+        "Advance recovery",
+        "Deduction",
+        "Earning",
+        "Monthly salary",
+        "Salary adjustments",
+        "Salary structure"
+    ],
+    "related_topics": [
+        "Processing Employee Salaries",
+        "Creating and Managing Earning and Deduction Heads"
+    ],
+    "id": "hrm_viewing_and_editing_processed_salaries",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

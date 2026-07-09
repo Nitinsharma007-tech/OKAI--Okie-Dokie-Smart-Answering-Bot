@@ -1,0 +1,972 @@
+1
+00:00:03,859 --> 00:00:16,960
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+2
+00:00:17,199 --> 00:00:19,100
+trim, transpose and count it.
+
+3
+00:00:19,100 --> 00:00:34,880
+So I will mention some values, like name, contact number and team.
+
+4
+00:01:52,540 --> 00:02:05,280
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+5
+00:02:05,280 --> 00:02:05,480
+trim, transpose and count it.
+
+6
+00:02:34,419 --> 00:02:37,219
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+7
+00:02:40,819 --> 00:03:02,219
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+8
+00:03:13,919 --> 00:03:30,520
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+9
+00:03:55,259 --> 00:04:06,520
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+10
+00:04:37,339 --> 00:04:41,800
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+11
+00:04:51,689 --> 00:05:07,399
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+12
+00:05:22,339 --> 00:05:38,850
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+13
+00:05:49,600 --> 00:06:09,060
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+14
+00:07:07,050 --> 00:07:11,170
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+15
+00:07:40,459 --> 00:07:44,509
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+16
+00:08:02,029 --> 00:08:18,079
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+17
+00:08:56,889 --> 00:08:57,529
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+18
+00:09:06,850 --> 00:09:39,539
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+19
+00:09:51,320 --> 00:10:17,600
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+20
+00:10:17,759 --> 00:10:40,360
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+21
+00:11:07,129 --> 00:11:22,580
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+22
+00:11:23,250 --> 00:11:53,620
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+23
+00:12:09,399 --> 00:12:25,409
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+24
+00:12:26,659 --> 00:12:49,929
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+25
+00:13:15,389 --> 00:13:23,250
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+26
+00:13:49,320 --> 00:14:05,940
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+27
+00:14:39,360 --> 00:14:42,220
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+28
+00:15:14,370 --> 00:15:14,730
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+29
+00:15:14,730 --> 00:15:41,899
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+30
+00:15:49,220 --> 00:16:05,460
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+31
+00:16:34,120 --> 00:16:44,200
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+32
+00:16:56,460 --> 00:17:04,680
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+33
+00:17:34,019 --> 00:17:34,660
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+34
+00:17:40,480 --> 00:18:02,180
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+35
+00:18:02,180 --> 00:18:56,180
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+36
+00:19:21,480 --> 00:19:31,500
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+37
+00:20:18,809 --> 00:20:19,470
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+38
+00:20:32,430 --> 00:20:42,289
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+39
+00:20:55,609 --> 00:21:13,390
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+40
+00:21:25,390 --> 00:21:33,390
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+41
+00:21:51,000 --> 00:21:55,049
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+42
+00:22:22,990 --> 00:22:26,890
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+43
+00:22:26,890 --> 00:22:53,559
+So let's start with the first formula we have to cover, which is if we look up true, concatenate,
+
+44
+00:23:09,880 --> 00:23:21,819
+So let's start with the second formula we have to cover, which is concatenate,
+
+45
+00:23:53,759 --> 00:24:00,180
+So let's start with the second formula we have to cover, which is concatenate,
+
+46
+00:24:00,180 --> 00:24:20,180
+So let's start with the second formula we have to cover, which is concatenate,
+
+47
+00:24:50,799 --> 00:24:51,380
+So let's start with the second formula we have to cover, which is concatenate,
+
+48
+00:25:05,039 --> 00:25:21,960
+So let's start with the second formula we have to cover, which is concatenate, concatenate,
+
+49
+00:25:50,160 --> 00:25:55,240
+So let's start with the second formula we have to cover, which is concatenate, concatenate,
+
+50
+00:25:55,240 --> 00:26:26,670
+So let's start with the second formula we have to cover, which is concatenate, concatenate, concatenate,
+
+51
+00:26:30,380 --> 00:27:02,500
+So let's start with the second formula we have to cover, which is concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concaten
+
+52
+00:27:02,500 --> 00:27:04,680
+or A plus, x, y, z, we can put any values.
+
+53
+00:27:06,059 --> 00:27:10,079
+And if the child's grade percentage is above 80%,
+
+54
+00:27:10,079 --> 00:27:12,420
+then the child's grade is D.
+
+55
+00:27:13,579 --> 00:27:15,700
+So in that case, what do we do?
+
+56
+00:27:16,180 --> 00:27:22,390
+For example, I have 90, 80, and so on.
+
+57
+00:27:27,740 --> 00:27:29,460
+So for 90, A is done.
+
+58
+00:27:30,000 --> 00:27:31,559
+For 80, D is done.
+
+59
+00:27:39,359 --> 00:27:44,859
+If the child's grade percentage is above 90%,
+
+60
+00:27:45,400 --> 00:27:46,940
+then A grade is done.
+
+61
+00:27:47,259 --> 00:27:48,660
+For 80, D is done.
+
+62
+00:27:48,779 --> 00:27:50,099
+For 70, C is done.
+
+63
+00:27:50,099 --> 00:27:51,819
+For 60, D is done.
+
+64
+00:27:51,960 --> 00:27:52,799
+And EF is done.
+
+65
+00:27:53,039 --> 00:27:53,700
+This is done for grading.
+
+66
+00:27:55,339 --> 00:27:58,000
+Or it can be done for pass fail as well.
+
+67
+00:27:58,319 --> 00:28:01,859
+If the child's grade is below 40%,
+
+68
+00:28:01,859 --> 00:28:04,920
+then 30% fail.
+
+69
+00:28:10,309 --> 00:28:12,069
+So in that case, what do we do?
+
+70
+00:28:12,910 --> 00:28:16,130
+We will have to enter the marks or values.
+
+71
+00:28:21,740 --> 00:28:22,720
+This is student.
+
+72
+00:28:24,980 --> 00:28:25,799
+This is student.
+
+73
+00:28:30,819 --> 00:28:32,940
+Student name.
+
+74
+00:28:34,839 --> 00:28:44,700
+Then subject 1, subject 2, subject 3.
+
+75
+00:28:49,539 --> 00:28:51,380
+Three subjects are done.
+
+76
+00:28:51,980 --> 00:28:59,779
+The child's number is 20, 30, and 50.
+
+77
+00:28:59,980 --> 00:29:02,559
+This is total.
+
+78
+00:29:04,019 --> 00:29:04,980
+This is total.
+
+79
+00:29:05,200 --> 00:29:09,619
+And this is grade.
+
+80
+00:29:10,240 --> 00:29:11,599
+This is my grade value.
+
+81
+00:29:12,079 --> 00:29:12,700
+This is my grade value.
+
+82
+00:29:13,579 --> 00:29:24,940
+And here, after 20, we have 30, 40, and 40.
+
+83
+00:29:25,799 --> 00:29:26,380
+OK?
+
+84
+00:29:31,430 --> 00:29:31,710
+OK?
+
+85
+00:29:32,349 --> 00:29:33,490
+Total is done.
+
+86
+00:29:42,069 --> 00:29:43,680
+We will sum these three.
+
+87
+00:29:45,619 --> 00:29:46,599
+100.
+
+88
+00:29:50,960 --> 00:29:52,880
+We will enter the values here.
+
+89
+00:29:57,039 --> 00:29:57,759
+30.
+
+90
+00:29:59,160 --> 00:29:59,740
+10.
+
+91
+00:30:06,140 --> 00:30:06,599
+OK.
+
+92
+00:30:09,240 --> 00:30:10,119
+OK?
+
+93
+00:30:10,759 --> 00:30:12,000
+And this is done.
+
+94
+00:30:13,490 --> 00:30:14,119
+OK.
+
+95
+00:30:14,500 --> 00:30:16,160
+And 30.
+
+96
+00:30:19,299 --> 00:30:22,119
+I have made it situational.
+
+97
+00:30:22,119 --> 00:30:28,230
+I have given 10 to set any condition.
+
+98
+00:30:28,230 --> 00:30:28,529
+OK?
+
+99
+00:30:29,089 --> 00:30:30,250
+Now I will set the formula for the grade.
+
+100
+00:30:32,660 --> 00:30:35,099
+Key equal if.
+
+101
+00:30:36,950 --> 00:30:37,410
+Sorry.
+
+102
+00:30:38,339 --> 00:30:43,170
+After if, bracket equal if.
+
+103
+00:30:43,400 --> 00:30:44,440
+Bracket start.
+
+104
+00:30:44,779 --> 00:30:45,759
+Logical test.
+
+105
+00:30:47,539 --> 00:30:47,880
+100.
+
+106
+00:30:52,369 --> 00:31:04,329
+This is greater than equal to 90.
+
+107
+00:31:12,519 --> 00:31:14,759
+Grade A.
+
+108
+00:31:16,309 --> 00:31:16,609
+Common.
+
+109
+00:31:23,019 --> 00:31:26,470
+This was if.
+
+110
+00:31:29,940 --> 00:31:30,809
+Bracket start.
+
+111
+00:31:31,480 --> 00:31:36,880
+This one equal to 15.
+
+112
+00:31:39,690 --> 00:31:40,430
+Grade B.
+
+113
+00:31:45,940 --> 00:31:46,339
+OK?
+
+114
+00:31:47,609 --> 00:31:49,089
+I will answer this one.
+
+115
+00:31:49,690 --> 00:31:50,009
+We will try.
+
+116
+00:31:51,750 --> 00:31:53,250
+I have set two conditions.
+
+117
+00:31:55,930 --> 00:31:56,250
+OK?
+
+118
+00:31:56,250 --> 00:31:57,329
+OK.
+
+119
+00:31:59,339 --> 00:31:59,720
+Total.
+
+120
+00:32:03,740 --> 00:32:04,700
+OK?
+
+121
+00:32:07,890 --> 00:32:08,009
+OK.
+
+122
+00:32:10,849 --> 00:32:11,529
+OK.
+
+123
+00:32:11,950 --> 00:32:12,349
+OK.
+
+124
+00:32:12,849 --> 00:32:13,309
+OK.
+
+125
+00:32:13,309 --> 00:32:13,450
+OK.
+
+126
+00:32:13,450 --> 00:32:13,529
+OK.
+
+127
+00:32:13,529 --> 00:32:14,269
+OK.
+
+128
+00:32:16,589 --> 00:32:16,829
+OK.
+
+129
+00:32:25,069 --> 00:32:25,269
+OK.
+
+130
+00:32:26,529 --> 00:32:26,549
+OK.
+
+131
+00:32:26,549 --> 00:32:29,569
+Now you tell me whether you got it.
+
+132
+00:33:10,640 --> 00:33:14,259
+I am giving you an example because I can understand it very well.
+
+133
+00:33:15,960 --> 00:33:17,200
+This is the total of the child.
+
+134
+00:33:21,109 --> 00:33:23,450
+We have put the grade on this.
+
+135
+00:33:24,190 --> 00:33:26,630
+If the student's marks,
+
+136
+00:33:26,869 --> 00:33:27,970
+read this condition,
+
+137
+00:33:29,269 --> 00:33:32,309
+if the student's marks in total,
+
+138
+00:33:34,109 --> 00:33:37,599
+90 equal to 90 or greater than 90.
+
+139
+00:33:38,819 --> 00:33:40,740
+These are the symbols I have taken.
+
+140
+00:33:40,740 --> 00:33:43,400
+Greater than or equal to.
+
+141
+00:33:44,839 --> 00:33:45,460
+If A is printed,
+
+142
+00:33:48,279 --> 00:33:53,970
+or if it is equal to 80 or greater than 80,
+
+143
+00:33:53,970 --> 00:33:54,869
+then B is printed.
+
+144
+00:33:55,250 --> 00:33:57,130
+Otherwise, if it is fail printed,
+
+145
+00:33:58,170 --> 00:34:00,789
+then that condition has been put.
+
+146
+00:34:01,130 --> 00:34:05,529
+If the student's marks are greater than 90 or greater than 90,
+
+147
+00:34:05,950 --> 00:34:06,990
+then A is printed.
+
+148
+00:34:07,269 --> 00:34:08,369
+If it is greater than 80 or greater than 80,
+
+149
+00:34:08,650 --> 00:34:09,989
+then how much will it go up to?
+
+150
+00:34:09,989 --> 00:34:11,090
+It will go up to 90.
+
+151
+00:34:11,090 --> 00:34:14,989
+If it is greater than 80 or greater than 89.5,
+
+152
+00:34:15,489 --> 00:34:17,070
+then B is printed.
+
+153
+00:34:17,230 --> 00:34:18,369
+Otherwise, it fails.
+
+154
+00:34:19,250 --> 00:34:22,510
+So, in the grade, the same printing formula has been done.
+
+155
+00:34:23,860 --> 00:34:26,519
+If the student's marks were greater than 90 or greater than 90,
+
+156
+00:34:26,519 --> 00:34:27,619
+that means they were above 100,
+
+157
+00:34:27,920 --> 00:34:28,800
+then A is printed.
+
+158
+00:34:29,440 --> 00:34:31,260
+Here, 90 or greater than 90,
+
+159
+00:34:31,460 --> 00:34:32,960
+90 means I have also put an equal.
+
+160
+00:34:33,539 --> 00:34:34,880
+If it is greater than 90,
+
+161
+00:34:35,320 --> 00:34:36,360
+then A is printed.
+
+162
+00:34:36,900 --> 00:34:38,000
+So, A is printed.
+
+163
+00:34:38,000 --> 00:34:43,179
+Now, if it is greater than 80 or greater than 80,
+
+164
+00:34:43,179 --> 00:34:43,880
+then B is printed.
+
+165
+00:34:44,119 --> 00:34:45,079
+So, it is equal to 80,
+
+166
+00:34:45,239 --> 00:34:46,420
+but it is not 90.
+
+167
+00:34:46,739 --> 00:34:48,719
+If it was 90, then A would have been printed.
+
+168
+00:34:49,039 --> 00:34:50,099
+So, that's why B is printed.
+
+169
+00:34:50,480 --> 00:34:51,699
+And if it is below 80,
+
+170
+00:34:52,380 --> 00:34:53,480
+then it fails.
+
+171
+00:34:54,500 --> 00:34:55,840
+I have not applied all of them.
+
+172
+00:34:55,960 --> 00:34:57,159
+I have only passed 2 pins.
+
+173
+00:34:58,340 --> 00:35:01,019
+Now, I will show you by up-downing the marks.
+
+174
+00:35:01,239 --> 00:35:02,960
+These are becoming 80 here.
+
+175
+00:35:03,619 --> 00:35:05,760
+I will make this 70 here.
+
+176
+00:35:05,760 --> 00:35:08,329
+Look at this.
+
+177
+00:35:08,400 --> 00:35:09,300
+This kid has failed.
+
+178
+00:35:09,559 --> 00:35:11,900
+Because the condition I have applied is at 80.
+
+179
+00:35:16,719 --> 00:35:17,239
+Did you understand?
+
+180
+00:35:19,869 --> 00:35:20,750
+Yes, sir.
+
+181
+00:35:21,329 --> 00:35:22,010
+Did you understand the condition?
+
+182
+00:35:22,949 --> 00:35:24,369
+I have applied 2 conditions,
+
+183
+00:35:24,690 --> 00:35:27,050
+one is if and the other is if.
+
+184
+00:35:29,329 --> 00:35:30,730
+If I apply one,
+
+185
+00:35:30,949 --> 00:35:32,150
+then also understand,
+
+186
+00:35:32,210 --> 00:35:39,710
+if this one is greater than or equal to,
+
+187
+00:35:40,289 --> 00:35:41,349
+how much should we take?
+
+188
+00:35:41,809 --> 00:35:43,869
+Let's take 90 or 80.
+
+189
+00:35:44,780 --> 00:35:46,590
+If this value,
+
+190
+00:35:46,710 --> 00:35:48,530
+whatever is the value in this cell,
+
+191
+00:35:48,989 --> 00:35:52,550
+is above 80 or greater than 80,
+
+192
+00:35:53,449 --> 00:35:54,670
+then what is the print?
+
+193
+00:35:55,469 --> 00:35:57,829
+The print is C.
+
+194
+00:35:58,550 --> 00:36:00,469
+Bracket inverted close
+
+195
+00:36:00,469 --> 00:36:02,269
+and bracket closed enter.
+
+196
+00:36:03,440 --> 00:36:04,199
+So, above C.
+
+197
+00:36:04,480 --> 00:36:05,500
+So, C is printed.
+
+198
+00:36:06,320 --> 00:36:07,199
+Otherwise, look at this.
+
+199
+00:36:07,440 --> 00:36:08,880
+If it is above 80 or 80,
+
+200
+00:36:09,360 --> 00:36:10,119
+then C is printed.
+
+201
+00:36:10,500 --> 00:36:11,880
+Otherwise, false.
+
+202
+00:36:14,789 --> 00:36:16,800
+I have applied one if condition.
+
+203
+00:36:20,590 --> 00:36:20,929
+Did you understand?
+
+204
+00:36:22,699 --> 00:36:23,380
+Yes, sir.
+
+205
+00:36:24,619 --> 00:36:25,500
+Is this thing clear?
+
+206
+00:36:25,820 --> 00:36:29,079
+Now, if it is below 80,
+
+207
+00:36:29,320 --> 00:36:30,119
+then what is the print?
+
+208
+00:36:30,380 --> 00:36:31,039
+By applying comma,
+
+209
+00:36:31,300 --> 00:36:33,059
+you don't have to give the condition here.
+
+210
+00:36:33,619 --> 00:36:35,409
+Just you have to put a value here,
+
+211
+00:36:35,880 --> 00:36:36,940
+then F is printed.
+
+212
+00:36:38,670 --> 00:36:39,769
+Sorry, inverted.
+
+213
+00:36:42,769 --> 00:36:44,969
+So, this false written here,
+
+214
+00:36:44,969 --> 00:36:46,250
+will be converted to F.
+
+215
+00:36:50,539 --> 00:36:51,019
+Did you understand?
+
+216
+00:36:51,019 --> 00:36:56,820
+Do you want to explain it with any other example?
+
+217
+00:36:57,699 --> 00:36:58,980
+Tell me in some other way.
+
+218
+00:37:11,260 --> 00:37:11,860
+Yes, will you tell me?
+
+219
+00:37:15,030 --> 00:37:15,750
+Sir, I have come.
+
+220
+00:37:17,530 --> 00:37:18,329
+Is this clear to everyone?
+
+221
+00:37:19,820 --> 00:37:22,510
+Yes, sir.
+
+222
+00:37:23,860 --> 00:37:25,099
+If anyone has not been cleared,
+
+223
+00:37:25,280 --> 00:37:26,219
+you can ask again.
+
+224
+00:37:26,480 --> 00:37:27,360
+And if it is cleared,
+
+225
+00:37:27,900 --> 00:37:29,179
+then great.
+
+226
+00:37:31,940 --> 00:37:32,199
+Okay.
+
+227
+00:37:32,440 --> 00:37:33,739
+So, these were the formulas,
+
+228
+00:37:34,079 --> 00:37:34,880
+as much as today.
+
+229
+00:37:35,739 --> 00:37:36,920
+And in these formulas,
+
+230
+00:37:37,079 --> 00:37:38,380
+if anyone has any doubt,
+
+231
+00:37:38,820 --> 00:37:39,400
+any question,
+
+232
+00:37:39,579 --> 00:37:40,260
+any need to repeat,
+
+233
+00:37:40,340 --> 00:37:41,159
+you can ask again.
+
+234
+00:37:41,159 --> 00:37:41,699
+Okay.
+
+235
+00:37:44,530 --> 00:37:45,190
+What I have covered,
+
+236
+00:37:45,670 --> 00:37:47,809
+if we look up true, concatenate,
+
+237
+00:37:48,489 --> 00:37:50,090
+trim, transpose and count it.
+
+238
+00:37:55,929 --> 00:37:56,409
+Did you understand?
+
+239
+00:38:01,730 --> 00:38:02,449
+Yes, sir.
+
+240
+00:38:04,960 --> 00:38:05,619
+So, close it.
+
+241
+00:38:06,139 --> 00:38:06,920
+If anyone has any doubt,
+
+242
+00:38:07,219 --> 00:38:07,340
+any question,
+
+243
+00:38:07,739 --> 00:38:08,980
+you can ask again.
+

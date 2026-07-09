@@ -1,52 +1,53 @@
 {
     "module": "Academics",
     "topic": "Defining Subjects",
-    "summary": "This topic covers the initial setup of subjects within the ERP system, including defining subject names, unique codes, assessment models, and optional class restrictions, which is a prerequisite for creating timetables and class mappings.",
+    "summary": "This topic explains how to create and define new subjects within the ERP system. It covers entering subject names, unique codes, selecting assessment models, and optionally restricting subjects to specific classes for mapping purposes.",
     "navigation": [
         "Settings icon",
         "Academics",
-        "Subjects (First option)"
+        "Subjects (or similar option)",
+        "Add Subject"
     ],
     "steps": [
-        "Click on 'Add Subject'.",
+        "Navigate to the 'Academics' section via the 'Settings' icon.",
+        "Locate and click on the 'Add Subject' option.",
         "Enter the 'Subject Name' (e.g., English).",
-        "Enter a 'Unique Code' for the subject (e.g., ENG). This code is mandatory and defines the subject, not the class.",
-        "Select an 'Assessment Model':",
-        "Scholastic: For subjects requiring marks entry (e.g., GK in primary classes).",
-        "Course Scholastic: For subjects using grading criteria.",
-        "Optionally, define 'Class and Stream' if the subject should only be available for specific classes during mapping. If left unselected, the subject will be available for all classes.",
-        "Click 'Add' to save the subject."
+        "Enter a unique 'Subject Code' (e.g., ENG). This code defines the subject and is mandatory.",
+        "Select an 'Assessment Model' (e.g., Scholastic Subject, Course Scholastic Subject).",
+        "Optionally, select specific 'Class and Stream' if the subject should only be available for mapping in those particular classes.",
+        "Click 'Add' or 'Save' to create the subject."
     ],
     "business_rules": [
-        "The 'Unique Code' is a mandatory field for every subject.",
-        "The subject code defines the subject itself, not the class it's taught in.",
-        "Scholastic subjects are designed for marks entry.",
-        "Course Scholastic subjects utilize grading criteria."
+        "Subject Code is a mandatory field and must be unique.",
+        "Scholastic subjects require marks entry.",
+        "If a subject has already been added in class mapping, its original name cannot be edited directly from the subject definition; only its display name can be changed within the mapping.",
+        "Subject codes define the subject itself, not the class (e.g., 'ENG' for English is consistent across all grades)."
     ],
     "important_notes": [
-        "If a subject has only been created and not yet added to any class mapping, it can be fully edited (including its name).",
-        "Once a subject is added to a class mapping, only its 'Display Name' can be changed, not the original subject name."
+        "Assessment Models: 'Scholastic' subjects are for marks entry, while 'Course Scholastic' (or similar) might use grading criteria.",
+        "Subjects can be pre-filtered to appear only for specific classes during the subject-class mapping process."
     ],
     "questions": [
-        "How do I add a new subject to the system?",
-        "What is the purpose of the 'Unique Code' for a subject?",
-        "What is the difference between 'Scholastic' and 'Course Scholastic' assessment models?",
-        "Can I restrict a subject to specific classes?",
-        "Is it possible to edit a subject's name after it has been mapped to a class?"
+        "How do I add a new subject to the ERP system?",
+        "What is the purpose of a subject code and is it mandatory?",
+        "What are the different assessment models for subjects?",
+        "Can I restrict a subject to only be available for certain classes?",
+        "How do I edit a subject's name after it has been mapped to a class?"
     ],
     "keywords": [
+        "Subject definition",
         "Add subject",
-        "Create subject",
-        "Subject name",
         "Subject code",
         "Assessment model",
         "Scholastic subject",
         "Course scholastic subject",
-        "Define subject"
+        "Academics settings",
+        "ERP subjects"
     ],
     "related_topics": [
         "Subject Class Mapping",
-        "Timetable Creation"
+        "Teacher Mapping for Classes and Subjects",
+        "Creating Timetable Schedule"
     ],
     "id": "academics_defining_subjects",
     "source": {

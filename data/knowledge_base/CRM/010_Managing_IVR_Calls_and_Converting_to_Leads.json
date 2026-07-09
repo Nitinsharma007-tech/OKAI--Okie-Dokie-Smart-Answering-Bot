@@ -1,0 +1,56 @@
+{
+    "module": "CRM",
+    "topic": "Managing IVR Calls and Converting to Leads",
+    "summary": "This topic details the 'Admission Leads Log' page, which integrates with IVR systems to capture incoming call data, allowing counselors to manage received and missed calls, listen to recordings, and convert relevant calls into new admission leads.",
+    "navigation": [
+        "Admission Leads Log page"
+    ],
+    "steps": [
+        "Ensure the IVR system is integrated with the ERP.",
+        "Incoming calls to counselors will automatically appear as logs on the 'Admission Leads Log' page (categorized as received or missed).",
+        "Counselors can access and listen to call recordings directly from this page.",
+        "Since caller information for random numbers is initially blank, counselors will call back the student.",
+        "After discussion, counselors will add the student's name and relevant stream/course information to the log.",
+        "To convert a log into a lead: Select the log and click 'Convert to Lead'.",
+        "To reject a log: If the student is not interested, select the log and click 'Reject'.",
+        "To add a call note: If a call was not picked, add a note to the log.",
+        "Utilize filters to view converted logs, pending logs, received calls, or logs specific to a particular counselor."
+    ],
+    "business_rules": [
+        "IVR integration is mandatory for call logs to populate this page.",
+        "Initial caller information for unknown numbers must be manually updated by counselors after a callback."
+    ],
+    "important_notes": [
+        "'My Operator' is mentioned as an example of an IVR partner.",
+        "This page is crucial for managing and converting leads generated through phone inquiries."
+    ],
+    "questions": [
+        "How are IVR calls managed and converted into admission leads?",
+        "Where can I view call recordings for admission inquiries?",
+        "What is the process for converting a call log into a lead?",
+        "How do I filter call logs by status (received, missed, converted, pending)?",
+        "What is the role of 'My Operator' in IVR integration?",
+        "How do I add notes to a call log?"
+    ],
+    "keywords": [
+        "admission leads log",
+        "IVR integration",
+        "call logs",
+        "received calls",
+        "missed calls",
+        "convert to lead",
+        "call recording",
+        "My Operator",
+        "call notes",
+        "lead generation"
+    ],
+    "related_topics": [
+        "My Operator Config"
+    ],
+    "id": "crm_managing_ivr_calls_and_converting_to_leads",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -3,6 +3,7 @@ import json
 import time
 from datetime import datetime
 from faster_whisper import WhisperModel
+import traceback
 
 
 class TranscriptGenerator:
@@ -230,9 +231,8 @@ class TranscriptGenerator:
 
             print("=" * 60)
 
-        except Exception as e:
-
+        except Exception:
             print("=" * 60)
             print(" Error while generating transcript")
             print("=" * 60)
-            print(e)
+            traceback.print_exc()

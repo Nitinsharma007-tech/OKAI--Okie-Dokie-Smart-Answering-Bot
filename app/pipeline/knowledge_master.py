@@ -15,7 +15,7 @@ class KnowledgeMasterBuilder:
 
         self.input_folder = Path("data/knowledge_base")
 
-        self.output_file = Path("data/knowledge_master.json")
+        self.output_file = Path("master_data/knowledge_master.json")
 
         # ==================================================
         # Storage

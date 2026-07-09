@@ -1,0 +1,58 @@
+{
+    "module": "Template Management",
+    "topic": "Custom Template Design and Advanced Variables",
+    "summary": "This topic addresses the creation of custom templates for unique institutional requirements, such as specialized report cards or certificates with custom designs. It also covers handling complex data structures within templates and incorporating elements like images and stamps.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "Identify specific institutional requirements that cannot be met by default templates (e.g., unique report card layouts).",
+        "Design the custom template using appropriate coding (HTML, CSS, and potentially JavaScript for dynamic elements).",
+        "For complex reports, use the browser console to navigate through arrays and nested objects to accurately retrieve specific data points (e.g., skill groups, subjects, assessment groups).",
+        "Incorporate images for logos, stamps, or signatures by referencing them in the code (e.g., `DisplayData.logo`).",
+        "Ensure all HTML tags are properly closed to avoid preview issues and ensure correct rendering."
+    ],
+    "business_rules": [
+        "Some specialized reports, like pre-nursery report cards, often require fully customized designs as they are not available as default system codes.",
+        "Stamps and signatures can be integrated into templates either by coding them directly or by embedding them as image files.",
+        "Templates can be renamed within the system to better reflect their purpose."
+    ],
+    "important_notes": [
+        "The browser console for highly customized or complex reports (e.g., detailed report cards) will display a more intricate data structure with multiple arrays and nested variables.",
+        "The template preview is a design aid; it may not accurately reflect the final print if there are unclosed tags or structural errors in the code.",
+        "Variables for elements like institute logo (`DisplayData.logo`) or session information can be directly incorporated into the template code."
+    ],
+    "questions": [
+        "How do I design a custom report card with a unique layout?",
+        "Can I add my institute's logo and stamp to a certificate template?",
+        "What are the best practices for handling complex data structures in custom templates?",
+        "Why is my custom template not previewing correctly?",
+        "How can I include session information on a fee receipt?"
+    ],
+    "keywords": [
+        "custom template",
+        "report card design",
+        "complex variables",
+        "nested arrays",
+        "coding templates",
+        "images in templates",
+        "template preview issues",
+        "dynamic data",
+        "stamps in templates",
+        "character certificate"
+    ],
+    "related_topics": [
+        "PDF Template Management",
+        "Template Activation and Printing Logic",
+        "Troubleshooting Template Variables"
+    ],
+    "id": "template_management_custom_template_design_and_advanced_variables",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "module": "Fee Management",
+    "topic": "Configuring and Calculating Fines",
+    "summary": "The ERP system allows for the configuration of fines for late fee payments. Fines can be set based on specific criteria, such as a fixed amount after a due date, with additional amounts accruing periodically (e.g., Rs. 500 on the 11th of the month, and an additional Rs. 500 every 15 days thereafter). Fines can also be configured as a daily charge. Once configured, fines are automatically calculated and displayed during the fee collection process if the payment date is past the due date. These fine configurations are generally applicable to all courses and students.",
+    "navigation": [],
+    "steps": [
+        "Define the fine criteria (e.g., fixed amount after due date, periodic increase, daily charge).",
+        "Communicate the fine criteria to the ERP team for setup in the 'fine config'.",
+        "During fee collection, if the current date is past the due date, the system will automatically calculate and display the applicable fine."
+    ],
+    "business_rules": [
+        "Fines are calculated based on predefined criteria and due dates.",
+        "Fine configurations are typically applicable to all courses and students.",
+        "The system automatically calculates and displays fines during fee collection."
+    ],
+    "important_notes": [
+        "Specific fine criteria (e.g., Rs. 40 daily, Rs. 500 after 15 days) must be clearly communicated for accurate setup.",
+        "The fine calculation is based on the current date of fee collection."
+    ],
+    "questions": [
+        "How are late payment fines configured in the system?",
+        "Can fines be a fixed amount or a daily charge?",
+        "How does the system calculate fines during fee collection?",
+        "Are fine rules applicable to all students and courses?",
+        "What information is needed to set up fine criteria?"
+    ],
+    "keywords": [
+        "fine configuration",
+        "late fee",
+        "fine calculation",
+        "due date",
+        "periodic fine",
+        "daily fine",
+        "fine config"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_configuring_and_calculating_fines",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

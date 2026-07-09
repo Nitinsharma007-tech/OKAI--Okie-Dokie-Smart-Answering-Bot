@@ -1,0 +1,43 @@
+{
+    "module": "CRM",
+    "topic": "My Operator IVR Configuration",
+    "summary": "This topic briefly mentions the configuration settings required for integrating 'My Operator', an IVR (Interactive Voice Response) system, with the ERP system to manage call records and facilitate lead generation from phone inquiries.",
+    "navigation": [
+        "Admission Setup",
+        "My Operator Config"
+    ],
+    "steps": [
+        "Navigate to 'My Operator Config' in the Admission Setup.",
+        "Configure the necessary parameters including 'Secret Token', 'Salient ID', 'IVR ID', and 'PID ID'."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This is a technical configuration step for enabling IVR functionality within the ERP.",
+        "My Operator acts as a mediator, routing calls to counselors and providing logs of call activities."
+    ],
+    "questions": [
+        "What are the configuration settings for My Operator IVR integration?",
+        "What information is needed to integrate My Operator with the ERP?",
+        "Where can I find the IVR configuration settings?",
+        "What is the purpose of the Secret Token and IVR ID in My Operator config?"
+    ],
+    "keywords": [
+        "My Operator Config",
+        "IVR integration",
+        "secret token",
+        "salient ID",
+        "IVR ID",
+        "PID ID",
+        "call management",
+        "telephony integration"
+    ],
+    "related_topics": [
+        "Admission Leads Log Page (IVR Integration)"
+    ],
+    "id": "crm_my_operator_ivr_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

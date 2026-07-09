@@ -1,0 +1,65 @@
+{
+    "module": "Transport",
+    "topic": "Defining Vehicle Routes and Pick-up Points",
+    "summary": "This topic details how to create and manage vehicle routes within the ERP system. It includes assigning vehicles to routes, defining multiple pick-up/drop points, setting timings, specifying charges, and optionally skipping transport fees for certain installments.",
+    "navigation": [
+        "Settings icon",
+        "Transport",
+        "Vehicle Route"
+    ],
+    "steps": [
+        "Click on the 'Settings' icon.",
+        "Select 'Transport'.",
+        "Click on 'Vehicle Route'.",
+        "To create a new route: Click 'New Vehicle Route'.",
+        "Enter a descriptive 'Route Name' (e.g., Route 1).",
+        "Select the 'Vehicle' that will operate on this route from the dropdown list.",
+        "Optionally, select 'Skip Installment' if transport fees should not be charged for specific fee installments (e.g., June). Multiple months can be selected.",
+        "Optionally, select 'Employee' (driver) assigned to this route. This data comes from the HRM employee setup.",
+        "To add pick-up points: Enter 'Pick-up Point Name' (e.g., Ansal), 'Pick-up Time' (e.g., 6:00 AM), 'Drop Time' (e.g., 4:00 PM), and 'Amount' (e.g., 2000). Optionally, enter 'Longitude' and 'Latitude'. Click 'Add' to save the pick-up point. Repeat for additional points.",
+        "Click 'Add' to save the complete vehicle route.",
+        "To update an existing route: Select the route, click 'Edit', modify details, and click 'Update'.",
+        "To upload pick-up points in bulk: Click 'Upload Pick-up Point', download the 'Sample Excel', fill in the data (Pick-up Point Name, Amount, Pick-up Time, Drop Time, Longitude, Latitude), choose the file, and click 'Submit'."
+    ],
+    "business_rules": [
+        "Transport is session-dependent; routes may need to be re-established or copied for new sessions.",
+        "The 'Skip Installment' feature prevents transport fees from being charged for selected installments.",
+        "Employee data for drivers must be pre-configured in the HRM module.",
+        "When manually adding pick-up points, Pick-up Time and Drop Time are mandatory. When using Excel upload, they are non-mandatory."
+    ],
+    "important_notes": [
+        "Existing vehicle routes can be copied from a previous session using the 'Copy from Session' feature.",
+        "Longitude and Latitude fields are primarily used for integration with GPS tracking systems.",
+        "Bulk upload of pick-up points via Excel can generate an error file if data is invalid or incomplete (e.g., missing mandatory fields)."
+    ],
+    "questions": [
+        "How do I define a new transport route in the ERP system?",
+        "Can I assign multiple pick-up points to a single vehicle route?",
+        "What is the purpose of the 'Skip Installment' option in vehicle route setup?",
+        "How can I bulk upload pick-up points for a transport route?",
+        "Where do I assign a driver to a specific bus route?"
+    ],
+    "keywords": [
+        "Vehicle Route",
+        "Pick-up Point",
+        "Drop Point",
+        "Route Setup",
+        "Transport Charges",
+        "Skip Installment",
+        "Bulk Upload",
+        "Route Management",
+        "Driver Assignment",
+        "Copy from Session"
+    ],
+    "related_topics": [
+        "Adding and Managing Vehicles",
+        "Transport Excel Upload",
+        "Assigning Transport Route to Students"
+    ],
+    "id": "transport_defining_vehicle_routes_and_pick_up_points",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

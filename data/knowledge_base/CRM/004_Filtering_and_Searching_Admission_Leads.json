@@ -1,0 +1,51 @@
+{
+    "module": "CRM",
+    "topic": "Filtering and Searching Admission Leads",
+    "summary": "This topic explains how to effectively use filters and the global search function on the Admission Leads page to manage and locate specific lead data, including understanding default filter behaviors.",
+    "navigation": [
+        "Admission Leads page"
+    ],
+    "steps": [
+        "Access the Admission Leads page.",
+        "Understand default filters: By default, only 'Not Engaged' and 'Engaged with Pending Follow-up' statuses are ticked, and only positive tags are selected.",
+        "To view leads with negative tags: Manually select the specific negative tag (e.g., 'Not Interested') from the tag filter, and adjust status filters as needed (e.g., 'Engaged with Pending' and 'Completed Follow-up'), then search for the application.",
+        "To use Global Search: Turn on the 'Global Search' toggle. This allows searching for any application number regardless of the applied filters, including leads with negative tags.",
+        "Utilize other filters such as course-wise, counselor-wise, source-wise, and status-wise to refine lead views."
+    ],
+    "business_rules": [
+        "Leads marked with negative tags are hidden by default to streamline the counselor's view and focus on actionable leads."
+    ],
+    "important_notes": [
+        "Global Search overrides all other filters, making it a powerful tool for finding specific leads quickly.",
+        "Counselors should be aware of default filter settings to avoid missing leads with negative tags."
+    ],
+    "questions": [
+        "How can I view leads that have been marked with a negative tag?",
+        "What are the default filters on the admission leads page?",
+        "When should I use 'Global Search' on the leads page?",
+        "How do I filter admission leads by course or counselor?",
+        "Why are some leads not visible on the default leads page?"
+    ],
+    "keywords": [
+        "admission leads page",
+        "filters",
+        "global search",
+        "not engaged",
+        "pending follow-up",
+        "positive tags",
+        "negative tags",
+        "lead visibility",
+        "application number",
+        "lead search"
+    ],
+    "related_topics": [
+        "Admission Tags Setup",
+        "Admission Team Structure"
+    ],
+    "id": "crm_filtering_and_searching_admission_leads",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "module": "Transport",
+    "topic": "Adding and Managing Vehicles",
+    "summary": "This topic covers the process of adding new vehicles (buses) to the ERP system, including their essential details like RC number, seating capacity, and insurance information. It also explains how to update existing vehicle details.",
+    "navigation": [
+        "Settings icon",
+        "Transport",
+        "Vehicle"
+    ],
+    "steps": [
+        "Click on the 'Settings' icon.",
+        "Select 'Transport'.",
+        "Click on 'Vehicle'.",
+        "To add a new vehicle: Click 'New Vehicle'.",
+        "Enter the 'RC number' (e.g., HR 0123).",
+        "Enter the 'Seating Capacity' (e.g., 50).",
+        "Optionally, enter 'Tank Capacity' and 'GPS ID'.",
+        "Enter the 'Insurance Date'.",
+        "Optionally, upload corresponding documents like 'Insurance Document', 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', 'Road Tax'.",
+        "Click 'Add' to save the vehicle.",
+        "To update an existing vehicle: Select the vehicle from the list and click 'Update Detail' to modify its information."
+    ],
+    "business_rules": [
+        "RC number, Seating Capacity, and Insurance Date are mandatory fields for vehicle creation.",
+        "Transport setup is session-dependent, meaning configurations need to be done for each academic session."
+    ],
+    "important_notes": [
+        "The 'GPS ID' field is used for GPS tracking systems but is not mandatory.",
+        "The system allows for the creation of an unlimited number of vehicles.",
+        "Vehicle details can be updated at any time after creation."
+    ],
+    "questions": [
+        "How do I add a new bus to the ERP system?",
+        "What information is required when adding a new transport vehicle?",
+        "Where can I update vehicle details like RC number or seating capacity?",
+        "Is the transport setup specific to each academic session?"
+    ],
+    "keywords": [
+        "Transport",
+        "Vehicle",
+        "Bus",
+        "Add Vehicle",
+        "RC Number",
+        "Seating Capacity",
+        "Insurance Date",
+        "Vehicle Management",
+        "Session Dependent"
+    ],
+    "related_topics": [
+        "Defining Vehicle Routes and Pick-up Points",
+        "Transport Excel Upload"
+    ],
+    "id": "transport_adding_and_managing_vehicles",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

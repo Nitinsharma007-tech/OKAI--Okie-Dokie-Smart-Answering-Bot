@@ -1,0 +1,46 @@
+{
+    "module": "Admissions",
+    "topic": "Troubleshooting Transaction Mapping and Application Data Display",
+    "summary": "This topic addresses common issues where transactions, such as registration fees, are not appearing in the application data after being mapped, preventing progression to the next admission stage.",
+    "navigation": [],
+    "steps": [
+        "Ensure transaction mapping is correctly configured.",
+        "Verify that the application data is set up to display the mapped transactions.",
+        "Check if the system allows collection of the specified amount (e.g., 1000 rupees for registration).",
+        "Confirm that the next stage progression is correctly linked to the transaction completion."
+    ],
+    "business_rules": [
+        "Correct transaction mapping should enable the display of transactions in application data.",
+        "Successful transaction collection should allow progression to the next admission stage."
+    ],
+    "important_notes": [
+        "This is a troubleshooting scenario for initial admission phase setup."
+    ],
+    "questions": [
+        "Why are my mapped transactions not appearing in the application data?",
+        "How do I resolve issues with transactions not showing after mapping?",
+        "Why can't I proceed to the next admission stage after entering registration fees?",
+        "What steps should I take if I cannot collect registration fees in the application data?"
+    ],
+    "keywords": [
+        "transaction mapping",
+        "application data",
+        "registration fees",
+        "admission stage",
+        "troubleshooting",
+        "transaction display",
+        "next stage issue",
+        "token money"
+    ],
+    "related_topics": [
+        "Admission Setup",
+        "Token Money Configuration",
+        "Application Number Setup"
+    ],
+    "id": "admissions_troubleshooting_transaction_mapping_and_application_data_display",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

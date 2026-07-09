@@ -1,0 +1,57 @@
+{
+    "module": "CRM",
+    "topic": "Setting Up Admission Team Hierarchy and Data Visibility",
+    "summary": "This topic outlines how to establish hierarchical admission teams with designated team leads and members, and how this structure influences data visibility among counselors and team leads.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Admission Team"
+    ],
+    "steps": [
+        "Navigate to 'Admission Team' under 'Admission Master'.",
+        "If a team structure is not required (e.g., a single senior person with multiple counselors), delete any existing teams and save the configuration.",
+        "To create a new team: Click 'Add Team', provide a team name (e.g., 'Domestic Team', 'External Team').",
+        "Assign a 'Team Lead' to the newly created team.",
+        "Add 'Members' to the team by selecting counselors from the available list.",
+        "Click 'Save' to finalize the team setup.",
+        "To view team members' data on the Admission Leads page: Filter by the Team Lead, then toggle 'Show Member Details' ON. This will display all leads belonging to the team lead and their team members combined."
+    ],
+    "business_rules": [
+        "A Team Lead can view the lead data of all members within their assigned team.",
+        "Individual team members cannot view the lead data of other members within the same team.",
+        "Team Leads generally cannot view the lead data of other Team Leads' teams.",
+        "If a counselor is a member of two different teams, both respective Team Leads will be able to view that common member's lead data."
+    ],
+    "important_notes": [
+        "Team structures are particularly beneficial for organizations with distinct outreach or inside admission teams.",
+        "The 'Show Member Details' filter is essential for Team Leads to monitor their team's collective performance and lead pipeline."
+    ],
+    "questions": [
+        "How do I set up an admission team with a team lead and members?",
+        "How does data visibility work within an admission team?",
+        "Can a team lead see the leads of other teams?",
+        "What happens if a counselor is part of two different admission teams?",
+        "How do I view my team members' lead data on the admission leads page?",
+        "Where can I configure admission team structures?"
+    ],
+    "keywords": [
+        "admission team",
+        "team lead",
+        "team members",
+        "data visibility",
+        "hierarchical structure",
+        "show member details",
+        "counselor data",
+        "team management"
+    ],
+    "related_topics": [
+        "Filtering and Searching Admission Leads",
+        "Councillor Mapper"
+    ],
+    "id": "crm_setting_up_admission_team_hierarchy_and_data_visibility",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

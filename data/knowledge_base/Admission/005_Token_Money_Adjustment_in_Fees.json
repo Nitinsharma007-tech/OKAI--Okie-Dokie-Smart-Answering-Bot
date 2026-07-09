@@ -1,0 +1,55 @@
+{
+    "module": "Admission",
+    "topic": "Token Money Adjustment in Fees",
+    "summary": "This topic clarifies the unique functionality of 'Token Money' where the collected amount is automatically adjusted against the student's total tuition fees once their admission is approved.",
+    "navigation": [
+        "Admission Heads (to ensure 'Token Money' head is available)",
+        "Stage Setup",
+        "View (a specific stage, typically the last)",
+        "Transactions tab",
+        "Add Transaction Mapping (to map 'Token Money' to a stage)",
+        "Student List",
+        "Fee Collection (to verify adjustment)"
+    ],
+    "steps": [
+        "Ensure the 'Token Money' head is available in 'Admission Heads' (it is a predefined head).",
+        "Map the 'Token Money' head to a relevant admission stage (e.g., the final approval stage) with the specified amount using 'Add Transaction Mapping' in 'Stage Setup'.",
+        "Collect the token money from the student at the configured stage.",
+        "Approve the student's admission.",
+        "Upon approval, navigate to the 'Student List' and then 'Fee Collection' for the approved student.",
+        "Observe that the collected token money amount has been automatically deducted from the student's total payable tuition fee, reducing their net balance."
+    ],
+    "business_rules": [
+        "Token money collected from a student is always adjusted against their total tuition fees upon admission approval.",
+        "Other admission heads (e.g., Registration Fees, Prospectus Fees, Visit Fee) are collected separately and are NOT adjusted against the student's total tuition fees."
+    ],
+    "important_notes": [
+        "This automatic adjustment is a key differentiator for 'Token Money' compared to other admission-related collections.",
+        "It ensures that the initial token payment contributes directly to the student's overall fee liability."
+    ],
+    "questions": [
+        "How does token money get adjusted in the student's tuition fees?",
+        "What is the difference between token money and registration fees regarding fee adjustment?",
+        "How do I configure token money collection and ensure it reduces the student's total fees?",
+        "When does the token money adjustment occur in the admission process?"
+    ],
+    "keywords": [
+        "Token money",
+        "Fee adjustment",
+        "Tuition fee",
+        "Admission approval",
+        "Net balance",
+        "Fee collection",
+        "Payment adjustment"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Stage Transaction Mapping and Amount Editability"
+    ],
+    "id": "admission_token_money_adjustment_in_fees",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

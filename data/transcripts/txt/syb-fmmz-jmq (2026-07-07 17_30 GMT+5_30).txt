@@ -1,0 +1,1022 @@
+Actually, have you gone through the admission phase one training?
+Yes, sir. I watched two videos of that. The state setup and transaction mapping and token money.
+Yes, sir. But I have some doubts in transaction mapping, like I did all correct in my opinion.
+But when I go into application data, I am not able to show the transaction.
+For example, I am putting 1000 rupees in the registration.
+So, it is not coming that we can collect that 1000 rupees.
+And I am not able to go to the next stage.
+As it is shown in the videos, it is written that you can go to the next stage.
+So, I am not able to do that.
+No worries, we will check those particular doubts as the ending of this particular meeting.
+But before that, the basic part is clear to you.
+About the setup, about how to do the application setup and all that particular part.
+Yes, I know.
+And what about you, Sarita?
+Yes, sir. It is clear. I also watched the first two videos.
+Perfect. So guys, today we will cover the respective advanced part of the CRM.
+Basic things are known to everyone.
+How to do the lead out, how to do the basic setup.
+That part is easy for everyone.
+But what the complex part is, now you guys are having the counsellor mapping part.
+After that, you guys are having the admission lead logs part.
+You guys are having multiple reports which are at the advanced level.
+So, going back to the setup directly.
+Because I guess everyone is clear about the admission leads.
+It is clear to add tags, add follow-ups, add visits.
+Does anyone have any doubts about this?
+No, sir. It is clear.
+Akhshat?
+Sir, this one is not in the videos.
+In the recordings, follow-ups are not there yet.
+Like the Zoho integration, tags and counsellor mapping part.
+We will cover the counsellor mapping part now.
+My point is, how to add the admission leads page or follow-up, how to add tags. Is that clear?
+No, sir. It is not in the videos yet.
+It was not taught in the previous videos.
+What about you Tanvi and Bhavan?
+Sir, I guess this part has not been done yet.
+It has not been done yet.
+So, let's do one thing.
+Let's cover this part as well.
+Post that, we will move on to the further advanced part.
+Basically, this part is clear to you.
+You just have to come on to the application number setup.
+Then, what sort of stages you guys need.
+After that, for any sort of transaction, you have to give the transaction number.
+And furthermore, you guys are having the admission leads part.
+Sorry, the heads part.
+You have to collect the heads.
+Token money is clear enough to all of you.
+Yes, sir.
+Yes, sir.
+After that, what we have is admission tags.
+I will explain it now.
+What was our admission source?
+Basically, whenever you are receiving any particular of the lead or
+if you are adding it manually, you have to select a respective source.
+So, this source part will also be clear.
+Yes, sir.
+Now, what is the point?
+Let's do the rest of the things now.
+Starting with the admission tag.
+Basically, try to understand that you have a lead.
+And considering yourself as a counselor.
+And you have to work on that particular lead.
+So, when you are working on that, there could be multiple circumstances
+as to what the student replied to you.
+Student could be interested.
+Student may not be interested.
+Student could come for the visit to the campus.
+And at the end, the student replied.
+So, student can be a not interested one as well.
+So, basically, what we do is, on the leads page,
+or any page on which you are working,
+taking an example, I have a fresh lead.
+I have put a filter for not engaged.
+I will tell you what is the use of filters.
+What does not engaged mean?
+That you have leads in the system.
+But the counselor has not been done any kind of activity
+with that particular lead.
+So, after doing the not engaged filter,
+after doing the not engaged filter,
+you are having these red ribbons over there.
+So, the leads where there is no activity,
+those are marked with these red ribbons.
+This makes it clear that this lead is untouched lead.
+Is it clear?
+Yes, sir.
+Or for example, if there is any sort of lead
+where there is some activity,
+for example, there is an engaged lead,
+either with the completed follow-up or the pending follow-up.
+So, in that case, the ribbon does not come.
+It does not come in this case.
+Is it okay?
+Guys, is it okay?
+Yes, sir.
+Moving back to the not engaged.
+Now, basically, when you work on a lead,
+you will select a respective tag.
+Based on the conversation you have done with the student.
+If the student is interested, may be interested,
+after coming forward with it, you will select the respective tag.
+So, if the tag is positive,
+the system will ask you to add a follow-up
+in which you will be able to add the date,
+you will be able to add the time,
+you will be able to add the remark.
+Taking an example, I selected a date here.
+After selecting the date, I put a remark here
+and clicked on update.
+So, automatically, my tag has been updated.
+Now, what bad is,
+I had just selected the not engaged lead.
+So, my engaged with pending one is not showing.
+By default, you have to use both the shows.
+I have put it on coming forward with it.
+I have put it on every tag.
+I will follow the view here.
+So, it has just been added.
+Is this thing clear?
+Yes, sir.
+What are you saying?
+Were you saying something?
+No, sir.
+So, this much is clear.
+Now, the point is,
+how did you make this tag?
+And why did you get a follow-up call?
+For example, if I put interested in this,
+then I got a follow-up call.
+If I marked it as not interested or something else,
+course not available or not attending or not eligible,
+then the system asked you for a negative tag.
+Both are different.
+You are putting a follow-up in one.
+In one case, you are putting a negative remark.
+So, how is this set?
+In which case, your follow-up will come?
+In which case, your remark will come?
+Is it clear?
+There are two things.
+When you put a tag on any particular lead,
+either it would ask you a follow-up
+or it would ask you a remark.
+Is it clear?
+Yes, sir.
+Now, the point is,
+how will we set this?
+Who will get positive?
+Who will get negative?
+So, you just have to come into the admission setup.
+Click on the admission master and the admission tags.
+From here, you can make admission tags.
+Click on the add new details.
+Whatever tag you want to give,
+for example, I have taken a test tag.
+Whatever color combination you want to give,
+on the basis of your requirement,
+you can give it by adjusting from here.
+Now, the point is the labels.
+The labels that come here,
+your positive label and the negative label.
+So, if you select positive,
+then in that case,
+it would ask you a follow-up.
+Is it okay?
+Yes, sir.
+If you select negative,
+then it would ask you a negative remark.
+Simple, nothing else.
+Nothing like rocket science.
+You can create tags here
+by coming to this page.
+Different colors.
+I will tell you one thing.
+It is a little important.
+Make sure you remember it forever.
+What happens with us, basically,
+if any lead comes in the system,
+if it comes from the same number again,
+then what does our system do?
+It marks it as duplicate.
+But how do you make duplicate tags?
+That is the important thing.
+I am deleting it now.
+I have saved it here.
+To make duplicate tags,
+it is fixed.
+You don't have to change anything in it.
+Come to add new details.
+Write duplicate properly.
+There should be no space at the end
+or in the starting.
+After that, choose a random color.
+After choosing a random color,
+mark it as negative and save it.
+Is this clear?
+Yes, sir.
+Now, what will you do with it?
+Change the hex value of that random tag.
+You have to zero this as well.
+You have to zero this as well.
+Zero it from here.
+Zero it from here.
+Zero it from here.
+And then save it.
+This will create duplicate tags.
+Is this clear?
+Yes, sir.
+Good.
+Now, the point is,
+if you mark every lead as duplicate,
+you won't even know
+which lead came first.
+The main lead, I would say.
+In that case,
+we will make a new tag.
+That is Duplicate Primary.
+Duplicate Primary will be extra in this.
+Select any color.
+Add labels.
+Positive, negative, whatever.
+In general, it will be positive.
+After that, change the hex value to black.
+Change it to black.
+From here, RGB.
+Zero.
+And save it.
+Is this clear?
+Why are we making duplicate and duplicate primary?
+Do you understand?
+Yes, sir.
+I will show you an example.
+I added a lead.
+For example,
+I added a lead from a random number.
+The lead was captured in the system.
+It was created here.
+Now, if I create a new lead from the same number,
+the system will pop up.
+The lead is already existing
+But what you have to do for that,
+you have to set up
+a lead from any mobile number or from any other field.
+After that,
+if you still want to add a lead,
+you will add it as duplicate query.
+You will give names,
+you will select your source.
+I will tell you what campus visit rate is.
+So, what did the system do?
+Automatically, the first lead,
+what did it do? Duplicate Primary.
+And after that,
+the lead we added, what did it do?
+Duplicate.
+Now, all the leads added from the same number
+in the system will be duplicated.
+So, what will Duplicate Primary do?
+It will help you in checking
+which was the first lead
+with the same number.
+Is this point clear?
+This is really important if you are
+at any college level
+or at any university level.
+Guys, is it clear?
+Yes, sir.
+Yes, sir.
+Perfect.
+Now, the point is,
+this admission leads page,
+what data does it show you?
+The first data you have is
+your fresh leads.
+Whether you have leads today
+or old leads,
+no work has been done on them.
+Fresh leads means your not engaged leads.
+Then it shows you the leads
+of those particular follow-ups
+which are pending.
+So, by default,
+in the system, only two
+statuses are ticked.
+Not engaged or
+engaged with pending follow-up.
+Is it clear?
+Yes, sir.
+Yes, sir.
+By default,
+only positive tags are selected
+because if you
+mark any lead with a negative tag,
+for example,
+the student is not interested
+or the course is not available,
+then in that case,
+the counselor will have
+a lot of lead data.
+For example, being an adult,
+I have 10,000 leads.
+Imagine if the counselor
+keeps seeing all the data
+which is useless.
+So, what we do is,
+if I mark this lead,
+I can copy it.
+So, what I can do is,
+I marked it,
+not able to take decision,
+not interested,
+tagged, remarked,
+saved.
+My lead is gone.
+If I search this lead,
+the system won't show me the lead.
+Do you understand?
+How did it happen?
+Guys, will you say something?
+Babay, explain why this happened?
+Why is the lead not showing?
+Babay, am I available?
+Yes, sir.
+Will you tell me once?
+He is asking.
+I will explain again.
+What we did is,
+we gave a negative tag to that lead.
+What this page does is,
+by default,
+only the positive tag is selected in the filter.
+So, when the positive tag is selected,
+the negative tag of any lead
+will not be visible.
+So, what did I do to this lead?
+I gave a negative tag to this lead.
+So, what did the system do to it?
+Because of filters,
+it won't show the data.
+But if I still want to check
+if any lead exists from this number,
+then I have two ways.
+Either I can select the respective filter from here.
+I selected from here,
+not interested, click on go.
+And search this application.
+So, I got this lead.
+Is this thing clear?
+What did I do? I selected tag,
+respective, not interested.
+And from here, I selected status.
+Engaged with pending and completed follow.
+And that application was added.
+So, I got the application.
+This is the first process.
+What is the second process?
+I will reload it.
+It applies the by default filters.
+Then, you will turn on global search.
+And you don't have to change anything.
+Filters will be as it is.
+You will not select any tag from here.
+Not interested or anything.
+You will only turn on global search.
+And if you add the application number,
+it will be visible.
+I understand. Global search point
+is also clear and not interested.
+Why did you remove it?
+Is it clear or not?
+Yes, sir.
+It is clear.
+Any doubt?
+Yes, sir.
+Now, the point is,
+it is clear that you can add tags from here.
+Now, what do we have here?
+We have to add follow ups directly.
+You can add follow ups directly.
+You have to add visit.
+What does visit mean?
+If a student visits the campus,
+you can record it from here.
+For example, if he comes tomorrow,
+he will visit on the day after tomorrow.
+If he comes the day after tomorrow,
+he will visit on the day after tomorrow.
+From here, you have to add a note.
+You have to make calls.
+IVR should be integrated for calls.
+Only then it can be called.
+Otherwise, the call will not go.
+The call will fail.
+After that, you have to add a note
+for the student.
+You have to talk to the student.
+You have to give specific information
+After that, you will be able to
+check the timeline of the student.
+When the application was created,
+who created it,
+which email to check,
+what email was sent to the student,
+you can check from here.
+All the activities you do in this
+post that you have is
+open WhatsApp.
+Let me show you
+what it works like.
+Basically,
+when I click on any student's
+open WhatsApp,
+my WhatsApp web will be opened.
+My name is passed in it.
+The name of the entity is passed.
+You will be directly on open WhatsApp.
+Your respective counselor's WhatsApp
+will be logged in and he can directly
+communicate with the student.
+Is it clear?
+Yes, sir.
+Now, the student's name
+can be anything.
+Here is Sagar Babu.
+I had booked Sagar Babu in this.
+Sagar Babu is coming.
+The system will automatically
+take your number from there.
+You will not need to type manually.
+Is it clear, guys?
+Yes, sir.
+Yes, sir.
+Now, the point is,
+you can filter the data accordingly.
+You have to filter the course-wise data.
+You have to filter counselor-wise data.
+You have to filter source-wise data.
+You have to filter status-wise data.
+Wait a minute.
+Is this clear, guys?
+Yes, sir.
+Next time,
+I will turn on the camera and tell everyone.
+But the mic too.
+This part is clear enough.
+Moving to the setup again.
+Is the tag part clear, guys?
+Is there any doubt in the tag?
+No, sir.
+No, sir.
+We will not do the seats part.
+The source part will be clear.
+Why do we add sources?
+Now, the point is the source group.
+In the case of source group,
+for example,
+we have made 10 sources in our system.
+So, some entities
+group the sources.
+Group in the sense that
+organic sources excite,
+inorganic sources excite,
+social media related sources excite.
+Take an example.
+I have created organic.
+In organic,
+I have selected website, my operator,
+intag and
+walk-in direct.
+Then, I have selected inorganic.
+Inorganic
+is the spelling.
+In organic,
+I have selected social media,
+WhatsApp,
+online admission
+and so on.
+Then, we have third party vendors.
+We have selected them separately.
+In third party vendors,
+we have career mantra, college duniya,
+siksha planar, affinity,
+all these are kept.
+When you go to the source-wise report,
+the data will be
+combined and come to you.
+Do you understand?
+Inorganic is separated,
+third party vendors are separated.
+Others, which we have not put anywhere,
+are separated. Is that clear?
+Now, when you expand them,
+you will get all the information
+after expanding.
+There was intag, website,
+nothing. Now, when you print it,
+it will be printed.
+So, admission,
+going to the source group,
+this is the work.
+Is that clear, guys?
+Yes, sir.
+Yes, sir.
+Moving to the next point.
+Admission seats,
+not mandatory as of now.
+Councillor mapper does.
+Now, the point is,
+whatever lead you get in the system,
+it is assigned to some councillor.
+Some councillor works on it.
+So, from this
+particular councillor mapper settings,
+what you can do, you guys can
+able to map the councillors
+for the courses
+as well and for the sources
+as well.
+Specific sources, taking an example,
+specific sources selected,
+reference selected, intag selected.
+So, you can set multiple councillors
+as well.
+This source
+and all the leads
+from these particular
+sources, they will go to these three persons.
+Automatically.
+You will not need to assign again and again.
+So, what will the system do?
+It will assign one by one, one lead to Sumit,
+one lead to Himanshi, one lead to Deepa.
+And on the process of round robin,
+it will assign one by one.
+Is it clear?
+Yes, sir.
+If any particular client
+has a councillor
+who works on all the courses,
+then in that case, you will have
+to select all of them
+one by one.
+After that, you will not make
+multiple engineering courses.
+There will be only one engineering course,
+and one computer application course.
+In that, you will select all the councillors.
+So, one lead goes to him, one lead goes to the other,
+the other goes to the fourth, and so on.
+Okay?
+Yes, sir.
+What is this process called?
+What is this process called?
+Councillor mapper.
+Councillor mapper.
+Councillor mapper.
+Councillor mapper is the page.
+From which process it is assigned,
+what is it called?
+Round robin.
+Yes.
+Now, the point is, round robin also
+happens in two ways.
+I will explain.
+One is your all, another one is your device.
+In the case of all, guys, what happens is
+taking an example, you have four people in the meeting.
+Suppose we have only three people in the meeting.
+So, I gave all the information
+Is it clear?
+You were first, I explained everything to you.
+Bhavya came late.
+So, because Bhavya came late,
+I have to give the starting information
+to Bhavya again.
+So that you guys come at an equal level.
+So that I can proceed further.
+Yes.
+Bhavya, thank you for being the example here.
+Right?
+So, basically, what I will do is
+I will hold the three of you for that time.
+Right?
+And I will transfer all the information
+that I gave to the three of you to Bhavya first.
+When all four of you come at the same level,
+after that we will move to the next level.
+What I mean to say is, suppose
+there are three councillors.
+They have leads of 10, 10, 10, 10.
+One councillor came, a new one
+was added to the system.
+He does not have any lead.
+So, what will the system do?
+To balance the load of the other three councillors,
+it will assign 10 first.
+The new councillor will assign 10 first.
+When he is equal to 10, 10, 10,
+then one and one will start to be assigned.
+Is it clear, guys?
+What does all mean in the round problem?
+Yes, sir. It is clear.
+Very good.
+Next, we have the devise.
+Now, another one is the devise.
+In the case of devise,
+the system has no meaning.
+Any councillor can be added anytime.
+Whether it is added today,
+or after 10 days, or after a month.
+One person will have 1000 leads.
+So, the system will not do
+that the new one will be transferred to the new one.
+What will it do?
+As on date, it will assign one by one.
+Is it clear?
+This is important.
+Sir, in devise,
+suppose all the leads
+will go to one person on Monday.
+Will this happen?
+No, I will tell you again.
+In the case of all,
+for example,
+Friday, Saturday, Sunday,
+three people worked for three days.
+On Monday, another new councillor joined.
+So, in the case of all,
+all the leads will go to the new one on Monday.
+Then, when your load will be balanced,
+Friday, Saturday, Sunday,
+and Monday,
+then, until it is balanced,
+the other three councillors
+will not have any lead assigned.
+But in the case of devise,
+on Monday,
+you worked for three councillors,
+Friday, Saturday,
+and Sunday, you worked for three councillors.
+On Monday, a new councillor
+was added to the system.
+So, the system will not hold those three councillors.
+The system will assign them in the same way.
+Suppose, the first lead comes,
+it gives one, the second one,
+the third one, the fourth one,
+the fourth one, the one added on Monday,
+it will start again.
+1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4.
+Is it clear?
+Devise and all?
+Yes.
+Okay, this is all done.
+Now, the point is duplicate field master.
+Duplicate field master,
+which I just showed you a pop-up
+from the same mobile number
+when I added the lead,
+it had showed the respective pop-up
+that this lead already exists
+within the system.
+So, from here, you select the field
+on which you want to check.
+If we get the same field again,
+then the system will show you the pop-up.
+In general, our phone number
+remains the same.
+It is very rare in some cases
+that your Aadhaar card
+is set, okay,
+your, I would say,
+10th class roll number is set,
+12th class roll number is set,
+it remains in very rare cases.
+Phone number remains mostly in cases.
+Okay, so on which field
+your pop-up will depend on?
+It depends on this particular
+phone number.
+Clearance is?
+Very good.
+Then we have my operator config,
+IVR, area B,
+explain, I will do both of these later.
+Let's move on to this particular
+admission team.
+Now, basically, guys,
+see, in our universities
+and colleges, in their case,
+there are very rare cases,
+where your outreach team is different,
+okay, inside team is different
+for the admissions,
+so both teams do not share
+the data of the leads.
+Okay, let's take an example.
+Here is a senior most person,
+okay, after that,
+he has two sub-branches.
+Can you see what I am drawing on my screen?
+Yes, sir.
+Okay, take an example,
+here we have a person,
+there are two teams in the branches below him,
+one here and one there.
+Okay, the senior most person
+can see the data of this team
+and this team,
+but these two guys cannot see
+each other's data.
+Okay, but let's take an example,
+there will be branches below this team,
+there will be branches below this team,
+right, so this guy can see
+his team's data,
+this guy can see his team's data,
+but this senior most person
+can see his team's data,
+this guy can see his team's data,
+this guy can see his team's data,
+but these two cannot see each other's data.
+After that, the people in the branches below
+cannot see each other's data.
+Understood?
+So what we do,
+there are very rare cases in which
+there is a team structure, otherwise
+there is only a single most senior person
+and there are multiple counselors below him.
+There are two types of clearages,
+either you are a senior most person,
+there are two teams below him,
+then they are divided into two teams,
+or you have a single senior most person
+who has multiple counselors.
+If there is a single person
+and multiple counselors, then there is no need
+for a team, so there is no need
+to follow the team structure,
+just delete it and save it.
+Clearage is?
+Perfect. Now,
+taking an example, if we have
+two teams, one is your domestic,
+which we have set as team lead
+for Sumit Kumar,
+here we have added the members
+within it,
+we have made Himanshi,
+Shresti, we have covered Deepak,
+and Anaita.
+We saved it.
+We added the other team for the external team.
+of the external team,
+your Gaurav Sachan,
+he is the lead.
+The people inside him,
+for example,
+Mani,
+Pallavi,
+Sukhpeeth,
+now what will happen,
+you have two senior
+most person, one is
+this, another one is this.
+Within this team,
+one person, one person, one person, one person,
+this person can see their data,
+and Gaurav
+can see their data.
+They can't see
+their own data, counselors,
+same here, they can't see
+Sumit Gaurav's data,
+or his team's data.
+Is this clear?
+Team lead can't see other's data.
+Yes, team lead can't see other's data.
+You can create
+multiple teams here.
+You can add multiple members.
+One more point,
+taking an example, Anaita
+is also in his team,
+and Anaita is also in his team.
+Now what will happen,
+in this case, Gaurav
+can see his data,
+sorry, Sumit, Gaurav
+can see Anaita's data.
+Now the common data
+between them, both of them are visible.
+In general, this doesn't happen,
+but still, I told you with an example,
+if a question comes up tomorrow,
+you will say, in that case,
+both of them can see their data.
+But still, Sumit
+can't see Gaurav's data.
+Whose data are they seeing?
+They can see their common team member's data.
+It's not like,
+if we merge Anaita here,
+then its Pallavi's data
+can be seen by Sumit, or Deepa's data
+can be seen by Gaurav.
+Gaurav and Sumit, both
+can only see Anaita's data,
+combined, whatever is common.
+Are things getting clear, guys?
+Or is it coming from above?
+No, sir, it's clear.
+Both of them will be able to see
+the common data of Anaita.
+Okay, team's part is also clear.
+Okay, now from the team's part,
+I had left a point in the filter.
+Damn, I clicked on the Excel file.
+Okay, I clicked on the filter.
+Here, the show member details comes up.
+Basically, what happens is,
+you can filter from here,
+which counselor's data you want.
+Okay, if you want Deepa's data,
+then Deepa's data is 253.
+Okay, you want someone else's counselor's data,
+you put Savita's data, Savita's data comes to you.
+Okay, it's not there.
+Now, the point is,
+let's take an example,
+Deepa is, okay,
+I clicked on that,
+I got the 253 data.
+But Deepa was in Sumit's team.
+How much data does Sumit have now?
+725.
+Okay, but if I
+turn on its show member detail also,
+then what will show member detail do?
+All the members in his team
+will also get their data visible.
+Okay, 1389 something.
+Do you understand the point?
+What happened to the filter when we detailed the show member?
+Yes, sir.
+When our toggle was off,
+in the case of off,
+only Sumit's data came to us.
+Okay.
+But when we turned on
+the members' toggle,
+then what did the system do in that case?
+It showed all the leads of its members
+together.
+Because a counselor,
+it's a simple thing, counselor,
+he is also working as a counselor,
+but he is also in his team,
+so how will he see the data of his team?
+He will see the data from this filter.
+This is your show member detail filter.
+Is it clear?
+Yes, sir.
+Very nice.
+Now comes the admission
+follow-up page.
+Basically, guys,
+you add any follow-up,
+you can see it in the lead,
+but you need collective data
+to see where all the follow-ups are added.
+So you will come to the follow-up page,
+here you will get all the data.
+There are 27,912
+follow-ups in total.
+What can be the multiple follow-ups
+The same lead mark can be seen again,
+like this one.
+The lead is same, one follow-up is completed,
+one follow-up pending.
+Here you will see all follow-ups,
+here you will see today's follow-up,
+today's follow-ups are planned.
+Upcoming follow-ups are
+what you need to complete
+in future.
+Overdue follow-ups are
+the pending follow-ups.
+Then you have the completed
+follow-ups, which are completed.
+Here you can also check
+the follow-ups by setting the start date and end date.
+You can check how many are completed
+and how many are pending.
+This is just a report kind of.
+Is there any doubt in this?
+No, sir.
+Now you will get the admission leads
+log page.
+Isn't it too much?
+Or you can keep this much.
+If it is too much,
+Okay, perfect.
+Now we have this admission leads log page.
+Basically, guys, what happens is
+you get the leads from IVR.
+You can manage the other sources
+such as website, landing page.
+One minute, guys.
+So basically, if you have
+any exercise sources,
+you are getting the leads.
+You are managing them.
+But in the case of IVR, you need
+call data as well.
+You convert the calls into
+logs in the lead.
+You are receiving the calls directly
+into this particular page and then
+you are converting them into
+a lead log.
+Logs are created.
+But how to add them in the lead,
+you will do it from here.
+Basically, what happens is
+we integrate our IVR with
+the respective partner.
+So the calls that come to the counselors
+will automatically land in this.
+It is a received call, it is a missed call.
+You can check which two counselors
+you have picked.
+By default, caller info and all these things
+are blank because you don't know
+whose phone it is on the phone.
+It comes from random numbers.
+So when you call back the student,
+then post discussion with the student,
+you will add the name.
+I have added one in 7.
+I have added a lead here.
+I have added which stream it is in.
+I mean, my call is done.
+Now the point is you can also check
+the recording of the call directly.
+You will have to log in.
+So from here you can check
+the output of the calls.
+Is that clear, Rajesh?
+Yes, sir.
+Very good.
+So from here,
+you can check the respective
+recordings.
+From here, you have to convert the log.
+So you can also convert from here.
+From here, you have to reject
+that if the student is not interested,
+then you can also reject it.
+If you have called and the student
+has not picked the call, then you can
+ask for the call note.
+Here you have multiple filters.
+You can check the converted logs
+from here.
+So you will know how much
+we have converted from here.
+You can also check how many pending
+logs are there.
+You can also check the call status
+and how many received calls you have.
+If you want specific
+counsellor data,
+you can also do that.
+Sir, what is this source?
+What is this source?
+Basically, the source here,
+the My Operator, is your IBR partner.
+So that is why we have a source here.
+So that is why we have a source here.
+So that is why we have a source here.
+So we also have a My Operator.
+And set my operator config
+and push set.
+So we have the My Operator config.
+Here is the secret token
+salient ID, the IBR ID
+and the PID ID.
+Ok, let's not go further on this part.
+Otherwise, you will get confused.
+All that you have done, have been clear yours?
+Yes sir.
+amelion logo
+Akshat...
+Sir, what is
+My operator is an IVR.
+The calls that come to your counselors or your admission team,
+they are directly linked to an app.
+If you have called for an admission, it goes to the IVR number
+and then it connects to your counselor.
+My operator is a mediator.
+The student calls first to the IVR.
+The IVR checks which counselor is free at that time.
+They transfer the call to the counselor.
+When the call is transferred to the counselor and the student creates it,
+the IVR mediator keeps getting logs
+that this call was hit, this call was reverted,
+this response came that it was picked, missed, talked for a long time.
+Then the data is pushed to us.
+My operator is an IVR
+which is able to get the records
+of those particular calls.
+Then it hits back to us.
+In the advanced one, I guess, a lot is completed.
+We are left with the report sections only.
+Any doubts?
+In this part.
+We will have the Q&A session again by Akshay.
+Because it is already 6.22.

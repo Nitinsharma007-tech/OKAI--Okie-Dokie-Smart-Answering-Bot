@@ -1,0 +1,54 @@
+{
+    "module": "Institute Setup",
+    "topic": "Template Activation and Printing Logic",
+    "summary": "This topic explains how the ERP system determines which template to print, focusing on the role of the 'Default' toggle and the concept of template triggers. It clarifies the hierarchy and conditions under which specific templates become active for printing.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "To activate a template for printing, ensure its 'Default' toggle is turned ON.",
+        "To deactivate a template, turn its 'Default' toggle OFF."
+    ],
+    "business_rules": [
+        "The system prints the template that is 'defaulted ON' and associated with the specific 'trigger' (e.g., printing a fee receipt will look for the defaulted fee receipt template).",
+        "If multiple templates are set as 'default ON' for the same trigger (e.g., multiple student ID card templates defaulted for the same class), the system will print the first template in the series based on its internal code execution order.",
+        "If no custom template is 'defaulted ON' for a particular trigger, the system will print the default template available from the backend.",
+        "Different schools or classes may require separate default templates for the same document type (e.g., distinct ID cards for various departments)."
+    ],
+    "important_notes": [
+        "The 'Default' toggle acts as an activation/deactivation switch for templates.",
+        "Always verify which template is set as default for specific scenarios to avoid printing incorrect documents.",
+        "The template selected in the setup acts as a trigger; the actual content printed depends on the code within the defaulted template."
+    ],
+    "questions": [
+        "How do I make a specific template active for printing?",
+        "What happens if I have multiple templates set as default for the same document type?",
+        "Which template will print if no custom template is defaulted ON?",
+        "Can I set different default templates for different academic years or batches?",
+        "Why is the system printing the wrong certificate even though I selected the correct type?"
+    ],
+    "keywords": [
+        "template default",
+        "activate template",
+        "deactivate template",
+        "printing logic",
+        "template trigger",
+        "default template behavior",
+        "multiple defaults",
+        "template activation"
+    ],
+    "related_topics": [
+        "PDF Template Management",
+        "Troubleshooting Template Variables",
+        "Custom Template Design and Advanced Variables"
+    ],
+    "id": "institute_setup_template_activation_and_printing_logic",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

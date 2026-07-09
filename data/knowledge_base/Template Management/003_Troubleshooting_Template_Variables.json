@@ -1,0 +1,52 @@
+{
+    "module": "Template Management",
+    "topic": "Troubleshooting Template Variables",
+    "summary": "This topic provides a guide on how to diagnose and correct issues where template variables (e.g., student name, category) are not printing correctly. It details the use of the browser's developer console to identify available data objects and their exact variable names.",
+    "navigation": [
+        "Print/Preview a template (then use browser developer tools)"
+    ],
+    "steps": [
+        "Print or preview the template where variables are not displaying correctly.",
+        "Right-click on the page and select 'Inspect' (or 'Inspect Element').",
+        "Navigate to the 'Console' tab within the developer tools.",
+        "Look for the data 'object' that contains the information being passed to the template.",
+        "Expand the object to view all available variables and their precise names (e.g., 'Student's name', 'Category').",
+        "Compare the variable name found in the console with the one used in your template's code.",
+        "Correct any mismatches in the template code (e.g., change `DisplayData.Student's category` to `DisplayData.Category` if that's the correct variable name in the console)."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "All template variables must be prefixed with `DisplayData.` (e.g., `DisplayData.EntityName`, `DisplayData.StudentName`). `DisplayData` is the array that calls and retrieves the data.",
+        "The console for complex reports (like report cards) can be intricate, often involving nested arrays and objects for data points like skill groups, subjects, and assessment groups.",
+        "Variable names are case-sensitive and must exactly match what is displayed in the console."
+    ],
+    "questions": [
+        "My student's name is not appearing on the ID card, how can I fix this?",
+        "How do I find the correct variable name for a student's category?",
+        "What is the purpose of `DisplayData` in template variables?",
+        "Can I use the browser console to see all available data for a report?",
+        "Why are some variables printing correctly, but others are not?"
+    ],
+    "keywords": [
+        "template variable",
+        "troubleshooting template",
+        "inspect element",
+        "browser console",
+        "DisplayData",
+        "variable not printing",
+        "data object",
+        "correct variable name",
+        "template debugging"
+    ],
+    "related_topics": [
+        "PDF Template Management",
+        "Template Activation and Printing Logic",
+        "Custom Template Design and Advanced Variables"
+    ],
+    "id": "template_management_troubleshooting_template_variables",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

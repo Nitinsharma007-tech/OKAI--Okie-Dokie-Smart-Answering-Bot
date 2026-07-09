@@ -1,0 +1,44 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Reports",
+    "summary": "This topic provides an overview of the various reports available within the Inventory module. These reports are essential for tracking stock levels, analyzing item movement, and understanding the overall inventory status, including opening and closing stock, and transfer details.",
+    "navigation": [
+        "Inventory",
+        "Reports"
+    ],
+    "steps": [],
+    "business_rules": [
+        "Reports are generated based on the data entered in item masters and transactions."
+    ],
+    "important_notes": [
+        "The system offers an extensive number of reports to cater to different analytical needs.",
+        "Reports can include details on stock status, closing stock, item movement, and stock transfers."
+    ],
+    "questions": [
+        "What kind of inventory reports are available?",
+        "How can I check the current stock level of an item?",
+        "Where can I find reports on stock transfers?",
+        "Is there a report for closing stock?",
+        "How do I analyze item movement in inventory?"
+    ],
+    "keywords": [
+        "Inventory reports",
+        "Stock reports",
+        "Closing stock",
+        "Opening stock",
+        "Item reports",
+        "Transfer reports",
+        "Inventory analysis"
+    ],
+    "related_topics": [
+        "Item Creation and Management",
+        "Stock Transfer",
+        "Purchase Entry"
+    ],
+    "id": "inventory_inventory_reports",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

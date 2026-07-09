@@ -1,0 +1,45 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup: Stage Master Configuration",
+    "summary": "Details the process of defining and managing the various stages an admission lead will traverse. It explains that 'Approved' and 'Rejected' are default, backend-managed stages, while other custom stages like \"Application Submission\", \"Document Upload\", and \"Counselor Doc Verification\" can be manually added.",
+    "navigation": [
+        "Admission module > Admission Setup > Admission Master > Stage Master Setup"
+    ],
+    "steps": [
+        "Navigate to \"Stage Master Setup\".",
+        "Observe the default stages (\"Approved\" and \"Rejected\"), which are system-generated and cannot be modified or removed.",
+        "To add a new custom stage, click \"Add New\".",
+        "Enter the desired name for the stage in the \"Enter Value\" field (e.g., \"Application Submission\", \"Document Upload\", \"Counselor Doc Verification\", \"Academic Doc Verification\", \"Transport and Hostel Selection\").",
+        "Repeat for all necessary custom stages."
+    ],
+    "business_rules": [
+        "\"Approved\" and \"Rejected\" are final, default stages provided by the system backend and cannot be created or removed manually."
+    ],
+    "important_notes": [
+        "This setup defines the workflow for admission leads.",
+        "Stages can be specific to different verification steps or actions."
+    ],
+    "questions": [
+        "How do I define custom stages for the admission process workflow?",
+        "What are the default stages in the Admission module's Stage Master?",
+        "Can I remove the \"Approved\" or \"Rejected\" stages?"
+    ],
+    "keywords": [
+        "Stage master",
+        "admission stages",
+        "custom stages",
+        "workflow definition",
+        "application submission",
+        "document verification"
+    ],
+    "related_topics": [
+        "Admission Lead Stages",
+        "Stage Field Configuration, Counselor Assignment, and Communication Automation"
+    ],
+    "id": "admission_admission_setup_stage_master_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

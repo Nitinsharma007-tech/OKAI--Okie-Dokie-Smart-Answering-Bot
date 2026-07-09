@@ -1,0 +1,4336 @@
+{
+    "video_name": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30)",
+    "language": "en",
+    "segments": [
+        {
+            "id": 1,
+            "start": 119.09,
+            "end": 131.18,
+            "text": "I have a GPS ID and ID key I will provide you with their details like their API URL etc.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 2,
+            "start": 132.11,
+            "end": 133.51,
+            "text": "Bhavya, can you tell us a little bit about AuthConfig?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 3,
+            "start": 138.95,
+            "end": 144.65,
+            "text": "AuthConfig is basically an API of some vendors for which we need to call their tokens.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 4,
+            "start": 144.65,
+            "end": 146.63,
+            "text": "If we want to call their API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 5,
+            "start": 149.13,
+            "end": 150.89,
+            "text": "So what is AuthConfig basically?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 6,
+            "start": 151.49,
+            "end": 155.11,
+            "text": "Suppose we have a login API from which we call their tokens.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 7,
+            "start": 155.89,
+            "end": 158.81,
+            "text": "Then we use that token to call their next API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 8,
+            "start": 163.4,
+            "end": 168.22,
+            "text": "So AuthConfig is basically the same as if we want to call their API from the token itself.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 9,
+            "start": 169.06,
+            "end": 172.4,
+            "text": "And if we want to set up an API then what do we have to do in AuthConfig?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 10,
+            "start": 172.4,
+            "end": 177.13,
+            "text": "I will tell you about that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 11,
+            "start": 177.47,
+            "end": 181.13,
+            "text": "If we have only one client then we will change the ID of that client.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 12,
+            "start": 181.99,
+            "end": 184.92,
+            "text": "For that we will set up AuthConfig.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 13,
+            "start": 185.4,
+            "end": 187.74,
+            "text": "For the other two, we are taking that as our priority.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 14,
+            "start": 188.38,
+            "end": 191.72,
+            "text": "Because we have only one client in which we have AuthConfig.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 15,
+            "start": 192.6,
+            "end": 193.94,
+            "text": "The other two don't have AuthConfig.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 16,
+            "start": 195.5,
+            "end": 196.48,
+            "text": "AuthConfig is something like this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 17,
+            "start": 196.8,
+            "end": 198.24,
+            "text": "Some APIs are open to us.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 18,
+            "start": 198.94,
+            "end": 201.08,
+            "text": "And some APIs are the ones that we have to login first.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 19,
+            "start": 203.73,
+            "end": 206.27,
+            "text": "So we have the API from the vendor's side.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 20,
+            "start": 207.81,
+            "end": 211.15,
+            "text": "As soon as we run that API, we have tracked it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 21,
+            "start": 211.91,
+            "end": 215.23,
+            "text": "The other thing is that we have run that API to the URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 22,
+            "start": 215.37,
+            "end": 217.19,
+            "text": "So we have to log in there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 23,
+            "start": 217.53,
+            "end": 218.57,
+            "text": "That means some token will be added.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 24,
+            "start": 218.67,
+            "end": 219.83,
+            "text": "Token means login.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 25,
+            "start": 221.15,
+            "end": 222.61,
+            "text": "We will be able to test everything on that behalf.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 26,
+            "start": 225.13,
+            "end": 226.61,
+            "text": "So that is AuthConfig.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 27,
+            "start": 227.07,
+            "end": 229.19,
+            "text": "We have only one client in which we have AuthConfig.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 28,
+            "start": 229.53,
+            "end": 230.37,
+            "text": "We will discuss that later.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 29,
+            "start": 230.37,
+            "end": 233.43,
+            "text": "Before that, I will tell you about the other one.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 30,
+            "start": 235.55,
+            "end": 235.73,
+            "text": "Okay?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 31,
+            "start": 237.01,
+            "end": 240.95,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 32,
+            "start": 243.09,
+            "end": 255.4,
+            "text": "So before track confirmation, we have the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 33,
+            "start": 256.88,
+            "end": 260.54,
+            "text": "I have made some documents for all the clients.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 34,
+            "start": 262.02,
+            "end": 264.1,
+            "text": "So if we are looking at Springdale,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 35,
+            "start": 264.1,
+            "end": 267.28,
+            "text": "the API URL starts from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 36,
+            "start": 267.28,
+            "end": 267.7,
+            "text": "From HTTP.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 37,
+            "start": 269.38,
+            "end": 270.46,
+            "text": "This is a question mark.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 38,
+            "start": 270.8,
+            "end": 271.92,
+            "text": "These are our query patterns.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 39,
+            "start": 274.5,
+            "end": 278.0,
+            "text": "So all the parts before this are the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 40,
+            "start": 279.0,
+            "end": 279.62,
+            "text": "The starting part.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 41,
+            "start": 281.92,
+            "end": 282.18,
+            "text": "Okay?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 42,
+            "start": 282.62,
+            "end": 285.78,
+            "text": "So we will copy this and put it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 43,
+            "start": 285.78,
+            "end": 286.7,
+            "text": "In the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 44,
+            "start": 289.74,
+            "end": 292.2,
+            "text": "After this, we have methods.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 45,
+            "start": 292.44,
+            "end": 293.74,
+            "text": "There are three types of methods.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 46,
+            "start": 293.82,
+            "end": 294.76,
+            "text": "Get, Post, and Post.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 47,
+            "start": 295.14,
+            "end": 300.16,
+            "text": "If we send query patterns in the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 48,
+            "start": 300.48,
+            "end": 302.1,
+            "text": "If we attach something after the question mark.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 49,
+            "start": 304.68,
+            "end": 306.26,
+            "text": "We call this query pattern.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 50,
+            "start": 306.92,
+            "end": 310.12,
+            "text": "And if we send it in an object.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 51,
+            "start": 311.6,
+            "end": 312.72,
+            "text": "Like this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 52,
+            "start": 315.5,
+            "end": 316.16,
+            "text": "Like this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 53,
+            "start": 316.34,
+            "end": 317.12,
+            "text": "We send it in an object.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 54,
+            "start": 318.96,
+            "end": 320.98,
+            "text": "We call this type of post request.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 55,
+            "start": 325.29,
+            "end": 325.73,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 56,
+            "start": 325.87,
+            "end": 326.61,
+            "text": "Did you understand that much?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 57,
+            "start": 328.22,
+            "end": 329.06,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 58,
+            "start": 332.47,
+            "end": 332.73,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 59,
+            "start": 333.17,
+            "end": 336.41,
+            "text": "So for Springdale, we will call the get method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 60,
+            "start": 337.45,
+            "end": 339.95,
+            "text": "I have written the method to get and post.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 61,
+            "start": 340.59,
+            "end": 340.91,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 62,
+            "start": 341.31,
+            "end": 342.11,
+            "text": "So we will call the get method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 63,
+            "start": 346.31,
+            "end": 347.75,
+            "text": "And then we have the query parameters.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 64,
+            "start": 348.27,
+            "end": 350.21,
+            "text": "We attach the token in this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 65,
+            "start": 350.71,
+            "end": 354.21,
+            "text": "Or the extra values that we have to pass to call this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 66,
+            "start": 354.55,
+            "end": 356.69,
+            "text": "We add those in this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 67,
+            "start": 357.88,
+            "end": 359.42,
+            "text": "In this case, we have the token.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 68,
+            "start": 360.62,
+            "end": 362.4,
+            "text": "So we get the token.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 69,
+            "start": 364.1,
+            "end": 366.66,
+            "text": "And the value is also written in front of this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 70,
+            "start": 366.66,
+            "end": 367.38,
+            "text": "Is equal to what?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 71,
+            "start": 371.33,
+            "end": 372.13,
+            "text": "This is the whole stream.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 72,
+            "start": 373.27,
+            "end": 376.19,
+            "text": "We have to copy and paste it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 73,
+            "start": 379.43,
+            "end": 381.25,
+            "text": "So we have to paste this after equal to?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 74,
+            "start": 383.34,
+            "end": 383.94,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 75,
+            "start": 384.12,
+            "end": 385.46,
+            "text": "Token is equal to this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 76,
+            "start": 385.7,
+            "end": 386.72,
+            "text": "From here to the end.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 77,
+            "start": 388.48,
+            "end": 391.14,
+            "text": "So every time we have to call the get method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 78,
+            "start": 394.1,
+            "end": 394.68,
+            "text": "What are you doing?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 79,
+            "start": 396.14,
+            "end": 398.32,
+            "text": "Every time when we will hit the API,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 80,
+            "start": 399.12,
+            "end": 400.12,
+            "text": "we will have to call the get method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 81,
+            "start": 404.37,
+            "end": 406.41,
+            "text": "Basically, what we are setting up,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 82,
+            "start": 406.53,
+            "end": 408.03,
+            "text": "we call the API on the backend.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 83,
+            "start": 411.66,
+            "end": 414.2,
+            "text": "We have to set up this setup once.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 84,
+            "start": 414.88,
+            "end": 416.06,
+            "text": "When we use this in our app,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 85,
+            "start": 416.7,
+            "end": 417.76,
+            "text": "we will call their other API,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 86,
+            "start": 418.32,
+            "end": 419.3,
+            "text": "which is our own API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 87,
+            "start": 422.43,
+            "end": 424.35,
+            "text": "When we call that,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 88,
+            "start": 424.51,
+            "end": 426.93,
+            "text": "our backend automatically calls on the base of the config",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 89,
+            "start": 426.93,
+            "end": 428.87,
+            "text": "on the base of the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 90,
+            "start": 437.41,
+            "end": 440.41,
+            "text": "Then we have headers.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 91,
+            "start": 441.33,
+            "end": 443.97,
+            "text": "Headers are basically what our response will be.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 92,
+            "start": 444.41,
+            "end": 446.21,
+            "text": "What format should it be in.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 93,
+            "start": 446.37,
+            "end": 447.85,
+            "text": "We can also fill this from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 94,
+            "start": 449.37,
+            "end": 450.71,
+            "text": "So here we will input accept.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 95,
+            "start": 454.05,
+            "end": 457.45,
+            "text": "And its value will be application slash json.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 96,
+            "start": 457.75,
+            "end": 459.67,
+            "text": "So that the response will be in json format.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 97,
+            "start": 469.41,
+            "end": 469.87,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 98,
+            "start": 480.54,
+            "end": 481.82,
+            "text": "Now we have a bus.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 99,
+            "start": 484.92,
+            "end": 486.14,
+            "text": "One second.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 100,
+            "start": 486.82,
+            "end": 487.48,
+            "text": "Let me see the ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 101,
+            "start": 528.36,
+            "end": 529.22,
+            "text": "Is their API running?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 102,
+            "start": 547.56,
+            "end": 548.72,
+            "text": "Hello?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 103,
+            "start": 599.12,
+            "end": 600.12,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 104,
+            "start": 600.76,
+            "end": 604.06,
+            "text": "Is their springdance API running?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 105,
+            "start": 604.65,
+            "end": 605.73,
+            "text": "It is running.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 106,
+            "start": 607.93,
+            "end": 610.39,
+            "text": "I can't hit their API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 107,
+            "start": 614.48,
+            "end": 616.0,
+            "text": "You can directly check the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 108,
+            "start": 618.23,
+            "end": 618.91,
+            "text": "Postman?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 109,
+            "start": 620.53,
+            "end": 621.37,
+            "text": "No, it didn't work.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 110,
+            "start": 622.36,
+            "end": 623.18,
+            "text": "It might be an issue.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 111,
+            "start": 629.28,
+            "end": 630.06,
+            "text": "No, it's running.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 112,
+            "start": 636.27,
+            "end": 638.97,
+            "text": "Live location is unavailable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 113,
+            "start": 640.55,
+            "end": 641.69,
+            "text": "Live location is unavailable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 114,
+            "start": 641.91,
+            "end": 642.69,
+            "text": "It might be an issue.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 115,
+            "start": 645.11,
+            "end": 645.71,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 116,
+            "start": 648.55,
+            "end": 649.21,
+            "text": "Entity change.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 117,
+            "start": 652.48,
+            "end": 653.16,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 118,
+            "start": 653.86,
+            "end": 655.4,
+            "text": "Tinku, you understood the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 119,
+            "start": 655.52,
+            "end": 656.52,
+            "text": "Tinku, you understood the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 120,
+            "start": 658.26,
+            "end": 659.06,
+            "text": "Yes, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 121,
+            "start": 660.48,
+            "end": 662.0,
+            "text": "I understood even the headers.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 122,
+            "start": 662.88,
+            "end": 665.6,
+            "text": "I understood even the headers.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 123,
+            "start": 670.15,
+            "end": 670.17,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 124,
+            "start": 675.04,
+            "end": 677.84,
+            "text": "So in track config, we just have to put the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 125,
+            "start": 678.3,
+            "end": 678.98,
+            "text": "We have to set its method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 126,
+            "start": 679.62,
+            "end": 680.78,
+            "text": "Which we have given.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 127,
+            "start": 682.48,
+            "end": 684.02,
+            "text": "And Tinku.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 128,
+            "start": 685.99,
+            "end": 686.79,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 129,
+            "start": 694.87,
+            "end": 697.59,
+            "text": "So in track config, we just have to put the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 130,
+            "start": 698.23,
+            "end": 699.13,
+            "text": "We have to set its method.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 131,
+            "start": 699.13,
+            "end": 699.59,
+            "text": "So in track config, we just have to put the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 132,
+            "start": 700.01,
+            "end": 708.58,
+            "text": "And we have to put the API URL.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 133,
+            "start": 710.14,
+            "end": 722.66,
+            "text": "In request body?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 134,
+            "start": 724.46,
+            "end": 725.36,
+            "text": "In request body.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 135,
+            "start": 726.06,
+            "end": 727.64,
+            "text": "In request body.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 136,
+            "start": 783.29,
+            "end": 789.63,
+            "text": "So, like, get request or post request, what are the use cases, like, what is the situation",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 137,
+            "start": 789.63,
+            "end": 792.35,
+            "text": "we have to use, what is the situation we have to post-release?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 138,
+            "start": 794.12,
+            "end": 800.8,
+            "text": "Situation wise, I mean, it depends on how they have configured the vendors in the API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 139,
+            "start": 801.4,
+            "end": 808.52,
+            "text": "Okay, so, like, we just need to, like, put it over here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 140,
+            "start": 846.39,
+            "end": 852.97,
+            "text": "And response config, basically, like, suppose, if we use our app or portal,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 141,
+            "start": 854.9,
+            "end": 857.98,
+            "text": "how should we get the response in return?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 142,
+            "start": 861.88,
+            "end": 864.82,
+            "text": "Okay, how do we configure this? I will run an API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 143,
+            "start": 866.82,
+            "end": 989.32,
+            "text": "Is there an issue, sir?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 144,
+            "start": 998.44,
+            "end": 998.88,
+            "text": "Hello.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 145,
+            "start": 1025.3,
+            "end": 1029.5,
+            "text": "I mean, this configuration will look like this, but there won't be a track, right?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 146,
+            "start": 1030.95,
+            "end": 1033.53,
+            "text": "Yes, I mean, the test connection one won't be checked, right?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 147,
+            "start": 1033.65,
+            "end": 1037.57,
+            "text": "Because based on the response of the test connection, we will configure the response, right?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 148,
+            "start": 1038.43,
+            "end": 1040.85,
+            "text": "Okay, no problem, just set it up once.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 149,
+            "start": 1041.07,
+            "end": 1044.53,
+            "text": "The entities, the data of the entities, will be sent to me by the word file.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 150,
+            "start": 1046.56,
+            "end": 1048.74,
+            "text": "I have made a JSON for that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 151,
+            "start": 1049.18,
+            "end": 1051.94,
+            "text": "Yes, so, you will put it in the word and send it to me in the word file.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 152,
+            "start": 1053.69,
+            "end": 1055.43,
+            "text": "Okay, I will give it to you.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 153,
+            "start": 1056.25,
+            "end": 1059.01,
+            "text": "I mean, don't make a simple copy, or send a text file or something else.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 154,
+            "start": 1059.03,
+            "end": 1060.43,
+            "text": "Send a text file or a word file.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 155,
+            "start": 1061.52,
+            "end": 1062.44,
+            "text": "Okay, by writing the name of the entity.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 156,
+            "start": 1062.98,
+            "end": 1064.24,
+            "text": "Okay, I can put it in the group once.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 157,
+            "start": 1064.58,
+            "end": 1066.98,
+            "text": "Let's complete the setup once, then let's see how to do the test.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 158,
+            "start": 1070.09,
+            "end": 1073.95,
+            "text": "Okay, okay. If I show it now, as I had shared it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 159,
+            "start": 1074.43,
+            "end": 1075.45,
+            "text": "Let me show you one thing.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 160,
+            "start": 1077.59,
+            "end": 1080.75,
+            "text": "Pinku, you have to be clear. First, confirm that you have to do the setup.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 161,
+            "start": 1082.47,
+            "end": 1085.07,
+            "text": "The response config has not been done yet.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 162,
+            "start": 1085.63,
+            "end": 1089.99,
+            "text": "The other VBS config that we had, the track config has been cleared.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 163,
+            "start": 1091.73,
+            "end": 1093.73,
+            "text": "Okay, then you have to tell me the device ID as well.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 164,
+            "start": 1094.19,
+            "end": 1094.81,
+            "text": "How to set up the device ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 165,
+            "start": 1095.79,
+            "end": 1097.01,
+            "text": "Have you put the device ID now?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 166,
+            "start": 1098.74,
+            "end": 1099.58,
+            "text": "What is the device ID?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 167,
+            "start": 1100.8,
+            "end": 1102.46,
+            "text": "Okay, the wickle ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 168,
+            "start": 1102.92,
+            "end": 1103.24,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 169,
+            "start": 1104.74,
+            "end": 1106.66,
+            "text": "No, I will tell you that. I couldn't check it there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 170,
+            "start": 1107.64,
+            "end": 1108.34,
+            "text": "I have to see that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 171,
+            "start": 1110.63,
+            "end": 1114.19,
+            "text": "And the issue that is coming from the check case side, is it from Ms. Resh's side or from Ms. Resh's side?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 172,
+            "start": 1114.19,
+            "end": 1116.95,
+            "text": "I will have to see.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 173,
+            "start": 1117.47,
+            "end": 1118.11,
+            "text": "Put it on the front-end.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 174,
+            "start": 1118.89,
+            "end": 1120.11,
+            "text": "What should I do with the setup?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 175,
+            "start": 1121.33,
+            "end": 1130.8,
+            "text": "There is an issue from the front-end.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 176,
+            "start": 1132.36,
+            "end": 1133.22,
+            "text": "I mean, the cold service is coming.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 177,
+            "start": 1133.66,
+            "end": 1136.4,
+            "text": "Okay, so will you put this in there as well?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 178,
+            "start": 1137.45,
+            "end": 1138.61,
+            "text": "Put it in the same task once.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 179,
+            "start": 1146.28,
+            "end": 1149.02,
+            "text": "Put it in the main task or in case?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 180,
+            "start": 1149.02,
+            "end": 1149.58,
+            "text": "Put it in the main task.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 181,
+            "start": 1211.5,
+            "end": 1212.06,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 182,
+            "start": 1212.88,
+            "end": 1213.96,
+            "text": "Once, when will the setup come?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 183,
+            "start": 1214.24,
+            "end": 1216.26,
+            "text": "Normally, the response postman is coming.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 184,
+            "start": 1216.26,
+            "end": 1230.17,
+            "text": "Is the screen visible?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 185,
+            "start": 1235.45,
+            "end": 1236.49,
+            "text": "You understood so much, right?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 186,
+            "start": 1236.49,
+            "end": 1238.47,
+            "text": "You put the URL on A, we have to check the method,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 187,
+            "start": 1238.79,
+            "end": 1239.93,
+            "text": "we will add the query patterns,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 188,
+            "start": 1240.23,
+            "end": 1241.17,
+            "text": "the tokens, etc.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 189,
+            "start": 1242.27,
+            "end": 1244.87,
+            "text": "And in headers, we will add the accept application recently.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 190,
+            "start": 1248.67,
+            "end": 1249.01,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 191,
+            "start": 1249.45,
+            "end": 1251.75,
+            "text": "And if our method is posted in any of them,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 192,
+            "start": 1252.05,
+            "end": 1253.33,
+            "text": "we will add the body in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 193,
+            "start": 1253.81,
+            "end": 1255.09,
+            "text": "In the object, the key value is there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 194,
+            "start": 1257.59,
+            "end": 1258.15,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 195,
+            "start": 1259.21,
+            "end": 1261.57,
+            "text": "Next, we have two keys left.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 196,
+            "start": 1261.97,
+            "end": 1263.53,
+            "text": "One is the GPS ID location",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 197,
+            "start": 1263.53,
+            "end": 1264.73,
+            "text": "and the other is the GPS ID key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 198,
+            "start": 1266.9,
+            "end": 1267.86,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 199,
+            "start": 1267.86,
+            "end": 1269.28,
+            "text": "Now, I have mentioned in the document",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 200,
+            "start": 1271.82,
+            "end": 1273.38,
+            "text": "that the matching key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 201,
+            "start": 1273.38,
+            "end": 1274.5,
+            "text": "is equal to the vehicle number.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 202,
+            "start": 1280.14,
+            "end": 1281.88,
+            "text": "So, we have to copy the key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 203,
+            "start": 1281.88,
+            "end": 1282.74,
+            "text": "mentioned here",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 204,
+            "start": 1284.5,
+            "end": 1286.52,
+            "text": "and add it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 205,
+            "start": 1286.7,
+            "end": 1287.54,
+            "text": "In the GPS ID key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 206,
+            "start": 1290.56,
+            "end": 1291.72,
+            "text": "Okay. Once again,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 207,
+            "start": 1291.72,
+            "end": 1292.5,
+            "text": "put it on the back.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 208,
+            "start": 1297.41,
+            "end": 1298.01,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 209,
+            "start": 1299.98,
+            "end": 1301.04,
+            "text": "Just in matching key,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 210,
+            "start": 1301.92,
+            "end": 1303.28,
+            "text": "we will pass our ID",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 211,
+            "start": 1305.67,
+            "end": 1307.93,
+            "text": "Basically, we will pass our ID",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 212,
+            "start": 1307.93,
+            "end": 1308.97,
+            "text": "in this key and",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 213,
+            "start": 1308.97,
+            "end": 1311.27,
+            "text": "the back end will match with this key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 214,
+            "start": 1316.76,
+            "end": 1318.22,
+            "text": "And we will send it in the query parameter.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 215,
+            "start": 1323.63,
+            "end": 1324.11,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 216,
+            "start": 1324.63,
+            "end": 1325.77,
+            "text": "So, we have",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 217,
+            "start": 1325.77,
+            "end": 1327.07,
+            "text": "set up this much",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 218,
+            "start": 1327.07,
+            "end": 1328.63,
+            "text": "in the track config.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 219,
+            "start": 1333.79,
+            "end": 1336.29,
+            "text": "Then, we have the response config.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 220,
+            "start": 1337.67,
+            "end": 1338.15,
+            "text": "Basically,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 221,
+            "start": 1338.69,
+            "end": 1339.73,
+            "text": "the response of our vendor,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 222,
+            "start": 1339.91,
+            "end": 1343.16,
+            "text": "vendor API, we set it up",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 223,
+            "start": 1343.16,
+            "end": 1345.84,
+            "text": "What will be the path of the list?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 224,
+            "start": 1346.82,
+            "end": 1348.44,
+            "text": "Suppose, we talk about this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 225,
+            "start": 1350.42,
+            "end": 1351.24,
+            "text": "So, here you can see",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 226,
+            "start": 1351.24,
+            "end": 1352.82,
+            "text": "that we have a list in the data.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 227,
+            "start": 1356.34,
+            "end": 1356.76,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 228,
+            "start": 1358.78,
+            "end": 1359.74,
+            "text": "That is why we have written",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 229,
+            "start": 1359.74,
+            "end": 1361.56,
+            "text": "data.list here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 230,
+            "start": 1361.8,
+            "end": 1364.78,
+            "text": "That is how we access",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 231,
+            "start": 1364.78,
+            "end": 1365.78,
+            "text": "the arrays from the dot operator.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 232,
+            "start": 1368.97,
+            "end": 1369.29,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 233,
+            "start": 1370.21,
+            "end": 1372.45,
+            "text": "So, data.list is our path key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 234,
+            "start": 1372.45,
+            "end": 1373.69,
+            "text": "Basically, it tells us that",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 235,
+            "start": 1373.69,
+            "end": 1375.99,
+            "text": "the data of our vendor API",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 236,
+            "start": 1375.99,
+            "end": 1377.71,
+            "text": "will come in this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 237,
+            "start": 1377.71,
+            "end": 1379.29,
+            "text": "It will come in the list array.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 238,
+            "start": 1383.66,
+            "end": 1383.9,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 239,
+            "start": 1385.06,
+            "end": 1386.38,
+            "text": "Then, we have the match key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 240,
+            "start": 1389.68,
+            "end": 1390.72,
+            "text": "The key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 241,
+            "start": 1390.72,
+            "end": 1390.96,
+            "text": "that comes in this,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 242,
+            "start": 1391.04,
+            "end": 1391.78,
+            "text": "the unique key,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 243,
+            "start": 1392.16,
+            "end": 1394.36,
+            "text": "that every vehicle has its own key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 244,
+            "start": 1396.75,
+            "end": 1397.27,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 245,
+            "start": 1397.27,
+            "end": 1398.49,
+            "text": "So, the key that we will pass",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 246,
+            "start": 1398.49,
+            "end": 1399.81,
+            "text": "and the response that will come,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 247,
+            "start": 1400.68,
+            "end": 1401.9,
+            "text": "if we have to make a comparison,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 248,
+            "start": 1401.96,
+            "end": 1403.56,
+            "text": "with which key will we match the values?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 249,
+            "start": 1408.1,
+            "end": 1410.2,
+            "text": "So, here the name of that key is vehicle number.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 250,
+            "start": 1410.2,
+            "end": 1411.58,
+            "text": "So, we will take this",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 251,
+            "start": 1411.58,
+            "end": 1414.22,
+            "text": "and replace it in the match key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 252,
+            "start": 1418.04,
+            "end": 1418.18,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 253,
+            "start": 1418.64,
+            "end": 1420.22,
+            "text": "Then, we have the latitude,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 254,
+            "start": 1420.42,
+            "end": 1421.6,
+            "text": "longitude and speed key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 255,
+            "start": 1422.3,
+            "end": 1424.46,
+            "text": "This is basically the key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 256,
+            "start": 1424.46,
+            "end": 1425.88,
+            "text": "that we have here, latitude, longitude and speed.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 257,
+            "start": 1426.16,
+            "end": 1427.26,
+            "text": "We will copy these keys",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 258,
+            "start": 1427.26,
+            "end": 1429.02,
+            "text": "and insert them there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 259,
+            "start": 1433.76,
+            "end": 1435.64,
+            "text": "Just add these keys here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 260,
+            "start": 1442.39,
+            "end": 1443.07,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 261,
+            "start": 1443.43,
+            "end": 1444.13,
+            "text": "So, this is our setup.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 262,
+            "start": 1447.38,
+            "end": 1448.06,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 263,
+            "start": 1461.91,
+            "end": 1462.71,
+            "text": "Any issues",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 264,
+            "start": 1466.58,
+            "end": 1467.54,
+            "text": "It's clear.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 265,
+            "start": 1469.86,
+            "end": 1471.34,
+            "text": "Just tell me about the match key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 266,
+            "start": 1471.58,
+            "end": 1473.76,
+            "text": "The previous track config",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 267,
+            "start": 1473.76,
+            "end": 1476.12,
+            "text": "that we did in GPS ID,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 268,
+            "start": 1476.24,
+            "end": 1476.66,
+            "text": "shouldn't it be the same?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 269,
+            "start": 1478.91,
+            "end": 1479.81,
+            "text": "Yes, it should be the same.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 270,
+            "start": 1481.59,
+            "end": 1482.49,
+            "text": "No, it shouldn't be the same.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 271,
+            "start": 1483.51,
+            "end": 1485.51,
+            "text": "The document that I will give you,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 272,
+            "start": 1485.51,
+            "end": 1487.05,
+            "text": "it has the matching key in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 273,
+            "start": 1488.66,
+            "end": 1489.22,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 274,
+            "start": 1490.46,
+            "end": 1491.54,
+            "text": "So, like...",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 275,
+            "start": 1491.93,
+            "end": 1492.37,
+            "text": "Yes?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 276,
+            "start": 1492.97,
+            "end": 1493.97,
+            "text": "It can be different.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 277,
+            "start": 1493.97,
+            "end": 1494.43,
+            "text": "It can be different.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 278,
+            "start": 1494.47,
+            "end": 1495.33,
+            "text": "The matching key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 279,
+            "start": 1495.33,
+            "end": 1497.31,
+            "text": "that we have to put on the track config",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 280,
+            "start": 1497.31,
+            "end": 1500.31,
+            "text": "and the response that we will get",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 281,
+            "start": 1500.31,
+            "end": 1503.67,
+            "text": "in the match key,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 282,
+            "start": 1503.85,
+            "end": 1504.75,
+            "text": "we will get the response.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 283,
+            "start": 1508.1,
+            "end": 1508.34,
+            "text": "Then,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 284,
+            "start": 1510.29,
+            "end": 1510.61,
+            "text": "till now,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 285,
+            "start": 1511.79,
+            "end": 1513.17,
+            "text": "we have to put the GPS ID of each vehicle.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 286,
+            "start": 1516.27,
+            "end": 1517.09,
+            "text": "Where is that?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 287,
+            "start": 1517.81,
+            "end": 1518.69,
+            "text": "We have vehicles in transport.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 288,
+            "start": 1520.29,
+            "end": 1520.65,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 289,
+            "start": 1529.89,
+            "end": 1530.51,
+            "text": "We have vehicles in transport.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 290,
+            "start": 1530.51,
+            "end": 1533.5,
+            "text": "We have vehicles in transport.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 291,
+            "start": 1533.5,
+            "end": 1534.68,
+            "text": "Here, suppose,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 292,
+            "start": 1534.98,
+            "end": 1537.46,
+            "text": "if we want to configure this vehicle,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 293,
+            "start": 1539.81,
+            "end": 1540.67,
+            "text": "then we",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 294,
+            "start": 1540.67,
+            "end": 1542.35,
+            "text": "search for it in our response.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 295,
+            "start": 1545.96,
+            "end": 1546.52,
+            "text": "there must be a vehicle.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 296,
+            "start": 1549.15,
+            "end": 1568.76,
+            "text": "So, the keys",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 297,
+            "start": 1568.76,
+            "end": 1570.8,
+            "text": "that we added,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 298,
+            "start": 1570.96,
+            "end": 1573.08,
+            "text": "the matching key and the key key,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 299,
+            "start": 1576.4,
+            "end": 1578.34,
+            "text": "we have to set up",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 300,
+            "start": 1578.34,
+            "end": 1579.48,
+            "text": "that vehicle number.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 301,
+            "start": 1581.5,
+            "end": 1584.04,
+            "text": "We save that",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 302,
+            "start": 1586.25,
+            "end": 1587.89,
+            "text": "and then it will run our API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 303,
+            "start": 1588.75,
+            "end": 1590.63,
+            "text": "Because it will get the data",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 304,
+            "start": 1590.63,
+            "end": 1591.97,
+            "text": "from the vendor's API.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 305,
+            "start": 1594.2,
+            "end": 1596.26,
+            "text": "I will just repeat",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 306,
+            "start": 1596.26,
+            "end": 1597.14,
+            "text": "the last one.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 307,
+            "start": 1599.25,
+            "end": 1600.95,
+            "text": "What we have set up till now,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 308,
+            "start": 1601.75,
+            "end": 1603.27,
+            "text": "if we want to run that set up,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 309,
+            "start": 1605.71,
+            "end": 1607.23,
+            "text": "then the vehicle key",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 310,
+            "start": 1607.23,
+            "end": 1607.95,
+            "text": "that we have set up,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 311,
+            "start": 1608.09,
+            "end": 1609.01,
+            "text": "that it should be the vehicle number.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 312,
+            "start": 1610.37,
+            "end": 1610.81,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 313,
+            "start": 1612.74,
+            "end": 1614.58,
+            "text": "Now, it happens that every vendor's",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 314,
+            "start": 1614.58,
+            "end": 1614.94,
+            "text": "API,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 315,
+            "start": 1616.04,
+            "end": 1618.4,
+            "text": "it gives a unique core",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 316,
+            "start": 1618.4,
+            "end": 1619.08,
+            "text": "that will be unique",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 317,
+            "start": 1619.08,
+            "end": 1620.76,
+            "text": "for that vehicle.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 318,
+            "start": 1622.4,
+            "end": 1623.4,
+            "text": "If we talk about this vehicle,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 319,
+            "start": 1624.1,
+            "end": 1625.16,
+            "text": "then its code is",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 320,
+            "start": 1626.9,
+            "end": 1627.6,
+            "text": "V2954.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 321,
+            "start": 1630.49,
+            "end": 1631.67,
+            "text": "Whenever we call on our API,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 322,
+            "start": 1632.87,
+            "end": 1633.89,
+            "text": "then we will call on this",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 323,
+            "start": 1633.89,
+            "end": 1634.41,
+            "text": "value.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 324,
+            "start": 1641.26,
+            "end": 1642.6,
+            "text": "Because then it will match",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 325,
+            "start": 1642.6,
+            "end": 1644.02,
+            "text": "that our back-end will also check",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 326,
+            "start": 1644.02,
+            "end": 1644.5,
+            "text": "with this response.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 327,
+            "start": 1648.61,
+            "end": 1650.45,
+            "text": "Our main comparison will be on this key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 328,
+            "start": 1652.34,
+            "end": 1652.66,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 329,
+            "start": 1653.72,
+            "end": 1655.8,
+            "text": "So, what we have to do is",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 330,
+            "start": 1655.8,
+            "end": 1656.54,
+            "text": "take its value.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 331,
+            "start": 1658.06,
+            "end": 1659.46,
+            "text": "When we come to this page,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 332,
+            "start": 1660.86,
+            "end": 1661.56,
+            "text": "V2954.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 333,
+            "start": 1667.99,
+            "end": 1670.17,
+            "text": "We will search the vehicle here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 334,
+            "start": 1670.97,
+            "end": 1671.55,
+            "text": "By viewing this,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 335,
+            "start": 1671.93,
+            "end": 1672.81,
+            "text": "we will get GPS ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 336,
+            "start": 1673.59,
+            "end": 1675.53,
+            "text": "We will have to save that value here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 337,
+            "start": 1678.9,
+            "end": 1680.74,
+            "text": "Okay. If we don't save it,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 338,
+            "start": 1681.04,
+            "end": 1682.44,
+            "text": "it will not run on our API,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 339,
+            "start": 1682.62,
+            "end": 1684.6,
+            "text": "it will give an error that GPS ID",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 340,
+            "start": 1684.6,
+            "end": 1685.4,
+            "text": "is configured in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 341,
+            "start": 1689.7,
+            "end": 1691.1,
+            "text": "We will save this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 342,
+            "start": 1692.08,
+            "end": 1693.78,
+            "text": "Now, if we come to our app,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 343,
+            "start": 1695.0,
+            "end": 1696.44,
+            "text": "here we have the trackwall bus",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 344,
+            "start": 1696.44,
+            "end": 1696.66,
+            "text": "option.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 345,
+            "start": 1702.67,
+            "end": 1704.01,
+            "text": "Suppose we go to",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 346,
+            "start": 1704.01,
+            "end": 1705.07,
+            "text": "V2954.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 347,
+            "start": 1710.67,
+            "end": 1711.67,
+            "text": "When we click on this,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 348,
+            "start": 1712.01,
+            "end": 1713.59,
+            "text": "then our vehicle's API goes",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 349,
+            "start": 1714.69,
+            "end": 1716.13,
+            "text": "one second.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 350,
+            "start": 1738.7,
+            "end": 1739.94,
+            "text": "Our API",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 351,
+            "start": 1739.94,
+            "end": 1741.34,
+            "text": "goes to this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 352,
+            "start": 1741.34,
+            "end": 1742.6,
+            "text": "In this, we are sending GPS ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 353,
+            "start": 1742.84,
+            "end": 1743.98,
+            "text": "The one we set up there,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 354,
+            "start": 1745.32,
+            "end": 1746.0,
+            "text": "in our vehicle.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 355,
+            "start": 1749.58,
+            "end": 1751.1,
+            "text": "We will pass it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 356,
+            "start": 1751.24,
+            "end": 1752.2,
+            "text": "So, what we do on the back-end?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 357,
+            "start": 1753.02,
+            "end": 1754.82,
+            "text": "The track we have configured,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 358,
+            "start": 1754.82,
+            "end": 1756.98,
+            "text": "it will run it",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 359,
+            "start": 1756.98,
+            "end": 1758.9,
+            "text": "with this GPS ID key.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 360,
+            "start": 1763.75,
+            "end": 1764.57,
+            "text": "And then the response",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 361,
+            "start": 1764.57,
+            "end": 1766.93,
+            "text": "will be of this vehicle only.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 362,
+            "start": 1767.23,
+            "end": 1768.91,
+            "text": "And then the latitude and longitude",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 363,
+            "start": 1768.91,
+            "end": 1770.55,
+            "text": "will be rendered here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 364,
+            "start": 1777.7,
+            "end": 1778.18,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 365,
+            "start": 1778.8,
+            "end": 1779.98,
+            "text": "So, this much setup is there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 366,
+            "start": 1781.18,
+            "end": 1782.26,
+            "text": "Now, suppose here,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 367,
+            "start": 1782.5,
+            "end": 1785.04,
+            "text": "5861, we don't have GPS ID.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 368,
+            "start": 1785.4,
+            "end": 1786.32,
+            "text": "We haven't set it up.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 369,
+            "start": 1787.44,
+            "end": 1788.76,
+            "text": "So, here we get an error that",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 370,
+            "start": 1788.76,
+            "end": 1790.28,
+            "text": "GPS ID is not found. Please contact us.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 371,
+            "start": 1794.43,
+            "end": 1795.03,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 372,
+            "start": 1795.03,
+            "end": 1799.52,
+            "text": "Now, tell us once,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 373,
+            "start": 1800.24,
+            "end": 1801.4,
+            "text": "if there are any doubts in this",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 374,
+            "start": 1801.4,
+            "end": 1801.92,
+            "text": "whole setup.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 375,
+            "start": 1803.2,
+            "end": 1804.94,
+            "text": "Yes, you just told us that",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 376,
+            "start": 1804.94,
+            "end": 1806.36,
+            "text": "in these documents, we will get",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 377,
+            "start": 1806.36,
+            "end": 1809.18,
+            "text": "matching, the response",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 378,
+            "start": 1809.18,
+            "end": 1810.32,
+            "text": "we will get. Where will we get the response?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 379,
+            "start": 1811.06,
+            "end": 1811.98,
+            "text": "We will provide that also.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 380,
+            "start": 1813.59,
+            "end": 1815.83,
+            "text": "No, right now,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 381,
+            "start": 1816.09,
+            "end": 1816.97,
+            "text": "in this portal,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 382,
+            "start": 1817.35,
+            "end": 1818.25,
+            "text": "the response will not come.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 383,
+            "start": 1819.33,
+            "end": 1821.55,
+            "text": "There is an error there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 384,
+            "start": 1821.89,
+            "end": 1823.21,
+            "text": "So, first, you will update the postman.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 385,
+            "start": 1824.45,
+            "end": 1824.97,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 386,
+            "start": 1825.96,
+            "end": 1827.66,
+            "text": "So, in this case, normally",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 387,
+            "start": 1827.66,
+            "end": 1828.14,
+            "text": "you can hit the postman.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 388,
+            "start": 1831.13,
+            "end": 1831.25,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 389,
+            "start": 1833.62,
+            "end": 1835.12,
+            "text": "Like, just in case,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 390,
+            "start": 1835.28,
+            "end": 1836.56,
+            "text": "I am asking, by hitting the postman,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 391,
+            "start": 1837.08,
+            "end": 1839.26,
+            "text": "I can find out what data",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 392,
+            "start": 1839.26,
+            "end": 1841.28,
+            "text": "I have to put. But the thing is,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 393,
+            "start": 1841.48,
+            "end": 1843.48,
+            "text": "once you can tell us where the show is",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 394,
+            "start": 1843.48,
+            "end": 1844.72,
+            "text": "on the front end. So that, whenever",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 395,
+            "start": 1844.72,
+            "end": 1846.48,
+            "text": "it gets updated, we can do it from there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 396,
+            "start": 1848.21,
+            "end": 1849.99,
+            "text": "Okay, where will the response come on the front end?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 397,
+            "start": 1850.09,
+            "end": 1851.75,
+            "text": "That is the problem. Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 398,
+            "start": 1853.79,
+            "end": 1854.63,
+            "text": "Here is the track config.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 399,
+            "start": 1855.01,
+            "end": 1856.27,
+            "text": "Here is the test connection.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 400,
+            "start": 1856.27,
+            "end": 1857.71,
+            "text": "Okay, okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 401,
+            "start": 1858.03,
+            "end": 1859.89,
+            "text": "If you click on this, it will run on A.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 402,
+            "start": 1859.99,
+            "end": 1860.93,
+            "text": "Right now, we have the address here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 403,
+            "start": 1863.45,
+            "end": 1865.65,
+            "text": "Yes. But the response",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 404,
+            "start": 1865.65,
+            "end": 1866.39,
+            "text": "will come here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 405,
+            "start": 1867.83,
+            "end": 1870.29,
+            "text": "The postman should also come here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 406,
+            "start": 1873.14,
+            "end": 1873.62,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 407,
+            "start": 1876.91,
+            "end": 1877.09,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 408,
+            "start": 1880.22,
+            "end": 1881.0,
+            "text": "That was it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 409,
+            "start": 1896.54,
+            "end": 1897.2,
+            "text": "Aishu?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 410,
+            "start": 1901.11,
+            "end": 1901.65,
+            "text": "Yes, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 411,
+            "start": 1903.09,
+            "end": 1904.29,
+            "text": "Yes, I showed the pipe one.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 412,
+            "start": 1905.43,
+            "end": 1907.07,
+            "text": "But the response is not coming here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 413,
+            "start": 1908.08,
+            "end": 1908.5,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 414,
+            "start": 1916.58,
+            "end": 1917.98,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 415,
+            "start": 1925.32,
+            "end": 1926.1,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 416,
+            "start": 1926.98,
+            "end": 1928.38,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 417,
+            "start": 1931.66,
+            "end": 1931.94,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 418,
+            "start": 1934.14,
+            "end": 1934.44,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 419,
+            "start": 1935.52,
+            "end": 1936.92,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 420,
+            "start": 1972.26,
+            "end": 1973.42,
+            "text": "I'll send them the data in a minute.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 421,
+            "start": 1974.26,
+            "end": 1976.16,
+            "text": "I told you, I'll send it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 422,
+            "start": 1976.38,
+            "end": 1977.58,
+            "text": "Because it's easy to read.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 423,
+            "start": 1978.66,
+            "end": 1979.72,
+            "text": "Yes, yes, send it here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 424,
+            "start": 1980.04,
+            "end": 1981.66,
+            "text": "Tinku, tell us how easy it is for you.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 425,
+            "start": 1983.37,
+            "end": 1985.57,
+            "text": "Sir, it's the same as well.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 426,
+            "start": 1986.13,
+            "end": 1986.97,
+            "text": "I wanted to ask you something.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 427,
+            "start": 1987.37,
+            "end": 1989.52,
+            "text": "Like what you just said that we have to set up",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 428,
+            "start": 1990.34,
+            "end": 1991.52,
+            "text": "for 2-2 buses,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 429,
+            "start": 1991.74,
+            "end": 1992.54,
+            "text": "should we do only 2 buses?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 430,
+            "start": 1993.06,
+            "end": 1995.44,
+            "text": "Or after 2, in the next entity,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 431,
+            "start": 1995.6,
+            "end": 1996.5,
+            "text": "should we do another 2-2?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 432,
+            "start": 1997.2,
+            "end": 1998.48,
+            "text": "We have to do 2 buses for every entity.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 433,
+            "start": 2000.25,
+            "end": 2001.93,
+            "text": "For every entity, okay sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        }
+    ]
+}

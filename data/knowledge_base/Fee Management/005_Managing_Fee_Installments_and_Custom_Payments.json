@@ -1,0 +1,46 @@
+{
+    "module": "Fee Management",
+    "topic": "Managing Fee Installments and Custom Payments",
+    "summary": "The system supports fee collection in installments. By default, the first installment is selected based on its due date. Users can select all installments for full payment or manually adjust the amount to be collected for each fee head. If a custom amount is entered, the system prioritizes fee heads based on a predefined sequence. This allows for flexible payment collection where students might not pay the full installment amount.",
+    "navigation": [
+        "Collect Fee > Student Fee Collection Section"
+    ],
+    "steps": [
+        "In the student's fee collection section, view the due demand with installments.",
+        "By default, the first installment due will be selected.",
+        "To collect the full amount across all installments, select 'All'.",
+        "To collect a custom amount, directly enter the desired amount in the total payable field or adjust amounts per fee head.",
+        "If a custom amount is entered, the system will distribute it across fee heads based on the defined sequence."
+    ],
+    "business_rules": [
+        "Installments are automatically selected based on due dates.",
+        "Custom amounts can be entered, which will be distributed according to the fee head sequence."
+    ],
+    "important_notes": [
+        "The fee head sequence determines how custom payments are allocated (e.g., Security first, then Tuition, then Transport/Hostel, then Fines, then Funds)."
+    ],
+    "questions": [
+        "How do I collect fees in installments?",
+        "Can a student pay a partial amount for an installment?",
+        "What happens if I enter a custom amount for fee collection?",
+        "How does the system prioritize fee heads when a custom amount is paid?",
+        "Can I select all installments for a student at once?"
+    ],
+    "keywords": [
+        "fee installments",
+        "custom payment",
+        "partial payment",
+        "fee head sequence",
+        "due demand"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Head Configuration"
+    ],
+    "id": "fee_management_managing_fee_installments_and_custom_payments",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

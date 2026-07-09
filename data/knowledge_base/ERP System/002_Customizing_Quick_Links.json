@@ -1,0 +1,37 @@
+{
+    "module": "ERP System",
+    "topic": "Customizing Quick Links",
+    "summary": "The ERP dashboard provides a 'Quick Link' option, allowing users to add frequently used functionalities for quick access. For example, a fee clerk might add the 'Collect Fee' option to their quick links for daily use. These quick links are user-specific and can be updated by each user according to their daily tasks.",
+    "navigation": [],
+    "steps": [
+        "Identify frequently used options (e.g., Collect Fee).",
+        "Add the desired option to the 'Quick Link' section."
+    ],
+    "business_rules": [
+        "Quick links are user-specific."
+    ],
+    "important_notes": [
+        "N number of links can be updated according to each user."
+    ],
+    "questions": [
+        "How can I add a quick link to my dashboard?",
+        "Can I customize the quick links on my ERP dashboard?",
+        "Are quick links specific to each user?"
+    ],
+    "keywords": [
+        "quick link",
+        "dashboard customization",
+        "frequently used options",
+        "user-specific links"
+    ],
+    "related_topics": [
+        "ERP Dashboard Overview",
+        "User Interface Personalization"
+    ],
+    "id": "erp_system_customizing_quick_links",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

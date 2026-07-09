@@ -1,0 +1,61 @@
+{
+    "module": "HRM",
+    "topic": "Assigning Salary Templates to Employees",
+    "summary": "This topic covers the process of assigning a salary contract (template) to an employee, including selecting the employee, choosing a template (either by copying from an existing one or creating a new structure), and defining the contract's effective dates.",
+    "navigation": [
+        "HRM",
+        "Assign Salary Template"
+    ],
+    "steps": [
+        "Navigate to HRM > Assign Salary Template.",
+        "Search for the desired employee using their ID or Name.",
+        "Select the employee by ticking the checkbox next to their name.",
+        "Click the 'Assign Template' button.",
+        "Choose an option: 'Copy from Salary Template' (if a previous contract exists for the employee or you want to use a standard template) or proceed to define a new structure.",
+        "If copying, review and modify existing amounts or add/remove earning/deduction heads as needed.",
+        "Click 'Calculate' to view the computed contract amount.",
+        "Click 'Next'.",
+        "Set the 'End Date' for the contract. The 'Start Date' will automatically be set to the day after the previous contract's end date or the employee's joining date if no prior contract exists.",
+        "Click 'Assign' to finalize the contract assignment."
+    ],
+    "business_rules": [
+        "A new contract's start date cannot overlap with an existing contract's end date.",
+        "If a contract needs to be assigned for a past month (e.g., November) when a future contract (e.g., December) already exists, the future contract(s) must be removed first.",
+        "The system automatically calculates ESI/PF based on predefined percentages, but these can be overridden to fixed amounts if required."
+    ],
+    "important_notes": [
+        "If an employee has no previous contract, the 'Copy from Salary Template' option will not display any prior contract details.",
+        "Standard salary templates available include 'With PF', 'Without PF', and 'Without ESI PF'.",
+        "Changes made during the assignment process only apply to the *upcoming* contract period, not to past or currently active contracts.",
+        "The term 'Up to amount' for ESI/PF signifies the maximum amount that will be calculated, not a fixed value. The system calculates based on percentage, and if the calculated amount exceeds the 'up to amount', it will cap at that maximum."
+    ],
+    "questions": [
+        "How do I assign a new salary contract to an employee?",
+        "Can I modify an employee's existing salary contract during assignment?",
+        "What happens if I try to assign a contract for a date range that overlaps with an already assigned contract?",
+        "How can I set a fixed ESI or PF amount instead of using a percentage calculation?",
+        "Where can I find the standard salary templates like 'With PF' or 'Without ESI PF'?"
+    ],
+    "keywords": [
+        "Assign contract",
+        "Salary template",
+        "Employee contract",
+        "New contract",
+        "Modify contract",
+        "Contract dates",
+        "PF",
+        "ESI",
+        "Labour Welfare Fund",
+        "Assign salary"
+    ],
+    "related_topics": [
+        "Viewing Employee Contracts",
+        "Creating and Managing Earning and Deduction Heads"
+    ],
+    "id": "hrm_assigning_salary_templates_to_employees",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,6 +1,6 @@
 import os
 
-from app.Data_pipelining.knowledge_generator import KnowledgeGenerator
+from app.pipeline.knowledge_generator import KnowledgeGenerator
 
 
 def main():

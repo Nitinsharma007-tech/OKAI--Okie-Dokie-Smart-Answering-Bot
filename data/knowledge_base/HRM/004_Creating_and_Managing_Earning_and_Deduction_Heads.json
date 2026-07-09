@@ -1,0 +1,49 @@
+{
+    "module": "HRM",
+    "topic": "Creating and Managing Earning and Deduction Heads",
+    "summary": "This topic explains how to create new earning or deduction heads within the system, which can then be utilized in salary templates or during monthly salary adjustments.",
+    "navigation": [
+        "Settings",
+        "HRM Setup",
+        "Payroll Master"
+    ],
+    "steps": [
+        "Navigate to Settings > HRM Setup > Payroll Master.",
+        "Select either 'Earning Heads' or 'Deduction Heads' based on your requirement.",
+        "To enable an existing predefined head (e.g., HRA, Medical Allowance), tick the checkbox next to it and click 'Save'.",
+        "To create a completely new head, click 'Add New'.",
+        "Enter the 'Name' of the new earning or deduction head.",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "Always click 'Save' after making any changes or adding new heads to ensure they are stored in the system."
+    ],
+    "important_notes": [
+        "Heads created or enabled here will become available for selection and use in salary templates and during monthly salary adjustments."
+    ],
+    "questions": [
+        "How do I add a new allowance type to our payroll system?",
+        "Where can I create a custom deduction head for employee salaries?",
+        "What is the difference between Earning Heads and Deduction Heads in Payroll Master?",
+        "Can I activate predefined earning/deduction heads?"
+    ],
+    "keywords": [
+        "Earning heads",
+        "Deduction heads",
+        "Payroll master",
+        "Create allowance",
+        "Create deduction",
+        "HRM setup",
+        "Manage payroll heads"
+    ],
+    "related_topics": [
+        "Assigning Salary Templates to Employees",
+        "Viewing and Editing Processed Salaries"
+    ],
+    "id": "hrm_creating_and_managing_earning_and_deduction_heads",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

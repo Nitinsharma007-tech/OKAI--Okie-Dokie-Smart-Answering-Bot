@@ -1,0 +1,54 @@
+{
+    "module": "Academics",
+    "topic": "Teacher Mapping for Classes and Subjects",
+    "summary": "This topic describes how to assign various roles to employees for a specific class and its mapped subjects, including Class Teacher, Coordinator, and Subject Teacher.",
+    "navigation": [
+        "Settings icon",
+        "Academics",
+        "Subject Class Mapping (or similar interface)",
+        "Teacher Assignment (within the class mapping details)"
+    ],
+    "steps": [
+        "After creating the Subject Class Mapping, navigate to the teacher assignment section for the specific class (e.g., Class 5th, Section A).",
+        "To assign a 'Class Teacher': Select an employee from the list and designate them as the 'Class Teacher'.",
+        "To assign 'Coordinators': Select one or more employees from the list and designate them as 'Coordinator'.",
+        "To assign 'Subject Teachers': For each mapped subject, select one or more employees from the list and map them as 'Subject Teacher'."
+    ],
+    "business_rules": [
+        "Only one employee can be assigned as 'Class Teacher' for a given class.",
+        "Multiple employees can be assigned as 'Coordinators' for a class.",
+        "Multiple employees can be assigned as 'Subject Teachers' for a single subject.",
+        "Class Teachers and Coordinators typically have access to all subjects within their assigned class.",
+        "Employees must be created in the system to be available for mapping."
+    ],
+    "important_notes": [
+        "Class Teachers and Coordinators have broader access to class-related information, while Subject Teachers' access is typically limited to their assigned subjects."
+    ],
+    "questions": [
+        "How do I assign a class teacher to a specific class?",
+        "Can a class have more than one class teacher?",
+        "How do I assign a subject teacher to a particular subject?",
+        "What is the role of a coordinator in a class?",
+        "What kind of access do class teachers and subject teachers have?"
+    ],
+    "keywords": [
+        "Teacher mapping",
+        "Class teacher",
+        "Coordinator",
+        "Subject teacher",
+        "Employee assignment",
+        "Academics",
+        "Class management"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Defining Subjects",
+        "Creating Timetable Schedule"
+    ],
+    "id": "academics_teacher_mapping_for_classes_and_subjects",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

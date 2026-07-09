@@ -1,0 +1,600 @@
+So, you guys have to come on to this set and stand the institute set up and institute set
+up you have the template reference right and template preferences we have this dynamic builder
+report builder and the other one is the PDF template okay so PDF template okay so there
+could be ID card there could be a lower certificate there could be one of our certificate admission
+received okay it could be event it could be nodius certificate it could be admit card it could be
+student's right so when you click then you have this option to add the multiple of the
+templates okay is that okay so what i was saying is for example i have to create a fee receipt
+right so what i will do is i'll select the fee receipt give it a name for example fee receipt
+start okay then you have the count as well the
+if you select the one the same then it will be a single receipt if you select two with horizontal
+then two print only in horizontal and then you have the two as vertical vertical make over
+then one just below the other right and then four is the four divide four
+and then you have the courses courses is what like
+class one class two
+now there could be chances that a certificate can be different for
+respective classes right the class one or two
+let me go with the college one apart
+so let's go with the school and right school of engineering school of computer applications
+school of political science
+right then you can do one thing
+as you click
+you can select the default template which are available at the back end right
+you can get the preview as well
+me
+there could be changes in the alignment there could be changes in the you know
+okay
+okay
+you will give it to you right then you will select a particular template because the reason
+is that the template you have selected here, for example, if you have selected a free receipt
+and put the code of bona fide certificate in it, then when you will print the free receipt,
+then there is a bona fide certificate.
+for example, you have selected a free receipt and here you have to do one thing,
+you have to give the template and after that you have to select the free receipt,
+and in the case of free receipt, you have to keep the same template and put the name of the free receipt.
+Now tell me one thing, what is this certificate, bona fide certificate?
+Which template have you selected?
+The one I have selected in the report, that is the free receipt.
+As soon as I add it and print it,
+now what I have done, I have made a free receipt template,
+one template was already existing,
+and I have created one template, that is the default template.
+Now when I will go to the default template and go to the transaction list and print the free receipt of anyone,
+then what do you think, what should be the print?
+Will it be a free receipt or a bona fide certificate?
+How much is the bona fide one?
+It should be printed.
+Which one should be printed?
+Error message.
+Error message.
+Okay, tell me more.
+What I have done is, I have selected the template, your free receipt,
+I have put the code, bona fide,
+now what will be the print?
+The template of bona fide will be printed.
+Exactly, so bona fide will be printed.
+So I have printed the free receipt from here,
+what did it print?
+It printed a bona fide certificate.
+But notice one thing,
+only in those variables,
+the variables that we have given in the bona fide certificate,
+if we have given its free heights,
+if we have given its amount,
+how much is collected,
+then that will also be printed.
+The bona fide certificate is also printed inside.
+So always remember one thing,
+on which particular trigger,
+the particular template attached to you,
+that will be printed.
+Now no matter what code you put in it,
+whatever code you put, it will be printed.
+You think that I have created a free receipt,
+then the receipt will be printed.
+It is not like that.
+You have to check the code.
+Now I will show you one thing.
+This was the old receipt.
+Now what is in its preview?
+This is the preview of the old receipt.
+Now I will turn on the default,
+and the new one that we made,
+we will turn off the default.
+Because the preview of this is our bona fide certificate.
+And that is that.
+Then coming on to the transaction list.
+What else should be printed?
+Transaction receipt.
+Preview receipt.
+Preview receipt, right?
+Transaction fees, previous fees,
+that will come.
+Now simply my point to clear here,
+that is that,
+whatever template you select,
+it will not matter.
+That is only for that thing.
+What is your trigger?
+Now if you have written Govind in the code,
+then Govind will be printed.
+You have written Rinky, Kunal,
+whatever you write,
+it will be printed.
+The reports that we are selecting,
+these are for the triggers.
+Because in the fee receipt,
+there are two particular templates.
+One is default,
+if you default both,
+then whatever you get, it will be printed.
+But what we do,
+it will depend on whether
+you have made it separate for each class,
+otherwise our single receipt is the clue.
+We will delete it now.
+And here whatever count is coming,
+with this you will be able to clear it.
+There are 8 report cards,
+10 admit card templates,
+1 employee card template,
+1 event template, 1 admission form,
+fee receipt, no-due certificate,
+de-replication certificate, library receipt,
+student ID card,
+character certificate,
+multiple certificates.
+Sir, in the count,
+how many types of templates are saved?
+Yes, for example,
+if I click on character certificate,
+character certificates are 7 there,
+and each one is separate for the school.
+Sundarbeeth is separate for BHNT,
+Sundarbeeth is separate for law,
+Sundarbeeth is separate for engineering,
+Sundarbeeth is separate for management,
+we have given different names.
+And we have also selected the same schools.
+The one that needs to be printed,
+I will show you there.
+And we will default it.
+Make sure whenever you make a template,
+first you will check
+what is your requirement.
+According to that requirement,
+if you feel that my existing template,
+look, in most of the cases,
+the template that comes by default,
+like you select load template,
+for example, I don't do admission transaction,
+I click on character certificate.
+As soon as I click on load,
+the code that I have on the back end
+will come up as it is.
+In most of the cases,
+you have to change the code a little bit.
+I am not telling you the part
+where you have to change the code.
+But you have to change the code here.
+For example, if they tell you
+that your character certificate
+should be printed in the upper case.
+What is the character certificate
+that you are writing?
+This is the character certificate.
+Apply styling to it.
+Write the upper case directly from here.
+Either write it directly,
+then it will be printed in the upper case.
+You don't have to do it like this.
+As it was before,
+you can apply styling to the div,
+or you can apply styling to the span,
+or you can apply styling to the x-transform.
+Like this.
+Like this.
+Then it will be printed in the upper case.
+This is the basic thing.
+I am not going too much into it.
+The main thing is that
+you should understand
+from where the template is being printed
+and what is the meaning of which variable.
+For example,
+I will give you a variable here.
+DisplayData.EntityName
+EntityName is what?
+EntityName is the name of the institute.
+Like SDJI, like RMPG College,
+Pipe College.
+This is the name of the entity.
+Then you have the
+DisplayData.EntityAddress
+This is the address of the entity.
+This is the state of the entity.
+This is the country.
+This is the state of the entity.
+Then you have the pin code.
+There are multiple variables over here.
+For example,
+the gender of the student as well.
+The name of the student.
+You can say
+the father name of the student.
+Do you understand, guys?
+What do you want to say?
+Yes, sir.
+This is how you have to create a template.
+By default, you have to select
+in most of the cases.
+Your report card is also your default.
+In most of the schools,
+if you don't have a high level school
+or advanced school,
+the default report card has to work.
+They don't have the requirement
+to do something like a high end.
+But for some special schools,
+you have to make changes.
+So what I was saying is
+this is the default toggle.
+This is your default toggle
+which you have to turn on and off.
+If you don't know how to do it,
+I have activated or inactivated this code.
+You have created a template.
+If you turn on the default as on,
+that one will be printed.
+If you turn it off,
+the one before this will be printed.
+And if there is no one existing,
+then it will be printed
+on the back end.
+Yes, sir.
+Sir, there was an issue.
+When I was making it,
+let me show you something on the screen.
+Sir, let me show you something.
+What was it?
+Sir, here it is coming in this way.
+Use default.
+And I don't think
+it is in the content shortage.
+No.
+But if you don't see
+the load template here,
+if you click on use default,
+then something comes up.
+Yes, yes.
+It is possible that it is not in the load template.
+It may be on the default button.
+Your buttons were not coming.
+What I was saying is
+if your template is not in the system,
+then it will be printed on the back end.
+If it is in your system,
+then it will be printed on the system.
+The condition is
+it should be defaulted on.
+Am I clear?
+Divya, Rinki, Kunal, Govind?
+Yes, sir.
+Okay.
+So, this was basic.
+In the template,
+you have to add where you want to come.
+What is the meaning of default?
+If I have to make different classes for different classes,
+then how can I make them?
+Okay?
+Sir.
+Sir, when we will make it,
+will the set default button be on?
+Yes, the set default button is on.
+Okay, sir.
+Basically, in most of the cases,
+if you get proper expression entity,
+then in that case, all the side defaults are there.
+But in some cases,
+there are some ID cards,
+for example, there are nine ID cards.
+Right?
+In the case of that ID card,
+there are different ID cards of different schools.
+So, you have to allow different defaults.
+Okay?
+Okay?
+Sir, tell me once, why do we do set default?
+Once.
+We do set default so that the code is printed.
+That means we activate it.
+Okay.
+So that the template is active and inactive.
+If you turn off the default,
+it will become inactive.
+If you turn it on, it will become active.
+Okay, let's say there is a student ID card,
+and I have set all the defaults on it,
+like here.
+And I have also ticked all the classes.
+So, if I go and print
+a student ID card,
+let's say,
+then what will be the print?
+Then it will get the first.
+Okay.
+It will print the first in the series.
+The code works like this, right?
+If your condition is true in the code,
+as soon as the condition is true,
+your code is executed.
+Okay.
+So, this was the basic thing.
+Remember one thing,
+in the template, for example,
+I have printed this for you.
+Sometimes,
+when you are working,
+you don't get the variables.
+Okay, you printed it,
+the student's name was not printed,
+for example, the category was not printed.
+Right?
+Now, there could be chances
+that the variable you have set
+will have some issue.
+Okay?
+So, what will you do?
+You will have to inspect the page,
+right click,
+and then this inspect.
+Is the screen showing up?
+It is showing up.
+It is showing up.
+So, once you click on the inspect,
+then you have to come on to the console.
+Okay? In console, you have the object.
+Object is what brings your data.
+Okay?
+So, as soon as I opened the object,
+all my variables came here.
+Student's name, student's father's name,
+student's mobile number,
+student's age number, student's role number,
+what is the section, what is the stream,
+what is the total demand,
+how much amount it has paid, right?
+How much amount it has paid,
+how much is in the words, right?
+How much more amount it had to pay, right?
+The name of the person who printed it.
+Okay? Clear?
+Yes.
+Okay, now what I was saying is
+that the student's category was not printed.
+Okay, for example, you have to enter the category.
+There is no such category.
+Right? The category is coming here.
+Okay?
+Yes, sir.
+Okay, now the category is coming here,
+but it is not coming here.
+It could be possible that the variable
+that we have used there
+is wrong.
+For example, I have viewed the code here.
+Well,
+I will come on to the
+student's role number, student's category.
+Right? Okay, now look at one thing.
+What variable did I use? Student's category.
+But what is the real variable?
+Category, sir.
+Right? Clear?
+Yes, sir.
+There could be multiple
+templates where the student's category
+is written and the value is being passed
+in the variable. But there are some
+templates where the category is written.
+For example, I will tell you
+what happens sometimes. There is a student's name.
+We have the student's name.
+We have the student's father's name.
+It is completely written. Student's father's name.
+There are some templates where
+instead of the student's father's name,
+there is only the student's father's name.
+So if you call the student's father's name there,
+the value doesn't come in the variable.
+Right?
+For example, right now my category is wrong.
+So what I will do is copy the category
+from here and paste it.
+Okay? DisplayData.
+This will always be there.
+It will always be there before the variable.
+Okay? DisplayData is our array that
+will call the data and bring it.
+For this category,
+DisplayData.student will call the value
+DisplayData.student will call the value
+for the reg number. Right?
+For example, I have made changes.
+I will edit this.
+I don't have to edit it. I will reprint it.
+Okay?
+Right?
+Did you understand how to take it out?
+Okay?
+Now there is one more thing.
+You will not get
+a simple object.
+There will be no variable.
+For example, you have to print the school's logo.
+So DisplayData.logo will come.
+You have to print the old new.
+So you put the old new directly.
+You have to print the session.
+Because sometimes it comes like this.
+The institute says to print the session
+on our fee receipt.
+So what we do is, I think the session will be based
+on this.
+So this is our session.
+So what we will do is, like the category
+below, we will make another div.
+In that div, we will pass the session with the variable.
+Okay?
+Is that clear, guys?
+Yes, sir.
+Yes, sir.
+And right now, I was directly talking
+about every object.
+But sometimes, your object is inside the array.
+Okay?
+Objects inside the array, like for columns,
+position, fee head, installment,
+and simply
+for fee head groups.
+Okay?
+Okay?
+Yes, sir.
+Yes, sir.
+Okay?
+Okay.
+Okay, guys?
+There is a report card in nursery I think we have to click download, so this is the report
+card of pre nursery.
+And this is not available at the default code, this is a customized report card.
+Data is dynamically calling, but the designing is customized.
+So I am clearing, there are many schools who need such report cards, so you have to make it.
+Data is coming, table is coming, everything is coming, and I have made this one.
+So there is one institute that is RITU, I will show you that, I will show you the character
+set.
+I am understanding little by little what exactly I am trying to say, how data comes,
+data is being displayed, okay.
+Now the console that I showed you earlier was very easy to understand, but on a report card
+the console is very complex.
+There is an array and in that array you will have multiple of the variables.
+In this you will also know which group is where, what is going on, what is the skill group,
+what is inside it, what are the subjects, what is the assessment group, what is there
+inside the assessment group, and then you will get the values.
+but yes, there are few complex reports
+rest is easy
+so
+I just showed you a character certificate
+character was bona fide
+now I will show you the template of the character certificate
+which is simple
+if you want something simple
+this is the character certificate
+this is default one
+ok guys
+why is it bona fide?
+bona fide certificate
+is used in something
+I don't have much knowledge
+it is used for legal work
+in school
+bona fide is used
+to show that the student is
+studying in this particular college or school
+ok
+as a proof
+so this was our code
+that was the default code
+now I will show you the character certificate
+please show the transfer certificate
+see
+this is also the character certificate
+and this is also the character certificate
+that will be the second template
+no, that is not the second template
+this is the design
+custom
+ok
+this is the proper
+custom design template
+so this
+this will also have to be made
+ok
+yes
+this is fully coded
+as it is pulled from the family
+and the stamp is also coded
+ok
+this is also coded
+yes, this is coded
+yes, I understand
+I think this is not coded
+this is not coded
+otherwise it will be selected
+this could be
+the
+direct image or something
+yes, that is the image
+ok
+if it was not an image
+it would have been clear
+that is the image
+but yes, you can code it
+because there is not much space
+if you rotate it
+it will look like a stamp
+ok
+so there are also custom templates
+which you have to design
+right, now if you want to
+check the same values
+then you will come here and open the console
+sometimes what happens
+I was telling you
+certificate and institution
+where is the character certificate
+ok
+now look at one thing
+here the character certificate is increasing
+but when we print here
+it does not come on the full screen
+ok
+so this is why I say
+whenever you make something
+the preview is not final
+you can check the design
+you can check how it looks
+you can check the code
+for example, you started a div
+or a section
+now from this section
+you have to remove the code
+for example
+I have removed the code
+now if I preview it, it will not print
+ok, it means
+my one particular
+is not closed
+do you understand
+it means that action will not be performed
+oh yes, like
+we used to throw errors
+if you start a div
+or a template
+or something
+after it comes finally
+when you remove the code
+or leave it
+it will not be previewed
+now you can check the code
+is that ok guys
+yes sir
+ok
+sir
+once the transfer certificate
+is not open
+you said that
+transfer certificate
+no, not from here
+from the student certificate
+transfer certificate from which time
+because every certificate
+has a different name
+in this, what is the name of the certificate
+you have
+mine is
+Dukhand
+certificate
+ok, you can
+rename the certificate
+if you want
+here is the TC certificate
+here is the college living certificate
+student ledger
+here is the student ledger
+ok, other things
+are not signed
+ok, so you can rename this certificate
+your place
+one minute, I will record
+one minute

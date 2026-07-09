@@ -1,0 +1,61 @@
+{
+    "module": "CRM",
+    "topic": "Managing Admission Leads: Tags, Follow-ups, and Visits",
+    "summary": "This topic covers the basic operations for managing admission leads, including how to add and manage tags, schedule follow-ups, record campus visits, add notes, make calls, and use the integrated WhatsApp feature.",
+    "navigation": [],
+    "steps": [
+        "Navigate to the Admission Leads page.",
+        "To identify untouched leads, apply the 'not engaged' filter; these leads are marked with red ribbons.",
+        "Select a lead to work on.",
+        "Apply a tag based on the conversation with the student (e.g., 'Interested', 'Not Interested').",
+        "If a positive tag is selected, the system will prompt to add a follow-up (date, time, remark).",
+        "If a negative tag is selected, the system will prompt to add a negative remark.",
+        "To add a visit: Select the lead, click 'Add Visit', enter visit details (date, note).",
+        "To add a note: Select the lead, click 'Add Note', enter the note details.",
+        "To make calls: Click the 'Make Call' option (requires IVR integration).",
+        "To open WhatsApp: Click 'Open WhatsApp' on the lead; this will open WhatsApp Web with the student's number pre-filled.",
+        "To check lead history: Click 'Timeline' to view all activities related to the lead."
+    ],
+    "business_rules": [
+        "Leads with no counselor activity are considered 'not engaged' and are visually marked with red ribbons.",
+        "Positive tags require a follow-up to be scheduled.",
+        "Negative tags require a negative remark to be added."
+    ],
+    "important_notes": [
+        "Direct calling from the system requires IVR integration.",
+        "The 'Open WhatsApp' feature automatically populates the student's contact number."
+    ],
+    "questions": [
+        "How do I add a follow-up for an admission lead?",
+        "What is the process for adding tags to admission leads?",
+        "How can I record a campus visit for a student lead?",
+        "What does 'not engaged' mean for an admission lead?",
+        "How do I use the 'Open WhatsApp' feature for leads?",
+        "Where can I see the complete activity history for an admission lead?"
+    ],
+    "keywords": [
+        "admission leads",
+        "tags",
+        "follow-ups",
+        "visits",
+        "not engaged",
+        "engaged",
+        "red ribbon",
+        "lead activity",
+        "call",
+        "WhatsApp",
+        "timeline",
+        "add note"
+    ],
+    "related_topics": [
+        "Admission Tags Setup",
+        "Admission Follow-up Page",
+        "Admission Leads Page Filters"
+    ],
+    "id": "crm_managing_admission_leads_tags_follow_ups_and_visits",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

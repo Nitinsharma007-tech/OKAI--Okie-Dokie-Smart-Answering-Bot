@@ -1,0 +1,55 @@
+{
+    "module": "Data Analysis",
+    "topic": "IF Formula for Conditional Grading",
+    "summary": "This topic explains how to use the IF formula, including nested IF statements, to apply conditional logic for tasks such as assigning grades to students based on their total marks. It covers defining conditions and corresponding outcomes.",
+    "navigation": [],
+    "steps": [
+        "Identify the necessary data fields, such as 'Student Name', 'Subject 1', 'Subject 2', 'Subject 3', 'Total', and 'Grade'.",
+        "Calculate the 'Total' marks for each student by summing the scores from 'Subject 1', 'Subject 2', and 'Subject 3'.",
+        "In the 'Grade' column, apply the IF formula to determine the grade based on the 'Total' marks.",
+        "For a single condition, the formula structure is: =IF(Logical_Test, Value_if_True, Value_if_False). For example, to print 'C' if total is 80 or above, otherwise 'F': =IF(Total_Cell >= 80, \"C\", \"F\").",
+        "For multiple conditions (nested IF), the formula structure is: =IF(Condition1, Value_if_Condition1_True, IF(Condition2, Value_if_Condition2_True, Value_if_False_for_all_previous_conditions)).",
+        "Example for student grading: =IF(Total_Cell >= 90, \"A\", IF(Total_Cell >= 80, \"B\", \"Fail\"))."
+    ],
+    "business_rules": [
+        "If a student's Total marks are 90 or greater (>= 90), the assigned Grade is 'A'.",
+        "If a student's Total marks are 80 or greater (>= 80) but less than 90, the assigned Grade is 'B'.",
+        "If a student's Total marks are less than 80 (< 80), the assigned Grade is 'Fail'."
+    ],
+    "important_notes": [
+        "The IF formula is crucial for implementing conditional logic in data analysis.",
+        "Nested IF statements allow for evaluating multiple conditions sequentially.",
+        "The order of conditions in a nested IF formula is important, as the formula stops evaluating once a condition is met."
+    ],
+    "questions": [
+        "How can I automatically assign grades to students based on their total scores using a formula?",
+        "What is the correct syntax for using the IF formula with multiple conditions?",
+        "Can I use the IF formula to determine pass/fail status for students?",
+        "How do I apply conditional logic to data fields in my reports?",
+        "Explain the difference between a single IF condition and a nested IF condition."
+    ],
+    "keywords": [
+        "IF formula",
+        "conditional logic",
+        "student grading",
+        "marks calculation",
+        "grade assignment",
+        "nested IF",
+        "pass/fail",
+        "data analysis",
+        "reporting formulas"
+    ],
+    "related_topics": [
+        "VLOOKUP",
+        "CONCATENATE",
+        "TRIM",
+        "TRANSPOSE",
+        "COUNTIF"
+    ],
+    "id": "data_analysis_if_formula_for_conditional_grading",
+    "source": {
+        "file": "Okie Dokie Rahul - 2026_07_08 16_30 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

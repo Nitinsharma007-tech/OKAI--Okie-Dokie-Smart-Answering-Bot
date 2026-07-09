@@ -1,0 +1,47 @@
+{
+    "module": "CRM",
+    "topic": "Grouping Admission Sources for Reporting",
+    "summary": "This topic explains how to create and manage 'Source Groups' to categorize multiple individual admission sources, which helps in generating consolidated and high-level reports.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Source Group"
+    ],
+    "steps": [
+        "Navigate to 'Source Group' under 'Admission Master'.",
+        "Click 'Add New Details' to create a new source group.",
+        "Enter a descriptive name for the group (e.g., 'Organic Sources', 'Inorganic Sources', 'Third Party Vendors').",
+        "Select the individual admission sources that belong to this group (e.g., for 'Organic': 'Website', 'My Operator', 'Intag', 'Walk-in Direct').",
+        "Click 'Save' to create the source group."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "Source groups are primarily used for reporting purposes, allowing for a combined view of data from related sources.",
+        "When viewing source-wise reports, data will be aggregated by these groups, and can be expanded to see individual source details."
+    ],
+    "questions": [
+        "How do I create a source group for admission leads?",
+        "What is the purpose of grouping admission sources?",
+        "Can I combine different types of sources into one group?",
+        "How do source groups affect admission reports?"
+    ],
+    "keywords": [
+        "source group",
+        "admission sources",
+        "source grouping",
+        "reporting",
+        "organic sources",
+        "inorganic sources",
+        "third party vendors",
+        "source analysis"
+    ],
+    "related_topics": [
+        "Managing Admission Leads: Tags, Follow-ups, and Visits"
+    ],
+    "id": "crm_grouping_admission_sources_for_reporting",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

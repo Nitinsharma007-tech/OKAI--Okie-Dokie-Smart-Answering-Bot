@@ -1,4 +1,4 @@
-from app.Data_pipelining.knowledge_master import KnowledgeMasterBuilder
+from app.pipeline.knowledge_master import KnowledgeMasterBuilder
 
 
 def main():

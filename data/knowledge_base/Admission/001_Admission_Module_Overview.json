@@ -1,0 +1,46 @@
+{
+    "module": "Admission",
+    "topic": "Admission Module Overview",
+    "summary": "Provides an overview of the Admission module's functionalities, including managing application data, leads, transactions, reports, follow-ups, and lead logs with IVR integration. It also highlights the importance of basic setup before using the module.",
+    "navigation": [
+        "Admission module > Application Data page",
+        "Admission module > Admission Leads page",
+        "Admission module > Transaction",
+        "Admission module > Admission Reports",
+        "Admission module > Follow-up page",
+        "Admission module > Admission Lead Logs"
+    ],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [
+        "Basic setup is required before using any module (Admission, SIS, Fee, Academics).",
+        "IVR integration in Lead Logs allows direct reception of calls (received, missed, no one picked) within the ERP."
+    ],
+    "questions": [
+        "What are the main features of the Admission module?",
+        "How does the Admission module handle call logs?",
+        "What is the purpose of the Admission Leads page?"
+    ],
+    "keywords": [
+        "Admission module",
+        "application data",
+        "admission leads",
+        "transactions",
+        "reports",
+        "follow-up",
+        "lead logs",
+        "IVR integration"
+    ],
+    "related_topics": [
+        "SIS Module",
+        "Fee Module",
+        "Academics Module",
+        "Attendance Module"
+    ],
+    "id": "admission_admission_module_overview",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}
