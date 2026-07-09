@@ -22,6 +22,7 @@ st.set_page_config(
 def load_okai():
 
     return OKAIChatbot()
+bot = load_okai()
 # ----------------------------
 # CSS
 # ----------------------------
@@ -167,8 +168,10 @@ with st.sidebar:
     st.success("🧠 Embeddings Ready")
     st.success("✨ Gemini Connected")
 
-    st.metric("Knowledge Topics","70")
-    st.metric("Top-K Retrieval","3")
+
+
+    st.metric("Knowledge Topics", len(bot.search.records))
+    st.metric("Top-K Retrieval", "3")
 
     st.markdown("---")
 
@@ -210,7 +213,7 @@ if "messages" not in st.session_state:
 # Load OKAI Only Once
 # ==========================================================
 
-bot = load_okai()
+
 # ============================================================
 # Display Previous Messages
 # ============================================================

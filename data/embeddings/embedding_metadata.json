@@ -2,6 +2,6 @@
     "project": "OKAI ERP",
     "model": "all-MiniLM-L6-v2",
     "dimension": 384,
-    "topics": 70,
-    "generated_at": "2026-07-02 15:55:00"
+    "topics": 131,
+    "generated_at": "2026-07-09 15:05:02"
 }

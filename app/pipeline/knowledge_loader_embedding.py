@@ -6,7 +6,7 @@ class KnowledgeLoader:
 
     def __init__(self):
 
-        BASE_DIR = Path(__file__).resolve().parent.parent
+        BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
         self.master_file = (
             BASE_DIR

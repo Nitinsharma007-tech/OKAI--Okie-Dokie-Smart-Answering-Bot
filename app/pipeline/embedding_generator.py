@@ -5,7 +5,7 @@ from datetime import datetime
 
 from sentence_transformers import SentenceTransformer
 
-from app.Data_pipelining.knowledge_loader_embedding import KnowledgeLoader
+from app.pipeline.knowledge_loader_embedding import KnowledgeLoader
 
 
 class EmbeddingGenerator:
