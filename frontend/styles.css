@@ -330,25 +330,11 @@ button {
   color: #1f2937;
 }
 
-.message.assistant strong {
-  color: #d97706;
-}
 
 .message.assistant strong {
   display: block;
   margin-bottom: 10px;
   color: #d97706;
-}
-
-.assistant-points {
-  margin: 0;
-  padding-left: 20px;
-  color: #1f2937;
-}
-
-.assistant-points li {
-  margin-bottom: 10px;
-  line-height: 1.75;
 }
 
 .knowledge-panel {
@@ -485,4 +471,96 @@ button {
   .composer-panel button {
     width: 100%;
   }
+}
+.assistant-response{
+
+    line-height:1.8;
+    font-size:15px;
+
+}
+
+.assistant-response h1,
+.assistant-response h2,
+.assistant-response h3{
+
+    margin-top:18px;
+    margin-bottom:10px;
+
+}
+
+.assistant-response p{
+
+    margin:10px 0;
+
+}
+
+.assistant-response ul{
+
+    margin-left:20px;
+
+}
+
+.assistant-response ol{
+
+    margin-left:20px;
+
+}
+
+.assistant-response li{
+
+    margin:8px 0;
+
+}
+
+.assistant-response strong{
+
+    font-weight:700;
+
+}
+
+.assistant-response code{
+
+    background:#eee;
+    padding:2px 5px;
+    border-radius:5px;
+
+}
+
+.assistant-response pre{
+
+    background:#1f2937;
+    color:white;
+    padding:15px;
+    border-radius:10px;
+    overflow:auto;
+
+}
+
+.assistant-response table{
+
+    width:100%;
+    border-collapse:collapse;
+
+}
+
+.assistant-response td,
+.assistant-response th{
+
+    border:1px solid #ddd;
+    padding:8px;
+
+}
+
+.assistant-response blockquote{
+
+    border-left:4px solid orange;
+    padding-left:15px;
+    color:#555;
+
+}
+.assistant-title{
+    font-size:18px;
+    font-weight:700;
+    color:#d97706;
+    margin-bottom:15px;
 }
