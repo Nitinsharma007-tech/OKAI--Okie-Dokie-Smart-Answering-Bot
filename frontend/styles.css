@@ -93,11 +93,11 @@ input{
 
     grid-template-columns:
 
-        320px
+        420px
 
-        minmax(650px,1fr)
+        minmax(420px,1fr)
 
-        430px;
+        460px;
 
     height:100vh;
 
@@ -966,11 +966,17 @@ code{
 
     flex:1;
 
+    min-height:0;
+
     overflow-y:auto;
+
+    overflow-anchor:none;
 
     padding:24px;
 
     background:#f8fafc;
+
+    scroll-behavior:smooth;
 
 }
 
@@ -1482,7 +1488,7 @@ code{
 
     justify-content:space-between;
 
-    padding:12px 22px;
+    padding:10px 16px;
 
     cursor:pointer;
 
@@ -1532,9 +1538,9 @@ code{
 
     overflow-wrap:break-word;
 
-    font-size:14px;
+    font-size:12.5px;
 
-    line-height:1.5;
+    line-height:1.4;
 
 }
 
@@ -1572,7 +1578,7 @@ code{
 
     gap:10px;
 
-    padding:10px 14px;
+    padding:8px 12px;
 
     margin-right:12px;
 
@@ -1582,7 +1588,7 @@ code{
 
     transition:.2s;
 
-    font-size:13px;
+    font-size:12px;
 
 }
 
@@ -1855,11 +1861,11 @@ a:hover{
 
         grid-template-columns:
 
-            300px
+            380px
 
             1fr
 
-            380px;
+            420px;
 
     }
 
@@ -1871,7 +1877,7 @@ a:hover{
 
         grid-template-columns:
 
-            280px
+            340px
 
             1fr;
 

@@ -36,6 +36,9 @@ const suggestionButtons =
 const moduleCount =
     document.getElementById("module-count");
 
+// .chat-list itself doesn't scroll — its parent .chat-panel does.
+const chatPanel = chatList.closest(".chat-panel") || chatList.parentElement;
+
 
 /*=========================================================
     GLOBAL STATE
@@ -224,6 +227,27 @@ function highlightMatch(text, lowerQuery){
 }
 
 
+function scrollChatToBottom(){
+
+    // Immediate scroll for the common case
+    chatPanel.scrollTop = chatPanel.scrollHeight;
+
+    // Then again after the browser has fully painted the
+    // new bubble (handles markdown content, images, etc.
+    // that can change height a frame later)
+    requestAnimationFrame(()=>{
+
+        requestAnimationFrame(()=>{
+
+            chatPanel.scrollTop = chatPanel.scrollHeight;
+
+        });
+
+    });
+
+}
+
+
 function loadingButton(isLoading){
 
     sendButton.disabled=isLoading;
@@ -286,7 +310,7 @@ function appendUserMessage(message){
 
     chatList.appendChild(wrapper);
 
-    chatList.scrollTop = chatList.scrollHeight;
+    scrollChatToBottom();
 
 }
 
@@ -309,7 +333,7 @@ function appendAssistantMessage(message){
 
     chatList.appendChild(wrapper);
 
-    chatList.scrollTop = chatList.scrollHeight;
+    scrollChatToBottom();
 
 }
 
@@ -348,7 +372,7 @@ function showTyping(){
 
     chatList.appendChild(wrapper);
 
-    chatList.scrollTop = chatList.scrollHeight;
+    scrollChatToBottom();
 
 }
 
@@ -366,6 +390,8 @@ function hideTyping(){
     if(typing){
 
         typing.remove();
+
+        scrollChatToBottom();
 
     }
 
