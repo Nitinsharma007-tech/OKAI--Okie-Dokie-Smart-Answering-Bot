@@ -20,94 +20,181 @@
           <h1>ERP Assistant</h1>
           <p>Knowledge-driven ERP help with AI and semantic search.</p>
         </div>
+        <div class="knowledge-search">
 
-        <div class="status-grid">
-          <div class="status-card">
-            <span>Status</span>
-            <strong id="status-connection">Connecting...</strong>
+          <input
+              id="knowledge-search"
+              type="text"
+              placeholder="Search modules, topics or questions..."
+              autocomplete="off"
+          />
+          <button
+              id="search-clear"
+              class="search-clear hidden"
+              type="button"
+              aria-label="Clear search">
+              &times;
+          </button>
           </div>
-          <div class="status-card">
-            <span>Knowledge Topics</span>
-            <strong id="status-topics">--</strong>
-          </div>
-          <div class="status-card">
-            <span>Top-K Retrieval</span>
-            <strong id="status-topk">3</strong>
-          </div>
-          <div class="status-card">
-            <span>Model</span>
-            <strong id="status-model">--</strong>
-          </div>
-        </div>
 
         <div class="modules-panel">
           <div class="modules-header">
-            <h2>Modules</h2>
-            <span>30</span>
+            <h2>📚 Knowledge Tree</h2>
+            <span id="module-count">0</span>
           </div>
-          <div class="module-list">
-            <button class="module-item active">All FAQs <span>110</span></button>
-            <button class="module-item">Transport Setup <span>19</span></button>
-            <button class="module-item">Fee <span>18</span></button>
-            <button class="module-item">Admission <span>8</span></button>
-            <button class="module-item">Salary <span>8</span></button>
-            <button class="module-item">Time Table <span>6</span></button>
-            <button class="module-item">Academics <span>5</span></button>
-            <button class="module-item">Concession <span>5</span></button>
-            <button class="module-item">Employee <span>4</span></button>
-            <button class="module-item">Fee Structure <span>3</span></button>
+          <div id="module-list" class="module-list">
           </div>
-        </div>
-
-        <div class="sidebar-footnote">
-          <h2>Quick Start</h2>
-          <p>Ask questions about ERP workflows, student fees, transport setup, and more.</p>
         </div>
       </aside>
 
-      <main class="main-panel">
-        <div class="main-top">
-          <section class="main-header">
-            <div>
-              <p class="eyebrow">Professional ERP Assistant</p>
-              <h2>OKIE DOKIE OKAI</h2>
-              <p>Fast, clean ERP answers in points with AI-powered knowledge retrieval.</p>
-            </div>
-            <div class="search-block">
-              <div class="search-label">Search FAQs</div>
-              <div class="search-field">
-                <input id="faq-search" type="text" placeholder="Search FAQs, modules, or ERP workflows..." autocomplete="off" />
-                <button type="button" id="faq-search-button">Search</button>
-              </div>
-            </div>
-          </section>
+      <main class="workspace">
 
-          <section class="hero-actions">
-            <button type="button" class="pill-button" data-suggestion="How do I collect student fees?">How do I collect student fees?</button>
-            <button type="button" class="pill-button" data-suggestion="How do I assign transport to students?">How do I assign transport to students?</button>
-            <button type="button" class="pill-button" data-suggestion="What is the process for timetable creation?">What is the process for timetable creation?</button>
-          </section>
+    <!-- ========================= -->
+    <!-- Knowledge Viewer -->
+    <!-- ========================= -->
+
+    <section class="viewer-panel">
+
+        <div class="viewer-header">
+
+            <p class="eyebrow">OKAI Knowledge Center</p>
+
+            <h2 id="viewer-title">
+                Welcome to OKAI
+            </h2>
+
+            <p id="viewer-subtitle">
+                Select any question from the Knowledge Tree to view complete ERP documentation.
+            </p>
+
         </div>
 
-        <div class="main-content">
-          <section class="chat-panel">
-            <div id="chat-list" class="chat-list"></div>
-          </section>
+        <div
+    id="viewer-content"
+    class="viewer-content custom-scroll">
 
-          <section class="knowledge-panel">
-            <div class="knowledge-header">
-              <h3>Retrieved Knowledge</h3>
-              <p>The top matched ERP topics used to generate the answer.</p>
+            <div class="welcome-card">
+
+                <h2>📖 OKAI Knowledge Center</h2>
+
+                <p>
+                    Browse ERP documentation from the Knowledge Tree.
+                </p>
+
+                <p>
+                    Expand a module, choose a topic, and click a question to view detailed guidance.
+                </p>
+
+                <p>
+                    You can also ask follow-up questions to the AI Assistant on the right.
+                </p>
+
+                <p>
+
+                    Browse ERP modules from the left panel.
+
+                </p>
+
+                <p>
+
+                    Expand Topics → Select Questions.
+
+                </p>
+
+                <p>
+
+                    The documentation will appear here.
+
+                </p>
+
             </div>
-            <div id="knowledge-container" class="knowledge-list"></div>
-          </section>
+
         </div>
 
-        <form id="chat-form" class="composer-panel">
-          <input id="question-input" type="text" placeholder="Ask anything about the ERP..." autocomplete="off" />
-          <button id="send-button" type="submit">Send</button>
+    </section>
+
+    <!-- ========================= -->
+    <!-- AI Assistant -->
+    <!-- ========================= -->
+
+    <section class="assistant-panel">
+
+        <div class="assistant-header">
+
+            <h2>🤖 OKAI Assistant</h2>
+
+            <p>
+                Ask anything about the ERP.
+            </p>
+
+        </div>
+        <div class="assistant-suggestions">
+
+          <button
+              class="ai-chip"
+              data-question="How do I collect student fees?">
+
+              Student Fees
+
+          </button>
+
+          <button
+              class="ai-chip"
+              data-question="Generate fee report">
+
+              Fee Report
+
+          </button>
+
+          <button
+              class="ai-chip"
+              data-question="Transport Allocation">
+
+              Transport
+
+          </button>
+
+      </div>
+
+        <section class="chat-panel">
+
+            <div
+                id="chat-list"
+                class="chat-list">
+            </div>
+
+        </section>
+
+        <form
+            id="chat-form"
+            class="composer-panel">
+
+            <input
+
+                id="question-input"
+
+                type="text"
+
+                placeholder="Ask anything about the ERP..."
+
+                autocomplete="off"
+
+            />
+
+            <button
+
+                id="send-button"
+
+                type="submit">
+
+                Send
+
+            </button>
+
         </form>
-      </main>
+    </section>
+
+</main>
     </div>
 
     <div id="error-banner" class="toast hidden"></div>

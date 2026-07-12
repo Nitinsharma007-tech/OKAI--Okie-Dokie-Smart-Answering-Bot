@@ -1,5 +1,7 @@
-import pickle
 import json
+import faiss
+import numpy as np
+
 from pathlib import Path
 from datetime import datetime
 
@@ -31,9 +33,14 @@ class EmbeddingGenerator:
             exist_ok=True
         )
 
-        self.embedding_file = (
+        self.index_file = (
             self.embedding_dir /
-            "knowledge_embeddings.pkl"
+            "knowledge.faiss"
+        )
+
+        self.records_file = (
+            self.embedding_dir /
+            "embedding_records.json"
         )
 
         self.metadata_file = (
@@ -89,7 +96,9 @@ Related Topics:
 
         topics = self.loader.load()
 
-        embeddings = []
+        embedding_vectors = []
+
+        records = []
 
         total = len(topics)
 
@@ -109,26 +118,49 @@ Related Topics:
                 normalize_embeddings=True
             )
 
-            embeddings.append({
+            embedding_vectors.append(vector)
 
-            "embedding": vector,
+            records.append(topic)
+        # ====================================
+        # Create FAISS Index
+        # ====================================
 
-            "topic_data": topic
+        embedding_matrix = np.array(
+            embedding_vectors,
+            dtype=np.float32
+        )
 
-})
+        base_index = faiss.IndexFlatIP(
+            embedding_matrix.shape[1]
+        )
 
-        # ----------------------------
-        # Save Pickle
-        # ----------------------------
+        index = faiss.IndexIDMap(base_index)
 
+        ids = np.arange(
+            len(records),
+            dtype=np.int64
+        )
+
+        index.add_with_ids(
+            embedding_matrix,
+            ids
+        )
+
+        faiss.write_index(
+            index,
+            str(self.index_file)
+        )
         with open(
-            self.embedding_file,
-            "wb"
+            self.records_file,
+            "w",
+            encoding="utf-8"
         ) as f:
 
-            pickle.dump(
-                embeddings,
-                f
+            json.dump(
+                records,
+                f,
+                indent=4,
+                ensure_ascii=False
             )
 
         # ----------------------------
@@ -144,10 +176,13 @@ Related Topics:
             "all-MiniLM-L6-v2",
 
             "dimension":
-            len(embeddings[0]["embedding"]),
+            embedding_matrix.shape[1],
 
             "topics":
-            len(embeddings),
+            len(records),
+
+            "index_type":
+            "IndexIDMap(IndexFlatIP)",
 
             "generated_at":
             datetime.now().strftime(
@@ -173,7 +208,7 @@ Related Topics:
         print("=" * 60)
 
         print(
-            f"Topics Embedded : {len(embeddings)}"
+            f"Topics Embedded : {len(records)}"
         )
 
         print(
@@ -182,9 +217,22 @@ Related Topics:
         )
 
         print(
-            f"Saved : {self.embedding_file}"
+            f"Saved : {self.index_file}"
+        )
+
+        print(
+            f"Saved : {self.records_file}"
         )
 
         print(
             f"Saved : {self.metadata_file}"
         )
+# =====================================================
+# Run Embedding Generator
+# =====================================================
+
+if __name__ == "__main__":
+
+    generator = EmbeddingGenerator()
+
+    generator.generate()

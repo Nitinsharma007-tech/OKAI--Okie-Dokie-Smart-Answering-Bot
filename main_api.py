@@ -7,6 +7,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from app.chatbot import OKAIChatbot
+from app.knowledge_browser import KnowledgeBrowser
 
 
 class AskRequest(BaseModel):
@@ -34,7 +35,7 @@ app.add_middleware(
 @app.on_event("startup")
 def startup_event():
     app.state.bot = OKAIChatbot()
-
+    app.state.browser = KnowledgeBrowser()
 
 @app.get("/api/health")
 def health():
@@ -52,7 +53,33 @@ def status():
         "topK": 3,
         "model": bot.gemini.model,
     }
+@app.get("/api/modules")
+def get_modules():
 
+    browser = app.state.browser
+
+    return browser.get_modules_with_stats()
+@app.get("/api/module/{module_name}")
+def get_module(module_name: str):
+
+    browser = app.state.browser
+
+    return browser.get_module_tree(module_name)
+@app.get("/api/topic/{topic_id}")
+def get_topic(topic_id: str):
+
+    browser = app.state.browser
+
+    topic = browser.get_topic(topic_id)
+
+    if topic is None:
+
+        raise HTTPException(
+            status_code=404,
+            detail="Topic not found."
+        )
+
+    return topic
 
 @app.post("/api/ask")
 def ask(request: AskRequest):

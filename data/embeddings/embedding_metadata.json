@@ -3,5 +3,6 @@
     "model": "all-MiniLM-L6-v2",
     "dimension": 384,
     "topics": 131,
-    "generated_at": "2026-07-09 15:05:02"
+    "index_type": "IndexIDMap(IndexFlatIP)",
+    "generated_at": "2026-07-12 12:48:33"
 }

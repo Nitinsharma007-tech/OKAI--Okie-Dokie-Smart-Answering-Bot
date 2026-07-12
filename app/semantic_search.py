@@ -1,4 +1,5 @@
-import pickle
+import json
+import faiss
 from pathlib import Path
 
 import numpy as np
@@ -11,11 +12,18 @@ class SemanticSearch:
 
         BASE_DIR = Path(__file__).resolve().parent.parent
 
-        self.embedding_file = (
+        self.index_file = (
             BASE_DIR
             / "data"
             / "embeddings"
-            / "knowledge_embeddings.pkl"
+            / "knowledge.faiss"
+        )
+
+        self.records_file = (
+            BASE_DIR
+            / "data"
+            / "embeddings"
+            / "embedding_records.json"
         )
 
         print("=" * 60)
@@ -36,44 +44,64 @@ class SemanticSearch:
         # Load Embeddings
         # ----------------------------
 
-        if not self.embedding_file.exists():
+        # ----------------------------
+        # Load FAISS Index
+        # ----------------------------
+
+        if not self.index_file.exists():
 
             raise FileNotFoundError(
-                f"\nEmbedding file not found:\n"
-                f"{self.embedding_file}"
+
+                f"\nFAISS Index not found:\n"
+
+                f"{self.index_file}"
+
             )
 
-        with open(self.embedding_file, "rb") as f:
+        if not self.records_file.exists():
 
-            self.records = pickle.load(f)
+            raise FileNotFoundError(
+
+                f"\nEmbedding records not found:\n"
+
+                f"{self.records_file}"
+
+            )
+
+        self.index = faiss.read_index(
+
+            str(self.index_file)
+
+        )
+
+        with open(
+
+            self.records_file,
+
+            "r",
+
+            encoding="utf-8"
+
+        ) as f:
+
+            self.records = json.load(f)
 
         print(
+
             f"Embedding Records : {len(self.records)}"
-        )
-
-        # ----------------------------
-        # Build Embedding Matrix
-        # ----------------------------
-
-        self.embeddings = np.array(
-
-            [
-
-                record["embedding"]
-
-                for record in self.records
-
-            ]
 
         )
 
         print(
-            f"Embedding Shape : "
-            f"{self.embeddings.shape}"
+
+            f"FAISS Vectors : {self.index.ntotal}"
+
         )
 
         print("=" * 60)
+
         print("Semantic Search Ready")
+
         print("=" * 60)
 
     # =====================================================
@@ -94,28 +122,8 @@ class SemanticSearch:
 
         return embedding
 
+    
     # =====================================================
-    # Cosine Similarity
-    # =====================================================
-
-    def cosine_similarity(
-
-        self,
-
-        question_embedding
-
-    ):
-
-        similarities = np.dot(
-
-            self.embeddings,
-
-            question_embedding
-
-        )
-
-        return similarities
-        # =====================================================
     # Semantic Search
     # =====================================================
 
@@ -144,64 +152,55 @@ class SemanticSearch:
         )
 
         # ----------------------------------------
-        # Similarities
+        # FAISS Search
         # ----------------------------------------
 
-        similarities = self.cosine_similarity(
-            question_embedding
+        scores, indices = self.index.search(
+
+            np.array(
+                [question_embedding],
+                dtype=np.float32
+            ),
+
+            top_k
+
         )
 
-        # ----------------------------------------
-        # Best Matches
-        # ----------------------------------------
+        best_indices = indices[0]
 
-        best_indices = np.argsort(
-            similarities
-        )[::-1][:top_k]
+        similarities = scores[0]
 
         results = []
 
         print("Top Matches")
         print("-" * 60)
 
-        for rank, index in enumerate(
-
-            best_indices,
-
+        for rank, (index, score) in enumerate(
+            zip(best_indices, similarities),
             start=1
-
         ):
 
-            record = self.records[index]
+            if index == -1:
+                continue
 
-            score = float(similarities[index])
-
-            topic = record["topic_data"]
+            topic = self.records[index]
 
             print(
-
                 f"{rank}. "
-
                 f"{topic['topic']} "
-
                 f"({score:.4f})"
-
             )
 
-            results.append(
+            results.append({
 
-                {
+                "rank": rank,
 
-                    "rank": rank,
+                "score": round(float(score), 4),
 
-                    "score": round(score, 4),
+                "topic_data": topic
 
-                    "topic_data": topic
-
-                }
-
-            )
-
+            })
+    
         print("-" * 60)
 
         return results
@@ -281,7 +280,7 @@ class SemanticSearch:
             print()
 
             print("=" * 60)
-                # =====================================================
+    # =====================================================
     # Get Best Match
     # =====================================================
 
@@ -293,7 +292,6 @@ class SemanticSearch:
             return None
 
         return results[0]
-
     # =====================================================
     # Search By Module
     # =====================================================
@@ -302,31 +300,47 @@ class SemanticSearch:
 
         question_embedding = self.embed_question(question)
 
-        similarities = self.cosine_similarity(question_embedding)
+        scores, indices = self.index.search(
+
+            np.array(
+                [question_embedding],
+                dtype=np.float32
+            ),
+
+            len(self.records)
+
+        )
 
         filtered = []
 
-        for i, record in enumerate(self.records):
+        for score, idx in zip(scores[0], indices[0]):
 
-            topic = record["topic_data"]
+            if idx == -1:
+                continue
+
+            topic = self.records[idx]
 
             if topic.get("module", "").lower() == module_name.lower():
 
-                filtered.append((i, similarities[i]))
+                filtered.append({
 
-        filtered = sorted(filtered, key=lambda x: x[1], reverse=True)
+                    "score": float(score),
+
+                    "topic": topic
+
+                })
 
         results = []
 
-        for rank, (idx, score) in enumerate(filtered[:top_k], start=1):
+        for rank, item in enumerate(filtered[:top_k], start=1):
 
             results.append({
 
                 "rank": rank,
 
-                "score": round(float(score), 4),
+                "score": round(item["score"], 4),
 
-                "topic_data": self.records[idx]["topic_data"]
+                "topic_data": item["topic"]
 
             })
 
