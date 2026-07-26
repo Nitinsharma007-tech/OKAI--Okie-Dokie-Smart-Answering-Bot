@@ -36,6 +36,35 @@ const suggestionButtons =
 const moduleCount =
     document.getElementById("module-count");
 
+const assistantPanel =
+    document.getElementById("assistant-panel");
+
+const chatFab =
+    document.getElementById("chat-fab");
+
+const chatCloseButton =
+    document.getElementById("chat-close");
+
+const questionCountEl =
+    document.getElementById("question-count");
+
+const themeToggleButton =
+    document.getElementById("theme-toggle");
+
+const printButton =
+    document.getElementById("print-btn");
+
+const shortcutsButton =
+    document.getElementById("shortcuts-btn");
+
+const shortcutsPopover =
+    document.getElementById("shortcuts-popover");
+
+const shortcutsCloseButton =
+    document.getElementById("shortcuts-close");
+
+const MODULE_COLORS = ["m0", "m1", "m2", "m3", "m4", "m5"];
+
 // .chat-list itself doesn't scroll — its parent .chat-panel does.
 const chatPanel = chatList.closest(".chat-panel") || chatList.parentElement;
 
@@ -281,6 +310,8 @@ window.addEventListener(
 
         );
 
+        initTheme();
+
         showWelcome();
 
         loadModules();
@@ -418,6 +449,8 @@ async function askQuestion(question){
 
     }
 
+    openChatWidget();
+
     appendUserMessage(question);
 
     input.value = "";
@@ -512,6 +545,8 @@ suggestionButtons.forEach(button=>{
 
         ()=>{
 
+            openChatWidget();
+
             askQuestion(
 
                 button.dataset.question
@@ -523,6 +558,244 @@ suggestionButtons.forEach(button=>{
     );
 
 });
+
+
+/*=========================================================
+    CHAT WIDGET TOGGLE (floating button + panel)
+=========================================================*/
+
+function openChatWidget(){
+
+    assistantPanel.classList.add("open");
+
+    chatFab.classList.add("hidden");
+
+    chatFab.setAttribute("aria-expanded", "true");
+
+    // Give the open animation a beat, then focus the input
+    setTimeout(()=>{
+
+        input.focus();
+        scrollChatToBottom();
+
+    }, 200);
+
+}
+
+
+function closeChatWidget(){
+
+    assistantPanel.classList.remove("open");
+
+    chatFab.classList.remove("hidden");
+
+    chatFab.setAttribute("aria-expanded", "false");
+
+}
+
+
+function toggleChatWidget(){
+
+    if(assistantPanel.classList.contains("open")){
+
+        closeChatWidget();
+
+    }
+
+    else{
+
+        openChatWidget();
+
+    }
+
+}
+
+
+chatFab.addEventListener("click", toggleChatWidget);
+
+chatCloseButton.addEventListener("click", closeChatWidget);
+
+document.addEventListener("keydown", (event)=>{
+
+    if(event.key === "Escape"){
+
+        if(!shortcutsPopover.classList.contains("hidden")){
+            closeShortcuts();
+        }
+
+        if(assistantPanel.classList.contains("open")){
+            closeChatWidget();
+        }
+
+    }
+
+});
+
+
+/*=========================================================
+    THEME (LIGHT / DARK)
+=========================================================*/
+
+function applyTheme(theme){
+
+    document.documentElement.dataset.theme = theme;
+
+    try{
+        localStorage.setItem("okai-theme", theme);
+    }
+    catch(error){ /* storage unavailable, ignore */ }
+
+}
+
+
+function initTheme(){
+
+    let saved = null;
+
+    try{
+        saved = localStorage.getItem("okai-theme");
+    }
+    catch(error){ /* storage unavailable, ignore */ }
+
+    if(saved === "dark" || saved === "light"){
+        applyTheme(saved);
+        return;
+    }
+
+    const prefersDark =
+        window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+    applyTheme(prefersDark ? "dark" : "light");
+
+}
+
+
+function toggleTheme(){
+
+    const current = document.documentElement.dataset.theme === "dark"
+        ? "dark"
+        : "light";
+
+    applyTheme(current === "dark" ? "light" : "dark");
+
+}
+
+
+themeToggleButton.addEventListener("click", toggleTheme);
+
+
+/*=========================================================
+    PRINT
+=========================================================*/
+
+printButton.addEventListener("click", ()=>{
+
+    window.print();
+
+});
+
+
+/*=========================================================
+    KEYBOARD SHORTCUTS POPOVER
+=========================================================*/
+
+function openShortcuts(){
+
+    shortcutsPopover.classList.remove("hidden");
+
+    shortcutsButton.setAttribute("aria-expanded", "true");
+
+}
+
+
+function closeShortcuts(){
+
+    shortcutsPopover.classList.add("hidden");
+
+    shortcutsButton.setAttribute("aria-expanded", "false");
+
+}
+
+
+function toggleShortcuts(){
+
+    if(shortcutsPopover.classList.contains("hidden")){
+        openShortcuts();
+    }
+    else{
+        closeShortcuts();
+    }
+
+}
+
+
+shortcutsButton.addEventListener("click", toggleShortcuts);
+
+shortcutsCloseButton.addEventListener("click", closeShortcuts);
+
+document.addEventListener("click", (event)=>{
+
+    if(shortcutsPopover.classList.contains("hidden")){
+        return;
+    }
+
+    if(shortcutsPopover.contains(event.target) ||
+        shortcutsButton.contains(event.target)){
+        return;
+    }
+
+    closeShortcuts();
+
+});
+
+
+/*=========================================================
+    GLOBAL KEYBOARD SHORTCUTS
+    "/" focuses search, "d" toggles theme, "?" toggles
+    the shortcuts popover — all skipped while the user
+    is already typing in a field.
+=========================================================*/
+
+function isTypingTarget(target){
+
+    const tag = target.tagName;
+
+    return tag === "INPUT" ||
+        tag === "TEXTAREA" ||
+        target.isContentEditable;
+
+}
+
+
+document.addEventListener("keydown", (event)=>{
+
+    if(isTypingTarget(event.target)){
+        return;
+    }
+
+    if(event.key === "/"){
+
+        event.preventDefault();
+        searchBox.focus();
+
+    }
+
+    else if(event.key === "d" || event.key === "D"){
+
+        toggleTheme();
+
+    }
+
+    else if(event.key === "?"){
+
+        toggleShortcuts();
+
+    }
+
+});
+
+
 /*=========================================================
     KNOWLEDGE VIEWER
 =========================================================*/
@@ -666,11 +939,27 @@ function showKnowledge(items){
 
     html += `
 
+        <button class="ask-ai-btn" id="ask-ai-btn" type="button">
+            💬 Ask the AI about this topic
+        </button>
+
     </div>
 
     `;
 
     viewerContent.innerHTML = html;
+
+    const askAiBtn = document.getElementById("ask-ai-btn");
+
+    if(askAiBtn){
+
+        askAiBtn.addEventListener("click", ()=>{
+            openChatWidget();
+            input.value = "Tell me more about: " + topic.topic;
+            input.focus();
+        });
+
+    }
 
 }
 /*=========================================================
@@ -718,7 +1007,7 @@ async function prefetchFullTree(modules){
         modules.map(async module=>{
 
             if(fullTreeCache[module.module]){
-
+                updateQuestionCountStat();
                 return;
 
             }
@@ -739,9 +1028,32 @@ async function prefetchFullTree(modules){
 
             }
 
+            updateQuestionCountStat();
+
         })
 
     );
+
+}
+
+
+function updateQuestionCountStat(){
+
+    if(!questionCountEl){
+        return;
+    }
+
+    let total = 0;
+
+    Object.values(fullTreeCache).forEach(topics=>{
+
+        (topics || []).forEach(topic=>{
+            total += topic.question_count || 0;
+        });
+
+    });
+
+    questionCountEl.textContent = total;
 
 }
 
@@ -754,13 +1066,27 @@ function renderModules(modules){
 
     moduleList.innerHTML="";
 
-    modules.forEach(module=>{
+    const maxTopics = Math.max(1, ...modules.map(m=>m.topics || 0));
+
+    modules.forEach((module, index)=>{
+
+        const colorVar = MODULE_COLORS[index % MODULE_COLORS.length];
+
+        const barPercent = Math.max(
+            6,
+            Math.round(((module.topics || 0) / maxTopics) * 100)
+        );
 
         const item=document.createElement("div");
 
         item.className="tree-module";
 
         item.dataset.moduleName=module.module;
+
+        item.style.setProperty(
+            "--module-accent",
+            `var(--${colorVar})`
+        );
 
         item.innerHTML=`
 
@@ -800,6 +1126,10 @@ function renderModules(modules){
 
                 </span>
 
+            </div>
+
+            <div class="tree-bar">
+                <div class="tree-bar-fill" style="width:${barPercent}%"></div>
             </div>
 
             <div

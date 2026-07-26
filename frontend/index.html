@@ -6,7 +6,7 @@
     <title>OKAI ERP Assistant</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/styles.css" />
     <link
     rel="stylesheet"
@@ -14,20 +14,33 @@
   </head>
   <body>
     <div class="app-shell">
-      <aside class="sidebar-panel">
-        <div class="brand-block">
-          <span class="brand-mark">OKAI</span>
-          <h1>ERP Assistant</h1>
-          <p>Knowledge-driven ERP help with AI and semantic search.</p>
-        </div>
-        <div class="knowledge-search">
 
+      <!-- ========================= -->
+      <!-- Top Bar -->
+      <!-- ========================= -->
+
+      <header class="topbar">
+
+        <div class="topbar-brand">
+          <span class="brand-mark">OK</span>
+          <div class="topbar-brand-text">
+            <strong>OKAI</strong>
+            <span>ERP Knowledge Center</span>
+          </div>
+        </div>
+
+        <div class="topbar-search">
+          <svg class="topbar-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+            <path d="M21 21L16.65 16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
           <input
               id="knowledge-search"
               type="text"
               placeholder="Search modules, topics or questions..."
               autocomplete="off"
           />
+          <kbd class="search-kbd">/</kbd>
           <button
               id="search-clear"
               class="search-clear hidden"
@@ -35,166 +48,236 @@
               aria-label="Clear search">
               &times;
           </button>
-          </div>
+        </div>
 
-        <div class="modules-panel">
-          <div class="modules-header">
-            <h2>📚 Knowledge Tree</h2>
-            <span id="module-count">0</span>
+        <div class="topbar-stats">
+          <div class="stat-pill">
+            <span class="stat-dot" aria-hidden="true"></span>
+            <strong id="module-count">0</strong>
+            <span>Modules</span>
           </div>
-          <div id="module-list" class="module-list">
+          <div class="stat-pill">
+            <span class="stat-dot stat-dot--alt" aria-hidden="true"></span>
+            <strong id="question-count">0</strong>
+            <span>Questions</span>
           </div>
         </div>
-      </aside>
 
-      <main class="workspace">
+        <div class="topbar-actions">
 
-    <!-- ========================= -->
-    <!-- Knowledge Viewer -->
-    <!-- ========================= -->
+          <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <span class="icon-sun">☀️</span>
+            <span class="icon-moon">🌙</span>
+          </button>
 
-    <section class="viewer-panel">
+          <button id="print-btn" class="icon-btn" type="button" aria-label="Print this page" title="Print">
+            🖨️
+          </button>
 
-        <div class="viewer-header">
-
-            <p class="eyebrow">OKAI Knowledge Center</p>
-
-            <h2 id="viewer-title">
-                Welcome to OKAI
-            </h2>
-
-            <p id="viewer-subtitle">
-                Select any question from the Knowledge Tree to view complete ERP documentation.
-            </p>
+          <button id="shortcuts-btn" class="icon-btn" type="button" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" aria-haspopup="true" aria-expanded="false">
+            ⌨️
+          </button>
 
         </div>
 
-        <div
-    id="viewer-content"
-    class="viewer-content custom-scroll">
+      </header>
 
-            <div class="welcome-card">
+      <div class="app-body">
 
-                <h2>📖 OKAI Knowledge Center</h2>
+        <!-- ========================= -->
+        <!-- Sidebar / Knowledge Tree -->
+        <!-- ========================= -->
 
-                <p>
-                    Browse ERP documentation from the Knowledge Tree.
-                </p>
+        <aside class="sidebar-panel">
 
-                <p>
-                    Expand a module, choose a topic, and click a question to view detailed guidance.
-                </p>
+          <div class="modules-panel">
+            <div class="modules-header">
+              <h2>Knowledge Tree</h2>
+              <span class="modules-header-hint">Click to expand</span>
+            </div>
+            <div id="module-list" class="module-list">
+            </div>
+          </div>
 
-                <p>
-                    You can also ask follow-up questions to the AI Assistant on the right.
-                </p>
+          <div class="sidebar-hints">
+            <span><kbd>/</kbd> Search</span>
+            <span><kbd>D</kbd> Dark mode</span>
+            <span><kbd>?</kbd> Shortcuts</span>
+          </div>
 
-                <p>
+        </aside>
 
-                    Browse ERP modules from the left panel.
+        <main class="workspace">
 
-                </p>
+          <!-- ========================= -->
+          <!-- Knowledge Viewer -->
+          <!-- ========================= -->
 
-                <p>
+          <section class="viewer-panel">
 
-                    Expand Topics → Select Questions.
+              <div class="viewer-header">
 
-                </p>
+                  <p class="eyebrow" id="viewer-eyebrow">OKAI Knowledge Center</p>
 
-                <p>
+                  <h2 id="viewer-title">
+                      Welcome to OKAI
+                  </h2>
 
-                    The documentation will appear here.
+                  <p id="viewer-subtitle">
+                      Select any question from the Knowledge Tree to view complete ERP documentation.
+                  </p>
 
-                </p>
+              </div>
+
+              <div
+          id="viewer-content"
+          class="viewer-content custom-scroll">
+
+                  <div class="welcome-card">
+
+                      <div class="welcome-glyph">📖</div>
+
+                      <h2>OKAI Knowledge Center</h2>
+
+                      <p>
+                          Browse ERP documentation from the Knowledge Tree on the left, or ask the
+                          AI Assistant anything &mdash; it's always on, in the bottom-right corner.
+                      </p>
+
+                      <div class="welcome-steps">
+
+                          <div class="welcome-step">
+                              <span class="welcome-step-num">1</span>
+                              <span>Expand a module to reveal its topics</span>
+                          </div>
+
+                          <div class="welcome-step">
+                              <span class="welcome-step-num">2</span>
+                              <span>Choose a question to open its guide</span>
+                          </div>
+
+                          <div class="welcome-step">
+                              <span class="welcome-step-num">3</span>
+                              <span>Ask the assistant if you need more detail</span>
+                          </div>
+
+                      </div>
+
+                  </div>
+
+              </div>
+
+          </section>
+
+          <!-- ========================= -->
+          <!-- AI Assistant (floating widget) -->
+          <!-- ========================= -->
+
+          <section id="assistant-panel" class="assistant-panel">
+
+              <div class="assistant-header">
+
+                  <div class="assistant-avatar">🤖</div>
+
+                  <div class="assistant-header-text">
+                      <h2>OKAI Assistant</h2>
+                      <p>Here to help when the FAQ doesn't have an answer.</p>
+                  </div>
+
+                  <button
+                      id="chat-close"
+                      class="chat-close-btn"
+                      type="button"
+                      aria-label="Close assistant">
+                      &times;
+                  </button>
+
+              </div>
+
+              <div class="assistant-status">
+                  <span class="assistant-status-dot"></span>
+                  AI powered &middot; always on
+              </div>
+
+              <div class="assistant-suggestions">
+
+                <button
+                    class="ai-chip"
+                    data-question="How do I collect student fees?">
+                    Student Fees
+                </button>
+
+                <button
+                    class="ai-chip"
+                    data-question="Generate fee report">
+                    Fee Report
+                </button>
+
+                <button
+                    class="ai-chip"
+                    data-question="Transport Allocation">
+                    Transport
+                </button>
 
             </div>
 
-        </div>
+              <section class="chat-panel">
 
-    </section>
+                  <div
+                      id="chat-list"
+                      class="chat-list">
+                  </div>
 
-    <!-- ========================= -->
-    <!-- AI Assistant -->
-    <!-- ========================= -->
+              </section>
 
-    <section class="assistant-panel">
+              <form
+                  id="chat-form"
+                  class="composer-panel">
 
-        <div class="assistant-header">
+                  <input
+                      id="question-input"
+                      type="text"
+                      placeholder="Type your question..."
+                      autocomplete="off"
+                  />
 
-            <h2>🤖 OKAI Assistant</h2>
+                  <button
+                      id="send-button"
+                      class="send-btn"
+                      type="submit"
+                      aria-label="Send">
+                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                          <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      </svg>
+                  </button>
 
-            <p>
-                Ask anything about the ERP.
-            </p>
+              </form>
 
-        </div>
-        <div class="assistant-suggestions">
-
-          <button
-              class="ai-chip"
-              data-question="How do I collect student fees?">
-
-              Student Fees
-
-          </button>
-
-          <button
-              class="ai-chip"
-              data-question="Generate fee report">
-
-              Fee Report
-
-          </button>
+          </section>
 
           <button
-              class="ai-chip"
-              data-question="Transport Allocation">
-
-              Transport
-
+              id="chat-fab"
+              class="chat-fab"
+              type="button"
+              aria-label="Open OKAI Assistant">
+              <span class="chat-fab-icon">💬</span>
           </button>
+
+        </main>
 
       </div>
+    </div>
 
-        <section class="chat-panel">
-
-            <div
-                id="chat-list"
-                class="chat-list">
-            </div>
-
-        </section>
-
-        <form
-            id="chat-form"
-            class="composer-panel">
-
-            <input
-
-                id="question-input"
-
-                type="text"
-
-                placeholder="Ask anything about the ERP..."
-
-                autocomplete="off"
-
-            />
-
-            <button
-
-                id="send-button"
-
-                type="submit">
-
-                Send
-
-            </button>
-
-        </form>
-    </section>
-
-</main>
+    <div id="shortcuts-popover" class="shortcuts-popover hidden" role="dialog" aria-label="Keyboard shortcuts">
+        <div class="shortcuts-popover-header">
+            <strong>Keyboard shortcuts</strong>
+            <button id="shortcuts-close" type="button" aria-label="Close">&times;</button>
+        </div>
+        <div class="shortcuts-row"><kbd>/</kbd><span>Focus search</span></div>
+        <div class="shortcuts-row"><kbd>D</kbd><span>Toggle dark mode</span></div>
+        <div class="shortcuts-row"><kbd>Esc</kbd><span>Close assistant / popovers</span></div>
+        <div class="shortcuts-row"><kbd>?</kbd><span>Show this panel</span></div>
     </div>
 
     <div id="error-banner" class="toast hidden"></div>
