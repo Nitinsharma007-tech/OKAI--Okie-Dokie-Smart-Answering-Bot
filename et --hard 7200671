@@ -1,0 +1,35 @@
+[33m256c57e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updated Knowledge Base
+[33m7200671[m time faster
+[33m744094a[m small change
+[33m27d2ac0[m cache updated
+[33m4908afb[m Edited the chatbot
+[33m201556e[m Added semantic cache with dynamic learning and optimized RAG pipeline
+[33m3c15244[m ui changes
+[33mb0a8a1b[m updated ui
+[33mb1c4d53[m Changed Cosine similarity to Faiss-Cpu
+[33m8a0d843[m updated knowledge
+[33m782ddc7[m gitignore updated
+[33m7f7aefb[m New Data Added
+[33m9b1f8a0[m ui changes
+[33m9c79a73[m Folder Strucuture Enhancement
+[33m2f6da1d[m UI better ment
+[33m478159d[m changes railway.json
+[33mc67def4[m Updated requirements for FastAPI backend
+[33m19a6c0f[m UI changed
+[33m3d84d13[m created md file for context of complete project
+[33mcde667d[m updated requirements
+[33m81a840b[m updated requirement.txt
+[33m0c19bda[m Add Railway deployment configuration
+[33m8d2d07c[m Updated requirements for Railway deployment
+[33m4679b17[m Delete Procfile
+[33m2579ed7[m Add web process to Procfile for Streamlit app
+[33m96c264c[m Added new folder for <purpose>
+[33m2386426[m Removed unused test file
+[33m9665ac6[m Remove duplicate star suggestion line in README
+[33m738658f[m Added clickable suggested questions support
+[33md781733[m Revise README for clarity and project overview
+[33mf17ff5a[m Major update: Improved Streamlit UI, Gemini API fallback, and project configuration
+[33ma562c10[m Update requirements
+[33md2da37a[m Merge branch 'main' of https://github.com/Nitinsharma007-tech/OKAI--Okie-Dokie-Smart-Answering-Bot
+[33m43882a5[m Complete OKAI RAG Chatbot
+[33m364f2d0[m Initial commit
