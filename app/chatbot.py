@@ -2,7 +2,7 @@ from app.semantic_search import SemanticSearch
 from app.context_builder import ContextBuilder
 from app.gemini_agent import GeminiAgent
 from app.cache_manager import CacheManager
-
+import time
 
 class OKAIChatbot:
 
@@ -34,6 +34,24 @@ class OKAIChatbot:
     # Ask
     # ======================================================
     def ask(self, question):
+        t0 = time.time()
+        cached = self.cache.lookup(question)
+        print(f"[TIMING] cache.lookup: {time.time()-t0:.2f}s")
+
+        if cached:
+            return cached["answer"], None, True
+
+        t1 = time.time()
+        search_results = self.search.search(question, top_k=3)
+        print(f"[TIMING] search: {time.time()-t1:.2f}s")
+
+        t2 = time.time()
+        context = self.builder.build(search_results)
+        print(f"[TIMING] context build: {time.time()-t2:.2f}s")
+
+        t3 = time.time()
+        answer = self.gemini.generate(prompt)
+        print(f"[TIMING] gemini.generate: {time.time()-t3:.2f}s")
 
         # --------------------------------------------------
         # 1. Try Cache First
