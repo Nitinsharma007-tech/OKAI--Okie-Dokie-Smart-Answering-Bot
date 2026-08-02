@@ -1,0 +1,62 @@
+{
+    "module": "Data Analysis",
+    "topic": "Applying IF Formula for Conditional Grading",
+    "summary": "This topic explains how to use the IF formula to assign grades or pass/fail status based on a student's total marks. It covers setting up multiple nested IF conditions for different grade thresholds and defining the output for each condition.",
+    "navigation": [],
+    "steps": [
+        "Identify relevant data fields such as 'Student name', 'Subject 1', 'Subject 2', 'Subject 3'.",
+        "Calculate the 'Total' marks by summing the scores from 'Subject 1', 'Subject 2', and 'Subject 3'.",
+        "In the 'Grade' field, enter the IF formula (e.g., '=IF(Logical_Test, Value_if_True, Value_if_False)').",
+        "For the first condition, define the logical test (e.g., 'Total >= 90').",
+        "Specify the value if the first condition is true (e.g., 'A').",
+        "For subsequent conditions, use nested IF statements as the 'Value_if_False' argument of the preceding IF (e.g., 'IF(Total >= 80, \"B\", ...)').",
+        "Define the final value if all preceding conditions are false (e.g., 'Fail' or 'F').",
+        "Ensure all brackets are correctly closed for nested IF statements."
+    ],
+    "business_rules": [
+        "Grade A: If Total marks are greater than or equal to 90.",
+        "Grade B: If Total marks are greater than or equal to 80 (and less than 90, due to nesting).",
+        "Fail: If Total marks are less than 80.",
+        "Alternative Rule Set:",
+        "Grade C: If Total marks are greater than or equal to 80.",
+        "Grade F: If Total marks are less than 80."
+    ],
+    "important_notes": [
+        "The IF formula uses logical tests to determine the output based on specified conditions.",
+        "Nested IF statements can be used to evaluate multiple conditions sequentially.",
+        "The order of conditions in nested IF statements is crucial; typically, check for the highest or most specific condition first.",
+        "The final 'Value_if_False' argument in the outermost IF statement handles all cases not met by any preceding conditions."
+    ],
+    "questions": [
+        "How do I use the IF formula to assign grades based on student scores?",
+        "What is the syntax for a nested IF formula to handle multiple grading conditions?",
+        "How can I define pass/fail criteria using the IF formula in a spreadsheet?",
+        "Can the IF formula be used to categorize data based on numerical ranges?",
+        "How do I apply conditional logic for student grading in an ERP report?"
+    ],
+    "keywords": [
+        "IF formula",
+        "conditional logic",
+        "grading",
+        "student marks",
+        "pass/fail",
+        "nested IF",
+        "logical test",
+        "data analysis",
+        "grade calculation",
+        "spreadsheet formula"
+    ],
+    "related_topics": [
+        "Data Validation",
+        "Conditional Formatting",
+        "VLOOKUP",
+        "COUNTIF",
+        "CONCATENATE"
+    ],
+    "id": "data_analysis_applying_if_formula_for_conditional_grading",
+    "source": {
+        "file": "Okie Dokie Rahul - 2026_07_08 16_30 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

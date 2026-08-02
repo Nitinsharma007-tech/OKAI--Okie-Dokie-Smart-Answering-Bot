@@ -1,0 +1,53 @@
+{
+    "module": "Hostel Management",
+    "topic": "Importing Hostel and Transport Data",
+    "summary": "This topic details the requirements and process for importing structured data related to hostel and transport services, including room allocations, bus routes, and student assignments, to enable proper management within the ERP.",
+    "navigation": [],
+    "steps": [
+        "For hostel data, provide details such as hostel name, room numbers, and bed allocations (if the hostel module is to be fully utilized).",
+        "For transport data, provide bus numbers, corresponding pick-up points/stoppages, and the division of students assigned to each bus/route.",
+        "The ERP team will provide sample Excel formats to guide the preparation of this data.",
+        "Submit the prepared Excel files to the ERP team for import."
+    ],
+    "business_rules": [
+        "Hostel fees are typically structured with multiple installments.",
+        "Transport fees often vary based on the route or distance (e.g., different rates for Faridabad vs. Delhi) and are also divided into installments."
+    ],
+    "important_notes": [
+        "Detailed bus-wise student division for transport is crucial and needs to be created if not already available.",
+        "The Transport Incharge will be responsible for providing the necessary transport data.",
+        "The ERP team will share sample Excel sheets to ensure data is provided in the correct format for import."
+    ],
+    "questions": [
+        "What kind of data is required for importing hostel information into the ERP?",
+        "How do we provide transport routes and student assignments for import?",
+        "Can the system handle different transport fee structures based on location?",
+        "What is the required format for hostel and transport data import?",
+        "Who is responsible for providing the transport data?",
+        "Will the hostel module manage room and bed allocations?"
+    ],
+    "keywords": [
+        "Hostel data",
+        "transport data",
+        "hostel module",
+        "transport module",
+        "room details",
+        "bed allocation",
+        "bus routes",
+        "pick-up points",
+        "stoppages",
+        "student division",
+        "data import",
+        "sample Excel"
+    ],
+    "related_topics": [
+        "Student Data Import",
+        "Fee Structure Setup"
+    ],
+    "id": "hostel_management_importing_hostel_and_transport_data",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

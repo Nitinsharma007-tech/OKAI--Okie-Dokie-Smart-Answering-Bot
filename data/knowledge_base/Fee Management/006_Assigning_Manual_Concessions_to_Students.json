@@ -1,0 +1,59 @@
+{
+    "module": "Fee Management",
+    "topic": "Assigning Manual Concessions to Students",
+    "summary": "This topic explains how to apply ad-hoc or manual concessions to individual students, allowing for flexible amounts and the option to upload supporting documents. It also addresses scenarios where concessions are applied after fees have been paid.",
+    "navigation": [
+        "Student List",
+        "Select a student",
+        "Concession Fee"
+    ],
+    "steps": [
+        "Navigate to 'Student List'.",
+        "Select the desired student.",
+        "Click on 'Concession Fee'.",
+        "Select the 'Manual Concession' group (or any other applicable concession group).",
+        "The system will display the applicable fee heads. Enter the desired 'Concession Amount' for each fee head.",
+        "(Optional) Enter a 'Remark' for the concession.",
+        "(Optional) Click 'Upload File' to attach supporting documents (e.g., application).",
+        "Click 'Save'.",
+        "If the student has already paid the full fee, confirm if the concession amount should be treated as an 'extra fee' (credit/refund)."
+    ],
+    "business_rules": [
+        "For manual concessions, a placeholder concession group (e.g., 'Manual Concession' with 0 flat amount on all heads) is often created to allow flexible amount entry during assignment.",
+        "If a concession is applied after fees are fully paid, the system prompts to handle the concession amount as an extra fee.",
+        "If a total manual concession amount is entered for multiple fee heads, the system distributes it across the selected heads based on their demand."
+    ],
+    "important_notes": [
+        "This method is used for concessions that are not predefined or vary per student.",
+        "Supporting documents can be uploaded for audit trails."
+    ],
+    "questions": [
+        "How do I apply a custom or ad-hoc concession to a student?",
+        "What is a 'manual concession' and when is it used?",
+        "Can I upload documents when assigning a manual concession?",
+        "What happens if I apply a concession to a student who has already paid their fees?",
+        "How does the system distribute a manual concession amount across multiple fee heads?"
+    ],
+    "keywords": [
+        "Manual concession",
+        "assign concession",
+        "student concession",
+        "ad-hoc concession",
+        "extra fee",
+        "concession amount",
+        "upload document",
+        "student list",
+        "fee demand"
+    ],
+    "related_topics": [
+        "Concession Group Management",
+        "Fee Management",
+        "Student Fee Assignment"
+    ],
+    "id": "fee_management_assigning_manual_concessions_to_students",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

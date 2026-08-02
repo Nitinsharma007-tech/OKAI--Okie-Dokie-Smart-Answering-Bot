@@ -1,0 +1,45 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page - Overview and Basic Actions",
+    "summary": "Introduces the Admission Leads page, explaining how to identify and manage leads. It covers the 'not engaged' filter, the visual indicator (red ribbons) for untouched leads, and basic actions like adding tags, follow-ups, and visits.",
+    "navigation": [
+        "Leads Page"
+    ],
+    "steps": [
+        "Navigate to the Leads Page.",
+        "Apply the 'not engaged' filter to view leads without any counselor activity.",
+        "Identify untouched leads marked with red ribbons.",
+        "Select a lead to add a tag, follow-up, or visit based on student interaction."
+    ],
+    "business_rules": [
+        "Leads with no counselor activity are categorized as 'not engaged'.",
+        "Red ribbons visually indicate 'not engaged' or untouched leads."
+    ],
+    "important_notes": [],
+    "questions": [
+        "What does 'not engaged' mean on the Admission Leads page?",
+        "How do I find leads that haven't been contacted yet?",
+        "What do the red ribbons on leads signify?",
+        "How can I add a tag or follow-up to a lead?"
+    ],
+    "keywords": [
+        "Admission leads",
+        "leads page",
+        "not engaged",
+        "red ribbons",
+        "untouched leads",
+        "add tags",
+        "add follow-ups",
+        "add visits"
+    ],
+    "related_topics": [
+        "Admission Tags Configuration",
+        "Admission Leads Page - Filters and Global Search"
+    ],
+    "id": "admissions_admission_leads_page_overview_and_basic_actions",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

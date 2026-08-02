@@ -1,0 +1,47 @@
+{
+    "module": "Academics",
+    "topic": "Teacher Mapping",
+    "summary": "This process details how to assign various roles to employees for a specific class, including Class Teacher, Coordinator, and Subject Teacher. It also clarifies the access levels associated with each role.",
+    "navigation": [],
+    "steps": [
+        "Navigate to the class mapping for which you want to assign teachers (e.g., Class 5th, Section A).",
+        "To assign a \"Class Teacher\": Select an employee from the list and set them as the Class Teacher.",
+        "To assign a \"Coordinator\": Select one or more employees from the list and set them as Coordinators.",
+        "To assign a \"Subject Teacher\": For each subject listed in the class mapping, select one or more employees from the list to be the Subject Teacher(s) for that specific subject."
+    ],
+    "business_rules": [
+        "Only one \"Class Teacher\" can be assigned per class.",
+        "Multiple \"Coordinators\" can be assigned per class.",
+        "Multiple \"Subject Teachers\" can be assigned per subject.",
+        "\"Class Teachers\" and \"Coordinators\" have access to all subjects within their assigned class.",
+        "\"Subject Teachers\" have access only to the specific subject(s) they are mapped to."
+    ],
+    "important_notes": [
+        "The \"Display Name\" of a subject can be adjusted here, which is what students will see."
+    ],
+    "questions": [
+        "How do I assign a class teacher to a class?",
+        "Can a class have more than one class teacher?",
+        "How do I assign a subject teacher for a specific subject?",
+        "What is the difference in access between a class teacher and a subject teacher?",
+        "Can I assign multiple subject teachers to one subject?"
+    ],
+    "keywords": [
+        "Teacher mapping",
+        "class teacher",
+        "coordinator",
+        "subject teacher",
+        "assign employee",
+        "teacher access"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Creating Timetable"
+    ],
+    "id": "academics_teacher_mapping",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

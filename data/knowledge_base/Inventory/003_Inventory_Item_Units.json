@@ -1,0 +1,41 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Item Units",
+    "summary": "In addition to defining items, it is crucial to specify the units of measurement for each inventory item. These units dictate how an item's quantity is measured, such as liters for chemicals, pieces for erasers, or numbers for furniture.",
+    "navigation": [
+        "Inventory",
+        "Masters",
+        "Units"
+    ],
+    "steps": [],
+    "business_rules": [
+        "All inventory items must be saved with an appropriate unit of measure."
+    ],
+    "important_notes": [
+        "Different types of items will require different units of measurement (e.g., chemicals in liters, erasers in pieces, furniture in numbers)."
+    ],
+    "questions": [
+        "How do I define units of measurement for inventory items?",
+        "What are the available units for inventory items?",
+        "Can I create custom units for my products?"
+    ],
+    "keywords": [
+        "Inventory units",
+        "units of measure",
+        "item units",
+        "liters",
+        "pieces",
+        "numbers",
+        "UOM"
+    ],
+    "related_topics": [
+        "Inventory Item Masters",
+        "Creating a New Inventory Item"
+    ],
+    "id": "inventory_inventory_item_units",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

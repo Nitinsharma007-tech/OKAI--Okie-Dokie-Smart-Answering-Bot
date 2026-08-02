@@ -1,0 +1,45 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Reporting",
+    "summary": "The ERP system offers a wide array of inventory reports designed to provide insights into stock levels, item movements, and overall inventory status. These reports include current stock, closing stock, item-specific reports, and stock transfer reports, which are essential for analysis and decision-making.",
+    "navigation": [
+        "Inventory",
+        "Reports"
+    ],
+    "steps": [],
+    "business_rules": [
+        "Reports are generated based on all recorded inventory transactions (purchases, transfers, sales, etc.)."
+    ],
+    "important_notes": [
+        "The system provides a comprehensive suite of reports, allowing users to analyze inventory data according to their specific needs.",
+        "Examples of available reports include: Stock Status, Closing Stock, Item-wise Stock, and Stock Transfer reports."
+    ],
+    "questions": [
+        "What types of inventory reports are available in the system?",
+        "How can I check the current stock level of an item?",
+        "Where can I find reports on stock transfers?",
+        "Can I get a report on closing stock for a specific period?",
+        "How do I analyze inventory movement?"
+    ],
+    "keywords": [
+        "Inventory reports",
+        "stock reports",
+        "closing stock",
+        "item reports",
+        "transfer reports",
+        "stock status",
+        "inventory analysis",
+        "reporting"
+    ],
+    "related_topics": [
+        "Inventory Management",
+        "Stock Transfer",
+        "Purchase Entry"
+    ],
+    "id": "inventory_inventory_reporting",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

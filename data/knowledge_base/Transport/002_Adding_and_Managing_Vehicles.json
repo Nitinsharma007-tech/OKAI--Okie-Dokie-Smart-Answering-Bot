@@ -1,0 +1,53 @@
+{
+    "module": "Transport",
+    "topic": "Adding and Managing Vehicles",
+    "summary": "This topic details how to add and manage information for buses (vehicles) used by the institute. It covers mandatory fields such as RC number, seating capacity, and insurance date, as well as optional details.",
+    "navigation": [
+        "Institute Setup",
+        "Transport",
+        "Vehicle"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Vehicle'.",
+        "Click on 'New Vehicle'.",
+        "Enter the 'RC Number' (e.g., HR 0123).",
+        "Enter the 'Seating Capacity' (e.g., 50).",
+        "Enter the 'Insurance Date'.",
+        "(Optional) Enter 'Tank Capacity', 'GPS ID', 'Insurance Company', and upload documents like 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', 'Road Tax'.",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "RC Number, Seating Capacity, and Insurance Date are mandatory fields for adding a new vehicle."
+    ],
+    "important_notes": [
+        "Existing vehicle details can be updated.",
+        "GPS ID is used for GPS tracking functionality."
+    ],
+    "questions": [
+        "How do I add a new bus to the ERP system?",
+        "What information is required when adding a vehicle?",
+        "Can I update the details of an existing vehicle?",
+        "Where do I enter the seating capacity for a bus?"
+    ],
+    "keywords": [
+        "Vehicle",
+        "bus",
+        "add vehicle",
+        "RC number",
+        "seating capacity",
+        "insurance date",
+        "GPS ID",
+        "transport vehicle",
+        "update vehicle"
+    ],
+    "related_topics": [
+        "Vehicle Route Configuration",
+        "Basic Transport Setup Overview"
+    ],
+    "id": "transport_adding_and_managing_vehicles",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

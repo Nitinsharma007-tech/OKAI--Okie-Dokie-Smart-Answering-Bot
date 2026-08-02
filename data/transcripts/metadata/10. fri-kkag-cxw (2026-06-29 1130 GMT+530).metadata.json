@@ -1,0 +1,9 @@
+{
+    "video_name": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530)",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 121.53,
+    "created_at": "2026-08-02T13:19:17.749655"
+}

@@ -1,0 +1,42 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Follow-up Page",
+    "summary": "Provides a centralized reporting page for all admission follow-ups, allowing users to view and track follow-ups categorized by status (Today's, Upcoming, Overdue, Completed) and filter them by a specific date range.",
+    "navigation": [
+        "Admission Follow-up page"
+    ],
+    "steps": [
+        "Navigate to the Admission Follow-up page.",
+        "View follow-ups categorized as: 'Today's Follow-up', 'Upcoming Follow-ups', 'Overdue Follow-ups' (pending), and 'Completed Follow-ups'.",
+        "Filter follow-ups by setting a start date and end date to analyze activities within a specific period."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This page serves as a comprehensive report for all follow-up activities, enabling effective monitoring and management."
+    ],
+    "questions": [
+        "Where can I find a consolidated view of all admission follow-ups?",
+        "How do I check for overdue follow-ups?",
+        "Can I filter admission follow-ups by a specific date range?",
+        "What are the different categories of follow-ups displayed on this page?"
+    ],
+    "keywords": [
+        "Admission follow-up page",
+        "follow-up report",
+        "today's follow-up",
+        "upcoming follow-up",
+        "overdue follow-up",
+        "completed follow-up",
+        "date filter",
+        "follow-up tracking"
+    ],
+    "related_topics": [
+        "Admission Leads Page - Advanced Actions"
+    ],
+    "id": "admissions_admission_follow_up_page",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

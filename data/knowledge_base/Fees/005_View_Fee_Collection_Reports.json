@@ -1,0 +1,55 @@
+{
+    "module": "Fees",
+    "topic": "View Fee Collection Reports",
+    "summary": "This topic explains various reports available to view fee collection details, including daily collections, head-wise collections, and payment mode-wise collections, highlighting key differences between reports like 'Combined Daily Collection' and 'Daily Fee Report'.",
+    "navigation": [
+        "Fee > Fee Reports"
+    ],
+    "steps": [
+        "Navigate to 'Fee' > 'Fee Reports'.",
+        "Select the desired report from the following options:",
+        "**Combined Daily Collection:** Shows receipt number, date, student details, payment mode, and collected amount per fee head. This report includes 'Admission Heads' and 'Other Income Heads' and is customizable.",
+        "**Daily Fee Report:** Similar to 'Combined Daily Collection' but specifically *excludes* 'Admission Heads' and 'Other Income Heads'.",
+        "**Fee Head Collection Report:** Allows viewing day-wise or monthly-wise collection per fee head, with an option to differentiate by payment mode. This report can also show 'Amount Adjust' transactions.",
+        "**Daily Payment Mode Collection:** Displays the total collection for a specific date range, broken down by each payment mode."
+    ],
+    "business_rules": [
+        "The 'Combined Daily Collection' report includes 'Admission Heads' and 'Other Income Heads'.",
+        "The 'Daily Fee Report' *does not* include 'Admission Heads' or 'Other Income Heads'.",
+        "'Amount Adjust' in the 'Fee Head Collection Report' signifies an amount initially collected under one fee head and subsequently adjusted or moved to another."
+    ],
+    "important_notes": [
+        "Reports are often customizable, allowing users to add or remove columns (e.g., roll number) to suit their requirements."
+    ],
+    "questions": [
+        "Where can I see daily fee collections?",
+        "What is the difference between 'Combined Daily Collection' and 'Daily Fee Report'?",
+        "How can I view fee collection amounts per individual fee head?",
+        "Can I see how much fee was collected via cash versus online payment?",
+        "What does 'Amount Adjust' signify in the Fee Head Collection Report?"
+    ],
+    "keywords": [
+        "Fee reports",
+        "daily collection",
+        "combined daily collection",
+        "daily fee report",
+        "fee head collection report",
+        "daily payment mode collection",
+        "admission heads",
+        "other income",
+        "payment mode",
+        "report customization",
+        "amount adjust"
+    ],
+    "related_topics": [
+        "Cancelling a Fee Receipt",
+        "View Due Fee Reports",
+        "View Fee Summary Reports"
+    ],
+    "id": "fees_view_fee_collection_reports",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

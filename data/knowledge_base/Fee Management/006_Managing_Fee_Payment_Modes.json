@@ -1,0 +1,58 @@
+{
+    "module": "Fee Management",
+    "topic": "Managing Fee Payment Modes",
+    "summary": "This topic details the various payment options available for fee collection, including cash, cheque, and online payments (integrated with Razorpay). It also differentiates between direct online collection and recording offline online payments for reconciliation.",
+    "navigation": [
+        "Collect Fee",
+        "Select Payment Mode"
+    ],
+    "steps": [
+        "After selecting installments and proceeding with fee collection, choose the appropriate payment mode.",
+        "For **Cash** payments: Select 'Cash' (which is the default option).",
+        "For **Cheque** payments: Select 'Cheque', then enter the bank details, cheque reference number, and the date of the cheque.",
+        "For **Direct Online** payments: Select 'Online' or 'Collect Online'. This will redirect you to the integrated payment gateway (e.g., Razorpay), where a scanner/QR code will be provided for payment.",
+        "For **Offline Online** payments (e.g., payments made via an external scanner or back-gate entry): Select 'Online' and manually enter the relevant bank details, reference number, and date for reconciliation purposes."
+    ],
+    "business_rules": [
+        "Cash is the default payment mode.",
+        "Razorpay is integrated for direct online payments.",
+        "Offline online payments require manual entry of bank details and reference numbers for proper accounting."
+    ],
+    "important_notes": [
+        "Institute bank accounts need to be configured in the system to facilitate cheque and offline online payment recording.",
+        "Remarks can be added to fee receipts for any payment mode.",
+        "The system supports integration with payment gateways like Razorpay for seamless online transactions."
+    ],
+    "questions": [
+        "What are the available payment options for collecting student fees?",
+        "How do I record a cash payment in the ERP?",
+        "What is the procedure for processing a cheque payment?",
+        "What is the difference between 'Collect Online' and manually entering an 'Online' payment?",
+        "How does the Razorpay integration work for online fee payments?",
+        "Can I add remarks to a fee receipt?"
+    ],
+    "keywords": [
+        "Payment mode",
+        "cash payment",
+        "cheque payment",
+        "online payment",
+        "Razorpay",
+        "payment gateway",
+        "collect online",
+        "reference number",
+        "bank details",
+        "payment remarks",
+        "reconciliation"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Payment Gateway Integration",
+        "Bank Reconciliation"
+    ],
+    "id": "fee_management_managing_fee_payment_modes",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

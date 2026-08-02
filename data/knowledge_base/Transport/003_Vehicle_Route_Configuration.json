@@ -1,0 +1,69 @@
+{
+    "module": "Transport",
+    "topic": "Vehicle Route Configuration",
+    "summary": "This topic explains how to define specific routes for each vehicle, including associated pickup/drop-off points, timings, and charges. It also covers options for copying routes from previous sessions and bulk uploading pickup points.",
+    "navigation": [
+        "Institute Setup",
+        "Transport",
+        "Vehicle Route"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Vehicle Route'.",
+        "To create a new route, click 'New Vehicle Route'.",
+        "Enter a 'Route Name' (e.g., Route 1).",
+        "Select the 'Vehicle' (bus) assigned to this route from the dropdown.",
+        "(Optional) Use 'Skip Installment' to exclude transport charges for specific fee installments.",
+        "To add pickup points manually:",
+        "Click 'Add Pickup Point'.",
+        "Enter 'Pickup Point Name' (e.g., Anshal).",
+        "Enter 'Pick Up Time' (e.g., 6:00 AM).",
+        "Enter 'Drop Time' (e.g., 4:00 PM).",
+        "Enter the 'Amount' (charge) for this pickup point (e.g., 2000).",
+        "(Optional) Enter 'Longitude' and 'Latitude' for GPS tracking.",
+        "Repeat for additional pickup points.",
+        "To upload pickup points in bulk:",
+        "Click 'Upload Pick Up Point'.",
+        "Download the 'Sample Excel' file.",
+        "Fill the Excel with 'Pickup Point Name', 'Amount', 'Pick Up Time', 'Drop Time'. (Pick Up Time and Drop Time are non-mandatory in Excel).",
+        "Choose the filled Excel file and click 'Submit'.",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "Vehicle routes are session-dependent.",
+        "The 'Copy from Session' feature allows replicating routes from a previous academic session."
+    ],
+    "important_notes": [
+        "An error file will be generated during bulk upload if mandatory information (e.g., amount) is missing in the Excel.",
+        "Longitude and Latitude are used for GPS tracking systems."
+    ],
+    "questions": [
+        "How do I define a new transport route for a bus?",
+        "Can I copy vehicle routes from a previous academic session?",
+        "What information is needed to add a pickup point to a route?",
+        "How can I bulk upload multiple pickup points for a vehicle route?",
+        "What happens if there's an error during the pickup point Excel upload?"
+    ],
+    "keywords": [
+        "Vehicle route",
+        "pickup point",
+        "drop point",
+        "route configuration",
+        "transport charges",
+        "skip installment",
+        "bulk upload",
+        "sample excel",
+        "GPS tracking",
+        "copy route"
+    ],
+    "related_topics": [
+        "Vehicle Management",
+        "Student Transport Assignment",
+        "Basic Transport Setup Overview"
+    ],
+    "id": "transport_vehicle_route_configuration",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

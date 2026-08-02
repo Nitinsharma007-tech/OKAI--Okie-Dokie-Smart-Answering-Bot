@@ -1,0 +1,9 @@
+{
+    "video_name": "1. kashish  Okie - 20260609 1658 IST \u2013 Recording",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 229.0,
+    "created_at": "2026-08-02T13:17:16.216059"
+}

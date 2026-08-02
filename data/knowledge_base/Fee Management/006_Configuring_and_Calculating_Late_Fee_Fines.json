@@ -1,0 +1,45 @@
+{
+    "module": "Fee Management",
+    "topic": "Configuring and Calculating Late Fee Fines",
+    "summary": "This topic describes how late fee fines are configured in the ERP system based on payment due dates and how these fines are automatically calculated and applied during the fee collection process.",
+    "navigation": [],
+    "steps": [
+        "Define the fine criteria in the system's configuration (e.g., a fixed amount after the due date, or an incremental amount after a certain number of days).",
+        "Set the last payment date for each fee installment.",
+        "During fee collection, if the current date is past the installment's due date, the system will automatically calculate and display the applicable fine."
+    ],
+    "business_rules": [
+        "Fines are calculated based on the predefined criteria (e.g., Rs. 500 after the 10th of the month, and an additional Rs. 500 every 15 days thereafter).",
+        "Once configured, fines are applicable to every course and student according to the set criteria."
+    ],
+    "important_notes": [
+        "The exact fine criteria (e.g., daily vs. incremental, specific amounts) must be confirmed and set up in the system configuration.",
+        "The calculated fine will be displayed at the time of fee collection."
+    ],
+    "questions": [
+        "How are late fee fines calculated in the ERP system?",
+        "Can we configure different fine structures, such as daily or incremental fines?",
+        "Where can I see the calculated fine when collecting fees?",
+        "Are fines automatically applied to all students and courses?",
+        "How do I set up the due dates for fee installments to trigger fines?"
+    ],
+    "keywords": [
+        "Late fee",
+        "fine calculation",
+        "fine configuration",
+        "due date",
+        "incremental fine",
+        "fee collection",
+        "system setup"
+    ],
+    "related_topics": [
+        "Fee Collection Process",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_configuring_and_calculating_late_fee_fines",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

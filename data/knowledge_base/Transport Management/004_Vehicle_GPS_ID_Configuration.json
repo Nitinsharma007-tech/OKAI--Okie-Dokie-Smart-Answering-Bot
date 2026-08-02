@@ -1,0 +1,53 @@
+{
+    "module": "Transport Management",
+    "topic": "Vehicle GPS ID Configuration",
+    "summary": "This process links an internal ERP vehicle record to its unique identifier from a third-party GPS tracking system, enabling live location tracking within the ERP.",
+    "navigation": [
+        "Transport",
+        "View Vehicle",
+        "Select Vehicle",
+        "GPS ID field"
+    ],
+    "steps": [
+        "Navigate to the 'Transport' module.",
+        "Go to 'View Vehicle' and search for the desired vehicle (e.g., V2954).",
+        "Open the vehicle's details.",
+        "Locate the 'GPS ID' field.",
+        "Enter the unique code provided by the vendor's GPS application for that specific vehicle (e.g., V2954).",
+        "Save the vehicle record."
+    ],
+    "business_rules": [
+        "Each vehicle must have a unique GPS ID from the vendor's system.",
+        "The GPS ID must be configured for the vehicle to appear on the track wall/map in the ERP app.",
+        "If the GPS ID is not configured, an error 'GPS ID is not found' will be displayed."
+    ],
+    "important_notes": [
+        "The value entered in the 'GPS ID' field is passed to the backend, which then uses the configured Track Config and Response Config to fetch and display live tracking data.",
+        "This setup is crucial for enabling the 'Track Vehicle' functionality in the ERP app."
+    ],
+    "questions": [
+        "How do I link a vehicle in the ERP to its GPS tracking ID?",
+        "Where do I find the GPS ID for a vehicle?",
+        "What happens if I don't configure the GPS ID for a vehicle?",
+        "How does the ERP use the GPS ID for tracking?"
+    ],
+    "keywords": [
+        "GPS ID",
+        "vehicle tracking",
+        "transport management",
+        "vehicle configuration",
+        "live location",
+        "track wall",
+        "V2954"
+    ],
+    "related_topics": [
+        "Track Config: Vendor API Integration",
+        "Response Config: Vendor API Data Extraction"
+    ],
+    "id": "transport_management_vehicle_gps_id_configuration",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

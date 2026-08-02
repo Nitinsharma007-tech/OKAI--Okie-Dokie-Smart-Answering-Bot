@@ -1,0 +1,45 @@
+{
+    "module": "Admission Management",
+    "topic": "Transaction Receipt Setup",
+    "summary": "Configures the automatic generation of unique receipt numbers for all admission-related financial transactions. This setup ensures that every payment collected, such as registration fees or token money, has a distinct, system-generated receipt number.",
+    "navigation": [
+        "Settings",
+        "Admission Setup",
+        "Transaction Receipt Setup"
+    ],
+    "steps": [
+        "Navigate to 'Settings' > 'Admission Setup' > 'Transaction Receipt Setup'.",
+        "Enter a 'Prefix' for the receipt numbers (e.g., 'SDI' for SDI University).",
+        "Set the starting 'Number' for the receipt counter (e.g., '1'). The system will automatically increment this number for subsequent receipts."
+    ],
+    "business_rules": [
+        "Receipt numbers are automatically generated based on the configured prefix and counter.",
+        "The counter updates automatically with each new transaction."
+    ],
+    "important_notes": [
+        "The prefix and starting number can be determined by the client or set by the implementer based on client requirements."
+    ],
+    "questions": [
+        "How do I set up automatic receipt numbering for admission payments?",
+        "Where can I configure the prefix for admission transaction receipts?",
+        "What is the purpose of the transaction receipt setup in admission?",
+        "How does the system generate unique receipt numbers?"
+    ],
+    "keywords": [
+        "Receipt number setup",
+        "Transaction receipt",
+        "Admission receipt counter",
+        "Receipt prefix",
+        "Automatic receipt generation"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Stage-wise Transaction Configuration"
+    ],
+    "id": "admission_management_transaction_receipt_setup",
+    "source": {
+        "file": "6. syb-fmmz-jmq (2026-07-03 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

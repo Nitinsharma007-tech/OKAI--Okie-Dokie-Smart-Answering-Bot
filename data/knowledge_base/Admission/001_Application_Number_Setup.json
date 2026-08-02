@@ -1,0 +1,51 @@
+{
+    "module": "Admission",
+    "topic": "Application Number Setup",
+    "summary": "This topic covers the process of setting up unique application form numbers for admission leads, similar to how student registration numbers are configured. The system automatically assigns and updates these numbers as new leads are added.",
+    "navigation": [
+        "Admission module",
+        "Admissions setup",
+        "Admission master",
+        "Application number setup"
+    ],
+    "steps": [
+        "Navigate to 'Application number setup'.",
+        "Select the specific course or program for which numbering is to be configured (e.g., 'School of Engineering') or select 'All' for a universal numbering scheme.",
+        "Add a 'Prefix' for the application number.",
+        "Specify the 'Starting Number' from which the sequence will begin.",
+        "Add a 'Suffix' for the application number.",
+        "The system will automatically assign numbers to new leads and auto-update the counter sequentially."
+    ],
+    "business_rules": [
+        "Application numbers serve as unique identifiers for each admission application.",
+        "The counter for application numbers is automatically updated by the system as leads are added."
+    ],
+    "important_notes": [
+        "The process is similar to setting up registration numbers for students."
+    ],
+    "questions": [
+        "How do I set up automatic application numbering for admission leads?",
+        "Can I customize the prefix and suffix for application form numbers?",
+        "Where can I configure the starting number for admission applications?",
+        "How does the system ensure unique application numbers?"
+    ],
+    "keywords": [
+        "Application number",
+        "numbering setup",
+        "prefix",
+        "suffix",
+        "auto-update",
+        "admission number",
+        "form number"
+    ],
+    "related_topics": [
+        "Student Registration Number Setup",
+        "Admission Leads"
+    ],
+    "id": "admission_application_number_setup",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

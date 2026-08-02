@@ -1,0 +1,57 @@
+{
+    "module": "Fee Management",
+    "topic": "Applying and Managing Student Concessions",
+    "summary": "This topic outlines the process for applying fee concessions to students, including selecting predefined concession groups, setting concession amounts (percentage or fixed), and documenting the reason for the concession.",
+    "navigation": [
+        "Collect Fee > Select Student > Concession (Button)"
+    ],
+    "steps": [
+        "During the fee collection process for a student, click on the 'Concession' button.",
+        "Select a predefined concession group from the available options (e.g., 'Sports Concession').",
+        "If the concession group is percentage-based, the system will automatically calculate the concession amount based on the fee structure.",
+        "If a 'Manual' concession is selected, enter the fixed concession amount.",
+        "Enter a mandatory remark explaining the reason for granting the concession.",
+        "Optionally, upload any supporting documents (e.g., a signed application from the principal) using the 'Choose File' option.",
+        "Save the concession details.",
+        "The student's payable amount will automatically update to reflect the applied concession."
+    ],
+    "business_rules": [
+        "Concession groups (e.g., '50% criteria') must be set up in the system's master data.",
+        "Remarks are mandatory when applying a concession.",
+        "Concessions can be configured as a percentage of a fee head or a fixed amount."
+    ],
+    "important_notes": [
+        "Concession data for existing (old) students needs to be imported into the system to ensure continuity.",
+        "The system can automatically calculate percentage-based concessions if defined in the master setup."
+    ],
+    "questions": [
+        "How do I apply a fee concession for a student?",
+        "What types of concessions can be applied (percentage or fixed amount)?",
+        "Is it required to provide a reason for a concession?",
+        "Can I upload supporting documents for a student's concession?",
+        "How are concession groups configured in the system?",
+        "Will the concession details appear on the student's fee receipt?"
+    ],
+    "keywords": [
+        "Concession",
+        "fee discount",
+        "sports concession",
+        "manual concession",
+        "concession group",
+        "fee payable",
+        "upload document",
+        "concession remarks",
+        "fee setup"
+    ],
+    "related_topics": [
+        "Fee Collection Process",
+        "Fee Structure Setup",
+        "Student Data Import"
+    ],
+    "id": "fee_management_applying_and_managing_student_concessions",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

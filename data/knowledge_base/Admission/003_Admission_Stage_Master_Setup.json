@@ -1,0 +1,53 @@
+{
+    "module": "Admission",
+    "topic": "Admission Stage Master Setup",
+    "summary": "This topic details how to define and manage the various stages an admission application progresses through, such as application submission, document upload, verification, and approval/rejection. It emphasizes the customizability of these stages based on institute requirements.",
+    "navigation": [
+        "Admission module",
+        "Admissions Setup",
+        "Stage Setup",
+        "Stage Master"
+    ],
+    "steps": [
+        "Navigate to 'Admission module' > 'Admissions Setup'.",
+        "Click on 'Stage Setup'.",
+        "Click on 'Stage Master'.",
+        "To add a new stage, click 'Add New'.",
+        "Enter the 'Stage Name' in the 'Enter Value' field (e.g., 'Application Submission', 'Document Upload', 'Counselor Doc Verification', 'Academic Doc Verification', 'Transport and Hostel Selection').",
+        "Repeat for all desired stages.",
+        "Save the changes."
+    ],
+    "business_rules": [
+        "'Approved' and 'Rejected' are default, back-end stages and cannot be manually created or removed by the user.",
+        "The stages are highly customizable based on the client's specific admission process requirements."
+    ],
+    "important_notes": [
+        "The sequence of stages is crucial for defining the flow of the admission process.",
+        "Different entities (institutes) can have different sets of admission stages tailored to their unique processes."
+    ],
+    "questions": [
+        "How do I create new stages for the admission process in the ERP?",
+        "Can I customize the admission stages for my specific institute?",
+        "Are 'Approved' and 'Rejected' stages configurable or are they system-defined?",
+        "What is the purpose of defining admission stages?"
+    ],
+    "keywords": [
+        "Admission stages",
+        "Stage Master",
+        "Application flow",
+        "Admission process",
+        "Stage setup",
+        "Custom stages"
+    ],
+    "related_topics": [
+        "Admission Module Overview",
+        "Application Number Setup",
+        "Admission Stage Field Configuration"
+    ],
+    "id": "admission_admission_stage_master_setup",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

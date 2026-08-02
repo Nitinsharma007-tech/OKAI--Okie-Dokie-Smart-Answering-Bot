@@ -1,0 +1,61 @@
+{
+    "module": "Admission Management",
+    "topic": "Stage-wise Transaction Configuration",
+    "summary": "Configures which admission heads are active and collectible at specific stages of the admission pipeline. It also allows setting whether the amount for a particular head can be edited during collection and provides a utility to copy these settings across multiple courses.",
+    "navigation": [
+        "Settings",
+        "Stage Setup",
+        "[Select Stage]",
+        "Transactions"
+    ],
+    "steps": [
+        "Navigate to 'Settings' > 'Stage Setup'.",
+        "Select and 'View' the desired admission stage (e.g., 'Lead Stage', 'Data Requested Stage', 'Approved Stage').",
+        "Go to the 'Transactions' tab within the selected stage.",
+        "Click 'Add Transaction Mapping'.",
+        "Select the 'Course' for which the transaction is being configured.",
+        "Select the 'Head' (e.g., 'Registration', 'Prospectus Fees', 'Visit Fee') that will be collected at this stage.",
+        "Enter the default 'Amount' for the selected head.",
+        "Toggle the 'Editable' option:",
+        "If 'Editable' is ON, the amount can be modified by the user during the collection process.",
+        "If 'Editable' is OFF, the amount is fixed as configured and cannot be changed during collection.",
+        "To apply the same transaction mapping to all other courses, click 'Copy Course Head'.",
+        "Click 'Update' to save the transaction configurations for the stage."
+    ],
+    "business_rules": [
+        "Transactions can only be collected for heads that are mapped to the current admission stage.",
+        "A single stage can have multiple admission heads mapped for collection.",
+        "The 'Editable' setting determines if the collected amount can be overridden by the user."
+    ],
+    "important_notes": [
+        "The specific heads and their 'Editable' status at each stage should align with the institution's admission and payment policies.",
+        "'Copy Course Head' is a time-saving feature for institutions with many courses requiring similar transaction mappings."
+    ],
+    "questions": [
+        "How do I enable fee collection at a specific admission stage?",
+        "Can I make the registration fee amount editable for students?",
+        "What is the function of 'Copy Course Head' in stage transaction setup?",
+        "How do I map multiple fee types to a single admission stage?",
+        "Where do I configure the default amount for an admission head at a stage?"
+    ],
+    "keywords": [
+        "Stage setup transactions",
+        "Transaction mapping",
+        "Editable amount",
+        "Fixed amount",
+        "Copy course head",
+        "Admission stage fees",
+        "Collection configuration"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Save Zero Amount Transaction Configuration",
+        "Token Money vs. Other Admission Heads (Fee Adjustment)"
+    ],
+    "id": "admission_management_stage_wise_transaction_configuration",
+    "source": {
+        "file": "6. syb-fmmz-jmq (2026-07-03 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

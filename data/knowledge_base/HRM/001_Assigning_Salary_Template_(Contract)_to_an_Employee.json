@@ -1,0 +1,65 @@
+{
+    "module": "HRM",
+    "topic": "Assigning Salary Template (Contract) to an Employee",
+    "summary": "This process allows you to assign a salary structure or contract to an employee, defining their earnings and deductions for a specified period. This is a foundational step before processing monthly salaries.",
+    "navigation": [
+        "HRM",
+        "Assign Salary Template"
+    ],
+    "steps": [
+        "Navigate to 'Assign Salary Template'.",
+        "Search for the desired employee by their ID or Name.",
+        "Select the employee using the checkbox.",
+        "Click the 'Assign Template' button at the bottom of the screen.",
+        "If the employee has a previous contract, you will see options like 'Copy from Salary Template'. If no previous contract, you will proceed to define a new one.",
+        "Choose a standard template (e.g., 'With PF, ESI both' or 'Without PF') or copy from an existing one.",
+        "Enter the 'Basic' amount. If applicable, also enter 'DA' or 'Grade Pay'.",
+        "Review the automatically calculated ESI and PF amounts. You can override these by setting them as 'Fixed' values if required (e.g., setting ESI to 101 and PF to 1612).",
+        "Add any additional deduction heads (e.g., 'Labour Welfare Fund' with a fixed amount like 27) or remove unnecessary employer contributions.",
+        "Click 'Calculate' to see the gross salary, total deductions, and paid salary based on the entered heads and amounts.",
+        "Click 'Next'.",
+        "Set the 'End Date' for the contract. The 'Start Date' will typically be frozen based on the employee's joining date or the end date of a previous contract.",
+        "Click 'Assign' to finalize the contract assignment."
+    ],
+    "business_rules": [
+        "If an employee already has an assigned contract, any new contract's start date must be after the end date of the previous contract.",
+        "Standard salary templates (e.g., With PF, Without PF, Without ESI PF) are available for quick selection.",
+        "ESI is typically calculated at 0.75% of basic salary, and PF at 12% of basic salary, but these can be set as fixed amounts.",
+        "The 'Up to amount' for ESI/PF indicates the maximum limit; the system calculates based on percentage first and caps at this limit if exceeded."
+    ],
+    "important_notes": [
+        "Ensure you have complete HRM permissions to access and perform this action.",
+        "If you need to create a contract for a past month (e.g., November when a December contract is already assigned), the existing future contract must be removed first.",
+        "Changes made during contract assignment apply for the entire duration of the contract. Month-specific adjustments (like advance recovery) are typically handled during salary processing.",
+        "The system automatically calculates ESI and PF based on percentages unless you explicitly set them as 'Fixed' amounts."
+    ],
+    "questions": [
+        "How do I assign a new salary contract to an employee?",
+        "Can I set fixed amounts for PF and ESI in an employee's contract?",
+        "What should I do if I need to assign a contract for a past date?",
+        "How do I add a Labour Welfare Fund deduction to a contract?",
+        "What is the difference between 'Copy from Salary Template' and assigning a new template?"
+    ],
+    "keywords": [
+        "Assign contract",
+        "Salary template",
+        "Employee contract",
+        "HRM contract",
+        "Assign salary",
+        "PF ESI calculation",
+        "Fixed deduction",
+        "Contract end date",
+        "Salary structure"
+    ],
+    "related_topics": [
+        "Employee Master",
+        "Processing Monthly Salary",
+        "Managing Earning and Deduction Heads"
+    ],
+    "id": "hrm_assigning_salary_template_contract_to_an_employee",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

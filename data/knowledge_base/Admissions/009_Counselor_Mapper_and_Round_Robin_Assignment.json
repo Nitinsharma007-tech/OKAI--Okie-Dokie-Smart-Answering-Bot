@@ -1,0 +1,55 @@
+{
+    "module": "Admissions",
+    "topic": "Counselor Mapper and Round Robin Assignment",
+    "summary": "Details the 'Counselor Mapper' functionality for automatically assigning leads to counselors based on specific courses or sources. It explains the 'Round Robin' assignment process, differentiating between the 'All' method (load balancing) and the 'Devise' method (sequential assignment).",
+    "navigation": [
+        "Admission Setup",
+        "Counselor Mapper"
+    ],
+    "steps": [
+        "Navigate to Admission Setup > Counselor Mapper.",
+        "Select specific courses or sources for which leads need to be assigned.",
+        "Select multiple counselors who will receive leads for the chosen criteria.",
+        "The system will automatically assign leads to these counselors using a round-robin process.",
+        "Understand Round Robin Methods:",
+        "**All**: Balances lead load among all counselors. If a new counselor joins, they receive leads until their load equals existing counselors, then assignment resumes one-by-one.",
+        "**Devise**: Assigns leads strictly one-by-one in sequence, regardless of existing lead load or new counselor additions."
+    ],
+    "business_rules": [
+        "Leads are automatically assigned to mapped counselors based on configured rules.",
+        "The 'All' round robin method prioritizes balancing the lead load across all counselors.",
+        "The 'Devise' round robin method prioritizes a strict sequential assignment of leads."
+    ],
+    "important_notes": [
+        "Counselor mapping can be configured for specific courses, sources, or a combination.",
+        "The choice between 'All' and 'Devise' round robin significantly impacts lead distribution strategy."
+    ],
+    "questions": [
+        "How do I set up automatic lead assignment to counselors?",
+        "What is the 'Counselor Mapper' and how does it function?",
+        "Explain the 'Round Robin' lead assignment process.",
+        "What is the difference between the 'All' and 'Devise' methods in round robin assignment?",
+        "How can I ensure fair distribution of leads among counselors, including new hires?"
+    ],
+    "keywords": [
+        "Counselor mapper",
+        "lead assignment",
+        "round robin",
+        "automatic assignment",
+        "lead distribution",
+        "load balancing",
+        "all method",
+        "devise method",
+        "admission setup"
+    ],
+    "related_topics": [
+        "Admission Leads Page - Data Filtering Options",
+        "Admission Team Structure and Lead Visibility"
+    ],
+    "id": "admissions_counselor_mapper_and_round_robin_assignment",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

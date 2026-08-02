@@ -1,0 +1,9 @@
+{
+    "video_name": "8. Okie Dokie Rahul - 20260708 1630 IST \u2013 Recording",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 133.41,
+    "created_at": "2026-08-02T13:41:44.073440"
+}

@@ -1,0 +1,54 @@
+{
+    "module": "Integration",
+    "topic": "Track Config - API Details",
+    "summary": "Track Config is used to define the details of a vendor's API, including the API URL, HTTP method (GET/POST), query parameters for additional values like tokens, and headers for specifying response formats.",
+    "navigation": [],
+    "steps": [
+        "**API URL**: Copy the base API URL (the part before any '?' query patterns) and paste it into the 'API URL' field.",
+        "**Method**: Select the appropriate HTTP method (GET or POST).",
+        "**Query Parameters**: If the API requires values to be appended after a '?' in the URL (e.g., tokens, extra values), add them here in 'key=value' format.",
+        "**Headers**: Specify headers for the API call. For example, to receive a JSON response, input 'Accept' as the key and 'application/json' as the value.",
+        "**Request Body**: If the method is POST, add the request body in an object format (key-value pairs)."
+    ],
+    "business_rules": [
+        "GET method is used when query patterns are sent in the URL.",
+        "POST method is used when data is sent in an object (request body).",
+        "Query patterns are attached after a '?' in the API URL.",
+        "The setup is performed once; the backend automatically calls the vendor API based on this configuration."
+    ],
+    "important_notes": [
+        "Ensure the API URL is copied correctly, excluding query patterns.",
+        "The 'token' or other extra values for query parameters should be copied exactly as provided."
+    ],
+    "questions": [
+        "How do I configure the API URL in Track Config?",
+        "When should I use the GET method versus the POST method?",
+        "How do I add authentication tokens or other parameters to an API call?",
+        "What is the purpose of headers in Track Config and how do I set them?",
+        "Where do I define the request body for a POST API call?"
+    ],
+    "keywords": [
+        "Track Config",
+        "API URL",
+        "HTTP method",
+        "GET request",
+        "POST request",
+        "query parameters",
+        "headers",
+        "request body",
+        "API integration",
+        "vendor API"
+    ],
+    "related_topics": [
+        "AuthConfig Setup",
+        "Track Config - GPS ID Key",
+        "Response Config",
+        "Testing API Configuration"
+    ],
+    "id": "integration_track_config_api_details",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

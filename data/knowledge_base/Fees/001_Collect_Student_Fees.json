@@ -1,0 +1,44 @@
+{
+    "module": "Fees",
+    "topic": "Collect Student Fees",
+    "summary": "This topic explains how to collect fees for a student, including navigating to the collection page, searching for a student, and selecting the fee terms or months for which fees are being collected.",
+    "navigation": [
+        "Student's Profile > Collect Fee",
+        "Fee > Collect Fee"
+    ],
+    "steps": [
+        "Open the student's profile OR navigate to 'Fee' > 'Collect Fee'.",
+        "Search for the student using their admission number or name.",
+        "On the collect fee page, select the desired fee terms or months for which the fee is to be collected."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "You can select 'next term' to collect fees for future months."
+    ],
+    "questions": [
+        "How do I collect fees for a student?",
+        "Where can I find the option to collect fees?",
+        "Can I collect fees for upcoming months or terms?",
+        "What information is needed to search for a student for fee collection?"
+    ],
+    "keywords": [
+        "Collect fee",
+        "student fee",
+        "fee collection",
+        "admission number",
+        "student name",
+        "select term",
+        "collect fee page"
+    ],
+    "related_topics": [
+        "Collect Partial Fees and Head-wise Fees",
+        "Payment Modes and Dates for Fee Collection",
+        "View Fee Collection Reports"
+    ],
+    "id": "fees_collect_student_fees",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

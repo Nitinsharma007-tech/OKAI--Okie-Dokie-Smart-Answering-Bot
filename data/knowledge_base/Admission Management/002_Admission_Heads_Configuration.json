@@ -1,0 +1,43 @@
+{
+    "module": "Admission Management",
+    "topic": "Admission Heads Configuration",
+    "summary": "This topic describes how to define different categories or types of fees collected during the admission process, such as registration fees, prospectus fees, and visit fees. It also highlights the special 'Token Money' head.",
+    "navigation": [
+        "Admission Heads"
+    ],
+    "steps": [
+        "Navigate to 'Admission Heads'.",
+        "Create new admission heads for various collection types (e.g., 'Registration Fee', 'Prospectus Fee', 'Visit Fee').",
+        "Note that 'Token Money' is a pre-defined head and does not need to be created manually."
+    ],
+    "business_rules": [
+        "Token Money is a special head whose collected amount is automatically adjusted against the student's total tuition fees upon admission approval.",
+        "Other admission heads (e.g., Registration, Prospectus, Visit Fee) are collected directly and are not adjusted against the student's tuition fees; they are separate collections."
+    ],
+    "important_notes": [],
+    "questions": [
+        "How do I create new fee categories for admission?",
+        "What is an admission head and how is it used?",
+        "What is the difference between 'Token Money' and other admission heads?"
+    ],
+    "keywords": [
+        "admission heads",
+        "fee categories",
+        "registration fee",
+        "prospectus fee",
+        "token money",
+        "visit fee",
+        "collection types"
+    ],
+    "related_topics": [
+        "Transaction Receipt Number Setup",
+        "Mapping Admission Heads to Stages and Transaction Configuration",
+        "Token Money Management and Adjustment"
+    ],
+    "id": "admission_management_admission_heads_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

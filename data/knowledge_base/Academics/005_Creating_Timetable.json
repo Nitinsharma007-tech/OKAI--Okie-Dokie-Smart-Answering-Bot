@@ -1,0 +1,60 @@
+{
+    "module": "Academics",
+    "topic": "Creating Timetable",
+    "summary": "This process describes how to create a daily timetable for classes, including defining lecture schedules, assigning subjects and teachers to specific time slots, and marking breaks.",
+    "navigation": [
+        "Settings",
+        "Academics",
+        "Timetable",
+        "Add New Timetable"
+    ],
+    "steps": [
+        "Click on \"Add New Timetable\".",
+        "Select the \"Class\" for which the timetable is being created.",
+        "Click \"Add New Schedule\".",
+        "Define the \"Lecture Number\", \"Start Time\", and \"End Time\" for each lecture slot. The system will automatically suggest the start time for the next lecture based on the previous one's end time.",
+        "Click \"Save Schedule\" after defining all lecture timings.",
+        "For each day of the week (e.g., Monday, Tuesday):",
+        "Click on a specific time slot.",
+        "Select the \"Subject\" from the dropdown.",
+        "Select the \"Employee\" (teacher) assigned to that subject.",
+        "Click \"Push\" to map the subject and teacher to the slot.",
+        "To define a break: Click on the desired time slot, then toggle the \"Break\" option to ON.",
+        "(Optional) To run two subjects simultaneously, use the \"another option\" (details not fully specified in transcript)."
+    ],
+    "business_rules": [
+        "Timetables are created class-wise.",
+        "Breaks can be defined within the schedule."
+    ],
+    "important_notes": [
+        "The system helps by automatically setting the start time of the next lecture based on the previous one's end time.",
+        "Teachers must be mapped to subjects in \"Teacher Mapping\" to be available for selection here."
+    ],
+    "questions": [
+        "How do I create a new timetable for a class?",
+        "How do I define lecture timings in the timetable?",
+        "Can I add breaks to the class timetable?",
+        "How do I assign subjects and teachers to specific lecture slots?",
+        "Does the system automatically calculate the start time for the next lecture?"
+    ],
+    "keywords": [
+        "Create timetable",
+        "add schedule",
+        "lecture time",
+        "break time",
+        "assign subject to timetable",
+        "assign teacher to timetable",
+        "daily schedule"
+    ],
+    "related_topics": [
+        "Define Subjects",
+        "Subject Class Mapping",
+        "Teacher Mapping"
+    ],
+    "id": "academics_creating_timetable",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "module": "Transport",
+    "topic": "Student Transport Assignment (Bulk Upload)",
+    "summary": "This topic explains how to assign students to specific vehicle routes and pickup points in bulk using an Excel upload. This process links their transport details to their fee demands.",
+    "navigation": [
+        "Institute Setup",
+        "Transport",
+        "Transport Excel Upload"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Transport' > 'Transport Excel Upload'.",
+        "Download the 'Sample Excel' file.",
+        "Fill the Excel with the following columns: 'Reg Number' (unique student ID), 'Vehicle Route' (the exact name of the defined vehicle route, e.g., Route 1), 'Pickup Point' (the exact name of the defined pickup point, e.g., Anshal).",
+        "Choose the filled Excel file and click 'Submit'."
+    ],
+    "business_rules": [
+        "The 'Reg Number' is the unique identifier for a student in the ERP system.",
+        "Vehicle numbers are implicitly linked through the 'Vehicle Route' and are not required in the Excel.",
+        "Assigning transport data automatically updates the student's fee demand with the corresponding transport fees."
+    ],
+    "important_notes": [
+        "This option is used for bulk assignment; individual assignment might be done elsewhere (not covered in this transcript).",
+        "Ensure 'Vehicle' and 'Vehicle Route' are already configured before assigning students."
+    ],
+    "questions": [
+        "How can I assign transport routes to multiple students at once?",
+        "What information is required in the Excel file for student transport assignment?",
+        "Why is the vehicle number not needed in the transport assignment Excel?",
+        "What happens after I upload the student transport assignment Excel?"
+    ],
+    "keywords": [
+        "Student transport",
+        "assign transport",
+        "bulk assignment",
+        "transport excel upload",
+        "reg number",
+        "vehicle route",
+        "pickup point",
+        "student fees",
+        "transport demand"
+    ],
+    "related_topics": [
+        "Vehicle Route Configuration",
+        "Basic Transport Setup Overview",
+        "Fee Management"
+    ],
+    "id": "transport_student_transport_assignment_bulk_upload",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

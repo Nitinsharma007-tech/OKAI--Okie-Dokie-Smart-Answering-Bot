@@ -1,0 +1,48 @@
+{
+    "module": "Fees",
+    "topic": "Select Payment Mode and Manage Dates for Fee Collection",
+    "summary": "This topic describes how to select different payment modes (Cash, Check, Demand Draft, Online Bank Transfer) during fee collection and clarifies the distinction between the payment receipt date and the ERP transaction date.",
+    "navigation": [],
+    "steps": [
+        "After selecting the fee amounts, choose the desired 'Payment Mode' (e.g., Cash, Check, Demand Draft, Online Bank Transfer).",
+        "If the selected mode requires it (e.g., Online Bank Transfer, Check), enter the 'Reference Number' and the 'Date' of the payment.",
+        "Click 'Collect Fees' to finalize the transaction."
+    ],
+    "business_rules": [
+        "Reference Number and Date are mandatory fields for certain payment modes like 'Online Bank Transfer' or 'Check'.",
+        "The 'Payment Date' should reflect the actual date the payment was received (e.g., the date on a cheque).",
+        "The 'Transaction Date' is the date when the fee collection entry is made in the ERP system. These two dates can be different."
+    ],
+    "important_notes": [
+        "By default, 'Cash' is often pre-selected as the payment mode.",
+        "A receipt is automatically generated upon successful fee collection."
+    ],
+    "questions": [
+        "What payment modes are available for collecting fees?",
+        "Do I need to enter a reference number for all payment modes?",
+        "What is the difference between the payment date and the transaction date in fee collection?",
+        "How do I record a cheque payment that was received on an earlier date?"
+    ],
+    "keywords": [
+        "Payment mode",
+        "cash",
+        "check",
+        "demand draft",
+        "online bank transfer",
+        "reference number",
+        "payment date",
+        "transaction date",
+        "collect fees",
+        "receipt generation"
+    ],
+    "related_topics": [
+        "Collect Student Fees",
+        "Collect Online Fees"
+    ],
+    "id": "fees_select_payment_mode_and_manage_dates_for_fee_collection",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

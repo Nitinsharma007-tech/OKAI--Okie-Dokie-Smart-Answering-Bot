@@ -1,0 +1,60 @@
+{
+    "module": "Fee Management",
+    "topic": "Generating Fee Reports and Managing Due Fees",
+    "summary": "This topic explains how to access and utilize various fee reports, including daily collection summaries, combined collections, and detailed due fee reports with advanced filtering options to identify students with outstanding balances.",
+    "navigation": [
+        "Fee Reports (Top Menu) > Due Fee",
+        "Fee Reports (Top Menu) > Transaction List"
+    ],
+    "steps": [
+        "To view outstanding fees, navigate to 'Fee Reports' and select 'Due Fee'.",
+        "Apply filters to narrow down the report: 'Class', 'Stream', 'Batch'.",
+        "Use the 'Show student with zero dues' filter (Yes/No) to include or exclude students who have fully paid their fees.",
+        "Utilize the 'Awake status' filter (Active/Awake) to view students currently enrolled ('Active') or those who have paid fees for the current session ('Awake').",
+        "To view daily transactions, navigate to 'Transaction List'.",
+        "Export any report data to Excel or print it as needed.",
+        "Customize report columns by selecting or deselecting desired fields (e.g., 'Class', 'Batch', 'Reg Number')."
+    ],
+    "business_rules": [
+        "'Awake' status refers to students who have paid the fees for the current academic session.",
+        "'Active' status refers to students who are currently enrolled in the institute."
+    ],
+    "important_notes": [
+        "An amount-wise filter for dues (e.g., showing students who have paid exactly 10,000 INR) is not currently available but can be requested as a future enhancement.",
+        "The 'Show student with zero dues' filter is useful for focusing only on students with pending payments."
+    ],
+    "questions": [
+        "How can I generate a list of students with outstanding fees?",
+        "What filtering options are available in the 'Due Fee' report?",
+        "Can I filter the due fee report by class, stream, or batch?",
+        "What is the difference between 'Active' and 'Awake' status in fee reports?",
+        "How do I export fee reports to Excel?",
+        "Is it possible to filter students based on a specific amount of fees paid?"
+    ],
+    "keywords": [
+        "Fee reports",
+        "due fee",
+        "daily collection",
+        "combined collection",
+        "transaction list",
+        "filters",
+        "class filter",
+        "batch filter",
+        "stream filter",
+        "zero dues",
+        "active students",
+        "awake status",
+        "export to Excel",
+        "pending fees"
+    ],
+    "related_topics": [
+        "Fee Collection Process",
+        "Student Data Import"
+    ],
+    "id": "fee_management_generating_fee_reports_and_managing_due_fees",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "module": "Fees",
+    "topic": "Collect Online Fees",
+    "summary": "This topic explains how the system facilitates online fee collection through an integrated payment gateway, allowing parents to pay via various digital methods like UPI, Net Banking, Credit Card, or dynamic QR codes.",
+    "navigation": [],
+    "steps": [
+        "On the Collect Fee page, select 'Online' as the payment mode (this option is available if a payment gateway is integrated).",
+        "Click the 'Collect Fees' or equivalent button for online payment.",
+        "Parents will be presented with options to pay via UPI, Net Banking, or Credit Card.",
+        "For UPI payments, a dynamic QR code can be generated.",
+        "Parents can scan the QR code using popular payment apps (e.g., Paytm, Google Pay) within a specified time limit to complete the payment."
+    ],
+    "business_rules": [
+        "Online fee collection functionality requires prior integration of a payment gateway with the ERP system."
+    ],
+    "important_notes": [
+        "The system can generate dynamic QR codes that are valid for a limited time.",
+        "Supports multiple online payment methods for convenience."
+    ],
+    "questions": [
+        "How can parents pay fees online through the ERP system?",
+        "What payment methods are supported for online fee collection?",
+        "Can I generate a QR code for online fee payments?",
+        "What happens if the payment gateway is not integrated for online collection?"
+    ],
+    "keywords": [
+        "Online fees",
+        "payment gateway",
+        "UPI",
+        "Net Banking",
+        "Credit Card",
+        "QR code",
+        "dynamic QR",
+        "online payment",
+        "digital payment"
+    ],
+    "related_topics": [
+        "Select Payment Mode and Manage Dates for Fee Collection"
+    ],
+    "id": "fees_collect_online_fees",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

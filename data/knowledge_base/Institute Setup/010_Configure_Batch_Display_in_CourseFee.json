@@ -1,0 +1,44 @@
+{
+    "module": "Institute Setup",
+    "topic": "Configure Batch Display in Course/Fee",
+    "summary": "This topic explains how to remove the 'Batch' field from being displayed in the Institute Setup Course and Fee sections, which is typically done for schools that do not utilize a batch-based organizational structure.",
+    "navigation": [
+        "Institute Preferences > Display",
+        "Fee > (Scroll down to 'Include Batch' checkbox)"
+    ],
+    "steps": [
+        "Go to 'Institute Preferences'.",
+        "Navigate to the 'Display' settings within Institute Preferences.",
+        "Remove 'Batch' from the display configuration to hide it from relevant screens.",
+        "Go to 'Fee' settings.",
+        "Scroll down and un-tick the 'Include Batch' checkbox to disable its inclusion in fee-related functionalities."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This configuration is primarily useful for schools where 'Batch' is not a relevant organizational unit, unlike colleges or universities that often use batches."
+    ],
+    "questions": [
+        "How do I remove the 'Batch' field from being displayed in the system?",
+        "Where can I configure display settings for the institute?",
+        "Why would I want to remove the 'Include Batch' option?",
+        "Is the 'Batch' field relevant for all types of educational institutions?"
+    ],
+    "keywords": [
+        "Batch",
+        "institute preferences",
+        "display settings",
+        "include batch",
+        "configuration",
+        "school setup",
+        "course setup"
+    ],
+    "related_topics": [
+        "Institute Setup"
+    ],
+    "id": "institute_setup_configure_batch_display_in_course_fee",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

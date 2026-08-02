@@ -1,0 +1,45 @@
+{
+    "module": "HRM",
+    "topic": "Viewing Employee Contract Details",
+    "summary": "This allows you to quickly view the currently assigned salary template (contract) for a specific employee directly from their employee master record.",
+    "navigation": [
+        "Employee",
+        "View Employee (search for employee)",
+        "Salary Template (bottom section)"
+    ],
+    "steps": [
+        "Navigate to 'Employee'.",
+        "Search for the desired employee.",
+        "Click on the employee's record to view their details.",
+        "Scroll down to the bottom section of the employee details page.",
+        "Click on the 'Salary Template' section to expand and view the assigned contract details."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "While a 'New Add' option might be present here, it is generally recommended to use 'HRM > Assign Salary Template' for assigning new contracts, as it provides better calculation visibility and options.",
+        "This view is read-only for the contract details; to modify, you would typically go through 'Assign Salary Template' for future contracts or 'Salary Summary Month Wise' for current month adjustments."
+    ],
+    "questions": [
+        "How can I check an employee's current salary contract?",
+        "Where do I find the assigned salary template for an employee?",
+        "Can I view an employee's contract details from their master record?",
+        "Is it possible to edit an employee's contract from their view page?"
+    ],
+    "keywords": [
+        "View contract",
+        "Employee salary template",
+        "Check employee contract",
+        "HRM employee details",
+        "Employee master contract"
+    ],
+    "related_topics": [
+        "Assigning Salary Template (Contract) to an Employee",
+        "Employee Master"
+    ],
+    "id": "hrm_viewing_employee_contract_details",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

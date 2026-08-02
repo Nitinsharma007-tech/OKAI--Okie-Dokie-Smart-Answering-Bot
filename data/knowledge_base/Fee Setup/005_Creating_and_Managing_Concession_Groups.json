@@ -1,0 +1,57 @@
+{
+    "module": "Fee Setup",
+    "topic": "Creating and Managing Concession Groups",
+    "summary": "This topic details how to create and manage different types of concession groups (e.g., Sibling, Staff Ward) in the system. Concessions can be defined by a percentage or a flat amount and applied across specific fee heads and installments.",
+    "navigation": [
+        "Institute Setup",
+        "Fee Setup",
+        "Concession"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup' > 'Fee Setup' > 'Concession'.",
+        "To create a new concession group, click 'New Concession Group'.",
+        "Enter the 'Concession Name' (e.g., Staff Ward Concession).",
+        "Select the 'Fee Head(s)' to which the concession applies (e.g., Annual Fees, or tick 'All Heads').",
+        "Choose the 'Concession Type': 'Percentage' or 'Flat'.",
+        "Enter the 'Percentage Value' (e.g., 50 for 50%) or 'Flat Value' (e.g., 5000).",
+        "Click 'Save'."
+    ],
+    "business_rules": [
+        "Concessions are session-dependent and can be copied from previous sessions.",
+        "Concessions are applied according to fee installments."
+    ],
+    "important_notes": [
+        "Concession names are user-defined and not pre-set in the system.",
+        "The system allows defining concessions that apply to all fee heads or specific ones."
+    ],
+    "questions": [
+        "How do I create a new concession group in the ERP system?",
+        "What types of concessions can I define (percentage or flat)?",
+        "Can I apply a concession to specific fee heads or all fee heads?",
+        "Are concession groups session-dependent?",
+        "How do I copy concessions from a previous academic session?"
+    ],
+    "keywords": [
+        "Concession",
+        "concession group",
+        "fee concession",
+        "sibling concession",
+        "staff ward concession",
+        "percentage concession",
+        "flat concession",
+        "fee head",
+        "session dependent",
+        "copy concession"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Student Fee Assignment",
+        "Manual Concession Assignment"
+    ],
+    "id": "fee_setup_creating_and_managing_concession_groups",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

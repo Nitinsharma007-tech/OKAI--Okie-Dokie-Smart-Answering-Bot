@@ -1,53 +1,49 @@
 {
     "module": "Transport",
     "topic": "Vehicle Management",
-    "summary": "This topic covers how to add and manage vehicles (buses) within the ERP system's transport module. It details the mandatory and non-mandatory information required for each vehicle, including identification, capacity, and relevant document dates.",
+    "summary": "This topic details how to add new vehicles (buses) to the system, including entering mandatory information like RC number, seating capacity, and insurance details, as well as updating existing vehicle records.",
     "navigation": [
-        "Settings Icon",
-        "Institute Setup",
+        "Settings icon",
         "Transport",
         "Vehicle"
     ],
     "steps": [
-        "Navigate to 'Institute Setup' > 'Transport' > 'Vehicle'.",
         "Click on 'New Vehicle'.",
-        "Enter the 'RC Number' (mandatory).",
-        "Enter the 'Seating Capacity' (mandatory).",
-        "Optionally, enter 'Tank Capacity' and 'GPS ID'.",
-        "Enter the 'Insurance Date' (mandatory).",
-        "Optionally, enter 'Insurance Company', 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', and 'Road Tax' details.",
-        "Click 'Add' to save the vehicle details."
+        "Enter the 'RC Number' (e.g., HR 0123). This is a mandatory field.",
+        "Enter the 'Seating Capacity' (e.g., 50). This is a mandatory field.",
+        "Enter the 'Insurance Date'. This is a mandatory field.",
+        "Optionally, enter 'Tank Capacity', 'GPS ID', 'Insurance Company', and upload corresponding documents like 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', and 'Road Tax'.",
+        "Click 'Add Vehicle' to save the new vehicle.",
+        "To update an existing vehicle, select the vehicle from the list and click 'Update Detail'."
     ],
     "business_rules": [
-        "RC Number and Seating Capacity are mandatory fields for adding a new vehicle.",
-        "Insurance Date is a mandatory field for adding a new vehicle."
+        "The 'RC Number', 'Seating Capacity', and 'Insurance Date' are mandatory fields for adding a new vehicle."
     ],
     "important_notes": [
-        "The system allows for the creation of N number of vehicles.",
-        "Existing vehicle details can be updated at any time."
+        "You can create an N number of vehicles in the system.",
+        "The 'GPS ID' field is used for integrating with GPS tracking systems."
     ],
     "questions": [
-        "How do I add a new bus to the system?",
-        "What information is mandatory when adding a vehicle?",
-        "Can I update the details of an existing vehicle?",
-        "Where do I input the seating capacity for a bus?"
+        "How do I add a new bus to the transport module?",
+        "What information is required when setting up a new vehicle?",
+        "Can I modify the details of an existing vehicle?",
+        "Where do I record the insurance details for a bus?"
     ],
     "keywords": [
-        "Vehicle",
-        "Bus",
-        "RC Number",
-        "Seating capacity",
-        "Insurance date",
         "Add vehicle",
-        "Update vehicle"
+        "bus details",
+        "RC number",
+        "seating capacity",
+        "vehicle update",
+        "transport vehicles",
+        "insurance date"
     ],
     "related_topics": [
-        "Transport Setup Overview",
         "Vehicle Route Management"
     ],
     "id": "transport_vehicle_management",
     "source": {
-        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "file": "1. kashish  Okie - 20260609 1658 IST – Recording.txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

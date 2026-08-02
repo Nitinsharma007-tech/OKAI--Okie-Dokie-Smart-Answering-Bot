@@ -1,0 +1,651 @@
+Is the screen visible?
+, .
+I will show you the student's collection and then we will see how we check the collection in the reports.
+For the collection, I have opened the student's profile.
+Here we have the option of collect fee.
+You can go to the collect fee page from here.
+The second option is fee, then collect fee.
+In this, we will search the student's admission number or student's name.
+I did it with 697.
+I have opened the student.
+Now, as the June month is going on, I have April, May and June month fees.
+I have April, May and June.
+I have Rs. 33,000 showing here.
+Overall, my fee is Rs. 78,000.
+I can select the next term from here.
+After that, the month will show up here.
+If the parent has to pay the fee for the next month, then we can select the next term and collect the fee.
+, .
+For example, I have to do it for 3 months.
+I have to do it only for the April month.
+I select April only.
+Out of Rs. 23,000, I have to receive Rs. 15,000 only.
+In that case, I will select Rs. 15,000.
+Automatically, it will be deducted from my admission fee.
+, .
+If I have to deduct Rs. 15,000, Rs. 10,000 from my admission fee and other charges from tuition fee,
+then in that case, I will select Rs. 10,000 and deduct Rs. 5,000 from my tuition fee.
+Is that clear?
+If I have to deduct less amount from my admission fee and complete tuition fee for April month,
+then I can change it here.
+, .
+If we select the reduced amount here, then the first fee will be deducted from there.
+If we select the reduced amount here, then the first fee will be deducted from there.
+And if we have to do it manually, then we can edit it and do it from there.
+For example, if I have two heads,
+I have to deduct less amount from one head and do more in the other.
+I have to do as much as Rs. 5,000.
+Then I will deduct less from here and do Rs. 5,000 from here.
+Then my amount will be shown here.
+, .
+If I have to take admission fee only and not tuition fee,
+then I will un-tick it from here.
+So this amount will come here.
+The admission fee.
+, .
+For example, there are multiple P heads.
+If I have to take only one head fee,
+then I will un-tick the other one.
+Then proceed.
+Here we have payment modes.
+In which payment mode you have to collect.
+By default, cash is used.
+You can use check, demand draft, online bank transfer, anyone.
+For now, as I have done it online,
+I have a reference number and its date.
+It is mandatory here.
+For example, I have given a reference number here.
+And I have mentioned the date here today.
+Which transaction date is mine.
+Then collect fees.
+And I have done .
+So my receipt will be generated.
+The admission fee for April month was 18,000 rupees.
+And I have paid 18,000 rupees.
+So there is no due pending in admission fees.
+Clear?
+, .
+So this will be the collection.
+What did we do for this?
+It was 9-7.
+I have collected only for April month.
+Now what the parent is saying is
+I have to collect everything till March month.
+If I want to pay the entire amount,
+I will click on all.
+All the installments will show up.
+, .
+So if I proceed like this,
+I will receive the entire amount.
+If I select the payment mode and collect the fees,
+I will receive 60,000 rupees.
+?
+So by selecting the terms from here,
+we can pay the complete fees.
+And also the partial amount.
+, .
+, .
+So this is the fee collection.
+Now if there is any doubt in the fee collection,
+if I have to do it in one head,
+if I have to deduct the amount from multiple heads,
+is there any doubt in that?
+Or I just have to edit the amount here.
+All three are clear?
+, .
+, after proceeding like this,
+the date mentioned during the collection,
+if by chance we are receiving the amount from the cheque,
+then the date mentioned will be the same as today
+when we have received the cheque.
+In the case of cheque,
+if you have a cheque and it is 18 today,
+the cheque will not be received on the same date.
+, .
+The cheque will be received one or two days earlier.
+So the cheque also has a reference number
+and its date is always one or two days earlier.
+, .
+So that date you will mention is your payment date.
+The date you have received the payment
+and this date you have made a transaction in ERP.
+Both are different.
+, .
+, the payment date will be like when we are receiving the amount.
+Absolutely.
+The transaction date is when you have entered in ERP.
+, .
+What is the meaning of collect online fees
+when we integrate the payment gateway?
+After that, through the app or we click from here.
+It is coming here.
+ now the payment gateway is not integrated here.
+So this will keep loading.
+.
+If we integrate the payment gateway,
+then we can also collect online payments from here
+by generating our own dynamic QR code.
+Whatever is valid for time,
+parents can also pay from here.
+, .
+I will show you this on live.
+So I have options like UPI, net banking and credit card.
+I can pay from these modes.
+When I click on pay,
+I will also generate a QR code.
+I can also pay by UPI.
+So I have generated a QR code.
+When I click on scan,
+I can use Paytm, Google Pay or whatever app we use
+to pay from here.
+This is showing the time.
+After how much time it will be disabled.
+I have to pay between this time.
+.
+Now I will cross this.
+So next, we have done a collection.
+Where can we check the collection?
+I will show you that.
+In fees, we have free reports.
+Combined daily collection
+and daily fee report.
+These are two reports
+where we show the collection.
+First, combined daily collection.
+Recip number.
+Today's date.
+What was the admission number of the student?
+What is the student's name?
+Class.
+From which mode has the payment been made?
+And these are some other details.
+The payment was made from admission fee head
+and only this amount has been paid.
+So this detail is showing here.
+Which user has paid?
+That will also be shown here.
+This is editable.
+Whatever you add on the Excel template
+will be shown here.
+Like the roll number is showing at the end.
+I don't want this.
+I will remove it from here.
+I will edit it.
+So I am not showing the roll number.
+So the client also has a requirement
+that what I want in the reports.
+We can set according to that.
+.
+Now there is another thing.
+Like admission heads.
+If you have taken training
+about admission module.
+No .
+There are admission heads in admission module.
+For example, before students are approved,
+some amount is paid in the school.
+Like the prospectus fee or registration fee.
+Then it is collected in admission head.
+That admission head is also shown in the collection.
+And in daily fee report and combined daily
+there is a difference that admission heads
+other income which is other than our fees
+collection is also shown here.
+In the daily fee report,
+admission heads are not shown.
+I will show you by editing.
+There are miscellaneous heads.
+But here admission heads are not shown.
+So admission heads are not shown
+in the daily fee report.
+In the combined daily collection,
+admission heads are also shown.
+Other income heads are also shown.
+If you have seen the fee setup.
+In the fee setup,
+we make other income remarks.
+ .
+Other income heads.
+So these other income heads,
+they are shown here.
+When we collect other income,
+the collection in the other income
+is also shown in the combined daily collection.
+Other income, admission, miscellaneous and P heads.
+Means we can see all the collections
+in the combined daily collection.
+There is a major difference
+between both the reports.
+ .
+Any doubt?
+In both?
+No .
+No .
+Do you know how to cancel the receipt?
+If by chance the receipt of the cult amount is cut,
+then how can I cancel it?
+No .
+Now as I have cut the receipt,
+there is one option.
+I can go to the fee transaction list
+and cancel it from here.
+In other, I will give a remark
+on why I am cancelling it.
+If I save it, the receipt will be cancelled.
+So that will be shown in the daily fee report
+and in the cancellation report.
+I will filter it for cancellation.
+In status, cancel.
+Now I don't have any data
+in the cancellation report.
+In the daily collection, I have data.
+In confirm, I have data
+but I don't have any data in the cancellation report.
+Because I have selected status cancel.
+?
+The next report we have is
+the fee head collection report.
+ .
+But you had previously shown us a cancel.
+I haven't done that.
+I haven't saved it.
+ .
+The fee head collection report.
+In the fee head collection,
+we can see the day-wise or monthly-wise
+fee head collection.
+Means the day-wise collection
+that has been collected today,
+the collection of the scores,
+the collection of the sessions,
+we can see that.
+Like today, on 18th June,
+in online mode,
+18,000 rupees have been collected
+in admission fee.
+So that is showing here.
+I can check monthly
+that I have to see only June month.
+I have done that.
+Now in June month, I have
+in multiple payment mode,
+31,000 in admission,
+25,000 in tuition,
+and 500 in miscellaneous.
+If I want to do this mode-wise
+differentiate,
+I have selected mode here.
+I have done that.
+So here I have
+mode-wise differentiated.
+How much has been collected in cash?
+How much has been collected online?
+And how much has been
+adjusted to amount?
+The meaning of amount adjust
+is that I have collected
+in one fee head.
+I did not have to collect in that head.
+I had to show the collection
+in some other head.
+So I have adjusted it
+from one head to another.
+This is called fee adjustment.
+, .
+Next is daily payment mode collection.
+Today's collection
+is in which mode?
+That will be shown
+in daily payment mode collection.
+If you want to check
+only payment mode collection,
+there will be different
+different payment modes.
+You can filter out
+from which date you want to check.
+From that date to
+the last date,
+it will show in which mode
+collection.
+Next we have due fee report.
+In due fee report,
+in class 5.
+So I will show you class 5.
+I have to check
+only April month
+of all fee heads
+that how much due is pending
+only for active students.
+So here I have
+all active students
+their due
+in April month.
+If I want head wise due,
+I can also check
+head wise due.
+So my total due is 23,000
+in 18,000 admission fees
+and 5,000 tuition fees.
+So my head wise due
+is also showing.
+The student whose
+receipt was cut,
+his admission fee is also showing 0
+because 18,000 rupees
+has been received here.
+So this pending
+dues will show you here
+in due fee report.
+Is there any doubt
+in the reports so far?
+No .
+This is due fee report.
+We can also see due fee report
+course wise.
+You can select
+which course you have seen here.
+This is used for teachers.
+If we have given
+this to the teacher,
+he can check his own course from here.
+But we have this option
+of due fee report.
+So we have all the courses coming here.
+Next is multi-session
+due fee report.
+What does this mean?
+The due fee report
+that you have to see, you can see
+in multiple sessions
+that how much due is pending.
+There is no one in this show
+24-25
+or 25-26.
+You can check from here
+the amount after which
+you have to see the due.
+Suppose I have to see
+25-100 rupees.
+So the dues above that
+will be shown here.
+?
+Means from which percentage
+you have to check the dues.
+From which percentage or amount.
+If you see the due fee report
+of only class 50.
+Here you have the option
+of the enter amount
+and the enter percentage.
+Means you can mention the percentage
+of the dues here.
+When you go,
+it will show you the amount
+or more than that.
+I will tell you the use of this.
+For example, 10,000 rupees
+more than that
+of the dues,
+only that should have the message.
+This is what the client is saying.
+Then we select them
+and send whatsapp
+or send due fee.
+Whatever they have integrated
+according to that we can send the message.
+You can write the amount
+here.
+When you click on go,
+the amount will show more than that.
+That much or more than that.
+ .
+Next is the concession report.
+Before checking the concession report,
+I will show the student
+one by one.
+You must have done this
+when you set up the fee.
+Have you created a concession group there?
+ .
+For example, I have created
+10% concession here.
+I want this only in March
+or PAB.
+I have added it here.
+Percentage concession type
+and in PAB and March
+I have made a concession of 10%
+Click on add.
+Student profile
+I have opened the second one.
+Concession fees.
+From here I have selected
+the concession group.
+Automatically the concession
+amount is coming here.
+10%
+Demand was 5000 rupees.
+So according to 10%
+500 concessions have been created.
+Next, remark
+is coming automatically.
+10% concession.
+You can edit this
+and mention whatever you want to type here.
+When I saved here
+the concession was
+assigned to the student in PAB and March.
+If you
+look at the collective fee page
+1000 concessions
+are showing here.
+We can check this in the fee report
+and concession report.
+In PAB and March
+1000 rupees tuition fee concession
+is showing. This is the concession report.
+Now
+I am
+checking here
+in the institute setup
+course.
+I have a batch coming here.
+Where do we use the batch
+in the case of school
+or colleges?
+In the case of colleges and universities.
+Now if I want to remove the batch
+from here, how will I remove it?
+By going to the institute preferences.
+ .
+We can go to the display and change it.
+We will remove the batch from there.
+And in the fee
+we will untick the include batch
+box.
+We will go to the fee and scroll down.
+Include batch.
+ .
+And in the display name
+we will remove the batch too.
+We haven't done that.
+ .
+We removed the include batch.
+Because we did it that time.
+I have opened this
+from Sanjo. You must have
+worked somewhere else.
+ .
+What is the meaning of this?
+ like if extra fee
+like I am not sure but
+if we pay extra fee
+then if we include it then
+it will auto adjust.
+Maybe it will mention extra fee.
+It auto adjusts
+ .
+Now if I have
+collected 18,000 rupees
+I have put it in concession
+here in manual.
+Assume 10,000 rupees
+for admission fee.
+And I am saving it.
+So it is saying that the amount has already been received.
+So 10,000 rupees
+will go in extra fee.
+If I it then what will happen?
+ there will be a fee head
+in which this amount will add on.
+I have it.
+I have
+an extra transaction
+here.
+I will show you the first transaction.
+In the first transaction
+10,000 admission fees
+will go in extra fee
+after concession.
+?
+In the second transaction
+those 10,000 rupees
+which were in extra fee
+will be adjusted
+in April-May tuition fee.
+Why did this happen?
+Because that toggle was on
+auto adjusts extra fee.
+ why did this happen
+in that particular fee head?
+Why didn't it happen in other cases?
+If the receiving had already come
+from before
+then it wouldn't have happened.
+There are only two heads here.
+The collection has already been done in admission.
+Only tuition fee pending.
+ .
+So whatever
+the first
+view will be in the heads
+it will show the collection in that.
+It will get 5,000 rupees
+here, 5 here
+and it will adjust 10,000 rupees
+here.
+So these 10,000 rupees have been auto-adjusted here.
+It is also written here.
+It is an auto remark.
+ .
+This is its meaning.
+ how can we discuss this once?
+I don't understand.
+Like
+the extra fee
+that has gone
+Wait a minute.
+First we have to do the upper one.
+Now what happened?
+I cancelled both the receipts.
+?
+So the concession that I had put for 10,000 rupees
+came in negative here.
+Why did it come in negative?
+Will you tell me once?
+ we had already done
+and I had put 10,000
+in the concession
+so it means
+only 8,000 should have been collected in the admission fee.
+But it was 18,000.
+.
+Now I will show it
+once again.
+By removing the concession.
+I have removed it.
+Now it will not come in negative there.
+I have done it like before.
+Now I will put the concession again
+manually.
+I have put 5,000.
+Saved it.
+It has already been adjusted.
+It will not come in negative.
+I will show it to another student.
+Now in the student's cash
+we have received 15,000 rupees.
+So if I sign the concession
+here.
+5,000 rupees.
+Saved it.
+So it is telling me that the already received amount
+will be adjusted in future
+installment or it will be moved to
+2,000 rupees extra fees.
+So I have made it .
+So I have 2,000 rupees
+deducted from the tuition fee.
+Same thing.
+2,000 rupees extra fee.
+And extra fee
+2,000 rupees deducted from the tuition fee
+of April month.
+Now is it clear?
+ .
+ in case like in our present
+there is no one. Then it will be deducted
+from next month.
+Then it will be deducted from next month.
+If all this is clear from here.
+There is no amount.
+Then it will be deducted from July month.
+ .
+Then fee summary.
+We can see fee summary course wise,
+category wise, head wise.
+I will tell you about head wise first.
+If we want to see head wise
+of active students.
+What is fee head wise summary?
+Of different courses.
+So in admission fee
+there was so much demand.
+So much concession that we invested 5,000 rupees.
+So much payable
+concession
+was deducted.
+So much receiving and so much
+balance pending.
+This is fee summary head wise.
+Head wise we can see fee summary
+in today's date.
+ .
+If you want to see course wise
+I have done it.
+Class one
+and class five.
+One or two students of class one
+and class five students are here.
+So after demand
+as much concession, as much payable
+and how much received.
+And after that the balance pending
+I have fee summary
+in class five.
+I can also see category wise.
+What is the means of category?
+Which is our admission category.
+Which is only general.
+If it was different
+then there would be different
+category wise amount.
+If there is only one then there is only one.
+What is the meaning of fee summary group wise?
+If we have made fee head
+group also.
+It is used in colleges case if
+there is no group in it.
+Combined head wise
+we can see fee summary of multiple head.
+ .

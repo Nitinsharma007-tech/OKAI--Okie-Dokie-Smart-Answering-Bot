@@ -1,0 +1,60 @@
+{
+    "module": "Fee Management",
+    "topic": "Applying and Managing Fee Concessions",
+    "summary": "This topic details how to apply concessions to student fees, either by selecting predefined concession groups (e.g., sports, staff) with associated percentages or fixed amounts, or by manually entering a specific concession amount for unique cases.",
+    "navigation": [
+        "Collect Fee",
+        "Search Student",
+        "Select Student",
+        "Concession option"
+    ],
+    "steps": [
+        "During the fee collection process, click on the 'Concession' option available for the student.",
+        "To apply a **Predefined Concession**: Select a relevant concession group (e.g., 'Sports Concession'). The system will automatically calculate the concession amount based on the predefined percentage (e.g., 10% on tuition fee) or fixed amount.",
+        "To apply a **Manual Concession**: Select the 'Manual' option and directly enter the fixed amount to be conceded.",
+        "Optionally, enter a remark explaining the reason for the concession (this is mandatory).",
+        "Optionally, upload any supporting documents related to the concession.",
+        "Save the concession to apply it to the student's fee."
+    ],
+    "business_rules": [
+        "Concession groups can be defined with specific criteria, such as a percentage (e.g., 10%) or a fixed amount, and can be applied to specific fee heads (e.g., only tuition fee).",
+        "Remarks are mandatory when applying concessions.",
+        "Concessions can be applied as percentages or fixed amounts."
+    ],
+    "important_notes": [
+        "Concession groups and their criteria (e.g., 50% for staff, 10% on tuition fee for sports) must be shared with the ERP team for setup in the system.",
+        "The system can automatically calculate concessions based on predefined rules.",
+        "Concession data for old students needs to be provided during data import if their concessions are to be carried forward."
+    ],
+    "questions": [
+        "How do I apply a concession to a student's fee?",
+        "Can I apply a percentage-based concession, and how?",
+        "What are concession groups, and how are they utilized in the system?",
+        "Is it possible to apply a manual concession amount for a student?",
+        "Are remarks required when applying a concession?",
+        "How do I set up new concession criteria in the ERP?"
+    ],
+    "keywords": [
+        "Fee concession",
+        "concession group",
+        "sports concession",
+        "staff concession",
+        "manual concession",
+        "percentage concession",
+        "fixed amount concession",
+        "tuition fee concession",
+        "concession remarks",
+        "concession setup"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Fee Structure Setup",
+        "Importing Old Student Data and Dues"
+    ],
+    "id": "fee_management_applying_and_managing_fee_concessions",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

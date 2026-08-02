@@ -1,0 +1,55 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Log Page (IVR Integration)",
+    "summary": "Explains the Admission Leads Log page, where IVR calls are received as logs. Counselors can convert these logs into leads, check call recordings, reject calls, or add call notes. The page also offers various filters for managing call logs.",
+    "navigation": [
+        "Admission Leads Log page"
+    ],
+    "steps": [
+        "Navigate to the Admission Leads Log page.",
+        "View incoming IVR calls, categorized as 'received' or 'missed'.",
+        "To convert a log to a lead: Add caller information (name, stream) and convert the log.",
+        "To check call recordings: Click to listen to the recording (requires login).",
+        "To reject a log: Mark it as rejected if the student is not interested.",
+        "To add a call note: Record notes for calls where the student did not pick up.",
+        "Use filters to view 'converted logs', 'pending logs', 'call status' (received/missed), or specific 'counselor data'."
+    ],
+    "business_rules": [
+        "IVR integration is essential for receiving call logs on this page.",
+        "Caller information is initially blank for random numbers and must be added by the counselor after discussion."
+    ],
+    "important_notes": [
+        "This page is critical for managing leads generated through IVR calls, ensuring no potential lead is missed.",
+        "'My Operator' is mentioned as an IVR partner that facilitates this process."
+    ],
+    "questions": [
+        "How are IVR calls processed and converted into admission leads?",
+        "What is the function of the Admission Leads Log page?",
+        "Can I listen to call recordings from the leads log page?",
+        "How do I reject an IVR call log if the student is not interested?",
+        "What filtering options are available for managing call logs?"
+    ],
+    "keywords": [
+        "Admission leads log",
+        "IVR integration",
+        "call logs",
+        "received calls",
+        "missed calls",
+        "convert log",
+        "reject log",
+        "call recording",
+        "call note",
+        "My Operator",
+        "lead generation"
+    ],
+    "related_topics": [
+        "Admission Leads Page - Advanced Actions",
+        "My Operator Configuration"
+    ],
+    "id": "admissions_admission_leads_log_page_ivr_integration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

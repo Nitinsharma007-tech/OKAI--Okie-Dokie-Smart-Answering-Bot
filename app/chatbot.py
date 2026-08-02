@@ -1,6 +1,7 @@
 from app.semantic_search import SemanticSearch
 from app.context_builder import ContextBuilder
 from app.gemini_agent import GeminiAgent
+from app.cache_manager import CacheManager
 
 
 class OKAIChatbot:
@@ -17,13 +18,40 @@ class OKAIChatbot:
 
         self.gemini = GeminiAgent()
 
+        # Semantic Q&A cache — reuses the same embedding model as
+        # SemanticSearch, so no extra model load / dependency.
+
+        self.cache = CacheManager(
+        embed_fn=self.search.embed_question,
+        cache_file="data/cache/qa_cache.json",
+        lookup_threshold=0.83,   # was 0.93 — too strict, missed real paraphrases
+        duplicate_threshold=0.98,
+    )
+
         print("\nOKAI Ready!\n")
 
     # ======================================================
     # Ask
     # ======================================================
-
     def ask(self, question):
+
+        # --------------------------------------------------
+        # 1. Try Cache First
+        # --------------------------------------------------
+
+        print("\n========== CHECKING CACHE ==========")
+
+        cached = self.cache.lookup(question)
+
+        if cached:
+            print("✅ CACHE HIT - Returning cached answer")
+            return cached["answer"], None, True
+
+        print("❌ CACHE MISS - Calling Semantic Search + Gemini")
+
+        # --------------------------------------------------
+        # 2. Cache Miss -> Semantic Search + Gemini
+        # --------------------------------------------------
 
         print("\nSearching Knowledge Base...\n")
 
@@ -32,40 +60,57 @@ class OKAIChatbot:
             top_k=3
         )
 
-        context = self.builder.build(
-            search_results
-        )
+        context = self.builder.build(search_results)
 
         prompt = f"""
-You are OKAI, an intelligent ERP Assistant.
+    You are OKAI, an intelligent ERP Assistant.
 
-Answer ONLY using the knowledge provided.
+    Answer ONLY using the knowledge provided.
 
-If the answer is not available inside the knowledge,
-say:
+    If the answer is not available inside the knowledge,
+    say:
 
-"I couldn't find this information in the ERP knowledge base."
+    "I couldn't find this information in the ERP knowledge base."
 
-Never invent information.
+    Never invent information.
 
-Always explain clearly.
+    Always explain clearly.
 
-If there are steps,
-show them as numbered points.
+    If there are steps,
+    show them as numbered points.
 
-=========================
-USER QUESTION
-=========================
+    =========================
+    USER QUESTION
+    =========================
 
-{question}
+    {question}
 
-=========================
-ERP KNOWLEDGE
-=========================
+    =========================
+    ERP KNOWLEDGE
+    =========================
 
-{context}
-"""
+    {context}
+    """
 
         answer = self.gemini.generate(prompt)
 
-        return answer
+        # Save only meaningful answers
+        if answer:
+
+            invalid_responses = [
+                "I couldn't find this information",
+                "I could not find this information",
+                "not available in the ERP knowledge base"
+            ]
+
+            if not any(text.lower() in answer.lower() for text in invalid_responses):
+
+                print("\n💾 Saving response to semantic cache...")
+
+                self.cache.add(
+                question,
+                answer,
+                source="dynamic"
+            )
+
+        return answer, search_results, False

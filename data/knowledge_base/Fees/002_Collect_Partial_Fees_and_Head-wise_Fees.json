@@ -1,0 +1,46 @@
+{
+    "module": "Fees",
+    "topic": "Collect Partial Fees and Head-wise Fees",
+    "summary": "This topic details how to collect a partial amount of the total fee or specific amounts for individual fee heads, allowing for flexible payment options.",
+    "navigation": [],
+    "steps": [
+        "On the Collect Fee page, select the desired month(s).",
+        "To collect a partial amount for the selected month(s), enter the reduced amount in the total field. The system will automatically deduct from the first fee head.",
+        "To manually adjust amounts for individual fee heads, edit the amount displayed for each head (e.g., Admission Fee, Tuition Fee).",
+        "To collect only specific fee heads, un-tick the checkboxes for the heads you do not wish to collect.",
+        "Click 'Proceed' after making your selections."
+    ],
+    "business_rules": [
+        "If a reduced total amount is entered, the system automatically deducts from the first fee head listed.",
+        "Users have the option to manually edit amounts for individual fee heads."
+    ],
+    "important_notes": [
+        "This feature allows for flexible fee collection based on parent's payment capacity or specific payment plans."
+    ],
+    "questions": [
+        "How can I collect a partial fee payment from a student?",
+        "Can I specify which fee heads to collect money from?",
+        "How do I collect only the admission fee and not the tuition fee?",
+        "What happens if I enter a reduced amount for the total fee instead of individual heads?"
+    ],
+    "keywords": [
+        "Partial fee",
+        "head-wise collection",
+        "admission fee",
+        "tuition fee",
+        "specific fee heads",
+        "reduced amount",
+        "manual adjustment",
+        "fee installment"
+    ],
+    "related_topics": [
+        "Collect Student Fees",
+        "Payment Modes and Dates for Fee Collection"
+    ],
+    "id": "fees_collect_partial_fees_and_head_wise_fees",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

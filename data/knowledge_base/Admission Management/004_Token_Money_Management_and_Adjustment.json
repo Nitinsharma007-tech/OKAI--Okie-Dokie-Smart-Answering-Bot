@@ -1,0 +1,61 @@
+{
+    "module": "Admission Management",
+    "topic": "Token Money Management and Adjustment",
+    "summary": "This topic details the unique functionality of 'Token Money' in the ERP system, where the collected amount is automatically adjusted against the student's total tuition fees upon successful admission approval.",
+    "navigation": [
+        "Admission Heads",
+        "Stage Setup",
+        "View Stage",
+        "Transactions Tab",
+        "Add Transaction Mapping",
+        "Student List",
+        "Fee Collection"
+    ],
+    "steps": [
+        "Ensure the 'Token Money' head is available (it is predefined in 'Admission Heads').",
+        "Navigate to 'Stage Setup', then 'View' the desired stage (typically a later stage in the admission process).",
+        "Go to the 'Transactions' tab and click 'Add Transaction Mapping'.",
+        "Select the 'Course' and the 'Token Money' head.",
+        "Enter the 'Amount' for the token money (e.g., 10,000 rupees).",
+        "Configure 'Editable' and 'Save Zero Amount Transaction' as needed for the token money head.",
+        "Collect the token money from the student at the configured stage.",
+        "Proceed to 'Approve' the student's admission.",
+        "Once the student is approved and added to the 'Student List', navigate to the student's 'Fee Collection' details.",
+        "Observe that the collected token money amount will be automatically deducted from the student's total payable tuition fee (e.g., if tuition is 1,00,000 and token money is 10,000, the payable amount becomes 90,000)."
+    ],
+    "business_rules": [
+        "Token money is the only admission head that is automatically adjusted against the student's tuition fees upon admission approval.",
+        "Other admission heads (Registration, Prospectus, Visit Fee) are collected as separate amounts and do not reduce the tuition fee."
+    ],
+    "important_notes": [
+        "Token money is typically collected at a later stage of the admission process.",
+        "The system handles the adjustment automatically upon student approval, reducing the net balance of the student's fees."
+    ],
+    "questions": [
+        "How does token money differ from other admission fees?",
+        "Where can I see the adjustment of token money against tuition fees?",
+        "Is token money automatically deducted from the total fee?",
+        "How do I configure token money collection at an admission stage?"
+    ],
+    "keywords": [
+        "token money",
+        "fee adjustment",
+        "tuition fee",
+        "admission approval",
+        "student fees",
+        "fee collection",
+        "net balance",
+        "advance payment"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Mapping Admission Heads to Stages and Transaction Configuration",
+        "Student Fee Collection"
+    ],
+    "id": "admission_management_token_money_management_and_adjustment",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

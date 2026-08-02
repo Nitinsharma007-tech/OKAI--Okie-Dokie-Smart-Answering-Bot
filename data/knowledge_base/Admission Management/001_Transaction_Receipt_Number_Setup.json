@@ -1,0 +1,42 @@
+{
+    "module": "Admission Management",
+    "topic": "Transaction Receipt Number Setup",
+    "summary": "This topic explains how to configure the automatic generation of unique receipt numbers for all admission-related financial transactions within the ERP system.",
+    "navigation": [
+        "Transaction Receipt Setup"
+    ],
+    "steps": [
+        "Navigate to 'Transaction Receipt Setup'.",
+        "Set a 'Prefix' for the receipt numbers (e.g., 'SDI' for SDI University).",
+        "Set the 'Starting Number' for the receipt counter (e.g., '1').",
+        "The system will automatically generate subsequent receipt numbers by incrementing the counter after the prefix (e.g., SDI-001, SDI-002, SDI-003)."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "The receipt number prefix can be provided by the client or determined by the implementer.",
+        "The receipt counter updates automatically with each new transaction."
+    ],
+    "questions": [
+        "How do I set up automatic receipt numbering for admission transactions?",
+        "Where can I configure the prefix for transaction receipts?",
+        "How does the system generate unique receipt numbers for payments?"
+    ],
+    "keywords": [
+        "receipt number",
+        "transaction receipt",
+        "receipt counter",
+        "prefix setup",
+        "admission fees",
+        "financial transactions"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Mapping Admission Heads to Stages and Transaction Configuration"
+    ],
+    "id": "admission_management_transaction_receipt_number_setup",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

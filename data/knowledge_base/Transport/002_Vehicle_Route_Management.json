@@ -1,0 +1,77 @@
+{
+    "module": "Transport",
+    "topic": "Vehicle Route Management",
+    "summary": "This topic details how to define bus routes, assign vehicles to routes, specify pick-up and drop points with their respective timings and charges, and manage the skipping of transport fees for specific installments. Routes can be created manually or copied from previous sessions.",
+    "navigation": [
+        "Settings icon",
+        "Transport",
+        "Vehicle Route"
+    ],
+    "steps": [
+        "Navigate to Settings icon > Transport > Vehicle Route.",
+        "To create a new route, click 'New Vehicle Route'.",
+        "Enter a 'Route Name' (e.g., Route 1).",
+        "Select the 'Vehicle' that will operate on this route from the dropdown list.",
+        "Optionally, select 'Skip Installment(s)' if transport fees should not be charged for particular installments (e.g., June).",
+        "Optionally, select 'Employee(s)' (drivers) to assign to this route. This data comes from the HRM employee setup.",
+        "Add 'Pick-up Points':",
+        "Enter the 'Pick-up Point Name' (e.g., Ansal).",
+        "Enter the 'Pick-up Time' and 'Drop Time' for this point.",
+        "Enter the 'Amount' associated with this pick-up point.",
+        "Optionally, enter Longitude and Latitude for GPS tracking integration.",
+        "Click 'Add' for each pick-up point.",
+        "Click 'Add' to save the complete vehicle route.",
+        "To copy routes from a previous session, click 'Copy from Session' and select the desired academic session from the dropdown.",
+        "To update an existing route, select the route from the list, click 'Edit', make the necessary changes, and click 'Update'.",
+        "To upload pick-up points in bulk, click 'Upload Pick-up Point', download the sample Excel file, fill it with the required data, choose the file, and click 'Submit'."
+    ],
+    "business_rules": [
+        "Transport setup is session-dependent.",
+        "The 'Skip Installment' feature allows excluding transport fees for selected installments (e.g., June for schools).",
+        "Employee data (drivers) must be pre-configured in the HRM employee setup.",
+        "Pick-up Time and Drop Time are non-mandatory when uploading pick-up points via Excel, but are mandatory when adding them manually."
+    ],
+    "important_notes": [
+        "The 'Copy from Session' feature is highly useful for entities where transport routes remain largely consistent across academic sessions.",
+        "Longitude and Latitude fields are primarily for integration with GPS tracking systems.",
+        "Bulk upload via Excel is an efficient method for adding numerous pick-up points to a route. The system will generate an error file if there are invalid entries during the upload process.",
+        "You can add multiple pick-up points to a single route."
+    ],
+    "questions": [
+        "How do I create a new vehicle route in the system?",
+        "Can I assign multiple pick-up points to one bus route?",
+        "What is the function of the 'Skip Installment' option in route setup?",
+        "How can I assign a driver to a specific bus route?",
+        "Is it possible to import pick-up points in bulk using an Excel file?",
+        "What kind of errors might occur during a pick-up point Excel upload?",
+        "How do I copy transport routes from a previous academic session?"
+    ],
+    "keywords": [
+        "Vehicle Route",
+        "Pick-up Point",
+        "Drop Point",
+        "Route Name",
+        "Skip Installment",
+        "Employee",
+        "Driver",
+        "Pick-up Time",
+        "Drop Time",
+        "Amount",
+        "GPS Tracking",
+        "Bulk Upload",
+        "Copy from Session",
+        "Transport Charges"
+    ],
+    "related_topics": [
+        "Vehicle Management",
+        "Transport Excel Upload",
+        "Fee Structure",
+        "Employee Management"
+    ],
+    "id": "transport_vehicle_route_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "module": "System Administration",
+    "topic": "Configuring Quick Links",
+    "summary": "This topic explains how users can personalize their ERP dashboard by adding frequently used options as 'Quick Links' for faster access to daily tasks.",
+    "navigation": [],
+    "steps": [
+        "Identify an ERP option that you use frequently (e.g., 'Collect Fee').",
+        "Locate the 'Quick Link' option on your dashboard or near the frequently used menu item.",
+        "Add the desired option as a quick link.",
+        "The added quick link will now appear on your dashboard, allowing direct access."
+    ],
+    "business_rules": [
+        "Quick links are user-specific, meaning each user can customize their own set of links."
+    ],
+    "important_notes": [
+        "An N number of links can be updated according to each user's preference."
+    ],
+    "questions": [
+        "How can I add a quick link to my ERP dashboard?",
+        "Can I customize the quick links on my interface?",
+        "Where do I find the option to add quick links?",
+        "Are quick links visible to all users or just me?"
+    ],
+    "keywords": [
+        "Quick links",
+        "dashboard customization",
+        "daily access",
+        "user-specific links",
+        "personalization"
+    ],
+    "related_topics": [
+        "Dashboard Customization",
+        "User Preferences"
+    ],
+    "id": "system_administration_configuring_quick_links",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

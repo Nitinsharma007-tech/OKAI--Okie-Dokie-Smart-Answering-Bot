@@ -1,0 +1,54 @@
+{
+    "module": "Fee Management",
+    "topic": "Generating Fee Reports",
+    "summary": "This topic describes the availability of various fee reports, such as daily collection, combined daily collection, and due fee reports, along with filtering options to analyze student payment statuses and outstanding amounts.",
+    "navigation": [
+        "Fee",
+        "Fee Reports"
+    ],
+    "steps": [
+        "Navigate to the 'Fee Reports' section within the 'Fee' module.",
+        "Select the desired report type (e.g., 'Daily Fee Report', 'Due Fee Report', 'Combined Daily Collection').",
+        "Apply relevant filters such as class, stream, batch, date range, 'show student with zero dues', or 'awake status' (active/defaulted students).",
+        "Generate the report and export it, typically to Excel, for further analysis."
+    ],
+    "business_rules": [
+        "Filtering options are available in every report section to refine data."
+    ],
+    "important_notes": [
+        "The 'Show student with zero dues' filter: Selecting 'No' will display only students with pending dues, while 'Yes' will show all students regardless of dues.",
+        "The 'Awake status' filter: Setting it to 'False' will list only defaulted students (those who have not paid for a particular session).",
+        "Amount-wise filtering is not currently available for fee reports but can be requested as a future enhancement."
+    ],
+    "questions": [
+        "Where can I access the fee reports in the ERP?",
+        "What types of fee reports are available for analysis?",
+        "How can I generate a list of students with pending dues?",
+        "Can I filter fee reports by specific criteria like class, stream, or batch?",
+        "How do I get a report of students who have not paid their fees for a specific session?",
+        "Is it possible to filter fee reports by a specific fee amount?"
+    ],
+    "keywords": [
+        "Fee reports",
+        "daily collection report",
+        "due fee report",
+        "pending fees",
+        "defaulted students",
+        "fee report filters",
+        "class filter",
+        "stream filter",
+        "batch filter",
+        "export to Excel",
+        "student payment status"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Student Data Analysis"
+    ],
+    "id": "fee_management_generating_fee_reports",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

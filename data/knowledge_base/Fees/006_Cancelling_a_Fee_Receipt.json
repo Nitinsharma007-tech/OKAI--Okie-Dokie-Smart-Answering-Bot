@@ -1,0 +1,45 @@
+{
+    "module": "Fees",
+    "topic": "Cancelling a Fee Receipt",
+    "summary": "This topic outlines the process of cancelling a fee receipt that was incorrectly generated and explains where to view cancelled receipts within the system.",
+    "navigation": [
+        "Fee > Fee Transaction List"
+    ],
+    "steps": [
+        "Navigate to 'Fee' > 'Fee Transaction List'.",
+        "Locate the specific fee receipt that needs to be cancelled.",
+        "Select the option to cancel the receipt.",
+        "Provide a mandatory 'Remark' explaining the reason for the cancellation.",
+        "Save the cancellation to complete the process."
+    ],
+    "business_rules": [
+        "A 'Remark' (reason) is mandatory when cancelling a fee receipt."
+    ],
+    "important_notes": [
+        "Cancelled receipts will be recorded and can be viewed in the 'Cancellation Report' by filtering the status to 'Cancel'.",
+        "Cancellations may also be reflected in the 'Daily Fee Report'."
+    ],
+    "questions": [
+        "How do I cancel a fee receipt?",
+        "Where can I find a list of cancelled fee receipts?",
+        "Is it necessary to provide a reason when cancelling a receipt?",
+        "What reports show cancelled fee transactions?"
+    ],
+    "keywords": [
+        "Cancel receipt",
+        "fee transaction list",
+        "cancellation report",
+        "receipt status",
+        "cancel fee",
+        "void receipt"
+    ],
+    "related_topics": [
+        "View Fee Collection Reports"
+    ],
+    "id": "fees_cancelling_a_fee_receipt",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

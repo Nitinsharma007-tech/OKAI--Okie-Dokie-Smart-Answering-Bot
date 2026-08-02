@@ -1,0 +1,60 @@
+{
+    "module": "Fees",
+    "topic": "View Fee Summary Reports",
+    "summary": "This topic describes various fee summary reports that provide a comprehensive overview of fee demand, applied concessions, payable amounts, received amounts, and pending balances, categorized by fee head, course, admission category, or fee group.",
+    "navigation": [
+        "Fee > Fee Reports > Fee Summary"
+    ],
+    "steps": [
+        "Navigate to 'Fee' > 'Fee Reports'.",
+        "Select 'Fee Summary'.",
+        "Choose the desired summary type:",
+        "  - **Head Wise:** Provides a summary for each individual fee head, showing demand, concession, payable, received, and balance pending.",
+        "  - **Course Wise:** Offers a fee summary categorized by each course or class.",
+        "  - **Category Wise:** Summarizes fees based on admission categories (e.g., General, OBC, SC/ST).",
+        "  - **Group Wise:** (Primarily used in colleges if fee head groups are configured) Summarizes fees by predefined fee head groups.",
+        "  - **Combined Head Wise:** Allows viewing a fee summary for multiple fee heads together.",
+        "Apply additional filters such as 'Active Students' or specific date ranges as needed."
+    ],
+    "business_rules": [
+        "Fee summary reports offer a detailed financial overview of fee statuses.",
+        "The 'Group Wise' summary is typically more relevant for higher education institutions (colleges/universities) that utilize fee head groups."
+    ],
+    "important_notes": [
+        "All fee summary reports display key metrics: demand, concession, payable amount, received amount, and the remaining balance pending.",
+        "Reports can be filtered to show data for 'Active Students' only."
+    ],
+    "questions": [
+        "How can I get a summary of all fees for the institution?",
+        "Can I see fee summaries broken down by individual fee heads?",
+        "Where can I find a course-wise fee summary?",
+        "What is the purpose of a category-wise fee summary?",
+        "How does the 'Fee Summary Group Wise' report function?",
+        "What information is included in the fee summary reports?"
+    ],
+    "keywords": [
+        "Fee summary",
+        "head wise summary",
+        "course wise summary",
+        "category wise summary",
+        "group wise summary",
+        "combined head wise",
+        "demand",
+        "concession",
+        "payable",
+        "received",
+        "balance pending",
+        "fee overview"
+    ],
+    "related_topics": [
+        "View Fee Collection Reports",
+        "View Due Fee Reports",
+        "Apply and View Fee Concessions"
+    ],
+    "id": "fees_view_fee_summary_reports",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

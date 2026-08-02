@@ -1,0 +1,48 @@
+{
+    "module": "Admissions",
+    "topic": "Show Member Detail Filter",
+    "summary": "Explains the 'Show Member Detail' filter on the Admission Leads page, which allows a team lead to view not only their own assigned leads but also the aggregated leads of all members within their team.",
+    "navigation": [
+        "Leads Page",
+        "Filter section",
+        "Show Member Detail toggle"
+    ],
+    "steps": [
+        "Navigate to the Admission Leads page.",
+        "Select a counselor (e.g., Sumit) from the filter.",
+        "With the 'Show Member Detail' toggle OFF, only Sumit's individual leads will be displayed.",
+        "With the 'Show Member Detail' toggle ON, all leads belonging to Sumit and his team members will be displayed collectively."
+    ],
+    "business_rules": [
+        "This filter aggregates lead data for a team lead, providing an overview of their team's collective performance and pipeline."
+    ],
+    "important_notes": [
+        "This filter is crucial for team leads to effectively monitor and manage their team's overall lead pipeline and activities."
+    ],
+    "questions": [
+        "What is the purpose of the 'Show Member Detail' filter on the Admission Leads page?",
+        "How can a team lead view all leads managed by their team members?",
+        "What is the difference in lead display when the 'Show Member Detail' toggle is on versus off?",
+        "How does this filter help in team lead oversight?"
+    ],
+    "keywords": [
+        "Show member detail",
+        "filter",
+        "team lead",
+        "team members",
+        "lead data",
+        "lead pipeline",
+        "counselor data",
+        "admission leads page",
+        "team performance"
+    ],
+    "related_topics": [
+        "Admission Team Structure and Lead Visibility"
+    ],
+    "id": "admissions_show_member_detail_filter",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

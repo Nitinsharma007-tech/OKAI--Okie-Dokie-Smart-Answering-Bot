@@ -1,0 +1,46 @@
+{
+    "module": "Fee Management",
+    "topic": "Configuring Fee Head Payment Sequence",
+    "summary": "This topic explains how the system prioritizes the allocation of collected fee amounts across different fee heads, especially when a partial payment is made. The sequence is configurable.",
+    "navigation": [],
+    "steps": [
+        "Define the desired sequence for fee heads in the system's fee setup configuration.",
+        "Ensure the sequence reflects the institutional priority for payment allocation (e.g., Security before Tuition Fee)."
+    ],
+    "business_rules": [
+        "When a partial fee amount is entered, the system automatically allocates it to fee heads based on the predefined sequence.",
+        "Fines are typically calculated and applied after all other primary fee heads."
+    ],
+    "important_notes": [
+        "The default sequence is: Security, Tuition Fee, Transport, Hostel, Student Funds, Development Funds, and then Fines.",
+        "This sequence is crucial for accurate accounting of partial payments."
+    ],
+    "questions": [
+        "How does the ERP system prioritize fee heads when a student makes a partial payment?",
+        "Can we customize the order in which fee heads are paid?",
+        "What is the default fee head sequence for payment allocation?",
+        "Where can I configure the fee head sequence?"
+    ],
+    "keywords": [
+        "Fee head sequence",
+        "payment allocation",
+        "partial payment",
+        "tuition fee",
+        "security deposit",
+        "transport fee",
+        "hostel fee",
+        "student funds",
+        "development funds",
+        "fines"
+    ],
+    "related_topics": [
+        "Fee Collection Process",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_configuring_fee_head_payment_sequence",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

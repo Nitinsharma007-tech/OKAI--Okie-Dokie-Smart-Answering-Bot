@@ -1,0 +1,53 @@
+{
+    "module": "Data Management",
+    "topic": "Importing Old Student Data, Dues, and Concessions",
+    "summary": "This topic outlines the requirements and process for importing existing student data, including their historical dues and any ongoing concessions, into the new ERP system to ensure a seamless transition for fee collection and student management.",
+    "navigation": [],
+    "steps": [
+        "Prepare existing student data in a structured Excel format as provided by the ERP team.",
+        "Ensure the data includes unique identifiers such as 'Admission Number' and 'University Roll Number'.",
+        "Provide comprehensive data for any outstanding dues from previous academic periods for each student.",
+        "Include details of any ongoing concessions that old students are entitled to.",
+        "Submit the prepared Excel files to the ERP team for import."
+    ],
+    "business_rules": [
+        "Each student's registration number (or admission number/university roll number) must be unique in the imported data.",
+        "Concessions for old students will be carried forward and applied in the new system if provided in the import data."
+    ],
+    "important_notes": [
+        "Timely submission of student data is crucial to enable immediate fee collection in the new ERP.",
+        "The ERP team will provide a sample Excel format to guide data preparation.",
+        "New admissions will start with a specific series of registration numbers (e.g., from the 26th onwards)."
+    ],
+    "questions": [
+        "How do we import data for our existing students into the ERP?",
+        "What specific information is required for importing old student data?",
+        "Can we import outstanding dues from previous academic years?",
+        "Will existing student concessions be automatically applied after data import?",
+        "What is the required format for the student data import Excel sheet?",
+        "What are the unique identifiers for students in the ERP?"
+    ],
+    "keywords": [
+        "Student data import",
+        "old students",
+        "dues import",
+        "concession data",
+        "unique registration number",
+        "admission number",
+        "university roll number",
+        "data migration",
+        "data preparation",
+        "sample Excel"
+    ],
+    "related_topics": [
+        "Fee Collection Process",
+        "Concession Management",
+        "Hostel and Transport Data Import"
+    ],
+    "id": "data_management_importing_old_student_data_dues_and_concessions",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

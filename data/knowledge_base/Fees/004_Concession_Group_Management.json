@@ -1,0 +1,57 @@
+{
+    "module": "Fees",
+    "topic": "Concession Group Management",
+    "summary": "This topic outlines the process of creating and managing various types of concession groups within the system, such as staff ward, sibling, or manual concessions. Concessions are defined by name, applicable fee heads, and the type of concession (percentage or flat amount).",
+    "navigation": [
+        "Fees Module",
+        "Concession Group"
+    ],
+    "steps": [
+        "Navigate to the relevant section within the Fees Module (e.g., Concession Group).",
+        "Click on 'New Concession Group'.",
+        "Enter a descriptive 'Concession Name' (e.g., 'Staff Ward Concession', 'Sibling Concession', 'Manual Concession').",
+        "Select the 'Fee Head(s)' to which this concession will apply (e.g., 'Annual Fees', 'Tuition Fee').",
+        "Choose the 'Concession Type':",
+        "If 'Percentage', enter the percentage value (e.g., 50 for 50%).",
+        "If 'Flat', enter the specific flat amount (e.g., 5000).",
+        "Click 'Add' to save the new concession group."
+    ],
+    "business_rules": [
+        "Concessions are applied based on the defined fee heads and their corresponding installments.",
+        "A 'Manual Concession' group can be created with all fee heads selected, a 'Flat' type, and a zero value. This allows for flexible, ad-hoc concession assignments by fee clerks or authorized personnel."
+    ],
+    "important_notes": [
+        "Concession groups are defined once and then assigned to individual students as needed.",
+        "The system supports various concession criteria, including sibling, staff ward, and third child concessions.",
+        "Manual concessions are used when the exact concession amount or specific criteria are not predefined and may vary for each student."
+    ],
+    "questions": [
+        "How do I create a new concession group in the system?",
+        "What types of concessions can be defined?",
+        "What is the difference between a percentage-based and a flat-amount concession?",
+        "How should I set up a 'Manual Concession' group?",
+        "Can a single concession group apply to multiple fee heads?",
+        "Where do I define the criteria for sibling or staff ward concessions?"
+    ],
+    "keywords": [
+        "Concession Group",
+        "Staff Ward Concession",
+        "Sibling Concession",
+        "Manual Concession",
+        "Fee Head",
+        "Percentage Concession",
+        "Flat Concession",
+        "Add Concession",
+        "Fee Discount"
+    ],
+    "related_topics": [
+        "Fee Structure",
+        "Assigning Concessions to Students"
+    ],
+    "id": "fees_concession_group_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,35 +1,34 @@
 {
     "module": "Transport",
     "topic": "Vehicle Management",
-    "summary": "This topic covers the process of adding, viewing, and updating vehicle (bus) details within the ERP system. It includes mandatory information such as RC number, seating capacity, and insurance date, as well as optional details and document uploads.",
+    "summary": "This topic covers the process of adding and managing vehicles (buses) within the ERP system, including essential details like RC number, seating capacity, and insurance information. Transport setup is session-dependent, meaning configurations are specific to each academic session.",
     "navigation": [
-        "Settings",
-        "Institute Setup",
+        "Settings icon",
         "Transport",
         "Vehicle"
     ],
     "steps": [
-        "Navigate to Settings > Institute Setup > Transport > Vehicle.",
+        "Navigate to Settings icon > Transport > Vehicle.",
         "Click on 'New Vehicle'.",
-        "Enter the 'RC Number' (e.g., HR 0123).",
-        "Enter the 'Seating Capacity' (e.g., 50).",
-        "Enter the 'Insurance Date' (e.g., 2024-08-02).",
-        "Optionally, enter 'Tank Capacity', 'GPS ID', 'Insurance Company', and upload documents for 'Pollution Certificate', 'Fitness Certificate', 'Road Permit', and 'Road Tax'.",
-        "Click 'Save'.",
-        "To update an existing vehicle, select the vehicle from the list and click 'Update Detail' to modify its information."
+        "Enter the mandatory details: RC Number, Seating Capacity, and Insurance Date.",
+        "Optionally, fill in additional details such as Tank Capacity, GPS ID, Insurance Company, Pollution Certificate, Fitness Certificate, Road Permit, and Road Tax information.",
+        "Click 'Add' to save the new vehicle.",
+        "To update an existing vehicle's details, select the vehicle from the list and click 'Update Detail'."
     ],
     "business_rules": [
-        "RC Number, Seating Capacity, and Insurance Date are mandatory fields for vehicle creation."
+        "RC Number, Seating Capacity, and Insurance Date are mandatory fields for vehicle creation.",
+        "Transport setup is session-dependent, meaning configurations are specific to each academic session."
     ],
     "important_notes": [
-        "The system supports adding an unlimited number of vehicles.",
-        "The 'GPS ID' field is used for GPS tracking functionality."
+        "The GPS ID field is used for integrating with GPS tracking systems, which can facilitate features like student attendance via QR code scans.",
+        "You can create an 'N' number of vehicles in the system."
     ],
     "questions": [
         "How do I add a new bus to the ERP system?",
-        "What information is required to register a new vehicle?",
-        "Can I update the seating capacity of an existing bus?",
-        "Where can I find the list of all registered vehicles?"
+        "What are the mandatory fields when creating a new vehicle record?",
+        "Can I modify the details of an existing vehicle?",
+        "Is the transport setup specific to an academic session?",
+        "What is the purpose of the GPS ID field in vehicle setup?"
     ],
     "keywords": [
         "Vehicle",
@@ -37,13 +36,16 @@
         "Transport",
         "RC Number",
         "Seating Capacity",
-        "Insurance",
+        "Insurance Date",
+        "GPS ID",
         "Add Vehicle",
-        "Update Vehicle"
+        "Update Vehicle",
+        "Session Dependent"
     ],
     "related_topics": [
-        "Transport Setup - Vehicle Route Management",
-        "Transport Setup - Student Transport Assignment (Manual)"
+        "Vehicle Route Management",
+        "Transport Excel Upload",
+        "Employee Management"
     ],
     "id": "transport_vehicle_management",
     "source": {

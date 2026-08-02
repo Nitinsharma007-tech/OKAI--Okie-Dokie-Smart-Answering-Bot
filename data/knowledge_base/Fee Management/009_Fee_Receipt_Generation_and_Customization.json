@@ -1,0 +1,57 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Receipt Generation and Customization",
+    "summary": "This topic covers the generation of fee receipts upon successful payment, including options for customizing the receipt template, displaying collected amounts, fee heads, and any entered remarks.",
+    "navigation": [
+        "Collect Fee",
+        "Proceed",
+        "Save (after payment)"
+    ],
+    "steps": [
+        "Complete the fee collection process and save the transaction.",
+        "A fee receipt will be automatically generated.",
+        "(Admin) To customize, share your desired fee receipt template, including logo, design, and specific columns to be displayed, with the ERP team.",
+        "The receipt will display the collected amount, individual fee heads, installments, and any remarks entered during collection."
+    ],
+    "business_rules": [
+        "A confirmation is provided before finalizing the fee collection.",
+        "The format and content of the fee receipt are customizable to match institutional requirements."
+    ],
+    "important_notes": [
+        "The receipt will clearly indicate the payment mode (e.g., 'Cash', 'Online').",
+        "The institution's logo can be integrated into the receipt template.",
+        "The receipt can be printed or exported for records.",
+        "The receipt number and admission number (if applicable) will be automatically populated."
+    ],
+    "questions": [
+        "How is a fee receipt generated after a payment?",
+        "Can I customize the design and content of the fee receipt?",
+        "What information is typically included on the fee receipt?",
+        "How do I add our institution's logo to the fee receipt?",
+        "Will the payment mode (cash/online) be clearly shown on the receipt?",
+        "Where can I find the receipt number and admission number on the receipt?"
+    ],
+    "keywords": [
+        "Fee receipt",
+        "receipt generation",
+        "receipt template",
+        "customization",
+        "logo integration",
+        "payment confirmation",
+        "fee heads",
+        "remarks",
+        "print receipt",
+        "admission number"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Managing Fee Payment Modes",
+        "Email Notifications for Payments"
+    ],
+    "id": "fee_management_fee_receipt_generation_and_customization",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

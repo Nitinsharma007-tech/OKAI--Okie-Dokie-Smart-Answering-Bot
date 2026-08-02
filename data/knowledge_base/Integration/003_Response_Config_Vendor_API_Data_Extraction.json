@@ -1,0 +1,44 @@
+{
+    "module": "Integration",
+    "topic": "Response Config: Vendor API Data Extraction",
+    "summary": "Response Config defines how the ERP system extracts relevant data (like vehicle lists, match keys, latitude, longitude, and speed) from the vendor's API response.",
+    "navigation": [],
+    "steps": [
+        "For 'List Path': Identify the path to the array containing the list of items in the vendor's API response (e.g., if the response is '{\"data\": {\"list\": [...]}}', the path would be 'data.list').",
+        "For 'Match Key': Identify the unique key within each item in the response that corresponds to the vehicle identifier (e.g., 'vehicle number'). Enter this into the 'Match Key' field. This key is used for comparison with our internal vehicle ID.",
+        "For 'Latitude', 'Longitude', and 'Speed Keys': Copy the exact keys for latitude, longitude, and speed from the vendor's API response structure and paste them into the respective fields."
+    ],
+    "business_rules": [
+        "The 'List Path' uses dot notation to access nested arrays.",
+        "The 'Match Key' in Response Config is what *we receive* and use to match against our internal vehicle ID."
+    ],
+    "important_notes": [
+        "The 'Match Key' in Response Config might be different from the 'GPS ID Key' in Track Config, as one is what we send and the other is what we receive."
+    ],
+    "questions": [
+        "How do I configure the Response Config to parse vendor API data?",
+        "What is the purpose of the List Path in Response Config?",
+        "How does the Match Key work in Response Config?",
+        "Where do I find the keys for latitude, longitude, and speed in the API response?"
+    ],
+    "keywords": [
+        "Response Config",
+        "API response",
+        "list path",
+        "match key",
+        "latitude key",
+        "longitude key",
+        "speed key",
+        "data extraction"
+    ],
+    "related_topics": [
+        "Track Config: Vendor API Integration",
+        "Vehicle GPS ID Configuration"
+    ],
+    "id": "integration_response_config_vendor_api_data_extraction",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

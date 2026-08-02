@@ -1,0 +1,46 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Item Masters Overview",
+    "summary": "The initial step in inventory management involves creating item masters in the system. This process includes creating new items, viewing existing items, and editing item details. Items can include various assets like tables, chairs, pens, pencils, and chalk.",
+    "navigation": [
+        "Inventory",
+        "Masters",
+        "Items"
+    ],
+    "steps": [
+        "Access the Inventory Masters section.",
+        "Create new items.",
+        "View existing items.",
+        "Edit created items."
+    ],
+    "business_rules": [
+        "All item data for the institute or organization must be recorded in the item masters section."
+    ],
+    "important_notes": [
+        "Creating item masters is a foundational step for effective inventory management."
+    ],
+    "questions": [
+        "How do I manage items in the ERP inventory?",
+        "What is the process for adding new items to the inventory?",
+        "Where can I see a list of all existing inventory items?"
+    ],
+    "keywords": [
+        "Inventory items",
+        "item masters",
+        "create items",
+        "view items",
+        "edit items",
+        "inventory management"
+    ],
+    "related_topics": [
+        "Creating a New Inventory Item",
+        "Inventory Item Units",
+        "Item Groups"
+    ],
+    "id": "inventory_inventory_item_masters_overview",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

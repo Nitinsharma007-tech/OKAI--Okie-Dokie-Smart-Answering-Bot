@@ -1,0 +1,56 @@
+{
+    "module": "Academics",
+    "topic": "Define Subjects",
+    "summary": "This process outlines how to add new subjects to the ERP system, including essential details like subject name, unique code, and assessment model. It also covers how to optionally restrict a subject to specific classes.",
+    "navigation": [
+        "Settings",
+        "Academics",
+        "Subjects",
+        "Add Subject"
+    ],
+    "steps": [
+        "Click on \"Add Subject\".",
+        "Enter the \"Subject Name\" (e.g., English).",
+        "Enter a unique \"Subject Code\" (e.g., ENG).",
+        "Select an \"Assessment Model\" (e.g., Scholastic, Co-Scholastic).",
+        "(Optional) To restrict the subject to specific classes, select the desired classes in the \"Define Class and Stream\" option.",
+        "Click \"Add\" to save the subject."
+    ],
+    "business_rules": [
+        "The \"Subject Code\" is a mandatory field and must be unique for each subject. It identifies the subject, not the class.",
+        "\"Scholastic\" subjects are those in which marks entry is required.",
+        "If a subject is mapped to specific classes, it will only appear for mapping in those classes."
+    ],
+    "important_notes": [
+        "A subject can only be edited (name, code, assessment model) if it has not yet been mapped to any class.",
+        "If a subject is already mapped to a class, only its \"Display Name\" can be changed, not the core subject name or code."
+    ],
+    "questions": [
+        "How do I add a new subject to the system?",
+        "Is the subject code mandatory when defining a subject?",
+        "What is the difference between Scholastic and Co-Scholastic assessment models?",
+        "Can I restrict a subject to be available only for certain classes?",
+        "What happens if I try to edit a subject that is already mapped to a class?"
+    ],
+    "keywords": [
+        "Add subject",
+        "define subject",
+        "subject code",
+        "assessment model",
+        "scholastic",
+        "co-scholastic",
+        "subject name",
+        "edit subject"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Teacher Mapping",
+        "Creating Timetable"
+    ],
+    "id": "academics_define_subjects",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

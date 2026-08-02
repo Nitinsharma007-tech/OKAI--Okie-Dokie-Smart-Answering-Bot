@@ -1,0 +1,54 @@
+{
+    "module": "Admission Management",
+    "topic": "Token Money vs. Other Admission Heads (Fee Adjustment)",
+    "summary": "Explains the fundamental difference in how 'Token Money' is handled compared to other admission heads (like registration, prospectus, or visit fees). Token Money is unique because the collected amount is automatically adjusted against the student's total tuition fees upon admission approval, reducing their net payable balance. Other heads are collected as separate, non-adjustable payments.",
+    "navigation": [
+        "Settings",
+        "Admission Setup",
+        "Admission Heads"
+    ],
+    "steps": [
+        "**1. Configure Token Money Head:** Ensure an 'Admission Head' specifically for 'Token Money' is created in 'Settings' > 'Admission Setup' > 'Admission Heads'.",
+        "**2. Map Token Money to a Stage:** In 'Settings' > 'Stage Setup' > '[Select Stage]' > 'Transactions', map the 'Token Money' head to the desired admission stage (typically a later stage).",
+        "**3. Collect Token Money:** During the admission process, collect the specified 'Token Money' amount from the applicant.",
+        "**4. Approve Admission:** Proceed to approve the applicant, which transitions them to the 'Student List'.",
+        "**5. Verify Fee Adjustment:** Navigate to the 'Student List', search for the approved student, and go to their 'Fees' section. Observe that the 'Token Money' amount collected has been automatically deducted from their total tuition fee, reducing their 'Net Payable' balance."
+    ],
+    "business_rules": [
+        "Amounts collected under the 'Token Money' head are always adjusted against the student's total tuition fees upon admission approval.",
+        "Amounts collected under other admission heads (e.g., 'Registration', 'Prospectus Fees', 'Visit Fee') are treated as separate collections and are NOT adjusted against the student's tuition fees.",
+        "The system automatically performs the adjustment of token money when a student is approved and added to the student list."
+    ],
+    "important_notes": [
+        "This distinction is crucial for accurate financial reporting and student fee management.",
+        "Ensure clear communication to students regarding which fees are adjustable (token money) and which are not."
+    ],
+    "questions": [
+        "What is the key difference between token money and other admission fees?",
+        "How does token money impact a student's total tuition fees?",
+        "Can registration fees be adjusted against the main course fees?",
+        "Where can I see the adjustment of token money in a student's fee structure?",
+        "Why is token money treated differently from prospectus fees?"
+    ],
+    "keywords": [
+        "Token money adjustment",
+        "Fee adjustment",
+        "Admission fees",
+        "Registration fee",
+        "Prospectus fee",
+        "Tuition fee reduction",
+        "Net payable balance",
+        "Student fees"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Stage-wise Transaction Configuration",
+        "Student Fee Structure"
+    ],
+    "id": "admission_management_token_money_vs_other_admission_heads_fee_adjustment",
+    "source": {
+        "file": "6. syb-fmmz-jmq (2026-07-03 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

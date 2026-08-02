@@ -1,0 +1,46 @@
+{
+    "module": "Fee Management",
+    "topic": "Searching for Students for Fee Collection",
+    "summary": "This topic details the various methods available to efficiently search for a specific student before initiating the fee collection process.",
+    "navigation": [
+        "Collect Fee",
+        "Search Student"
+    ],
+    "steps": [
+        "Navigate to the 'Collect Fee' option.",
+        "In the search bar, enter the student's name, registration number, father's name, or phone number.",
+        "The system will display matching student records.",
+        "Select the correct student from the search results to proceed with fee collection."
+    ],
+    "business_rules": [
+        "Multiple search criteria are available to ensure accurate student identification."
+    ],
+    "important_notes": [
+        "Basic student details will be displayed on the interface to help verify the student before selection."
+    ],
+    "questions": [
+        "How do I find a student to collect fees from?",
+        "What search options are available to locate a student for fee collection?",
+        "Can I search for a student using their father's name or phone number?",
+        "What information is shown to verify a student during the search?"
+    ],
+    "keywords": [
+        "Collect fee",
+        "student search",
+        "registration number",
+        "father's name",
+        "phone number",
+        "student verification",
+        "find student"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Student Management"
+    ],
+    "id": "fee_management_searching_for_students_for_fee_collection",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

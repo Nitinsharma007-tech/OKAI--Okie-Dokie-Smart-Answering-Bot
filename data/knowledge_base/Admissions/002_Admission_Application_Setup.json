@@ -1,0 +1,39 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Application Setup",
+    "summary": "Covers the fundamental setup for admission applications, including defining application numbers, setting up various stages, and assigning transaction numbers for financial transactions.",
+    "navigation": [
+        "Application Number Setup"
+    ],
+    "steps": [
+        "Go to the Application Number Setup.",
+        "Define the required stages for the admission process.",
+        "Assign a transaction number for any financial transactions (e.g., fee collection)."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This is a basic and essential part of the admission process setup."
+    ],
+    "questions": [
+        "How do I configure application numbers for admissions?",
+        "What are the steps to set up different admission stages?",
+        "Where can I assign transaction numbers for admission-related payments?"
+    ],
+    "keywords": [
+        "Application setup",
+        "admission stages",
+        "transaction number",
+        "basic setup",
+        "application number configuration"
+    ],
+    "related_topics": [
+        "Admission Transaction Mapping",
+        "Token Money"
+    ],
+    "id": "admissions_admission_application_setup",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

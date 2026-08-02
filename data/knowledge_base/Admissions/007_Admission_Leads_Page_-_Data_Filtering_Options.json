@@ -1,0 +1,45 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page - Data Filtering Options",
+    "summary": "Outlines the various filtering options available on the Admission Leads page, enabling users to segment and analyze lead data based on criteria such as course, counselor, source, and status.",
+    "navigation": [
+        "Leads Page"
+    ],
+    "steps": [
+        "Navigate to the Leads Page.",
+        "Utilize the filter options to segment data by:",
+        "Course-wise data",
+        "Counselor-wise data",
+        "Source-wise data",
+        "Status-wise data"
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "These filters are essential for targeted analysis and management of admission leads."
+    ],
+    "questions": [
+        "How can I filter admission leads by specific courses?",
+        "Is it possible to view leads assigned to a particular counselor?",
+        "How do I filter leads based on their origin source?",
+        "What filtering options are available to analyze lead data by status?"
+    ],
+    "keywords": [
+        "Lead filtering",
+        "course-wise filter",
+        "counselor-wise filter",
+        "source-wise filter",
+        "status-wise filter",
+        "data segmentation",
+        "lead analysis"
+    ],
+    "related_topics": [
+        "Admission Sources and Source Groups",
+        "Counselor Mapper"
+    ],
+    "id": "admissions_admission_leads_page_data_filtering_options",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

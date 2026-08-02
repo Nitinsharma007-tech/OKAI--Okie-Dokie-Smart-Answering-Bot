@@ -1,0 +1,49 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Sources and Source Groups",
+    "summary": "Explains the importance of adding admission sources to track lead origins and how to organize these sources into 'Source Groups' (e.g., Organic, Inorganic, Third Party Vendors) for consolidated reporting and streamlined data analysis.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Source Group"
+    ],
+    "steps": [
+        "Add various individual sources from which leads are generated.",
+        "Navigate to Admission Setup > Admission Master > Source Group.",
+        "Click 'Add New Details' to create a new source group (e.g., 'Organic', 'Inorganic', 'Third Party Vendors').",
+        "Select and add relevant individual sources to the newly created group.",
+        "Save the source group."
+    ],
+    "business_rules": [
+        "Grouping sources allows for combined data presentation in source-wise reports, providing a high-level overview."
+    ],
+    "important_notes": [
+        "Source groups help in organizing and analyzing lead origins efficiently, especially for entities with many sources."
+    ],
+    "questions": [
+        "Why is it important to add admission sources?",
+        "How do I create and manage admission source groups?",
+        "What is the benefit of grouping admission sources for reporting?",
+        "Can I categorize sources into 'organic' and 'inorganic' groups?"
+    ],
+    "keywords": [
+        "Admission sources",
+        "source groups",
+        "organic sources",
+        "inorganic sources",
+        "third-party vendors",
+        "lead origin",
+        "reporting",
+        "data analysis",
+        "admission master"
+    ],
+    "related_topics": [
+        "Admission Leads Page - Data Filtering Options"
+    ],
+    "id": "admissions_admission_sources_and_source_groups",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

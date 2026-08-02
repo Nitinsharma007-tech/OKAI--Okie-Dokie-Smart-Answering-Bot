@@ -1,0 +1,44 @@
+{
+    "module": "Integration",
+    "topic": "Testing Track Config Connection",
+    "summary": "This feature allows users to test the configured Track Config settings directly from the ERP portal to verify API connectivity and response.",
+    "navigation": [
+        "Track Config page",
+        "Test Connection button"
+    ],
+    "steps": [
+        "After configuring all fields in Track Config, locate the 'Test Connection' button.",
+        "Click 'Test Connection'.",
+        "Observe the response displayed on the screen to confirm successful API call and data retrieval."
+    ],
+    "business_rules": [
+        "A successful test connection indicates that the API URL, method, parameters, and headers are correctly configured."
+    ],
+    "important_notes": [
+        "This test helps in debugging configuration issues before deploying to the app.",
+        "The response should ideally match what would be expected from a tool like Postman."
+    ],
+    "questions": [
+        "How can I test if my Track Config settings are correct?",
+        "Where is the 'Test Connection' button located?",
+        "What should I expect to see after clicking 'Test Connection'?"
+    ],
+    "keywords": [
+        "Track Config",
+        "test connection",
+        "API testing",
+        "debugging",
+        "Postman",
+        "API response"
+    ],
+    "related_topics": [
+        "Track Config: Vendor API Integration",
+        "Response Config: Vendor API Data Extraction"
+    ],
+    "id": "integration_testing_track_config_connection",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

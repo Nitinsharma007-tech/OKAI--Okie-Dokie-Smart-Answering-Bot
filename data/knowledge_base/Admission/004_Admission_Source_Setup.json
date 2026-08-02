@@ -1,0 +1,53 @@
+{
+    "module": "Admission",
+    "topic": "Admission Source Setup",
+    "summary": "This topic explains how to configure various sources from which admission leads originate, such as direct walk-ins, newspaper advertisements, Google ads, websites, or third-party integrations. It also covers the option to enable reference tracking for leads.",
+    "navigation": [
+        "Admission module",
+        "Admissions Setup",
+        "Admission Master"
+    ],
+    "steps": [
+        "Navigate to 'Admission module' > 'Admissions Setup' > 'Admission Master'.",
+        "Locate the 'Source' section.",
+        "Click 'Add New Details'.",
+        "Enter the 'Source Name' (e.g., 'Direct Walk-in', 'Newspaper Ad', 'Google Ad', 'Website', 'CollegeDuniya').",
+        "Optionally, toggle on 'Reference Source' if you want to track specific references for leads.",
+        "Save the new source."
+    ],
+    "business_rules": [
+        "Sources help track the origin of admission leads for reporting and analysis.",
+        "Enabling 'Reference Source' adds additional fields for reference tracking when a lead is being added."
+    ],
+    "important_notes": [
+        "Common lead sources include online advertisements, offline advertisements, direct walk-ins, institutional websites, and third-party educational platforms.",
+        "Accurate source tracking is vital for evaluating marketing effectiveness."
+    ],
+    "questions": [
+        "How do I add new lead sources in the Admission module?",
+        "What is the purpose of enabling the 'Reference Source' option?",
+        "Can I track leads from different marketing channels?",
+        "Where can I find the 'Source' setup option?"
+    ],
+    "keywords": [
+        "Admission sources",
+        "Lead sources",
+        "Source setup",
+        "Walk-in",
+        "Newspaper ad",
+        "Google ad",
+        "Website",
+        "Third-party integration",
+        "Reference source"
+    ],
+    "related_topics": [
+        "Admission Module Overview",
+        "Admission Stage Field Configuration"
+    ],
+    "id": "admission_admission_source_setup",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

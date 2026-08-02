@@ -1,0 +1,62 @@
+{
+    "module": "Fees",
+    "topic": "View Due Fee Reports",
+    "summary": "This topic explains how to view outstanding fee amounts (dues) for students, with various filtering options including by class, month, fee head, course, session, and even by a specific amount or percentage of the due.",
+    "navigation": [
+        "Fee > Fee Reports > Due Fee Report",
+        "Fee > Fee Reports > Multi-Session Due Fee Report"
+    ],
+    "steps": [
+        "Navigate to 'Fee' > 'Fee Reports'.",
+        "Select either 'Due Fee Report' or 'Multi-Session Due Fee Report'.",
+        "Apply desired filters such as:",
+        "  - Class",
+        "  - Month",
+        "  - Fee Head (to see head-wise dues)",
+        "  - 'Active Students' only",
+        "  - Course (for course-wise dues, useful for teachers)",
+        "  - Session (for 'Multi-Session Due Fee Report' to view dues across academic years)",
+        "  - 'Enter Amount' or 'Enter Percentage' (to filter for dues above a certain value or percentage).",
+        "Click 'Go' to generate the report based on the applied filters."
+    ],
+    "business_rules": [
+        "The report displays all pending or outstanding fee amounts.",
+        "The 'Multi-Session Due Fee Report' allows for viewing dues across multiple academic sessions.",
+        "Filtering by amount or percentage is useful for identifying students with significant outstanding dues for targeted communication."
+    ],
+    "important_notes": [
+        "Teachers can use the course-wise filter to check dues specifically for students in their assigned courses.",
+        "The amount/percentage filter helps in prioritizing follow-up actions, such as sending messages to parents with high outstanding dues."
+    ],
+    "questions": [
+        "How can I check outstanding fees for students?",
+        "Can I see head-wise due amounts for students?",
+        "How do I view dues for a specific class or month?",
+        "What is the 'Multi-Session Due Fee Report' used for?",
+        "Can I filter due fees by a minimum amount or percentage?",
+        "How can I identify students with high outstanding dues for follow-up?"
+    ],
+    "keywords": [
+        "Due fee report",
+        "outstanding fees",
+        "pending dues",
+        "head-wise due",
+        "course-wise due",
+        "multi-session due",
+        "filter by amount",
+        "filter by percentage",
+        "active students",
+        "fee balance"
+    ],
+    "related_topics": [
+        "View Fee Collection Reports",
+        "Collect Student Fees",
+        "View Fee Summary Reports"
+    ],
+    "id": "fees_view_due_fee_reports",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

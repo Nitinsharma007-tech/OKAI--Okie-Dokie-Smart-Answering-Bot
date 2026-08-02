@@ -1,0 +1,40 @@
+{
+    "module": "Integration",
+    "topic": "Track Config - GPS ID Key (Matching Key)",
+    "summary": "The GPS ID Key in Track Config specifies the key that the backend will use to identify and match vehicle data when making calls to the vendor's API. This key is sent as a query parameter.",
+    "navigation": [],
+    "steps": [
+        "Locate the 'matching key' in the provided documentation (e.g., 'vehicle number').",
+        "Copy this key and paste it into the 'GPS ID Key' field within Track Config."
+    ],
+    "business_rules": [
+        "The backend uses this key to match the vehicle ID provided in the API call with the vendor's data.",
+        "The value for this key will be sent as a query parameter in the API request."
+    ],
+    "important_notes": [
+        "The 'GPS ID Key' in Track Config can be different from the 'Match Key' in Response Config, as they serve different purposes (sending vs. receiving data)."
+    ],
+    "questions": [
+        "What is the GPS ID Key in Track Config?",
+        "How do I set up the key for matching vehicle IDs in API calls?",
+        "Where does the GPS ID Key value get sent in the API request?"
+    ],
+    "keywords": [
+        "GPS ID Key",
+        "matching key",
+        "Track Config",
+        "vehicle identification",
+        "query parameter"
+    ],
+    "related_topics": [
+        "Track Config - API Details",
+        "Response Config",
+        "Vehicle GPS ID Setup"
+    ],
+    "id": "integration_track_config_gps_id_key_matching_key",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

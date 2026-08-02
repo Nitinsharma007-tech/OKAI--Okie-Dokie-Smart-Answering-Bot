@@ -1,0 +1,54 @@
+{
+    "module": "Admission",
+    "topic": "Application Number Setup",
+    "summary": "This topic explains how to configure the automatic generation of unique application form numbers for leads within the Admission module. It covers setting up prefixes, suffixes, and the starting number for the auto-incrementing counter.",
+    "navigation": [
+        "Admission module",
+        "Admissions Setup",
+        "Admission Master",
+        "Application Number Setup"
+    ],
+    "steps": [
+        "Navigate to 'Admission module' > 'Admissions Setup' > 'Admission Master'.",
+        "Click on 'Application Number Setup'.",
+        "Select the 'Course' or 'Program' for which to set up numbering, or choose 'All' for a universal setup.",
+        "Add a 'Prefix' (e.g., 'APP-').",
+        "Enter the 'Number' from which the counter should start (e.g., '1001').",
+        "Add a 'Suffix' (optional).",
+        "Save the configuration."
+    ],
+    "business_rules": [
+        "The system automatically assigns unique numbers to new leads based on the configured prefix, starting number, and suffix.",
+        "The counter for application numbers auto-updates with each new lead added."
+    ],
+    "important_notes": [
+        "Numbering can be configured separately for different courses/programs or universally for all.",
+        "This setup is similar to the 'Reg Number Setup' for students, ensuring unique identification."
+    ],
+    "questions": [
+        "How do I set up automatic application numbering in the Admission module?",
+        "Can I have different application number formats for different courses or programs?",
+        "What is the purpose of the prefix and suffix in application numbering?",
+        "How does the application number counter update?"
+    ],
+    "keywords": [
+        "Application number setup",
+        "Application form number",
+        "Auto-numbering",
+        "Prefix",
+        "Suffix",
+        "Admission Master",
+        "Unique identifier",
+        "Admission setup"
+    ],
+    "related_topics": [
+        "Admission Module Overview",
+        "Admission Stage Master Setup"
+    ],
+    "id": "admission_application_number_setup",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-01 17_46 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

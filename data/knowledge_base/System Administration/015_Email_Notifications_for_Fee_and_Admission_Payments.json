@@ -1,0 +1,50 @@
+{
+    "module": "System Administration",
+    "topic": "Email Notifications for Fee and Admission Payments",
+    "summary": "This topic discusses the requirement for automated email notifications to students upon successful payment, including the payment receipt and potentially a digital prospectus, for both admission and regular fee payments.",
+    "navigation": [
+        "Automatic system function"
+    ],
+    "steps": [
+        "Upon a student completing an online payment (for admission or regular fees), the system should automatically trigger an email.",
+        "The email should contain the payment receipt.",
+        "Additionally, a digital prospectus should be sent to the student's registered email ID."
+    ],
+    "business_rules": [
+        "Email notifications for payments should be automated.",
+        "Receipts for both online and offline (over-the-counter) payments should be sent to the student's email."
+    ],
+    "important_notes": [
+        "There is a discussion point regarding the immediate generation and sending of receipts for online payments, considering potential refund scenarios. The current understanding is that the receipt should be sent immediately upon payment.",
+        "The system should also be configured to send a digital prospectus along with the payment confirmation.",
+        "The institution's logo needs to be shared for integration into email templates and receipts."
+    ],
+    "questions": [
+        "Will students receive an email confirmation after making an online payment?",
+        "Does the email notification for payments include the payment receipt?",
+        "Can a digital prospectus be automatically sent to students after registration or payment?",
+        "Will receipts for offline (over-the-counter) payments also be emailed to students?",
+        "What information is included in the payment confirmation email?"
+    ],
+    "keywords": [
+        "Email notifications",
+        "payment receipt",
+        "digital prospectus",
+        "automated emails",
+        "student communication",
+        "online payment email",
+        "offline payment email",
+        "email confirmation"
+    ],
+    "related_topics": [
+        "Admission Form and Payment Integration",
+        "Fee Receipt Generation and Customization",
+        "Payment Gateway Charges"
+    ],
+    "id": "system_administration_email_notifications_for_fee_and_admission_payments",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

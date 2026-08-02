@@ -1,0 +1,51 @@
+{
+    "module": "Transport Management",
+    "topic": "Managing Transport Fees and Data",
+    "summary": "This topic describes how transport fees are structured, often based on routes/areas and divided into installments, and emphasizes the need for detailed transport data (bus numbers, pick-up points, student assignments) for effective management within the ERP's transport module.",
+    "navigation": [
+        "Transport Module",
+        "Fee Management"
+    ],
+    "steps": [
+        "Provide transport fee data, including area-wise charges (e.g., 24000, 28000, 32000) and their installment divisions.",
+        "Provide detailed transport data, including bus numbers, specific pick-up points, and the assignment of students to particular buses and routes.",
+        "The ERP team will then import this data into the system."
+    ],
+    "business_rules": [
+        "Transport fees are typically divided into multiple installments (e.g., four parts).",
+        "Fees for transport vary based on the student's transport area or route."
+    ],
+    "important_notes": [
+        "Detailed transport data, including bus numbers, pick-up points, and student divisions, is essential for the effective functioning of the transport module.",
+        "The ERP team will provide sample Excel formats to assist in preparing transport data for import.",
+        "The institution needs to create bus-wise divisions of children and routes if not already in place."
+    ],
+    "questions": [
+        "How are transport fees managed in the ERP system?",
+        "What specific transport data is required for import?",
+        "Can the ERP system manage student assignments to specific buses and routes?",
+        "Are transport fees also divided into installments?",
+        "How do we provide transport route and stoppage information?"
+    ],
+    "keywords": [
+        "Transport fees",
+        "transport module",
+        "transport data",
+        "bus number",
+        "pick-up points",
+        "transport routes",
+        "transport installments",
+        "student assignment to transport"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Data Import",
+        "Student Management"
+    ],
+    "id": "transport_management_managing_transport_fees_and_data",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

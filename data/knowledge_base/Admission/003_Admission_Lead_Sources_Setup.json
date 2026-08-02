@@ -1,0 +1,50 @@
+{
+    "module": "Admission",
+    "topic": "Admission Lead Sources Setup",
+    "summary": "This topic explains how to configure and manage the various sources from which admission leads originate, such as direct walk-ins, newspaper advertisements, online ads, or third-party integrations. It also covers the option to enable reference tracking.",
+    "navigation": [
+        "Admission module",
+        "Admissions setup",
+        "Admission master",
+        "Source part"
+    ],
+    "steps": [
+        "Navigate to the 'Source part' within the Admission Master setup.",
+        "Click 'Add new details' to define a new lead source.",
+        "Enter the name of the source (e.g., 'Direct Walk-in', 'Newspaper Ad', 'Google Ad', 'Website', 'CollegeDuniya').",
+        "Optionally, toggle on the 'Reference field' if you wish to track specific references associated with leads from this source."
+    ],
+    "business_rules": [
+        "Leads can originate from multiple sources, and tracking these sources helps in analysis.",
+        "Enabling the 'Reference field' adds additional input options for capturing reference details when a lead is being added."
+    ],
+    "important_notes": [
+        "Common sources include online platforms, offline campaigns, and direct interactions.",
+        "High-end colleges or universities may integrate with third-party platforms for lead generation."
+    ],
+    "questions": [
+        "How do I add new lead sources in the admission module?",
+        "Where can I configure the different channels for admission leads?",
+        "What is the purpose of enabling the 'reference source' option?",
+        "How can I track where my admission leads are coming from?"
+    ],
+    "keywords": [
+        "Lead sources",
+        "admission sources",
+        "walk-in",
+        "online sources",
+        "offline sources",
+        "reference source",
+        "data origin"
+    ],
+    "related_topics": [
+        "Admission Leads",
+        "Admission Stage Master Setup"
+    ],
+    "id": "admission_admission_lead_sources_setup",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "module": "Fee Management",
+    "topic": "Customizing Fee Head Display Sequence",
+    "summary": "This topic explains how to configure the order in which different fee heads (e.g., Security, Tuition Fee, Transport, Hostel, Student Fund, Development Fund, Fines) are displayed during the fee collection process.",
+    "navigation": [
+        "System Setup (Admin)",
+        "Fee Configuration",
+        "Fee Head Sequence"
+    ],
+    "steps": [
+        "(Admin) Access the fee configuration settings.",
+        "(Admin) Locate the option to define the sequence of fee heads.",
+        "(Admin) Arrange the fee heads in the desired order (e.g., Security, Tuition Fee, Transport, Hostel, Student Fund, Development Fund, Fines).",
+        "During fee collection, the system will present the fee heads according to this configured sequence."
+    ],
+    "business_rules": [
+        "The display order of fee heads is customizable by an administrator."
+    ],
+    "important_notes": [
+        "A suggested sequence is: Security, Tuition Fee, Transport, Hostel, Student Fund, Development Fund, and then Fines.",
+        "Fines are generally displayed after all other fee components."
+    ],
+    "questions": [
+        "How can I change the order in which fee heads appear during fee collection?",
+        "What is the recommended sequence for displaying fee heads?",
+        "Where do I configure the fee head display order in the ERP?",
+        "Can the sequence of fee heads be different for various courses?"
+    ],
+    "keywords": [
+        "Fee head sequence",
+        "fee configuration",
+        "tuition fee",
+        "security deposit",
+        "transport fee",
+        "hostel fee",
+        "student fund",
+        "development fund",
+        "fines",
+        "display order"
+    ],
+    "related_topics": [
+        "Fee Collection Process Overview",
+        "Fee Structure Setup"
+    ],
+    "id": "fee_management_customizing_fee_head_display_sequence",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -91,45 +91,18 @@ def ask(request: AskRequest):
     bot = app.state.bot
 
     try:
-        search_results = bot.search.search(question, top_k=3)
-        context = bot.builder.build(search_results)
+        answer, search_results, from_cache = bot.ask(question)
 
-        prompt = f"""
-You are OKAI, an intelligent ERP Assistant.
-
-Answer ONLY using the knowledge provided below.
-
-If the answer is not present in the knowledge,
-say:
-
-"I couldn't find this information in the ERP knowledge base."
-
-Do not invent information.
-
-Always answer professionally.
-
-Always explain in simple language.
-
-If there are steps,
-present them as numbered points.
-
-==========================
-USER QUESTION
-==========================
-
-{question}
-
-==========================
-ERP KNOWLEDGE
-==========================
-
-{context}
-"""
-
-        answer = bot.gemini.generate(prompt)
+        # bot.ask() skips search on a cache hit (that's what makes the
+        # hit fast — no wasted work). But the frontend's middle panel
+        # always wants a navigation/knowledge card to show, cache hit
+        # or not, so we run search here when it's missing. This is a
+        # cheap local FAISS lookup — the expensive part (the Gemini
+        # call) is still fully skipped on a cache hit.
+        if search_results is None:
+            search_results = bot.search.search(question, top_k=3)
 
         knowledge = []
-
         for result in search_results:
             topic = result["topic_data"]
             knowledge.append(
@@ -146,6 +119,7 @@ ERP KNOWLEDGE
         return {
             "question": question,
             "answer": answer,
+            "fromCache": from_cache,
             "knowledge": knowledge,
         }
 

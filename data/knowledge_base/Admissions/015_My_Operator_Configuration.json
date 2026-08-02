@@ -1,0 +1,45 @@
+{
+    "module": "Admissions",
+    "topic": "My Operator Configuration",
+    "summary": "Briefly describes the configuration settings required to integrate 'My Operator', an IVR partner, with the ERP system. This integration enables the system to capture call records from the IVR and push them as lead logs for admission counselors.",
+    "navigation": [
+        "Admission Setup",
+        "My Operator Config"
+    ],
+    "steps": [
+        "Navigate to Admission Setup > My Operator Config.",
+        "Configure the necessary settings, including 'secret token', 'salient ID', 'IVR ID', and 'PID ID'."
+    ],
+    "business_rules": [
+        "Proper configuration of these parameters is essential for the ERP system to receive and process call data from the IVR partner."
+    ],
+    "important_notes": [
+        "My Operator acts as a mediator, handling student calls, transferring them to counselors, and providing detailed call logs to the ERP system."
+    ],
+    "questions": [
+        "How do I configure the 'My Operator' IVR integration?",
+        "What specific credentials or IDs are required for My Operator configuration?",
+        "What is the role of 'My Operator' in the admission lead process?",
+        "How does IVR integration help in capturing call records?"
+    ],
+    "keywords": [
+        "My Operator config",
+        "IVR integration",
+        "secret token",
+        "salient ID",
+        "IVR ID",
+        "PID ID",
+        "call records",
+        "lead logs",
+        "admission setup"
+    ],
+    "related_topics": [
+        "Admission Leads Log Page (IVR Integration)"
+    ],
+    "id": "admissions_my_operator_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

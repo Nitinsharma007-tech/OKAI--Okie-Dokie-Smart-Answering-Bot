@@ -1,0 +1,51 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Purchase Entry",
+    "summary": "The purchase entry process is used to record the acquisition of new inventory items from external vendors. This includes detailing who the purchase was made from, the payment method, the items purchased, their quantities, and allows for the upload of supporting documents.",
+    "navigation": [
+        "Inventory",
+        "Transactions",
+        "Purchase Entry"
+    ],
+    "steps": [
+        "Access the Purchase Entry section.",
+        "Enter details about the vendor from whom the items were purchased.",
+        "Specify the payment method (e.g., cash).",
+        "Enter details of the purchased items and their respective quantities.",
+        "Optionally, upload purchase documents (e.g., invoices, receipts).",
+        "Save the purchase entry."
+    ],
+    "business_rules": [
+        "This entry records the acquisition of new inventory into the system.",
+        "All relevant details of the purchase, including vendor and payment, should be accurately captured."
+    ],
+    "important_notes": [
+        "A purchase entry is more comprehensive than just a purchase bill; it captures detailed transaction information and allows for document uploads."
+    ],
+    "questions": [
+        "How do I record new inventory purchases in the system?",
+        "What details are included in a purchase entry?",
+        "Can I upload purchase bills to the system?",
+        "How do I track purchases from different vendors?"
+    ],
+    "keywords": [
+        "Purchase entry",
+        "inventory purchase",
+        "procurement",
+        "vendor",
+        "purchase bill",
+        "acquire stock",
+        "goods receipt"
+    ],
+    "related_topics": [
+        "Stock Transfer",
+        "Inventory Reporting",
+        "Vendor Management"
+    ],
+    "id": "inventory_inventory_purchase_entry",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

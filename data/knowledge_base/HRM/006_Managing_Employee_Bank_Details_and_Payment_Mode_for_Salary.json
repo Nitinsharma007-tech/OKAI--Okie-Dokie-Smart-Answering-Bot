@@ -1,0 +1,51 @@
+{
+    "module": "HRM",
+    "topic": "Managing Employee Bank Details and Payment Mode for Salary",
+    "summary": "This section in the employee master allows you to record an employee's bank details and specify their preferred salary payment mode, which will then reflect on their salary slips.",
+    "navigation": [
+        "Employee",
+        "View Employee (search for employee)",
+        "Salary Details (section)"
+    ],
+    "steps": [
+        "Navigate to 'Employee'.",
+        "Search for the desired employee.",
+        "Click on the employee's record to view their details.",
+        "Locate the 'Salary Details' section within the employee's profile.",
+        "Enter the 'Bank Name', 'Branch', 'Account Number', and 'IFSC Code' for the employee.",
+        "In the 'Payment Mode' field, specify the method of payment, such as 'RTGS' for bank transfers or 'Cheque' for cheque payments.",
+        "Click 'Save' (typically at the bottom of the employee master page) to apply the changes."
+    ],
+    "business_rules": [
+        "The bank details and payment mode entered here will be reflected on the employee's generated salary slips."
+    ],
+    "important_notes": [
+        "This information is saved once in the employee master and will be used for all future salary processes unless manually updated.",
+        "Accurate bank details are crucial for timely and correct salary disbursements."
+    ],
+    "questions": [
+        "How do I add an employee's bank details for salary payment?",
+        "Where can I specify if an employee's salary is paid via RTGS or Cheque?",
+        "Will the bank details appear on the salary slip?",
+        "How do I update an employee's bank account information?"
+    ],
+    "keywords": [
+        "Bank details",
+        "Salary payment mode",
+        "RTGS",
+        "Cheque payment",
+        "Employee salary details",
+        "Salary slip information",
+        "Employee master bank"
+    ],
+    "related_topics": [
+        "Employee Master",
+        "Salary Slip Generation (implied)"
+    ],
+    "id": "hrm_managing_employee_bank_details_and_payment_mode_for_salary",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

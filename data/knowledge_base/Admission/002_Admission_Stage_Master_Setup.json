@@ -1,0 +1,51 @@
+{
+    "module": "Admission",
+    "topic": "Admission Stage Master Setup",
+    "summary": "This topic details how to define and manage the various stages an admission lead progresses through, from initial application submission to final approval or rejection. It explains how to create custom stages and notes the system's default stages.",
+    "navigation": [
+        "Admission module",
+        "Admissions setup",
+        "Admission master",
+        "Stage master setup"
+    ],
+    "steps": [
+        "Navigate to 'Stage master setup'.",
+        "Observe the default stages 'Approved' and 'Rejected', which are system-controlled and cannot be manually created or removed.",
+        "To create a new custom stage, click 'Add new'.",
+        "Enter a descriptive name for the stage in the 'Enter Value' field (e.g., 'Application Submission', 'Document Upload', 'Counselor Doc Verification', 'Academic Doc Verification', 'Transport and Hostel Selection').",
+        "Repeat the process for all necessary stages in your admission workflow."
+    ],
+    "business_rules": [
+        "The 'Approved' and 'Rejected' stages are default, backend-controlled stages and cannot be modified or created by users.",
+        "Stages can be added or removed (by unchecking) based on client requirements."
+    ],
+    "important_notes": [
+        "The specific stages required for admission can vary significantly for each institute or entity.",
+        "Stages define the progression of an admission lead through the system."
+    ],
+    "questions": [
+        "How do I define custom stages for the admission process?",
+        "What are the default stages in the admission module?",
+        "Can I add new steps to the admission workflow?",
+        "Where can I manage the different phases of an admission application?"
+    ],
+    "keywords": [
+        "Admission stages",
+        "stage master",
+        "workflow",
+        "application submission",
+        "document verification",
+        "approved stage",
+        "rejected stage"
+    ],
+    "related_topics": [
+        "Admission Stage Field Setup",
+        "Admission Leads"
+    ],
+    "id": "admission_admission_stage_master_setup",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

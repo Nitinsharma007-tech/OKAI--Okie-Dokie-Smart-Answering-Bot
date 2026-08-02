@@ -1,0 +1,65 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Tags Configuration",
+    "summary": "Details the process of creating and configuring admission tags, including setting positive or negative labels to trigger follow-up calls or negative remarks. It also provides specific instructions for setting up 'Duplicate' and 'Duplicate Primary' tags for lead management.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Admission Tags"
+    ],
+    "steps": [
+        "Navigate to Admission Setup > Admission Master > Admission Tags.",
+        "Click 'Add New Details'.",
+        "Enter the desired tag name (e.g., 'Test Tag').",
+        "Choose a color combination for the tag.",
+        "Select a 'Label': 'Positive' (prompts for follow-up) or 'Negative' (prompts for a negative remark).",
+        "Save the tag.",
+        "To create a 'Duplicate' tag:",
+        "Click 'Add New Details', type 'Duplicate' (no leading/trailing spaces).",
+        "Choose a random color, mark as 'Negative', and save.",
+        "Edit the 'Duplicate' tag, change its Hex value to '000000' (zero out RGB values), and save.",
+        "To create a 'Duplicate Primary' tag:",
+        "Click 'Add New Details', type 'Duplicate Primary'.",
+        "Select any color, add a label (generally 'Positive').",
+        "Change its Hex value to '000000' (black), and save."
+    ],
+    "business_rules": [
+        "Positive tags require a follow-up to be scheduled.",
+        "Negative tags require a negative remark to be entered.",
+        "The system automatically marks subsequent leads from the same number as 'Duplicate' and the first lead as 'Duplicate Primary'."
+    ],
+    "important_notes": [
+        "The exact spelling 'Duplicate' and 'Duplicate Primary' with no extra spaces is crucial for system functionality.",
+        "Setting the Hex value to '000000' (black) is a specific requirement for Duplicate tags.",
+        "'Duplicate Primary' helps identify the original lead when multiple leads exist with the same contact information."
+    ],
+    "questions": [
+        "How do I create a new admission tag and assign a color?",
+        "What is the difference between a positive and a negative admission tag?",
+        "How do I configure a tag to prompt for a follow-up versus a remark?",
+        "What are the specific steps to set up 'Duplicate' and 'Duplicate Primary' tags?",
+        "Why are 'Duplicate' and 'Duplicate Primary' tags important for lead management?"
+    ],
+    "keywords": [
+        "Admission tags",
+        "tag configuration",
+        "positive tag",
+        "negative tag",
+        "follow-up prompt",
+        "remark prompt",
+        "duplicate tag",
+        "duplicate primary",
+        "admission master",
+        "lead status"
+    ],
+    "related_topics": [
+        "Admission Leads Page - Overview and Basic Actions",
+        "Duplicate Field Master"
+    ],
+    "id": "admissions_admission_tags_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

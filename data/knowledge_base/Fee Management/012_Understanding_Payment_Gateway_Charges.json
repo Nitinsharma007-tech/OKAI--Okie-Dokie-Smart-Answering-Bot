@@ -1,0 +1,47 @@
+{
+    "module": "Fee Management",
+    "topic": "Understanding Payment Gateway Charges",
+    "summary": "This topic addresses the charges levied by the integrated payment gateway (e.g., Razorpay) for online transactions, including GST and bank charges, and highlights the need for clarification on these rates and potential alternatives.",
+    "navigation": [],
+    "steps": [
+        "When a student initiates an online payment, the payment gateway will display the total amount, which includes its own charges (e.g., 18% GST and other bank charges).",
+        "The institution needs to obtain detailed information on the exact rates and structure of these charges from the ERP team.",
+        "Discuss potential options for competitive rates or the possibility of integrating the institution's own bank gateway if preferred."
+    ],
+    "business_rules": [
+        "Payment gateway charges are typically added to the transaction amount paid by the student.",
+        "These charges are imposed by the payment gateway provider, not by the ERP system itself."
+    ],
+    "important_notes": [
+        "It is crucial to understand the exact breakdown of payment gateway charges (e.g., percentage, fixed fee, GST).",
+        "The institution's existing online payment portals might not have similar charges, necessitating a review.",
+        "A discussion with the ERP team is required to clarify charges and explore alternative gateway options."
+    ],
+    "questions": [
+        "What are the charges for using the online payment gateway (Razorpay)?",
+        "Who bears the payment gateway charges – the student or the institution?",
+        "Can we use our own bank's payment gateway instead of Razorpay?",
+        "How are GST and other bank charges calculated on online payments?",
+        "Where can I get a detailed breakdown of these payment gateway charges?"
+    ],
+    "keywords": [
+        "Payment gateway charges",
+        "Razorpay",
+        "online payment",
+        "transaction charges",
+        "GST",
+        "bank charges",
+        "competitive rates",
+        "payment integration"
+    ],
+    "related_topics": [
+        "New Admission Registration Form and Payment Process",
+        "Fee Collection Process"
+    ],
+    "id": "fee_management_understanding_payment_gateway_charges",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

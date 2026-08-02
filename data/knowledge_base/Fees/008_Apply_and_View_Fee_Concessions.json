@@ -1,0 +1,59 @@
+{
+    "module": "Fees",
+    "topic": "Apply and View Fee Concessions",
+    "summary": "This topic explains how to create concession groups, apply concessions to individual student profiles, and view the details of applied concessions in dedicated reports.",
+    "navigation": [
+        "Fee Setup > Concession Group (for creation)",
+        "Student Profile > Concession Fees (for application)",
+        "Fee > Fee Reports > Concession Report (for viewing)"
+    ],
+    "steps": [
+        "**Create Concession Group:** Define a concession (e.g., 10% discount for specific fee heads or months) within 'Fee Setup' > 'Concession Group'.",
+        "**Apply Concession to Student:**",
+        "  - Open the student's profile.",
+        "  - Navigate to 'Concession Fees'.",
+        "  - Select the pre-defined 'Concession Group'. The concession amount will automatically calculate.",
+        "  - (Optional) Edit the 'Remark' field to add specific notes about the concession.",
+        "  - Save the concession to apply it to the student.",
+        "**View Concession Report:** Navigate to 'Fee' > 'Fee Reports' > 'Concession Report' to see all applied concessions, including details like fee head and month."
+    ],
+    "business_rules": [
+        "Concession groups must be created and configured in 'Fee Setup' before they can be applied to students.",
+        "Concessions can be applied as a percentage or a fixed amount.",
+        "Concessions can be targeted to specific fee heads or months."
+    ],
+    "important_notes": [
+        "The concession amount is automatically calculated based on the rules defined in the concession group.",
+        "Customizable remarks can be added for each concession.",
+        "Applied concessions are visible on the 'Collect Fee' page for the student and in the 'Concession Report'."
+    ],
+    "questions": [
+        "How do I apply a fee concession to a student?",
+        "Where can I create a new concession group?",
+        "How do I view a report of all applied concessions?",
+        "Can concessions be applied for specific fee heads or only for the total fee?",
+        "What happens if I apply a concession after a fee has been paid?"
+    ],
+    "keywords": [
+        "Concession",
+        "fee concession",
+        "concession group",
+        "student profile",
+        "concession fees",
+        "concession report",
+        "percentage concession",
+        "fee setup",
+        "discount"
+    ],
+    "related_topics": [
+        "Fee Setup",
+        "Collect Student Fees",
+        "Manage Extra Fees and Auto-Adjustment"
+    ],
+    "id": "fees_apply_and_view_fee_concessions",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Configuration and Management",
+    "summary": "This topic covers how to configure and manage various PDF templates within the ERP system, including setting up different layouts, associating templates with specific courses, and understanding the default template mechanism for documents like ID cards, certificates, and receipts.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "Navigate to the PDF Template section.",
+        "Click on the option to add a new template.",
+        "Select the type of template (e.g., Fee Receipt, ID Card, Character Certificate).",
+        "Provide a unique name for the template.",
+        "Choose the desired print layout (e.g., Single, Two Horizontal, Two Vertical, Four).",
+        "Optionally, associate the template with specific courses or classes if different designs are required.",
+        "Select a default template from the available backend options or load an existing one.",
+        "Review the template preview for design and layout.",
+        "Use the 'Default' toggle to activate or deactivate the template for use."
+    ],
+    "business_rules": [
+        "The system prints the template *attached to the trigger* (the document type selected for printing), regardless of the code content within the template.",
+        "If multiple templates are set as 'Default' for the same trigger and class, the system will print the first one in the series.",
+        "Templates can be customized per class/course.",
+        "The 'Default' toggle activates (on) or deactivates (off) a template for printing.",
+        "If no existing template is defaulted on, the backend default template will be printed."
+    ],
+    "important_notes": [
+        "Always verify the template code to ensure it matches the intended document type to avoid printing incorrect documents (e.g., a bona fide certificate instead of a fee receipt).",
+        "The preview function is primarily for design verification and may not reflect the final printed output perfectly, especially if there are unclosed HTML tags or structural errors in the code.",
+        "Most default templates might require minor code adjustments to meet specific requirements.",
+        "Complex reports (e.g., advanced report cards) often require fully customized design and coding.",
+        "Styling (e.g., uppercase) can be applied using HTML elements like 'div', 'span', or 'x-transform' within the template code."
+    ],
+    "questions": [
+        "How do I create a new fee receipt template?",
+        "Can I have different ID card templates for different schools or classes?",
+        "What happens if I select a fee receipt but the template code is for a bona fide certificate?",
+        "How do I set a template as the default for printing?",
+        "What are the different print layout options for templates?",
+        "How can I apply styling like uppercase to text in a template?",
+        "Why is my template not printing correctly even after I've set it as default?"
+    ],
+    "keywords": [
+        "PDF template",
+        "template setup",
+        "fee receipt",
+        "ID card",
+        "certificate",
+        "default template",
+        "template layout",
+        "print options",
+        "institute setup",
+        "template preferences",
+        "dynamic builder",
+        "report builder",
+        "PDF template types",
+        "template customization",
+        "template activation",
+        "template deactivation",
+        "template trigger"
+    ],
+    "related_topics": [
+        "Template Variable Troubleshooting",
+        "Custom Report Design",
+        "Institute Configuration"
+    ],
+    "id": "institute_setup_pdf_template_configuration_and_management",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

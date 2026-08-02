@@ -1,0 +1,63 @@
+{
+    "module": "Admission Management",
+    "topic": "Online Admission Registration Form and Payment Process",
+    "summary": "This topic details the functionality of the online registration form for new admissions, covering student data entry, online fee payment, and the subsequent flow of this information into the ERP system, including receipt generation and email notifications.",
+    "navigation": [
+        "External URL for Registration Form",
+        "ERP: Admission Screen > Application Data"
+    ],
+    "steps": [
+        "A prospective student accesses and fills out the online registration form, providing personal details (name, photo, gender, email, phone number, etc.).",
+        "The student proceeds to make the online registration fee payment (e.g., 10,000 INR).",
+        "The integrated payment gateway (e.g., Razorpay) processes the transaction.",
+        "Upon successful payment, the student's application entry appears in the ERP under 'Admission Screen' > 'Application Data'.",
+        "A payment receipt is generated and displayed.",
+        "The system will be configured to automatically send the payment receipt and prospectus to the student's registered email ID (future enhancement, pending confirmation)."
+    ],
+    "business_rules": [
+        "The registration fee is a fixed amount (e.g., 10,000 INR).",
+        "Payment gateway charges (e.g., GST, bank charges) may be applied to the student's transaction.",
+        "The phone number field on the form will have a restriction (e.g., up to 12 digits) to prevent incorrect entries.",
+        "The admission number will be generated after the payment is confirmed and the entry is fetched into the ERP."
+    ],
+    "important_notes": [
+        "The online registration form is currently in a 'test gate' mode; it needs to be made 'live' for actual payment deductions.",
+        "The institution's logo will be integrated into the payment receipt.",
+        "Discussion is required regarding the automatic emailing of receipts to students due to potential refund complexities.",
+        "The ERP team will provide a timeline for making the form live and for training the admission team."
+    ],
+    "questions": [
+        "How does the online admission registration form work?",
+        "What is the process for online payment during new admissions?",
+        "Where can I view the details of students who have filled the online registration form?",
+        "Will students automatically receive a payment receipt via email after online registration?",
+        "Are there any additional charges for online payments through the gateway?",
+        "Can we customize the fields on the online registration form?",
+        "How will the admission number be generated for new students?"
+    ],
+    "keywords": [
+        "Online admission",
+        "registration form",
+        "new student",
+        "online payment",
+        "payment gateway",
+        "Razorpay",
+        "test gate",
+        "live payment",
+        "email receipt",
+        "prospectus",
+        "admission screen",
+        "application data",
+        "admission number"
+    ],
+    "related_topics": [
+        "Payment Gateway Charges",
+        "Fee Receipt Customization"
+    ],
+    "id": "admission_management_online_admission_registration_form_and_payment_process",
+    "source": {
+        "file": "kashish _ Okie - 2026_05_09 14_55 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

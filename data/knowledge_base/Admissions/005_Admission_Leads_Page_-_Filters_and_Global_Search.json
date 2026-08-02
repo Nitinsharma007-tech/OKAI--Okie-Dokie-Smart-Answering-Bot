@@ -1,0 +1,55 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page - Filters and Global Search",
+    "summary": "Explains how filters on the Admission Leads page control lead visibility, focusing on default settings for 'not engaged' and 'engaged with pending follow-up' leads, and how negative tags hide leads by default. It also details the use of 'Global Search' to find any lead regardless of applied filters.",
+    "navigation": [
+        "Leads Page"
+    ],
+    "steps": [
+        "By default, the system only ticks 'Not engaged' and 'Engaged with pending follow-up' statuses.",
+        "By default, only positive tags are selected in the filter, hiding leads with negative tags.",
+        "To view leads with negative tags:",
+        "Select the specific negative tag (e.g., 'Not Interested') from the filter.",
+        "Select 'Engaged with pending' and 'Completed follow-up' statuses.",
+        "Search for the application.",
+        "To use Global Search:",
+        "Reload the page to reset default filters.",
+        "Turn on 'Global Search'.",
+        "Enter the application number; the lead will be visible regardless of other filters."
+    ],
+    "business_rules": [
+        "Negative tags hide leads from the default view to prevent counselors from seeing irrelevant data.",
+        "Global Search bypasses all active filters to locate any lead by application number."
+    ],
+    "important_notes": [
+        "Counselors typically only see positive leads by default to focus on actionable leads.",
+        "Global Search is a powerful tool for finding leads that might be hidden by filters."
+    ],
+    "questions": [
+        "Why are leads with negative tags not visible on the default leads page?",
+        "How can I view leads that have been marked as 'Not Interested'?",
+        "What is the function of 'Global Search' on the Admission Leads page?",
+        "How do I find a specific lead if I don't know its current status or tag?",
+        "What are the default filters applied on the Admission Leads page?"
+    ],
+    "keywords": [
+        "Admission leads filters",
+        "global search",
+        "not engaged",
+        "pending follow-up",
+        "positive tags",
+        "negative tags",
+        "lead visibility",
+        "filter management"
+    ],
+    "related_topics": [
+        "Admission Tags Configuration",
+        "Admission Leads Page - Overview and Basic Actions"
+    ],
+    "id": "admissions_admission_leads_page_filters_and_global_search",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "module": "Transport",
+    "topic": "Basic Transport Setup Overview",
+    "summary": "This topic provides an overview of the transport setup process, which involves defining buses, pick-up/drop-off points, and associated charges. It emphasizes that transport configurations are session-dependent.",
+    "navigation": [
+        "Settings Icon",
+        "Institute Setup",
+        "Transport"
+    ],
+    "steps": [],
+    "business_rules": [
+        "Transport setup is session-dependent, meaning configurations may vary for each academic session."
+    ],
+    "important_notes": [
+        "The basic setup options for transport are found under the 'Settings' icon."
+    ],
+    "questions": [
+        "What is the purpose of the transport setup in the ERP system?",
+        "Where can I find the basic transport setup options?",
+        "Is transport setup specific to each academic session?"
+    ],
+    "keywords": [
+        "Transport setup",
+        "basic setup",
+        "session dependent",
+        "institute transport",
+        "ERP transport"
+    ],
+    "related_topics": [
+        "Vehicle Management",
+        "Vehicle Route Configuration",
+        "Student Transport Assignment"
+    ],
+    "id": "transport_basic_transport_setup_overview",
+    "source": {
+        "file": "19. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

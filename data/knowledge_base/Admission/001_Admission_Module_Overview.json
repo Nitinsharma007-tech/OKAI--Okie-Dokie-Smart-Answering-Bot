@@ -1,41 +1,38 @@
 {
     "module": "Admission",
     "topic": "Admission Module Overview",
-    "summary": "Provides an overview of the Admission module's functionalities, including managing application data, leads, transactions, reports, follow-ups, and lead logs with IVR integration. It also highlights the importance of basic setup before using the module.",
+    "summary": "This topic provides a general overview of the Admission module's key functionalities, including managing application data, leads, transactions, reports, follow-ups, and lead logs with IVR integration. It highlights that leads progress through various stages, which are customizable per institute.",
     "navigation": [
-        "Admission module > Application Data page",
-        "Admission module > Admission Leads page",
-        "Admission module > Transaction",
-        "Admission module > Admission Reports",
-        "Admission module > Follow-up page",
-        "Admission module > Admission Lead Logs"
+        "Admission module"
     ],
     "steps": [],
     "business_rules": [],
     "important_notes": [
-        "Basic setup is required before using any module (Admission, SIS, Fee, Academics).",
-        "IVR integration in Lead Logs allows direct reception of calls (received, missed, no one picked) within the ERP."
+        "The Admission module includes pages for Application Data, Admission Leads, Transactions, Admission Reports, Follow-up, and Admission Lead Logs.",
+        "If IVR (Interactive Voice Response) is integrated, call logs (received, missed, no pick) are directly received and displayed in the ERP under Admission Lead Logs.",
+        "Any lead moves from multiple stages before getting admission, and these stages are different for every institute based on client requirements."
     ],
     "questions": [
-        "What are the main features of the Admission module?",
-        "How does the Admission module handle call logs?",
+        "What are the main functionalities available in the Admission module?",
+        "How does the Admission module handle call logs from IVR integration?",
+        "Where can I find reports related to admissions in the ERP?",
         "What is the purpose of the Admission Leads page?"
     ],
     "keywords": [
         "Admission module",
-        "application data",
-        "admission leads",
-        "transactions",
-        "reports",
-        "follow-up",
-        "lead logs",
-        "IVR integration"
+        "Application Data",
+        "Admission Leads",
+        "Transactions",
+        "Admission Reports",
+        "Follow-up",
+        "Admission Lead Logs",
+        "IVR integration",
+        "Call logs"
     ],
     "related_topics": [
-        "SIS Module",
-        "Fee Module",
-        "Academics Module",
-        "Attendance Module"
+        "Application Number Setup",
+        "Admission Stage Master Setup",
+        "Admission Stage Field Configuration"
     ],
     "id": "admission_admission_module_overview",
     "source": {

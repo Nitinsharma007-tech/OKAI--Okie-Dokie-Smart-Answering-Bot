@@ -568,6 +568,8 @@ function openChatWidget(){
 
     assistantPanel.classList.add("open");
 
+    document.body.classList.add("chat-open");
+
     chatFab.classList.add("hidden");
 
     chatFab.setAttribute("aria-expanded", "true");
@@ -586,6 +588,8 @@ function openChatWidget(){
 function closeChatWidget(){
 
     assistantPanel.classList.remove("open");
+
+    document.body.classList.remove("chat-open");
 
     chatFab.classList.remove("hidden");
 
@@ -864,6 +868,33 @@ function showViewerLoading(){
 
 
 /*=========================================================
+    NAVIGATION FLOWCHART
+
+    Turns a topic's navigation[] array (e.g. ["Settings",
+    "Fees", "Concessions"]) into a row of connected steps,
+    instead of a plain bulleted list.
+=========================================================*/
+
+function renderNavigationFlowchart(steps){
+
+    const stepsHtml = steps.map((step, index)=>{
+
+        const box = `<span class="nav-flow-step">${escapeHtml(step)}</span>`;
+
+        if(index === steps.length - 1){
+            return box;
+        }
+
+        return box + `<span class="nav-flow-arrow" aria-hidden="true">&rarr;</span>`;
+
+    }).join("");
+
+    return `<div class="nav-flowchart">${stepsHtml}</div>`;
+
+}
+
+
+/*=========================================================
     SHOW KNOWLEDGE
 =========================================================*/
 
@@ -915,23 +946,7 @@ function showKnowledge(items){
 
         <h3>Navigation</h3>
 
-        <ul>
-
-        `;
-
-        topic.navigation.forEach(nav=>{
-
-            html += `
-
-                <li>${nav}</li>
-
-            `;
-
-        });
-
-        html += `
-
-        </ul>
+        ${renderNavigationFlowchart(topic.navigation)}
 
         `;
 

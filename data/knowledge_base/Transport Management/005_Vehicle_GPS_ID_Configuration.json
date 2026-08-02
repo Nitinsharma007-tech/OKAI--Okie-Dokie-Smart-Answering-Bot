@@ -1,0 +1,49 @@
+{
+    "module": "Transport Management",
+    "topic": "Vehicle GPS ID Configuration",
+    "summary": "To enable GPS tracking for a vehicle, its unique vendor-specific GPS ID must be configured within the ERP system. This ID is used by the backend to retrieve specific tracking data from the vendor's API.",
+    "navigation": [
+        "Transport",
+        "Vehicles"
+    ],
+    "steps": [
+        "Navigate to the 'Vehicles' section within the 'Transport' module.",
+        "Search for the specific vehicle you wish to configure.",
+        "Locate the 'GPS ID' field for that vehicle.",
+        "Enter the unique vendor-specific code (e.g., 'V2954') into the 'GPS ID' field. This value corresponds to the 'GPS ID Key' set in Track Config.",
+        "Save the vehicle configuration."
+    ],
+    "business_rules": [
+        "Each vehicle's GPS ID must be unique and correspond to the code provided by the vendor's API.",
+        "If a vehicle's GPS ID is not configured, the API call for that vehicle will fail, resulting in a 'GPS ID not found' error."
+    ],
+    "important_notes": [
+        "The GPS ID is crucial for the system to fetch and render live location data for the vehicle.",
+        "The value entered here is what the backend sends to the vendor API via the 'GPS ID Key' defined in Track Config."
+    ],
+    "questions": [
+        "How do I link a vehicle in the ERP to its GPS tracking ID?",
+        "Where do I enter the unique GPS ID for a vehicle?",
+        "What happens if a vehicle's GPS ID is not configured?",
+        "What is the 'vehicle number' or 'vehicle code' used for in GPS tracking?"
+    ],
+    "keywords": [
+        "Vehicle GPS ID",
+        "vehicle configuration",
+        "Transport module",
+        "unique vehicle code",
+        "GPS tracking setup",
+        "GPS ID not found error"
+    ],
+    "related_topics": [
+        "Track Config - GPS ID Key",
+        "Response Config",
+        "Live Tracking"
+    ],
+    "id": "transport_management_vehicle_gps_id_configuration",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

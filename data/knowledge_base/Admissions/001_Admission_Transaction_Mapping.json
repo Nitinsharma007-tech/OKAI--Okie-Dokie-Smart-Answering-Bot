@@ -1,0 +1,34 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Transaction Mapping",
+    "summary": "This topic addresses issues related to admission transaction mapping, specifically when registration fees are not reflected in the application data and users are unable to proceed to the next admission stage as expected.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [
+        "User reported that 1000 rupees in registration is not showing as collectible.",
+        "User reported being unable to go to the next stage after transaction mapping."
+    ],
+    "questions": [
+        "How do I ensure registration fees are correctly displayed after transaction mapping?",
+        "Why am I unable to move to the next admission stage after completing transaction mapping?",
+        "What are the common troubleshooting steps for transaction mapping issues in admissions?"
+    ],
+    "keywords": [
+        "Transaction mapping",
+        "registration fees",
+        "application data",
+        "admission stages",
+        "transaction display",
+        "stage progression"
+    ],
+    "related_topics": [
+        "Admission Application Setup"
+    ],
+    "id": "admissions_admission_transaction_mapping",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

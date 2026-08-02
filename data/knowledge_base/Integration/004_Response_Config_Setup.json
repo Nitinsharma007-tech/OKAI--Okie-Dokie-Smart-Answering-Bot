@@ -1,0 +1,50 @@
+{
+    "module": "Integration",
+    "topic": "Response Config Setup",
+    "summary": "Response Config defines how the system should parse and interpret the data received from a vendor's API. This includes specifying the path to the data list, the unique key for matching records, and the keys for latitude, longitude, and speed.",
+    "navigation": [],
+    "steps": [
+        "**List Path**: Identify the path within the vendor's API response that contains the main data list or array (e.g., 'data.list'). Use dot notation to access nested arrays.",
+        "**Match Key**: Enter the unique key from the vendor's response that identifies individual records or vehicles (e.g., 'vehicle number'). This key is used for comparison.",
+        "**Latitude Key**: Copy the exact key for latitude from the vendor's API response and paste it into the 'Latitude Key' field.",
+        "**Longitude Key**: Copy the exact key for longitude from the vendor's API response and paste it into the 'Longitude Key' field.",
+        "**Speed Key**: Copy the exact key for speed from the vendor's API response and paste it into the 'Speed Key' field."
+    ],
+    "business_rules": [
+        "The 'List Path' specifies where the array of data is located within the API response.",
+        "The 'Match Key' is used to compare and match values from the API response with internal records.",
+        "The 'Match Key' in Response Config can be different from the 'GPS ID Key' in Track Config."
+    ],
+    "important_notes": [
+        "Ensure the keys for List Path, Match Key, Latitude, Longitude, and Speed are copied exactly as they appear in the vendor's API response to ensure correct data parsing."
+    ],
+    "questions": [
+        "How do I configure the system to understand a vendor's API response?",
+        "What is the 'List Path' in Response Config and how do I determine it?",
+        "How do I map latitude, longitude, and speed data from an API response?",
+        "What is the purpose of the 'Match Key' in Response Config?"
+    ],
+    "keywords": [
+        "Response Config",
+        "API response parsing",
+        "vendor API data",
+        "list path",
+        "match key",
+        "latitude key",
+        "longitude key",
+        "speed key",
+        "data mapping"
+    ],
+    "related_topics": [
+        "Track Config - API Details",
+        "Track Config - GPS ID Key",
+        "Vehicle GPS ID Setup",
+        "Testing API Configuration"
+    ],
+    "id": "integration_response_config_setup",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

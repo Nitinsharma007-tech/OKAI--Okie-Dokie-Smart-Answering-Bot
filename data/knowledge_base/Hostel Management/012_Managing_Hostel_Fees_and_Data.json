@@ -1,0 +1,50 @@
+{
+    "module": "Hostel Management",
+    "topic": "Managing Hostel Fees and Data",
+    "summary": "This topic explains that hostel fees are structured similarly to tuition fees, often divided into installments, and highlights the necessity of importing hostel-specific data for comprehensive management within the ERP's hostel module.",
+    "navigation": [
+        "Hostel Module",
+        "Fee Management"
+    ],
+    "steps": [
+        "Provide hostel fee data, including charges for different types of accommodation (e.g., non-AC) and their installment divisions.",
+        "For full utilization of the hostel module, provide detailed hostel information such as hostel names, room numbers, and bed allocations.",
+        "The ERP team will then import this data into the system."
+    ],
+    "business_rules": [
+        "Hostel fees are typically divided into multiple installments (e.g., four parts).",
+        "A security deposit for the hostel is usually a one-time charge."
+    ],
+    "important_notes": [
+        "The ERP includes a comprehensive hostel module capable of managing rooms and beds, provided detailed data is supplied.",
+        "The ERP team will provide sample Excel formats to assist in preparing hostel data for import."
+    ],
+    "questions": [
+        "How are hostel fees managed within the ERP system?",
+        "Are hostel fees also divided into installments like tuition fees?",
+        "What kind of hostel-specific data is required for import?",
+        "Can the ERP system manage hostel room and bed allocations?",
+        "What is the process for importing hostel data?"
+    ],
+    "keywords": [
+        "Hostel fees",
+        "hostel module",
+        "hostel data",
+        "hostel installments",
+        "hostel security deposit",
+        "room allocation",
+        "bed management",
+        "hostel charges"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Data Import",
+        "Student Management"
+    ],
+    "id": "hostel_management_managing_hostel_fees_and_data",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

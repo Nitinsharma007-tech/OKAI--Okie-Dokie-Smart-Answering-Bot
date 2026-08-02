@@ -1,7 +1,7 @@
 {
     "module": "Inventory",
     "topic": "Creating a New Inventory Item",
-    "summary": "This process outlines how to add a new item to the inventory system, including entering an item code (optional), selecting an item group, and the ability to create new item groups if needed.",
+    "summary": "This process outlines how to create a new item in the inventory system. It involves entering item details, assigning the item to an existing item group, and the option to create a new item group if the required one does not exist.",
     "navigation": [
         "Inventory",
         "Masters",
@@ -9,43 +9,45 @@
         "Create"
     ],
     "steps": [
-        "Click on 'Create' within the 'Items' section.",
-        "Enter the 'Item Code' (optional; can be used to differentiate similar items, e.g., different types of erasers).",
-        "Enter the 'Item Name' (e.g., 'erasers').",
-        "Select the appropriate 'Item Group' (e.g., 'stationary data', 'instrument').",
-        "If the required 'Item Group' does not exist, click the provided icon to create a new one.",
-        "When creating a new item group, specify if it's 'Primary' or a sub-group (e.g., 'pens' under 'stationary data', then 'ball pens' under 'pens').",
-        "Save the item."
+        "Click on 'Create' in the Item Masters section.",
+        "Enter the Item Code (optional).",
+        "Enter the Item Name (e.g., 'erasers').",
+        "Select the Item Group (e.g., 'stationary data', 'instrument').",
+        "If the required Item Group does not exist, click the icon to create a new Item Group.",
+        "Enter the new Item Group name.",
+        "Select 'Primary' or an existing parent group (e.g., 'pens' under 'stationary data').",
+        "Save the new Item Group.",
+        "Save the new Item."
     ],
     "business_rules": [
-        "The 'Item Code' field is non-mandatory.",
-        "An 'Item Group' must be selected for each item."
+        "The Item Code field is non-mandatory.",
+        "Every item must be assigned to an Item Group.",
+        "Item Groups can be nested (e.g., 'ball pens' under 'pens', and 'pens' under 'stationary data')."
     ],
     "important_notes": [
-        "Item codes can be useful for distinguishing between variations of the same item.",
-        "Item groups can be nested to create a hierarchical categorization (e.g., 'ball pens' and 'gel pens' under 'pens', which is under 'stationary data')."
+        "Item codes can be used to differentiate between similar items (e.g., two types of erasers).",
+        "The system allows for the creation of new item groups directly from the item creation interface if needed."
     ],
     "questions": [
         "What fields are required when creating a new inventory item?",
-        "Can I create a new item group while creating an item?",
-        "How do I categorize items using item groups?",
-        "Is the item code a mandatory field for new items?",
-        "What is the difference between a primary and a sub-group for items?"
+        "How do I create a new item group for my inventory?",
+        "Can I leave the item code blank when creating an item?",
+        "How do I categorize items like ball pens and gel pens under a broader 'pens' category?"
     ],
     "keywords": [
         "Create item",
-        "new item",
         "item code",
         "item group",
+        "new item",
         "stationary data",
-        "primary item group",
-        "sub-group",
-        "item creation process"
+        "inventory creation",
+        "item category",
+        "add item"
     ],
     "related_topics": [
-        "Inventory Masters - Items",
-        "Item Group Management",
-        "Editing an Item"
+        "Inventory Item Masters",
+        "Inventory Item Units",
+        "Editing an Existing Inventory Item"
     ],
     "id": "inventory_creating_a_new_inventory_item",
     "source": {

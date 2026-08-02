@@ -1,0 +1,51 @@
+{
+    "module": "HRM",
+    "topic": "Managing Earning and Deduction Heads",
+    "summary": "This module allows administrators to define and manage various earning (e.g., allowances) and deduction (e.g., fines) heads that can be used in salary calculations and contracts.",
+    "navigation": [
+        "Settings",
+        "HRM Setup",
+        "Payroll Master"
+    ],
+    "steps": [
+        "Navigate to 'Settings > HRM Setup > Payroll Master'.",
+        "You will see options for 'Earning Heads' and 'Deduction Heads'.",
+        "To add an earning head: Click on 'Earning Heads'. Check if the desired head (e.g., HRA, Medical Allowance) is already listed. If so, tick it and save. If not, click 'Add New', enter the 'Name' of the new head, and click 'Save'.",
+        "To add a deduction head: Click on 'Deduction Heads'. Check if the desired head is already listed. If not, click 'Add New', enter the 'Name' of the new head, and click 'Save'.",
+        "Always click 'Save' after making changes to ensure they are applied."
+    ],
+    "business_rules": [
+        "Heads created here become available for selection in salary templates and during monthly salary adjustments."
+    ],
+    "important_notes": [
+        "Creating a new head here does not automatically update existing salary templates or processed salaries; it only makes the head available for future use.",
+        "The 'Payroll Master' is central to defining all components of salary and deductions within the HRM module."
+    ],
+    "questions": [
+        "How do I create a new earning head for employee salaries?",
+        "Where can I add a custom deduction type in the ERP system?",
+        "What is the 'Payroll Master' in HRM setup used for?",
+        "Can I add allowances like Conveyance or HRA to the system?",
+        "How do I manage existing earning and deduction heads?"
+    ],
+    "keywords": [
+        "Earning heads",
+        "Deduction heads",
+        "Payroll master",
+        "HRM setup",
+        "Custom salary components",
+        "Add allowance",
+        "Add deduction",
+        "Salary configuration"
+    ],
+    "related_topics": [
+        "Assigning Salary Template (Contract) to an Employee",
+        "Viewing and Editing Processed Salary (Salary Summary Month Wise)"
+    ],
+    "id": "hrm_managing_earning_and_deduction_heads",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

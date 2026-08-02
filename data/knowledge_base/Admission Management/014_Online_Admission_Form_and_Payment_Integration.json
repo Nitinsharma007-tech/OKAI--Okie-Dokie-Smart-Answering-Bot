@@ -1,0 +1,62 @@
+{
+    "module": "Admission Management",
+    "topic": "Online Admission Form and Payment Integration",
+    "summary": "This topic covers the online admission registration form, its integration with the ERP, and the process of collecting initial admission fees (e.g., 10,000) through an integrated payment gateway, including testing procedures.",
+    "navigation": [
+        "External Admission Form URL",
+        "ERP",
+        "Admission",
+        "Application Data"
+    ],
+    "steps": [
+        "A prospective student fills out the online registration form via the provided external URL.",
+        "The student proceeds to make the initial admission payment (e.g., 10,000) using the integrated online payment gateway (a test mode is available for verification).",
+        "Upon successful form submission and payment, the application entry appears in the ERP under 'Admission Data'.",
+        "Payment transaction details are automatically recorded within the ERP for that specific application.",
+        "If a student pays offline, the payment can be recorded as 'over the counter' in the ERP, and the application will then proceed."
+    ],
+    "business_rules": [
+        "The online admission form is fully integrated with the ERP system.",
+        "An initial payment is typically required for the application to proceed.",
+        "The admission number is generated after the initial fee is successfully received.",
+        "The initial payment amount (e.g., 10,000) can be configured as fixed or variable."
+    ],
+    "important_notes": [
+        "A test mode for the payment gateway allows for functionality testing without actual financial deductions.",
+        "The ERP team needs to confirm the details of payment gateway charges.",
+        "The 'Admission Data' section in the ERP will display all application entries and their associated transaction details.",
+        "The institution needs to provide a list of transports for the form's dropdown."
+    ],
+    "questions": [
+        "How does the online admission form integrate with the ERP system?",
+        "What is the process for students to pay their admission fees online?",
+        "Can we test the online payment gateway for admission forms before going live?",
+        "Where can I view the application data and payment transactions for new admissions?",
+        "Are there any charges associated with using the online payment gateway for admissions?",
+        "Can the initial admission fee amount be configured to be variable instead of fixed?"
+    ],
+    "keywords": [
+        "Online admission form",
+        "registration form",
+        "payment integration",
+        "payment gateway",
+        "Razorpay",
+        "initial payment",
+        "admission fees",
+        "application data",
+        "test mode",
+        "payment charges",
+        "admission process"
+    ],
+    "related_topics": [
+        "Managing Fee Payment Modes",
+        "Email Notifications for Payments",
+        "Payment Gateway Charges"
+    ],
+    "id": "admission_management_online_admission_form_and_payment_integration",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

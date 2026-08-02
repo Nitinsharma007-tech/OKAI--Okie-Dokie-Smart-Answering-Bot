@@ -1,0 +1,52 @@
+{
+    "module": "HRM",
+    "topic": "Processing Monthly Salary (Computer Attendance)",
+    "summary": "This function allows you to generate the initial monthly salary for employees based on their assigned contracts and recorded attendance (payable days).",
+    "navigation": [
+        "HRM",
+        "Computer Attendance"
+    ],
+    "steps": [
+        "Ensure that 'Pay Birthdays' (payable days) have been set for the employees for the desired month.",
+        "Navigate to 'Computer Attendance'.",
+        "Select the desired 'Month' and 'Year' for salary processing.",
+        "Click 'Go'.",
+        "A list of employees will appear. You can search for a single employee if needed.",
+        "Select the employee(s) for whom you want to process salary using the checkbox.",
+        "Click 'Process Salary'.",
+        "A 'Success' message indicates that the salary has been created."
+    ],
+    "business_rules": [
+        "Employee 'Pay Birthdays' (attendance days) must be recorded for the selected month before salary can be processed."
+    ],
+    "important_notes": [
+        "This step generates the salary based on the assigned contract; any month-specific adjustments (like advance recovery) are done in 'Salary Summary Month Wise'.",
+        "If an employee's joining date is not set, the system might not allow contract assignment or salary processing."
+    ],
+    "questions": [
+        "How do I process employee salaries for a specific month?",
+        "What are 'Pay Birthdays' and why are they important for salary processing?",
+        "Where can I find the option to compute attendance for salary?",
+        "What happens if an employee's joining date is missing when processing salary?"
+    ],
+    "keywords": [
+        "Process salary",
+        "Compute attendance",
+        "Generate salary",
+        "HRM salary",
+        "Monthly salary processing",
+        "Payable days",
+        "Attendance processing"
+    ],
+    "related_topics": [
+        "Assigning Salary Template (Contract) to an Employee",
+        "Viewing and Editing Processed Salary (Salary Summary Month Wise)",
+        "Employee Master"
+    ],
+    "id": "hrm_processing_monthly_salary_computer_attendance",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

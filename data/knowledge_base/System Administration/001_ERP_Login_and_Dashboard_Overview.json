@@ -1,0 +1,50 @@
+{
+    "module": "System Administration",
+    "topic": "ERP Login and Dashboard Overview",
+    "summary": "This topic covers the login process for the ERP system using a phone number and OTP, and provides an overview of the dashboard interface, including company/entity name display, user ID, session information, and the permission-based menu structure.",
+    "navigation": [
+        "campus.audipay.org"
+    ],
+    "steps": [
+        "Go to the URL: campus.audipay.org.",
+        "Log in using your registered phone number and the One-Time Password (OTP) received.",
+        "Optionally, you can set a password for future logins.",
+        "Upon successful login, the dashboard will appear, displaying your company/entity name, user ID, and current session details."
+    ],
+    "business_rules": [
+        "Login is primarily via phone number and OTP.",
+        "Menu options displayed are based on user permissions."
+    ],
+    "important_notes": [
+        "The URL (campus.audipay.org) can be saved or attached to your homescreen for easy access.",
+        "The dashboard interface is personalized, showing your institute's name and your user ID.",
+        "The system supports multiple sessions, which can be searched."
+    ],
+    "questions": [
+        "How do I log in to the ERP system?",
+        "What is the web address for the ERP login?",
+        "Can I set a password for my ERP account?",
+        "What information is visible on the ERP dashboard after logging in?",
+        "Why do I see different menu options compared to other users?"
+    ],
+    "keywords": [
+        "ERP login",
+        "dashboard",
+        "campus.audipay.org",
+        "OTP login",
+        "password setup",
+        "user interface",
+        "permissions",
+        "session management"
+    ],
+    "related_topics": [
+        "User Management",
+        "Security Settings"
+    ],
+    "id": "system_administration_erp_login_and_dashboard_overview",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

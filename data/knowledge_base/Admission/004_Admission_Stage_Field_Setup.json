@@ -1,0 +1,78 @@
+{
+    "module": "Admission",
+    "topic": "Admission Stage Field Setup",
+    "summary": "This topic details the configuration of fields for each admission stage, including visibility, mandatory status, field types, grouping, sequencing, and automated communication triggers. It also explains the difference between 'Lead' and 'Application' stage types and how to assign counselors to stages.",
+    "navigation": [
+        "Admission module",
+        "Admissions setup",
+        "Stage setup"
+    ],
+    "steps": [
+        "Navigate to 'Stage setup'.",
+        "Click 'Add stage setup' to create a new stage configuration, or choose to copy from existing stages/sessions.",
+        "Select the specific stage for which you are configuring fields (e.g., 'Testing').",
+        "Assign a 'Stage Sequence Number' to define the order of this stage in the overall workflow.",
+        "Select the 'Stage Type': 'Lead' for initial, fresh leads with no work done, or 'Application' for leads where work has commenced.",
+        "Optionally, 'Select Counselor': Tag a specific counselor to this stage. Only applications reaching this stage will be visible to the tagged counselor.",
+        "Configure 'Communication Preferences' (optional): Select SMS, WhatsApp, and/or Email templates. These communications will be automatically triggered when a lead moves to this stage.",
+        "Configure 'Field Configuration':",
+        "To copy fields from an existing stage, select the desired stage (e.g., 'Transport' stage with 5 fields) and copy them.",
+        "To add a single field: Click 'Add field', select the field from the dropdown, enter a display name, toggle 'Mandatory' if required, select 'Field Type' (Text, Date, Select Box, Phone Number, File Type). For 'Select Box', add multiple values (e.g., 'Male', 'Female', 'Others' for Gender). Assign a 'Group By' (e.g., 'Personal Details', 'Document Upload') and a 'Sequence Number' to control display order.",
+        "To add multiple fields: Click 'Add multiple field', select all desired fields (e.g., Student's name, date, gender, phone number, email, address), click 'Save', and then assign sequence numbers to them.",
+        "Save the stage setup configuration.",
+        "Refresh the page to see the newly added or updated stage configuration."
+    ],
+    "business_rules": [
+        "Only relevant fields should be visible at each stage to avoid information overload.",
+        "Fields can be made mandatory, requiring input before proceeding.",
+        "Fields can be grouped (e.g., 'Personal Details') and sequenced for logical presentation.",
+        "The 'Lead' stage type is typically for the very first stage where no work has been done on the lead.",
+        "The 'Application' stage type is for subsequent stages where counselors have started working on the lead.",
+        "If a counselor is tagged to a stage, applications will only become visible to that counselor once they reach that specific stage. Admin users can view all applications regardless of stage.",
+        "Automated communication (SMS, WhatsApp, Email) will be triggered to the student/applicant upon a lead transitioning to a stage with configured communication preferences."
+    ],
+    "important_notes": [
+        "The number of fields configured can vary significantly between stages (e.g., 141 fields for application submission vs. 5 for transport).",
+        "The 'Toggle edit' field type is generally not used in this context.",
+        "Field sequencing ensures fields appear in a desired order on the application page."
+    ],
+    "questions": [
+        "How do I configure which fields are visible at each admission stage?",
+        "Can I make certain fields mandatory for a specific admission stage?",
+        "What is the difference between a 'Lead' stage and an 'Application' stage type?",
+        "How do I assign a counselor to an admission stage to control visibility?",
+        "How can I set up automated SMS, WhatsApp, or Email notifications for stage transitions?",
+        "How do I group related fields on the admission application form?",
+        "Can I copy field configurations from one stage to another?"
+    ],
+    "keywords": [
+        "Stage setup",
+        "field configuration",
+        "mandatory fields",
+        "field type",
+        "select box",
+        "group by",
+        "sequence number",
+        "stage type",
+        "lead stage",
+        "application stage",
+        "select counselor",
+        "communication preferences",
+        "SMS template",
+        "WhatsApp template",
+        "email template",
+        "automated triggers",
+        "field visibility"
+    ],
+    "related_topics": [
+        "Admission Stage Master Setup",
+        "Admission Leads",
+        "Communication Module"
+    ],
+    "id": "admission_admission_stage_field_setup",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

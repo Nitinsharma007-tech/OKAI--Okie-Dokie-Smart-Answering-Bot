@@ -1,0 +1,561 @@
+Okay, so our topic today is that is a transaction.
+So if you remember, you take admission anywhere, right?
+So at the time of admission, you either have to pay the registration fee,
+or you have to pay the token, right?
+Or you have to pay the prospectus fees, etc.
+Is this part clear?
+So in our module, we have that particular option,
+like we have set up in this.
+So the last thing we covered was that
+where will your application number come from?
+After the application number, how will you make your stage?
+What stage do you want?
+After that, your admission sources are set.
+Now the point is admission tags.
+Okay, you understood the tags too.
+The main thing is that now we have to make a transaction with the student
+in some or the other use.
+Whether it is your prospectus, whether it is your token money,
+or whether it is your registration fees.
+Because when you take admission, you have to pay some amount
+for admission at that time.
+Is it okay, Tanvi Baba?
+Yes, sir.
+So what do we have?
+We have a transaction receipt setup.
+First of all, we have to do that.
+Let me tell you the reason.
+Whenever you get a receipt,
+it has a number written on it.
+Right?
+Yes, sir.
+So that number is automatically generated from the receipt counter.
+So what we do here is we set the receipt number here.
+We need one, two.
+You have to put a prefix for it.
+For example, if this is the University of SDI,
+then I have put SDI.
+So after SDI, three, four,
+whatever the counter update is,
+it keeps changing.
+So you have to set the receipt number here.
+Anything can happen.
+Sometimes the client tells the client,
+sometimes we make it ourselves by taking their initiation.
+And after that, the number starts from one.
+Here it is already counter updated,
+so it is coming from three.
+Is it clear?
+Yes, sir.
+After that, we have admission heads.
+Now what is your point?
+If you want to collect from any student,
+then you have to do this.
+The collection can be in any random head.
+It can be your registration,
+your prospectus fees,
+one of which is your pocket money.
+I will tell you about the concept of pocket money later.
+Before that, let's go to the direct test
+for registration and prospectus fees.
+Registration and prospectus fees.
+I have put these two.
+These are my two heads.
+Now in this head, my transaction will come
+and in this head, my transaction can come.
+Now the point is,
+where will this head's transaction come from?
+So you had a stage setup
+What we will do is,
+if you want to collect
+from any head,
+from any particular stage,
+then you will view that stage.
+For example, my lead stage.
+If I want my child to pay me money in my lead stage,
+then I will view that stage.
+After viewing, I will go to transactions.
+From here, the transaction will be enabled.
+So from here, my transaction will be enabled.
+Is it clear?
+After the transaction is enabled,
+what I will do from here is
+add transaction mapping.
+Now while adding transaction mapping,
+we have all the respective courses.
+They all come here.
+Which course do you want to do?
+Which head do you want the amount in?
+You will select that.
+For example, I have selected this head.
+I have selected your registration.
+In registration,
+what I am taking from the child is
+that I have to take 100 rupees from this.
+I have put 100 rupees.
+For example, registration P.A.
+Now what does the system do?
+It shows you that
+editable.
+So basically what happens is
+when you go for registration,
+then some children are like this
+whose registration is done in 1000 rupees.
+Some children are like this whose registration is done in 200 rupees.
+Am I right?
+It depends on how much
+you convince the institute
+that we will be able to give this much.
+So if you keep this editable,
+then while collecting the amount
+for registration,
+the amount will be editable.
+If you keep it fixed,
+then it will be fixed there.
+For now, let's take this editable.
+I have turned on the editable.
+Now you will not add each one manually.
+You will select one course,
+then you select one course, then you select registration,
+then you select another course,
+then you add the amount.
+So what do we have?
+We have the option of copy course head.
+As soon as you copy the course head,
+then what will the system do?
+It will add all the other courses.
+Is this clear, guys?
+Is this clear, guys?
+Now you have two things.
+You can get the amount collected
+in a single head at one stage.
+But in one stage,
+you can also clear the amount in multiple heads.
+You can also take prospectus at the same stage.
+You can also do that.
+You have to take registration at one stage,
+you have to take prospectus at one stage.
+So what will we do?
+We will take registration at one stage and prospectus at the other.
+At the end, I have updated this.
+So if I refresh it and get it checked,
+then the transaction required here
+will be on.
+This transaction required is on.
+Nothing is coming in this case.
+Getting my point?
+Yes, sir.
+Now we have the next stage,
+the data requested stage.
+So what will we do at the data requested stage?
+We will go to the registration.
+We have added one head there.
+We will add one head here, which is your prospectus.
+It depends.
+If we are doing this for testing,
+we can add anything anywhere.
+But the client will tell you which particular head
+you have to keep at which stage.
+What did I do in this case?
+In this case, I kept it only non-editable.
+I came,
+clicked on update after the last one,
+refreshed,
+recording is on.
+Now I came to the application data image.
+This is my specific lead.
+Take an example.
+This is my lead stage.
+My application is at the lead stage.
+When I will view it,
+then after viewing it, we put a thousand rupees there.
+So I can collect
+this thousand rupees from here.
+I can collect this thousand rupees from here.
+You have collected
+this thousand rupees
+payment mode.
+You have collected this thousand rupees.
+Which head did you go to?
+This is your thousand rupees.
+We have added registration.
+Clear?
+Yes, sir.
+I have collected it.
+Now I will move it to the next stage.
+I have collected
+this thousand rupees.
+I have collected this thousand rupees.
+I have collected this thousand rupees in my transaction.
+I have got my counter,
+its receipt.
+I came down, clicked on next,
+clicked on update.
+Now what will I do?
+I can't go to the next stage,
+the approved stage,
+until I collect this thousand rupees.
+I will collect this thousand rupees from here.
+I clicked on save.
+Now
+I have collected this thousand rupees in my prospectus.
+Now I am connected.
+Are you understanding
+what this is?
+Where did this come from?
+Yes, sir.
+for this.
+We have made a stage for this.
+We have set the mark here.
+Now we have
+last but not least,
+when we go to the next stage
+we have 1100 rupees for collection
+which we have set in this.
+You are in the last stage of your admission, in the registration stage.
+We have set 1100 rupees here in the registration stage.
+The identity table is on.
+The head is not coming here. Let's make a separate head for this.
+Because it is from the old days, so let's keep this.
+Registration is done, prospectus is done.
+Let's keep the bow shirt.
+Let's keep that too.
+Let's keep the visit piece.
+That kid is visiting, that's why Steve East is giving it to him.
+You go to the settings in the settings.
+After going to the settings, you open the stage with the same entity.
+Then you have the transaction.
+What we do in the transaction is that we delete everything.
+And we add the new single head that we have just made.
+We will keep adding it.
+I will go to add mapping.
+Select the head and put it in the visit fee of 1100 rupees.
+I saved it here.
+This amount was added.
+I copied it for everyone and added it at the end.
+What was my previous stage?
+It was my lead stage.
+In that lead stage, we collected 1000 rupees.
+Which was in our registration.
+Then our next stage was our stage with your data request.
+On which you collected 1200 rupees.
+Am I right?
+From there you collected 1200 rupees.
+Now my last stage is where we are collecting one more amount from the child.
+That amount is yours.
+You moved it on the next stage.
+You noticed one thing.
+We had editable there.
+Now I can edit it.
+I can pay as much as I want.
+I can pay as much as I want.
+In the previous one, we had editable off.
+So we couldn't edit there.
+If you remember, only this icon was coming.
+From here, I collected 11 rupees.
+I collected 11 rupees in the visit fee.
+Now what is the point?
+Understand this thing.
+Registration is done.
+We collected it in this stage.
+I will show you in view transaction.
+Collect 1000 rupees.
+Then you collected 1200 rupees.
+Then you collected 1100 rupees.
+Is the transaction part clear?
+How to do the setup?
+How to make the head?
+At which stage will the head be made?
+Yes sir.
+Is the amount editable clear?
+Yes sir.
+Is the amount editable on?
+Is it clear?
+Yes sir.
+If your editable is enabled.
+Then you can go there and edit the amount and collect it.
+If your editable is not enabled.
+Then you can only collect the amount set.
+Now we have one more.
+That is your save zero amount transaction.
+What happens in save zero amount transaction?
+I will tell you a small thing.
+Suppose you have turned on is amount editable.
+Now whoever is collecting the user payment.
+He put zero amount and collected it.
+That is wrong.
+Zero amount is nothing to collect.
+Yes sir.
+In that case we will turn on save zero amount transaction.
+After that he can save zero amount transaction.
+We are bypassing it.
+Suppose there is no need to give registration fee to some students.
+If there is no need then we cannot define it student wise.
+So we have made a structure.
+In which case we have turned it on.
+If any student wants to take zero amount.
+Then he can take zero amount transaction.
+Now I will show you a thing.
+Let's turn on is editable.
+Let's keep it off at zero.
+Let's check one lead.
+Let's check one lead.
+Let's check one lead.
+We have turned on is amount editable.
+Now let's pick a specific course.
+Let's pick a specific course.
+This is one of my course.
+I have selected it in next stage.
+In first stage we are taking full payment.
+Because we have not turned on is editable.
+Because we have not turned on is editable.
+I have saved it.
+In next stage I went to registration.
+Which one was it?
+I have filtered it.
+I have to check transaction history.
+You can see all transaction history from here.
+Keep this in mind.
+I have opened it.
+I have collected 1000 rupees.
+In next stage I have turned on is amount editable.
+In next stage I have turned on is amount editable.
+If I pay zero here.
+Then system will not allow me to pay zero.
+Then system will not allow me to pay zero.
+Amount can't be zero.
+Please enter a valid amount to proceed.
+Did you understand?
+Now if I go there.
+Now if I go there.
+Is amount editable.
+Is amount editable.
+If I enable the save transaction.
+If I enable the save transaction.
+I have updated it.
+I have updated it.
+I have updated it.
+I have updated it.
+In next stage.
+If I zero it.
+Then it will allow me to save.
+Now I can take zero amount transaction.
+Now I can take zero amount transaction.
+Did you understand what is zero amount enable?
+We have collected zero.
+First it didn't allow me to collect.
+Now it is clear guys?
+Yes sir.
+Yes sir.
+Understand one thing.
+Transaction part is clear.
+We have to take registration fees.
+You have to take prospectus fees.
+You have to collect random xyz amount.
+You have to collect random xyz amount.
+Whatever you pay for registration fee.
+Or sometimes you pay prospectus fee.
+Registration can be adjusted in that fees.
+But the money you give to other heads.
+But the money you give to other heads.
+It doesn't get adjusted anywhere.
+It goes directly to their account.
+Suppose you have one lakh rupees fees.
+When you went to get registration or admission.
+When you went to get registration or admission.
+They said that we need five thousand rupees.
+For prospectus.
+You gave five thousand rupees.
+It will not be less than one lakh.
+It is different amount.
+Is it clear?
+Yes sir.
+Because of this.
+If we need a head.
+Whose amount is less.
+It means that you gave a token money.
+Suppose I have one lakh rupees fees.
+I am getting admission now.
+My registration that you have to take.
+Or you have to take my prospectus.
+It will be different.
+But I have an extra amount.
+Which will be adjusted in my fees.
+So what we do.
+Suppose we have a head.
+Direct token money.
+It is directly selected.
+We don't make it.
+You saved it.
+It is a token money head.
+Is it clear?
+Now what we will do.
+Now we have to take the token money at any stage.
+Usually we take it at the end.
+Suppose we have to take the token money at the end.
+I went to this.
+I added one more head.
+I put it in this.
+Let's make it 10,000 rupees.
+Is it clear?
+It is clear.
+I made it safe.
+Now what will happen.
+When I collect its fees.
+At this particular end.
+I went to the data requested.
+I collected 0 on the first one.
+I collected 1100 on the first one.
+Now the point is.
+Now I have 11,100 rupees.
+Why?
+Because our 1100 rupees.
+We have already added it.
+As a visit fee.
+And we added another 10,000 rupees.
+As a token money.
+Combined what did it make?
+Combined what did it make?
+11,100 rupees.
+It has been adjusted.
+It has not been adjusted.
+Now we will collect it.
+We have collected 11,100 rupees from it.
+We have collected 11,100 rupees from it.
+Now this money.
+It has gone in two things.
+It has gone in the visit fee.
+And in the token money.
+Now what is the point.
+You gave the money 11,100.
+But when the child's admission is approved.
+So from its amount.
+Assume that it has a fee of 1 lakh rupees.
+So the system will automatically adjust 10,000 rupees.
+Do you understand?
+Let me show you one thing.
+Let's make its fee structure.
+Let's make its fee structure.
+I have added 1 lakh rupees.
+1 lakh rupees is its tuition fee.
+I have added it.
+Now basically what will happen.
+When I approve this child.
+When I approve this child.
+When I approve this child.
+Approve.
+Whatever number you want to give.
+Give the number to that child.
+I have put the test for now.
+Click on save.
+Now the child is being approved.
+Now we are adding it to the student list.
+Now we are adding it to the student list.
+Basically what happens.
+You don't add the student manually.
+You already have the data.
+So you are transferring it from one module to another.
+My child has been added here.
+Now let me show you one thing.
+When you go to the student list.
+And search for the test student.
+When you go to its fee.
+When you go to its fee.
+When you go to the student list.
+We have added 1 lakh rupees fee.
+Total fee is 1 lakh rupees.
+Total fee is 1 lakh rupees.
+Yes or no?
+Yes sir.
+How much should be its payable?
+1 lakh rupees should be its payable.
+But what did it do.
+It gave 10,000 rupees as a token.
+So when we approved the child.
+And added it to the student list.
+The system reduced its 10,000 rupees.
+From its net balance.
+So now you have to pay it only 90,000.
+So now you have to pay it only 90,000.
+Are things getting clear?
+Is the difference between token money and that getting clear?
+Yes sir. It is clear.
+So this is how it is understood.
+The token money that you have.
+It will always be adjusted in its fees.
+The rest of your heads.
+They get collected directly.
+They don't have anything.
+That they go somewhere and get adjusted in your fees.
+Is that ok guys?
+Yes sir.
+Perfect. Now tell me.
+Is there any doubt in this?
+Where did the head get added?
+Why do we have to set the receipt counter of the transaction?
+Why do we have to set the receipt counter of the transaction?
+After that in stage setup.
+What is the meaning of editable?
+What is the meaning of save zero transaction in editable?
+What is the meaning of save zero transaction in editable?
+Is this thing clear?
+Yes sir. It is clear.
+Yes sir.
+I am still repeating things.
+Basically what happens is
+when you take admission
+you have to pay some amount.
+To pay the amount you have to have a head as well.
+Like when you pay the fee
+you have tuition fee, uniform fee,
+examination fee.
+At the time of admission you have
+registration fee, prospectus fee.
+These are different heads.
+So here we make heads in our admission setup.
+In admission heads.
+In that also we have token money.
+In that also we have token money.
+We don't have to add token money separately.
+And this is not editable.
+From here it is removed and from here it is removed.
+Then comes the receipt counter.
+Now when your transactions will continue
+then you will need some kind of
+counter here.
+7, 8, 5, 2, 3, 1, whatever you need.
+It needs a number.
+If you have a receipt then it needs a number.
+So here we set the number
+in transaction receipt setup.
+Is it clear?
+Guys?
+After that what happens is
+we go to our stage setup
+and at the stage in which I have to collect
+at the amount in which I have to collect
+I go to the stage and set it.
+Suppose I need something at the first stage
+I need another head at the second stage
+I need another head at the third stage
+I need multiple heads at the same stage
+so that is also possible.
+Like we did in this, data required
+in this one.
+If I show you in the registration one
+I did it here.
+Transaction, after coming to the transaction
+I have set two heads together.
+For different courses we can do it separately.
+Like in this course we are only taking the visit fee
+in this course we are taking both.
+So what will the system do?
+As soon as the child is approved after collecting the payment
+your token money will be adjusted
+rest of the fees will only be visible to you
+that this child had paid the fee.
+Is it clear guys?
+Yes.
+Good.
+This was all about here
+transaction and token money.

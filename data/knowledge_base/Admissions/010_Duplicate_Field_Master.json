@@ -1,0 +1,45 @@
+{
+    "module": "Admissions",
+    "topic": "Duplicate Field Master",
+    "summary": "Explains how to configure the system to detect and alert users about duplicate leads based on specific fields, most commonly the phone number, to prevent redundant entries.",
+    "navigation": [
+        "Admission Setup",
+        "Duplicate Field Master"
+    ],
+    "steps": [
+        "Navigate to Admission Setup > Duplicate Field Master.",
+        "Select the field(s) (e.g., 'Phone Number') on which the system should check for duplicate values.",
+        "Save the configuration."
+    ],
+    "business_rules": [
+        "If a new lead is entered with a value in the selected field that already exists in the system, a pop-up alert will be displayed indicating the lead already exists."
+    ],
+    "important_notes": [
+        "The phone number is the most frequently used field for duplicate detection.",
+        "This feature helps maintain data integrity and prevents multiple entries for the same contact."
+    ],
+    "questions": [
+        "How do I configure the system to detect duplicate admission leads?",
+        "Which fields can be used for duplicate lead detection?",
+        "What happens when the system identifies a duplicate lead entry?",
+        "Why is duplicate field master important for lead management?"
+    ],
+    "keywords": [
+        "Duplicate field master",
+        "duplicate lead detection",
+        "phone number",
+        "lead existing",
+        "pop-up alert",
+        "data integrity",
+        "admission setup"
+    ],
+    "related_topics": [
+        "Admission Tags Configuration"
+    ],
+    "id": "admissions_duplicate_field_master",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

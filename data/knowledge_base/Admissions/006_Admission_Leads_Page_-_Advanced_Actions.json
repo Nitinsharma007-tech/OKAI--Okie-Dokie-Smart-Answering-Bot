@@ -1,0 +1,53 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page - Advanced Actions",
+    "summary": "Details advanced actions available on the Admission Leads page, including directly adding follow-ups, recording campus visits, adding notes, making calls (with IVR integration), checking student timelines, and using the 'Open WhatsApp' feature for direct communication.",
+    "navigation": [
+        "Leads Page"
+    ],
+    "steps": [
+        "From the Leads Page, select a lead.",
+        "Add follow-ups directly by selecting date, time, and remark.",
+        "Add a visit to record campus visits, specifying date and notes.",
+        "Add a note to record specific discussions or information about the student.",
+        "Make calls directly (requires IVR integration).",
+        "Check the student's timeline to view all historical activities (creation, emails, etc.).",
+        "Click 'Open WhatsApp' to directly open WhatsApp Web with the student's number pre-filled for communication."
+    ],
+    "business_rules": [
+        "IVR integration is required for the 'Make Calls' functionality.",
+        "The 'Open WhatsApp' feature automatically populates the student's contact number."
+    ],
+    "important_notes": [
+        "The 'Open WhatsApp' feature streamlines communication by eliminating manual number entry.",
+        "The timeline provides a comprehensive history of all interactions with a lead."
+    ],
+    "questions": [
+        "How do I record a campus visit for an admission lead?",
+        "What is the purpose of the 'Timeline' feature on the Admission Leads page?",
+        "How does the 'Open WhatsApp' feature facilitate communication with students?",
+        "What are the requirements for making direct calls from the Admission Leads page?",
+        "Can I add specific notes about a student's conversation on the leads page?"
+    ],
+    "keywords": [
+        "Add follow-up",
+        "add visit",
+        "add note",
+        "make calls",
+        "IVR integration",
+        "student timeline",
+        "open WhatsApp",
+        "direct communication",
+        "lead management actions"
+    ],
+    "related_topics": [
+        "Admission Follow-up Page",
+        "Admission Leads Log Page (IVR Integration)"
+    ],
+    "id": "admissions_admission_leads_page_advanced_actions",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-07 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

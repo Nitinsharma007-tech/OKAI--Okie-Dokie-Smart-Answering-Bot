@@ -1,0 +1,61 @@
+{
+    "module": "HRM",
+    "topic": "Viewing and Editing Processed Salary (Salary Summary Month Wise)",
+    "summary": "After salaries are processed, this module allows you to view a summary of all processed salaries for a given month and make specific, one-time adjustments to individual employee salaries.",
+    "navigation": [
+        "HRM",
+        "Salary Summary Month Wise"
+    ],
+    "steps": [
+        "Navigate to 'Salary Summary Month Wise'.",
+        "Select the 'Year' and 'Month' for which you want to view salaries.",
+        "Click 'Go' (leaving employee selection blank will show all employees for the month).",
+        "Review the list displaying employee IDs, names, departments, designations, payable days, gross salary, deduction amount, and paid salary.",
+        "To make changes to a specific employee's salary, click the 'View' option corresponding to that employee.",
+        "The complete salary structure for that employee and month will open.",
+        "To add a deduction (e.g., 'Advance Recovery'): Locate the 'Advance Recovery' head (or add it if not present) and enter the 'Amount' (e.g., 11,000). The system will automatically recalculate gross, deduction, and paid salary.",
+        "To change an existing earning or deduction amount (e.g., 'Basic'): Edit the amount directly in the respective field.",
+        "Enter 'Remarks' explaining the changes made (e.g., 'Advance recovery added'). This step is mandatory for saving changes.",
+        "Click 'Save'. A pop-up will confirm that the changes have been saved.",
+        "You can view the employee's salary again to confirm the changes."
+    ],
+    "business_rules": [
+        "Changes made in 'Salary Summary Month Wise' are specific to the selected month's salary and do not alter the employee's assigned contract (salary template) for future months.",
+        "Entering 'Remarks' is mandatory when saving any changes to a processed salary."
+    ],
+    "important_notes": [
+        "This is the primary place for making month-specific adjustments like deducting advances, fines, or adding one-time bonuses.",
+        "If a required earning or deduction head is not available, it must first be created in 'Payroll Master' under 'HRM Setup'."
+    ],
+    "questions": [
+        "How do I view the processed salaries for a specific month?",
+        "Can I make changes to an employee's salary after it has been processed?",
+        "How do I deduct an advance from an employee's monthly salary?",
+        "Where can I add a one-time deduction or earning to a salary?",
+        "Why do I need to enter remarks when saving salary changes?",
+        "How do I adjust an employee's basic salary for a specific month?"
+    ],
+    "keywords": [
+        "Salary summary",
+        "View salary",
+        "Edit salary",
+        "Adjust salary",
+        "Advance recovery",
+        "Monthly deduction",
+        "Salary changes",
+        "HRM salary report",
+        "One-time deduction",
+        "Salary slip adjustment"
+    ],
+    "related_topics": [
+        "Processing Monthly Salary (Computer Attendance)",
+        "Assigning Salary Template (Contract) to an Employee",
+        "Managing Earning and Deduction Heads"
+    ],
+    "id": "hrm_viewing_and_editing_processed_salary_salary_summary_month_wise",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

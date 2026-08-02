@@ -1,0 +1,339 @@
+I have a GPS ID and ID key I will provide you with their details like their API URL etc.
+Bhavya, can you tell us a little bit about AuthConfig?
+AuthConfig is basically an API of some vendors for which we need to call their tokens.
+If we want to call their API.
+So what is AuthConfig basically?
+Suppose we have a login API from which we call their tokens.
+Then we use that token to call their next API.
+So AuthConfig is basically the same as if we want to call their API from the token itself.
+And if we want to set up an API then what do we have to do in AuthConfig?
+I will tell you about that.
+If we have only one client then we will change the ID of that client.
+For that we will set up AuthConfig.
+For the other two, we are taking that as our priority.
+Because we have only one client in which we have AuthConfig.
+The other two don't have AuthConfig.
+AuthConfig is something like this.
+Some APIs are open to us.
+And some APIs are the ones that we have to login first.
+So we have the API from the vendor's side.
+As soon as we run that API, we have tracked it.
+The other thing is that we have run that API to the URL.
+So we have to log in there.
+That means some token will be added.
+Token means login.
+We will be able to test everything on that behalf.
+So that is AuthConfig.
+We have only one client in which we have AuthConfig.
+We will discuss that later.
+Before that, I will tell you about the other one.
+Okay?
+Okay, sir.
+So before track confirmation, we have the API URL.
+I have made some documents for all the clients.
+So if we are looking at Springdale,
+the API URL starts from here.
+From HTTP.
+This is a question mark.
+These are our query patterns.
+So all the parts before this are the API URL.
+The starting part.
+Okay?
+So we will copy this and put it here.
+In the API URL.
+After this, we have methods.
+There are three types of methods.
+Get, Post, and Post.
+If we send query patterns in the API.
+If we attach something after the question mark.
+We call this query pattern.
+And if we send it in an object.
+Like this.
+Like this.
+We send it in an object.
+We call this type of post request.
+Okay.
+Did you understand that much?
+Yes.
+Okay.
+So for Springdale, we will call the get method.
+I have written the method to get and post.
+Okay.
+So we will call the get method.
+And then we have the query parameters.
+We attach the token in this.
+Or the extra values that we have to pass to call this.
+We add those in this.
+In this case, we have the token.
+So we get the token.
+And the value is also written in front of this.
+Is equal to what?
+This is the whole stream.
+We have to copy and paste it here.
+So we have to paste this after equal to?
+Yes.
+Token is equal to this.
+From here to the end.
+So every time we have to call the get method.
+What are you doing?
+Every time when we will hit the API,
+we will have to call the get method.
+Basically, what we are setting up,
+we call the API on the backend.
+We have to set up this setup once.
+When we use this in our app,
+we will call their other API,
+which is our own API.
+When we call that,
+our backend automatically calls on the base of the config
+on the base of the API.
+Then we have headers.
+Headers are basically what our response will be.
+What format should it be in.
+We can also fill this from here.
+So here we will input accept.
+And its value will be application slash json.
+So that the response will be in json format.
+Okay.
+Now we have a bus.
+One second.
+Let me see the ID.
+Is their API running?
+Hello?
+Yes.
+Is their springdance API running?
+It is running.
+I can't hit their API.
+You can directly check the API.
+Postman?
+No, it didn't work.
+It might be an issue.
+No, it's running.
+Live location is unavailable.
+Live location is unavailable.
+It might be an issue.
+Okay.
+Entity change.
+Okay.
+Tinku, you understood the API.
+Tinku, you understood the API.
+Yes, sir.
+I understood even the headers.
+I understood even the headers.
+Okay.
+So in track config, we just have to put the API URL.
+We have to set its method.
+Which we have given.
+And Tinku.
+Okay.
+So in track config, we just have to put the API URL.
+We have to set its method.
+We have to set the method.
+After that, we have to add the query parameters.
+We have to add the query parameters.
+Hedges are acceptable.
+Okay.
+In request body?
+Request body is useful when we do the request post.
+For example...
+For example...
+Let's see what I have.
+This is
+this is
+this is
+this is
+this is
+this is
+this like
+any.
+You.
+I don't know if it's a vehicle, vehicle ID, I can't check it there, I have to see that only.
+And this issue is coming from the check case side, from this side or from the other side?
+We will have to see, it's a front end plug, what should we do with this setup?
+There is an issue from the front end, I mean, cold service is coming, so yes.
+So will you also put this there? Put it in the same task once.
+Put it in the main task or in case?
+Put it in the main task.
+Yes.
+I will come back to the setup in a minute, normally the response postman is coming.
+Is the screen visible?
+You understood so much, right?
+First we will get the URL on A, we have to check the method, we will add the query patterns, whatever will be in the token.
+And we will add the accept application recently in headers.
+And if our method is posted in any of these, we will add the body in it, the key value is added in the object.
+Now next we have two keys, one is GPS ID location and one is GPS ID key.
+Now in the document that I have made, I have mentioned that matching key is equal to vehicle number.
+So we have to copy the key mentioned here and add it here in the GPS ID key.
+Okay, once again on the back of the key.
+Okay.
+Just in matching key, the key that we will pass our ID, basically we will pass our ID in this key and the back end will match it with this key.
+Okay.
+And this is what we send in the query parameter.
+Okay, so this is what we will set up in the track config.
+Then we have the response config.
+This is basically the response of our vendor.
+We set it up here.
+What will be the path of the list?
+If we talk about this, you can see that we have a list in the data.
+Yes.
+That is why we have written data.list here.
+That is how we access the arrays from the dot operator.
+Okay.
+Okay, so data.list will tell us that our data will come from the vendor's API.
+It will come in this.
+It will come in the list array.
+Okay.
+Then we have the match key.
+The key that comes in this, unique key, that every vehicle has its own key.
+So the key we pass and the response that comes, if we do a comparison, then what key will we match the produce to?
+So the name of the key is vehicle number.
+So we can replace it in match key.
+Then we have latitude, longitude and speed keeping.
+Basically, we copy the keys of latitude, longitude and speed and insert them there.
+Just add the keys here.
+That's all the setup we have here.
+Is there any issue in this?
+It's clear.
+Can you tell me about the matching key?
+The previous track config has GPS ID.
+Shouldn't it be the same?
+Yes, it should be the same.
+No, it's not the same.
+The document I'm going to give you has a matching key in it.
+The matching key can be different.
+We have to put the matching key on the track.
+And we have to match it with the response key.
+Yes, we have to match it with the response key.
+We have to put the GPS ID of each vehicle.
+We have to put the GPS ID of each vehicle.
+We have vehicles in transport.
+We have vehicles in transport.
+If we want to configure this vehicle, then we have to search for it in the response.
+For example, there must be a vehicle.
+That's why it's white.
+We have to set up the matching key and vehicle number.
+We have to set up the matching key and vehicle number.
+We have to set up the matching key and vehicle number.
+It's safe in GPS ID.
+Then it will run our app.
+It will take the data from the app.
+Can you repeat the last one?
+If we want to run the setup, then we have to set up the vehicle number.
+Yes.
+Every vendor's app gives a unique code to each vehicle.
+It will be unique for each vehicle.
+If we talk about this vehicle, then its code is V2954.
+Whenever we call on our app, we will call on this value.
+Because then it will be able to match.
+Our back-end will also be able to check with this response.
+Our main comparison will be on this key.
+We have to take its value from here.
+When we come to this page, it's V2954.
+We will search for the vehicle.
+When we view this, we have GPS ID.
+We have to save that value here.
+If we don't save it, it won't run on our app.
+It will give an error that GPS ID is configured in it.
+We will save this.
+Now if we come to our app.
+Here we have the track wall bus option.
+And if we go to V2954.
+When we click on this, our vehicle's app goes to our app.
+Our app goes to our app.
+In this, we are sending GPS ID.
+The one we had set up in our vehicle.
+We will pass it here.
+In the back-end, it will run the track that we have configured.
+With this GPS ID key.
+The response will be of this vehicle.
+And the latitude and longitude will be rendered to the bus.
+So this is how much it's set up.
+Now if we look at 5861.
+We don't have GPS ID.
+We haven't set it up.
+Here we get an error that GPS ID is not found.
+Please contact us.
+Now tell us if there are any doubts in the whole setup.
+Yes.
+You just told us that we will find it in the documents.
+Like matching.
+Where will we get the response from?
+We will provide that too.
+No.
+Right now, the response will not come to the portal.
+There will be an error there.
+So should we try the postman first?
+Yes.
+So in this case, how can we hit the postman normally?
+Okay.
+Just in case, I am asking.
+After hitting the postman, I can find out what data to put in.
+But the thing is, can you tell us where the show is on the front end?
+So that when it gets updated, we can do it from there.
+So where will the response come on the front end?
+Yes.
+Here is the track config.
+Here it is written test connection.
+Okay.
+If you click on this, it runs on A.
+Now we have the address here.
+Yes.
+But the response will come to us here.
+The postman should come here too.
+Okay.
+Yes.
+That was it.
+Ayush?
+Yes, sir.
+Yes, I showed the PITE one.
+But the response is not coming here.
+Okay.
+Where should we set up the GPSID?
+Like we showed it on the web portal.
+I showed it on the web portal.
+Where should we put the GPSID?
+Yes, show it on the transport page.
+Priya, is it clear to you?
+Yes, everything is clear.
+Okay.
+So we have to complete this setup.
+Till 4 p.m. today.
+Okay, sir.
+Priya, the ending.
+Okay.
+So the entities...
+Babay, please share it.
+Okay.
+I will add the entities in your ID.
+Okay.
+It has to be set up on QA, Priya.
+QA?
+Yes.
+What are you saying, Priya?
+Everything on QA?
+Yes, everything has to be set up on QA.
+But now you will only add two buses.
+There are more buses.
+You will only add two buses.
+After that, we will do the same setup on production.
+Once everything is done here.
+Okay, sir.
+Okay.
+So we have to complete all four.
+Babay, please send me the list.
+I will add it in their ID.
+And I will send the data to them.
+I will send the list.
+Because it is easy to read.
+Yes.
+Okay.
+Tinku, please tell us how to do the easy art.
+Sir, it is the same easy art.
+I wanted to ask you something.
+Like what you just said that we have to do the setup.
+Two buses.
+So we have to do only two buses?
+Or after two, we have to do another Q2 in the next entity?
+We have to do two buses for every entity.
+For every entity.
+Okay, sir.

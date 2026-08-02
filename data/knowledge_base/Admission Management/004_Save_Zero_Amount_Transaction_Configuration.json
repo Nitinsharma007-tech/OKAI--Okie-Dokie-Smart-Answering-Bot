@@ -1,0 +1,50 @@
+{
+    "module": "Admission Management",
+    "topic": "Save Zero Amount Transaction Configuration",
+    "summary": "Controls whether the system allows users to save a transaction with a zero amount. This feature is useful for scenarios where certain students might be exempt from a particular fee, allowing the transaction to be recorded without an actual monetary collection.",
+    "navigation": [
+        "Settings",
+        "Stage Setup",
+        "[Select Stage]",
+        "Transactions"
+    ],
+    "steps": [
+        "Navigate to 'Settings' > 'Stage Setup'.",
+        "Select and 'View' the desired admission stage.",
+        "Go to the 'Transactions' tab.",
+        "Locate the 'Save Zero Amount Transaction' toggle.",
+        "Toggle 'Save Zero Amount Transaction' ON to allow saving transactions with a zero amount.",
+        "Toggle 'Save Zero Amount Transaction' OFF (default) to prevent saving transactions with a zero amount, requiring a valid positive amount."
+    ],
+    "business_rules": [
+        "If 'Save Zero Amount Transaction' is OFF, attempting to save a zero amount will result in an error message: 'Amount can't be zero. Please enter a valid amount to proceed.'",
+        "If 'Save Zero Amount Transaction' is ON, users can bypass a fee by entering '0' as the amount and saving the transaction."
+    ],
+    "important_notes": [
+        "This setting is typically used when a fee head is mandatory for a stage, but specific students might be exempt from paying that fee. It allows recording the transaction without actual payment, rather than removing the head entirely.",
+        "Ensure 'Editable' is also enabled if you intend to allow users to manually enter '0'."
+    ],
+    "questions": [
+        "How can I allow a student to bypass a registration fee without removing the head?",
+        "What is the purpose of 'Save Zero Amount Transaction'?",
+        "Why am I unable to save a zero amount for an admission fee?",
+        "How do I configure the system to accept zero amount payments?"
+    ],
+    "keywords": [
+        "Zero amount transaction",
+        "Bypass fee",
+        "Fee exemption",
+        "Amount validation",
+        "Save zero amount"
+    ],
+    "related_topics": [
+        "Stage-wise Transaction Configuration",
+        "Admission Heads Configuration"
+    ],
+    "id": "admission_management_save_zero_amount_transaction_configuration",
+    "source": {
+        "file": "6. syb-fmmz-jmq (2026-07-03 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "video_name": "20. suk-hmee-t od - 20260618 1736 IST \u2013 Recording",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 132.2,
+    "created_at": "2026-08-02T13:31:11.098720"
+}

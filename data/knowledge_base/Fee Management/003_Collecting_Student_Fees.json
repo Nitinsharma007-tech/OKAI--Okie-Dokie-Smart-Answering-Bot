@@ -1,41 +1,65 @@
 {
     "module": "Fee Management",
     "topic": "Collecting Student Fees",
-    "summary": "Fees can be collected through the 'Collect Fee' option, which is often available as a quick link. There are multiple ways to initiate fee collection: directly from 'Collect Fee' or 'Collect Fee Online'. The system allows searching for students using various criteria such as name, registration number, father's name, or phone number. Once a student is selected, their personal details and fee demand are displayed for verification before proceeding with collection.",
+    "summary": "This topic details the comprehensive process of collecting fees from students, including searching for students, viewing their fee demands, applying concessions, selecting installments, and processing various payment modes.",
     "navigation": [
-        "Dashboard > Quick Links > Collect Fee",
-        "Dashboard > Collect Fee",
-        "Dashboard > Collect Fee Online"
+        "Collect Fee (Top Menu)",
+        "Collect Fee (Online Option)",
+        "Student Profile > Collect Fee"
     ],
     "steps": [
-        "Access the 'Collect Fee' or 'Collect Fee Online' option.",
+        "Navigate to the 'Collect Fee' option from the top menu or within a student's profile.",
         "Search for the student using their name, registration number, father's name, or phone number.",
         "Verify the student's details displayed on the interface.",
-        "Click on the student's record to open the fee collection section."
+        "Click on the student's record to open the fee collection section.",
+        "Review the student's personal details and their current fee demand.",
+        "If applicable, click the 'Concession' option to apply a fee concession (see 'Applying and Managing Student Concessions' topic).",
+        "Select the desired installments for payment (default is the first, but you can select all or specific ones).",
+        "Optionally, manually enter a partial amount if the student is not paying the full installment. The system will allocate this amount based on the predefined fee head sequence.",
+        "Proceed to the payment section.",
+        "Select the payment mode: 'Cash', 'Cheque', or 'Online'.",
+        "If 'Cash' or 'Cheque' is selected, enter the reference number, payment date, and any optional remarks.",
+        "If 'Online' is selected, the system will redirect to the integrated payment gateway (e.g., Razorpay).",
+        "Confirm the fee collection.",
+        "A fee receipt will be generated upon successful collection."
     ],
-    "business_rules": [],
+    "business_rules": [
+        "Fee collection options are permission-based.",
+        "Partial payments are allocated based on a predefined fee head sequence (e.g., Security first, then Tuition Fee, etc.).",
+        "Concession groups must be pre-configured in the system to be applied."
+    ],
     "important_notes": [
-        "Multiple options are available for fee collection.",
-        "Student details must be verified before proceeding."
+        "There are multiple entry points for fee collection, including a dedicated 'Collect Fee' option and an 'Online Fee' option.",
+        "The ERP is integrated with payment gateways like Razorpay for online transactions.",
+        "The fee receipt format is customizable to suit office requirements."
     ],
     "questions": [
-        "How do I collect fees from a student?",
-        "What are the different ways to search for a student to collect fees?",
-        "Can I collect fees online through the ERP?",
-        "What information is displayed when I select a student for fee collection?"
+        "How do I collect fees from a student using the ERP?",
+        "What are the different ways to search for a student for fee collection?",
+        "Can I collect a partial fee amount from a student?",
+        "How do I apply a concession during the fee collection process?",
+        "What payment methods are supported for fee collection?",
+        "Where can I find a student's fee demand details?",
+        "How does the system handle online fee payments?"
     ],
     "keywords": [
-        "collect fee",
-        "fee collection",
+        "Collect fee",
         "student search",
-        "registration number",
         "fee demand",
-        "online fee collection"
+        "installments",
+        "partial payment",
+        "payment mode",
+        "cash payment",
+        "cheque payment",
+        "online payment",
+        "fee receipt",
+        "Razorpay integration"
     ],
     "related_topics": [
-        "Fee Concession",
-        "Fee Installments",
-        "Payment Modes"
+        "Concession Management",
+        "Fee Head Sequence Configuration",
+        "Fine Configuration and Calculation",
+        "Fee Receipt Customization"
     ],
     "id": "fee_management_collecting_student_fees",
     "source": {

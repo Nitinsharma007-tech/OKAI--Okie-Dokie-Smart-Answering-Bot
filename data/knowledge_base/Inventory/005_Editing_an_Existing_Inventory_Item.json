@@ -1,7 +1,7 @@
 {
     "module": "Inventory",
     "topic": "Editing an Existing Inventory Item",
-    "summary": "This process describes how to modify the details of an item that has already been created and saved in the inventory system.",
+    "summary": "This topic describes how to modify the details of an existing inventory item within the system. Users can either directly select an item for editing or use a search function to locate it.",
     "navigation": [
         "Inventory",
         "Masters",
@@ -9,32 +9,31 @@
         "Edit"
     ],
     "steps": [
-        "Navigate to the 'Items' section.",
-        "Click 'Edit' for the desired existing item, or use the search function to locate the item.",
+        "Navigate to the Item Masters section.",
+        "Click 'Edit' for the desired existing item.",
+        "Alternatively, use the search function to find the item and then click 'Edit'.",
         "Modify the necessary fields (e.g., item name, item group, unit).",
         "Save the changes."
     ],
     "business_rules": [],
     "important_notes": [
-        "The search function can be used to efficiently locate specific items for editing."
+        "Ensure all modifications are accurate before saving to maintain data integrity."
     ],
     "questions": [
-        "How do I modify an existing item's details?",
-        "Where can I find the option to edit inventory items?",
+        "How do I modify the details of an existing inventory item?",
         "Can I search for an item before editing it?",
-        "What happens if I edit an item that is already in use?"
+        "What fields can be updated for an existing item?"
     ],
     "keywords": [
         "Edit item",
         "modify item",
-        "update item",
+        "update inventory",
         "existing item",
-        "search item",
-        "item master update"
+        "item details change"
     ],
     "related_topics": [
-        "Creating an Item",
-        "Inventory Masters - Items"
+        "Creating a New Inventory Item",
+        "Inventory Item Masters"
     ],
     "id": "inventory_editing_an_existing_inventory_item",
     "source": {

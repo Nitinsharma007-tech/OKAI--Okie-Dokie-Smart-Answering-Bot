@@ -1,0 +1,65 @@
+{
+    "module": "Admission Management",
+    "topic": "Mapping Admission Heads to Stages and Transaction Configuration",
+    "summary": "This topic explains how to associate specific admission fee heads with different stages of the admission process and configure transaction collection rules, including whether the amount is editable and if zero-amount transactions are allowed.",
+    "navigation": [
+        "Stage Setup",
+        "View Stage",
+        "Transactions Tab",
+        "Add Transaction Mapping"
+    ],
+    "steps": [
+        "Navigate to 'Stage Setup'.",
+        "Select and 'View' the specific admission stage where you want to collect fees (e.g., 'Lead Stage', 'Data Requested Stage').",
+        "Go to the 'Transactions' tab within the stage details.",
+        "Ensure 'Transaction Required' is enabled for the stage.",
+        "Click 'Add Transaction Mapping'.",
+        "Select the 'Course' for which the fee applies.",
+        "Select the 'Head' (e.g., 'Registration Fee', 'Prospectus Fee') from the configured admission heads.",
+        "Enter the default 'Amount' to be collected for that head.",
+        "Configure 'Editable': Check 'Editable' to allow users to modify the amount during collection, or uncheck it to fix the amount, preventing modification.",
+        "Configure 'Save Zero Amount Transaction': Check 'Save Zero Amount Transaction' to allow users to save a transaction with a zero amount, or uncheck it to prevent zero-amount transactions (the system will prompt for a valid amount).",
+        "Use 'Copy Course Head' to apply the same mapping to all other courses, if desired.",
+        "Click 'Update' or 'Save' to apply the changes."
+    ],
+    "business_rules": [
+        "If 'Editable' is enabled, the user can input any amount during collection.",
+        "If 'Editable' is disabled, the user must collect the pre-defined amount.",
+        "If 'Save Zero Amount Transaction' is enabled, a transaction can be saved with a zero amount.",
+        "If 'Save Zero Amount Transaction' is disabled, the system will not allow a zero-amount transaction and will display a warning: 'Amount can't be zero. Please enter a valid amount to proceed.'"
+    ],
+    "important_notes": [
+        "Multiple admission heads can be mapped to a single stage.",
+        "Different courses can have different transaction mappings (heads and amounts) at the same stage.",
+        "The client will specify which heads should be collected at which stage."
+    ],
+    "questions": [
+        "How do I link admission fees to specific stages?",
+        "What is 'Editable' in transaction mapping and how does it work?",
+        "When should I enable 'Save Zero Amount Transaction'?",
+        "Can I collect multiple types of fees at one admission stage?",
+        "How do I configure different fees for different courses at the same stage?"
+    ],
+    "keywords": [
+        "stage setup",
+        "transaction mapping",
+        "admission stage",
+        "editable amount",
+        "fixed amount",
+        "zero amount transaction",
+        "course-specific fees",
+        "fee collection rules",
+        "transaction required"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Token Money Management and Adjustment",
+        "Transaction Receipt Number Setup"
+    ],
+    "id": "admission_management_mapping_admission_heads_to_stages_and_transaction_configuration",
+    "source": {
+        "file": "syb-fmmz-jmq (2026-07-03 17_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

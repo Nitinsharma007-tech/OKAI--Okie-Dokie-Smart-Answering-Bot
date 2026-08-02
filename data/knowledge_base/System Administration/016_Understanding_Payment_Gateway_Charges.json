@@ -1,0 +1,46 @@
+{
+    "module": "System Administration",
+    "topic": "Understanding Payment Gateway Charges",
+    "summary": "This topic addresses the charges associated with using an integrated payment gateway (e.g., Razorpay) for online fee and admission payments, emphasizing the need to understand the rate structure and explore competitive options.",
+    "navigation": [],
+    "steps": [
+        "(Admin) Obtain detailed information from the ERP team regarding the payment gateway charges for various transaction types (e.g., credit card, UPI).",
+        "(Admin) Discuss and compare these charges with other potential payment gateways or the institution's own bank gateway to ensure competitive rates."
+    ],
+    "business_rules": [
+        "Payment gateway charges are typically applied per transaction and can vary based on the payment method used."
+    ],
+    "important_notes": [
+        "The institution aims to ensure competitive payment gateway rates and may consider using its own bank's gateway if external charges are deemed too high.",
+        "The ERP team needs to provide a clear and detailed breakdown of all Razorpay charges.",
+        "Charges are usually minimum and as per bank norms, not a high percentage like 15% or 18%."
+    ],
+    "questions": [
+        "What are the charges for using the integrated payment gateway (Razorpay)?",
+        "Are there different charges for credit card payments versus UPI payments?",
+        "Can our institution use its own bank's payment gateway instead of Razorpay?",
+        "How can we ensure that the payment gateway charges are competitive?",
+        "Can we get a detailed breakdown of all payment gateway charges?"
+    ],
+    "keywords": [
+        "Payment gateway charges",
+        "Razorpay charges",
+        "credit card charges",
+        "UPI charges",
+        "transaction fees",
+        "competitive rates",
+        "bank gateway",
+        "payment processing fees"
+    ],
+    "related_topics": [
+        "Admission Form and Payment Integration",
+        "Managing Fee Payment Modes",
+        "Email Notifications for Payments"
+    ],
+    "id": "system_administration_understanding_payment_gateway_charges",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

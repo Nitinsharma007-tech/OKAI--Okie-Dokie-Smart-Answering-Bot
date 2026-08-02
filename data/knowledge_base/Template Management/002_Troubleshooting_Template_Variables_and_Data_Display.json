@@ -1,0 +1,64 @@
+{
+    "module": "Template Management",
+    "topic": "Troubleshooting Template Variables and Data Display",
+    "summary": "This topic provides guidance on how to diagnose and resolve issues where data variables are not correctly displaying or printing on ERP templates, using the browser's developer console to identify correct variable names.",
+    "navigation": [],
+    "steps": [
+        "Generate or print the document where variables are not displaying correctly.",
+        "Right-click on the displayed document (or preview) and select 'Inspect' from the context menu.",
+        "Navigate to the 'Console' tab within the developer tools.",
+        "Locate and expand the 'Object' that contains the data for the document.",
+        "Identify the exact variable name required (e.g., 'Category' instead of 'StudentCategory').",
+        "Copy the correct variable name.",
+        "Edit the template code and replace the incorrect variable with the correct one, ensuring it is prefixed with 'DisplayData.' (e.g., 'DisplayData.Category').",
+        "Reprint or preview the document to verify the fix."
+    ],
+    "business_rules": [
+        "All data variables must be prefixed with 'DisplayData.' in the template code (e.g., 'DisplayData.StudentName').",
+        "The exact spelling and case of the variable name as found in the console object must be used in the template code.",
+        "Variables for institute information include: DisplayData.EntityName, DisplayData.EntityAddress, DisplayData.EntityState, DisplayData.EntityCountry, DisplayData.EntityPinCode.",
+        "Variables for student information include: DisplayData.StudentGender, DisplayData.StudentName, DisplayData.StudentFatherName, DisplayData.StudentMobileNumber, DisplayData.StudentAge, DisplayData.StudentRollNumber, DisplayData.StudentSection, DisplayData.StudentStream.",
+        "Variables for financial information include: DisplayData.TotalDemand, DisplayData.AmountPaid, DisplayData.AmountInWords, DisplayData.AmountDue.",
+        "Other common variables include: DisplayData.PrintedBy, DisplayData.Logo, DisplayData.Session."
+    ],
+    "important_notes": [
+        "For complex reports (e.g., report cards), the console object might be an array containing nested variables, requiring careful navigation to find the correct path.",
+        "Sometimes, objects are nested within arrays (e.g., for columns, positions, fee heads, installments, fee head groups), which requires specific coding to access their values.",
+        "If a variable is not printing, it could be due to a typo in the variable name or an incorrect prefix."
+    ],
+    "questions": [
+        "Why is the student's name not printing on the ID card?",
+        "How can I find the correct variable name for a student's category?",
+        "What does 'DisplayData.' mean in template variables?",
+        "Where can I find a list of all available variables for a template?",
+        "How do I debug a template when data is missing?",
+        "Can I print the school logo and session on a fee receipt?",
+        "My template is showing 'undefined' for a field, how do I fix it?"
+    ],
+    "keywords": [
+        "Template troubleshooting",
+        "variable not printing",
+        "inspect element",
+        "browser console",
+        "DisplayData",
+        "missing data",
+        "template debugging",
+        "ERP variables",
+        "data object",
+        "array variables",
+        "report card variables",
+        "console tab",
+        "correct variable name"
+    ],
+    "related_topics": [
+        "PDF Template Configuration and Management",
+        "Custom Report Design",
+        "Template Code Customization"
+    ],
+    "id": "template_management_troubleshooting_template_variables_and_data_display",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

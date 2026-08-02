@@ -1,0 +1,52 @@
+{
+    "module": "",
+    "topic": "Applying IF Formula for Student Grading",
+    "summary": "This topic demonstrates how to use the IF formula to assign grades to students based on their total marks in multiple subjects. It covers defining student data, calculating total scores, and applying conditional logic for grading.",
+    "navigation": [],
+    "steps": [
+        "Identify student data fields: Student name, Subject 1, Subject 2, Subject 3.",
+        "Calculate the 'Total' marks by summing Subject 1, Subject 2, and Subject 3.",
+        "Apply the IF formula in the 'Grade' field based on the 'Total' marks. Example formula structure: =IF(LogicalTest, ValueIfTrue, ValueIfFalse)."
+    ],
+    "business_rules": [
+        "If the child's total marks are greater than or equal to 90, then assign Grade A.",
+        "If the child's total marks are greater than or equal to 80, then assign Grade B.",
+        "Otherwise, assign Grade Fail.",
+        "For pass/fail criteria: If the child's grade is below 40%, then 30% fail."
+    ],
+    "important_notes": [
+        "The example uses specific numerical thresholds (90, 80) and grade assignments (A, B, Fail). These can be customized.",
+        "Nested IF statements are used to handle multiple conditions for grading."
+    ],
+    "questions": [
+        "How do I use the IF formula to calculate student grades?",
+        "What is the logic for assigning A, B, or Fail grades based on total marks?",
+        "Can I modify the grading criteria in the IF formula?",
+        "How to implement pass/fail logic using the IF function?",
+        "What are the symbols used for 'greater than or equal to' in a formula?"
+    ],
+    "keywords": [
+        "IF formula",
+        "student grading",
+        "conditional logic",
+        "grade calculation",
+        "pass/fail",
+        "total marks",
+        "spreadsheet formulas",
+        "grade percentage"
+    ],
+    "related_topics": [
+        "SUM function for total marks",
+        "VLOOKUP for student data lookup",
+        "CONCATENATE for combining student information",
+        "TRIM for data cleansing",
+        "TRANSPOSE for data reformatting",
+        "COUNTIF for conditional counting"
+    ],
+    "id": "_applying_if_formula_for_student_grading",
+    "source": {
+        "file": "8. Okie Dokie Rahul - 20260708 1630 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

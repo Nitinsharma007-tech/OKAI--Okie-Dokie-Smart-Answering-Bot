@@ -1,0 +1,45 @@
+{
+    "module": "Integration",
+    "topic": "Testing API Configuration",
+    "summary": "The system provides a 'Test Connection' feature within the Track Config screen to verify the API setup. Additionally, Postman can be used for initial API testing to understand the data structure and ensure connectivity.",
+    "navigation": [
+        "Track Config screen",
+        "Test Connection button"
+    ],
+    "steps": [
+        "After completing the Track Config setup, click the 'Test Connection' button on the Track Config screen.",
+        "Observe the response displayed on the screen to verify the API call was successful and data is returned.",
+        "Alternatively, use Postman to directly hit the vendor API to inspect the raw response and confirm the data structure for Response Config setup."
+    ],
+    "business_rules": [
+        "The response from the 'Test Connection' is vital for accurately configuring the 'Response Config' fields."
+    ],
+    "important_notes": [
+        "If the 'Test Connection' fails, it could indicate issues with the API configuration, vendor API availability, or front-end display problems.",
+        "In cases where the in-system test connection is not working, Postman can serve as an external tool to validate the API response."
+    ],
+    "questions": [
+        "How can I test if my API configuration in Track Config is correct?",
+        "Where can I view the API response after performing a test connection?",
+        "What should I do if the 'Test Connection' button is not working or showing a response?",
+        "How can Postman help in setting up API integrations?"
+    ],
+    "keywords": [
+        "Test Connection",
+        "API testing",
+        "Postman",
+        "Track Config",
+        "API response validation",
+        "troubleshooting API"
+    ],
+    "related_topics": [
+        "Track Config - API Details",
+        "Response Config"
+    ],
+    "id": "integration_testing_api_configuration",
+    "source": {
+        "file": "fri-kkag-cxw (2026-06-29 11_30 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

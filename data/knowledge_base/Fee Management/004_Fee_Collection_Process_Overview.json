@@ -1,0 +1,54 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Collection Process Overview",
+    "summary": "This outlines the general steps involved in collecting student fees, from viewing student details and fee demands to applying concessions and selecting payment installments.",
+    "navigation": [
+        "Collect Fee",
+        "Search Student",
+        "Select Student"
+    ],
+    "steps": [
+        "Search for and select the student from whom fees are to be collected.",
+        "The student's fee collection section will open, displaying their personal details and fee demand.",
+        "Review the total fees, any applied concessions, and the final payable amount.",
+        "Select the desired installments for payment (e.g., first installment, all installments, or a custom amount).",
+        "Proceed to the payment section to finalize the collection."
+    ],
+    "business_rules": [
+        "Fee demand is determined by the student's course and academic year.",
+        "Concessions, if applicable, will reduce the payable amount.",
+        "Users can choose to collect specific installments or the total outstanding amount.",
+        "The system automatically selects the current installment based on the due date."
+    ],
+    "important_notes": [
+        "Users have the flexibility to manually enter a custom payment amount if a student is not paying the full installment amount."
+    ],
+    "questions": [
+        "What are the steps to collect fees from a student?",
+        "How can I view a student's total fee demand and payable amount?",
+        "Is it possible to collect a partial fee amount from a student?",
+        "How does the system handle fee installments during collection?",
+        "Where can I see if a student has any concessions applied?"
+    ],
+    "keywords": [
+        "Fee collection",
+        "student fees",
+        "fee demand",
+        "payable amount",
+        "installments",
+        "partial payment",
+        "fee process"
+    ],
+    "related_topics": [
+        "Concession Management",
+        "Fine Configuration and Calculation",
+        "Customizing Fee Head Sequence",
+        "Fee Payment Modes"
+    ],
+    "id": "fee_management_fee_collection_process_overview",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

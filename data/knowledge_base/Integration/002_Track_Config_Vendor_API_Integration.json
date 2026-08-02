@@ -1,0 +1,58 @@
+{
+    "module": "Integration",
+    "topic": "Track Config: Vendor API Integration",
+    "summary": "Track Config defines how the ERP system calls a vendor's tracking API, including the API URL, HTTP method, query parameters, request headers, and the key used to identify the vehicle.",
+    "navigation": [],
+    "steps": [
+        "Identify the full API URL from the vendor's documentation.",
+        "Copy the part of the URL *before* any question marks ('?') into the 'API URL' field.",
+        "Select the appropriate 'Method': 'GET' (for query parameters) or 'POST' (for request body).",
+        "For 'Query Parameters': Add any required tokens or extra values as key-value pairs (e.g., 'token=your_token_value').",
+        "For 'Headers': Add 'Accept' as the key and 'application/json' as the value to ensure JSON response format.",
+        "For 'Request Body' (if Method is POST): Define the data to be sent in an object format (e.g., '{\"vehicleId\": \"V123\"}').",
+        "For 'GPS ID Key': Copy the 'matching key' from the vendor's documentation (e.g., 'vehicle number') and paste it into this field. This key will be used by the backend to pass our internal vehicle ID to the vendor API."
+    ],
+    "business_rules": [
+        "The part of the URL before '?' is considered the base API URL.",
+        "Query patterns are data appended after '?' in a GET request.",
+        "Object-based data transmission is typically a POST request.",
+        "The 'Request Body' is only applicable for 'POST' requests.",
+        "The 'GPS ID Key' is the parameter name that the vendor API expects for the vehicle identifier."
+    ],
+    "important_notes": [
+        "This setup is performed once for each vendor API.",
+        "The backend automatically uses this configuration when the app calls its own API.",
+        "The token value in query parameters is a stream that needs to be copied exactly.",
+        "The 'GPS ID Key' is what *we send* to the vendor API."
+    ],
+    "questions": [
+        "How do I set up the API URL and method in Track Config?",
+        "When should I use GET versus POST methods?",
+        "How do I add query parameters and headers to an API call?",
+        "What is the purpose of the GPS ID Key in Track Config?",
+        "How do I configure the request body for a POST API call?"
+    ],
+    "keywords": [
+        "Track Config",
+        "API URL",
+        "GET method",
+        "POST method",
+        "query parameters",
+        "headers",
+        "request body",
+        "GPS ID Key",
+        "API integration",
+        "Accept header"
+    ],
+    "related_topics": [
+        "AuthConfig Setup",
+        "Response Config: Vendor API Data Extraction",
+        "Testing Track Config Connection"
+    ],
+    "id": "integration_track_config_vendor_api_integration",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

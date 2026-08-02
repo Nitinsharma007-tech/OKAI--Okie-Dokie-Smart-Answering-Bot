@@ -1,0 +1,55 @@
+{
+    "module": "Academics",
+    "topic": "Assigning Subjects to Students",
+    "summary": "This process explains how to assign subjects to students, differentiating between \"General\" subjects (assigned to all students in a class) and \"Optional\" subjects (assigned to specific students).",
+    "navigation": [
+        "Settings",
+        "Academics",
+        "Assigned Subject"
+    ],
+    "steps": [
+        "**For General Subjects (assigned to all students):**",
+        "Ensure the subject is defined as \"General\" in \"Subject Class Mapping\".",
+        "From the subject class mapping interface, select the general subjects.",
+        "Click \"Assign by Default\" (or similar option) to assign them to all students in the class.",
+        "**For Optional Subjects (assigned to specific students):**",
+        "Ensure the subject is defined as \"Optional\" (or Additional/Vocational) in \"Subject Class Mapping\".",
+        "Navigate to the \"Assigned Subject\" option.",
+        "Select the relevant \"Class\".",
+        "A list of students in that class will appear. Select the specific students to whom the optional subject should be assigned.",
+        "Click \"Assigned Subject\" (or similar button).",
+        "Select the \"Optional Subject\" from the list.",
+        "Click \"Add\" to assign the subject only to the selected students."
+    ],
+    "business_rules": [
+        "Subjects marked as \"General\" in mapping can be assigned to all students in a class with a single action.",
+        "Subjects marked as \"Optional\" (or Additional/Vocational) in mapping cannot be assigned to all students by default; they must be assigned individually or to selected groups of students."
+    ],
+    "important_notes": [
+        "If a subject is defined as \"Optional\", using the \"Assign by Default\" option will not assign it to all students."
+    ],
+    "questions": [
+        "How do I assign a general subject to all students in a class?",
+        "What is the process for assigning an optional subject to specific students?",
+        "Can an optional subject be assigned to all students by default?",
+        "Where do I go to assign optional subjects to individual students?"
+    ],
+    "keywords": [
+        "Assign subject",
+        "optional subject assignment",
+        "general subject assignment",
+        "student subject",
+        "bulk assignment",
+        "individual assignment"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Define Subjects"
+    ],
+    "id": "academics_assigning_subjects_to_students",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}
