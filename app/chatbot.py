@@ -2,7 +2,7 @@ from app.semantic_search import SemanticSearch
 from app.context_builder import ContextBuilder
 from app.gemini_agent import GeminiAgent
 from app.cache_manager import CacheManager
-import time
+
 
 class OKAIChatbot:
 
@@ -24,7 +24,7 @@ class OKAIChatbot:
         self.cache = CacheManager(
         embed_fn=self.search.embed_question,
         cache_file="data/cache/qa_cache.json",
-        lookup_threshold=0.83,   # was 0.93 — too strict, missed real paraphrases
+        lookup_threshold=0.83,
         duplicate_threshold=0.98,
     )
 
@@ -39,7 +39,10 @@ class OKAIChatbot:
         print(f"[TIMING] cache.lookup: {time.time()-t0:.2f}s")
 
         if cached:
+            print("✅ CACHE HIT - Returning cached answer")
             return cached["answer"], None, True
+
+        print("❌ CACHE MISS - Calling Semantic Search + Gemini")
 
         t1 = time.time()
         search_results = self.search.search(question, top_k=3)
@@ -48,37 +51,6 @@ class OKAIChatbot:
         t2 = time.time()
         context = self.builder.build(search_results)
         print(f"[TIMING] context build: {time.time()-t2:.2f}s")
-
-        t3 = time.time()
-        answer = self.gemini.generate(prompt)
-        print(f"[TIMING] gemini.generate: {time.time()-t3:.2f}s")
-
-        # --------------------------------------------------
-        # 1. Try Cache First
-        # --------------------------------------------------
-
-        print("\n========== CHECKING CACHE ==========")
-
-        cached = self.cache.lookup(question)
-
-        if cached:
-            print("✅ CACHE HIT - Returning cached answer")
-            return cached["answer"], None, True
-
-        print("❌ CACHE MISS - Calling Semantic Search + Gemini")
-
-        # --------------------------------------------------
-        # 2. Cache Miss -> Semantic Search + Gemini
-        # --------------------------------------------------
-
-        print("\nSearching Knowledge Base...\n")
-
-        search_results = self.search.search(
-            question,
-            top_k=3
-        )
-
-        context = self.builder.build(search_results)
 
         prompt = f"""
     You are OKAI, an intelligent ERP Assistant.
@@ -110,7 +82,9 @@ class OKAIChatbot:
     {context}
     """
 
+        t3 = time.time()
         answer = self.gemini.generate(prompt)
+        print(f"[TIMING] gemini.generate: {time.time()-t3:.2f}s")
 
         # Save only meaningful answers
         if answer:
@@ -126,9 +100,10 @@ class OKAIChatbot:
                 print("\n💾 Saving response to semantic cache...")
 
                 self.cache.add(
-                question,
-                answer,
-                source="dynamic"
-            )
+                    question,
+                    answer,
+                    source="dynamic"
+                )
 
         return answer, search_results, False
+    
