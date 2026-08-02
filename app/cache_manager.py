@@ -128,7 +128,7 @@ class CacheManager:
     # Look Up A Question In The Cache
     # =====================================================
 
-    def lookup(self, question):
+    def lookup(self, question, embedding=None):
         """
         Returns {"question", "answer", "score"} on a cache HIT,
         or None on a MISS (caller should fall back to search + Gemini).
@@ -142,7 +142,8 @@ class CacheManager:
             print("=" * 60)
             return None
 
-        embedding = self.embed_fn(question)
+        embedding = embedding if embedding is not None else self.embed_fn(question)
+
         print("=" * 60)
         print("CACHE LOOKUP")
         print(f"Question : {question}")

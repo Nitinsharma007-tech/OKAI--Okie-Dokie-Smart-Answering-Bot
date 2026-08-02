@@ -34,8 +34,23 @@ class OKAIChatbot:
     # Ask
     # ======================================================
     def ask(self, question):
+
+        # --------------------------------------------------
+        # 0. Embed once, reuse everywhere
+        # --------------------------------------------------
+
+        t_embed = time.time()
+        question_embedding = self.search.embed_question(question)
+        print(f"[TIMING] embed_question: {time.time()-t_embed:.2f}s")
+
+        # --------------------------------------------------
+        # 1. Try Cache First
+        # --------------------------------------------------
+
+        print("\n========== CHECKING CACHE ==========")
+
         t0 = time.time()
-        cached = self.cache.lookup(question)
+        cached = self.cache.lookup(question, embedding=question_embedding)
         print(f"[TIMING] cache.lookup: {time.time()-t0:.2f}s")
 
         if cached:
@@ -44,8 +59,18 @@ class OKAIChatbot:
 
         print("❌ CACHE MISS - Calling Semantic Search + Gemini")
 
+        # --------------------------------------------------
+        # 2. Cache Miss -> Semantic Search + Gemini
+        # --------------------------------------------------
+
+        print("\nSearching Knowledge Base...\n")
+
         t1 = time.time()
-        search_results = self.search.search(question, top_k=3)
+        search_results = self.search.search(
+            question,
+            top_k=3,
+            embedding=question_embedding
+        )
         print(f"[TIMING] search: {time.time()-t1:.2f}s")
 
         t2 = time.time()

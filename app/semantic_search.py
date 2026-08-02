@@ -127,15 +127,7 @@ class SemanticSearch:
     # Semantic Search
     # =====================================================
 
-    def search(
-
-        self,
-
-        question,
-
-        top_k=3
-
-    ):
+    def search(self, question, top_k=3, embedding=None):
 
         print("\n" + "=" * 60)
         print("Semantic Search")
@@ -147,9 +139,7 @@ class SemanticSearch:
         # Question Embedding
         # ----------------------------------------
 
-        question_embedding = self.embed_question(
-            question
-        )
+        question_embedding = embedding if embedding is not None else self.embed_question(question)
 
         # ----------------------------------------
         # FAISS Search
@@ -167,9 +157,7 @@ class SemanticSearch:
         )
 
         best_indices = indices[0]
-
         similarities = scores[0]
-
         results = []
 
         print("Top Matches")
@@ -192,15 +180,11 @@ class SemanticSearch:
             )
 
             results.append({
-
                 "rank": rank,
-
                 "score": round(float(score), 4),
-
                 "topic_data": topic
-
             })
-    
+
         print("-" * 60)
 
         return results
