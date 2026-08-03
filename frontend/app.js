@@ -231,7 +231,7 @@ function showKnowledge(items){
     const topic = items[0];
     viewerTitle.textContent = topic.topic;
     viewerSubtitle.textContent = topic.module;
-    let html = `<div class="doc-card"><h2>${topic.topic}</h2>`;
+    let html = `<div class="doc-card">`;
     if(topic.summary) html += `<h3>Synthesis</h3><p>${topic.summary}</p>`;
     if(topic.navigation && topic.navigation.length) html += `<h3 class="nav-path-heading">System Path</h3>${renderNavigationFlowchart(topic.navigation)}`;
     html += `<button class="ask-ai-btn ripple" id="ask-ai-btn" type="button">✨ Probe neural net for deeper insight</button></div>`;
@@ -525,12 +525,4 @@ searchClearButton.addEventListener("click", ()=>{ searchBox.value = ""; filterKn
         }
     });
 
-    // Single subtle cursor glow only; no magnetic pull or hover sparkle layer.
-    const cursor = document.getElementById("magnet-cursor");
-    if (cursor && window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
-        document.addEventListener("pointermove", (e) => {
-            cursor.style.left = `${e.clientX}px`;
-            cursor.style.top = `${e.clientY}px`;
-        });
-    }
 })();
