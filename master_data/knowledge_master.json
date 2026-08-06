@@ -1,26 +1,30 @@
 {
   "project": "OD ERP Knowledge Base",
   "version": "1.0",
-  "generated_at": "2026-08-06T10:36:47",
-  "total_modules": 21,
-  "total_topics": 231,
+  "generated_at": "2026-08-06T12:11:33",
+  "total_modules": 25,
+  "total_topics": 253,
   "duplicates_removed": 12,
   "modules": [
     {
       "module": "Academics",
-      "topics": 17
+      "topics": 29
     },
     {
       "module": "Admission",
-      "topics": 18
+      "topics": 19
     },
     {
       "module": "Admission Management",
-      "topics": 13
+      "topics": 15
     },
     {
       "module": "Admissions",
-      "topics": 16
+      "topics": 17
+    },
+    {
+      "module": "Alumni",
+      "topics": 2
     },
     {
       "module": "CRM",
@@ -32,7 +36,7 @@
     },
     {
       "module": "Data Management",
-      "topics": 3
+      "topics": 4
     },
     {
       "module": "ERP System",
@@ -45,6 +49,10 @@
     {
       "module": "Fees",
       "topics": 53
+    },
+    {
+      "module": "Frontdesk Management",
+      "topics": 1
     },
     {
       "module": "HRM",
@@ -71,7 +79,15 @@
       "topics": 2
     },
     {
+      "module": "Library Management",
+      "topics": 1
+    },
+    {
       "module": "Procurement",
+      "topics": 1
+    },
+    {
+      "module": "Student App",
       "topics": 1
     },
     {
@@ -12702,6 +12718,1075 @@
       },
       "module_folder": "Fees",
       "json_file": "manual_fees_how_to_collect_fee_online.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Update Student Details",
+      "summary": "This document outlines the procedure to update existing student details within the system, guiding users through navigation, viewing, editing, and saving changes to a student's record.",
+      "navigation": [
+        "Student",
+        "Student List"
+      ],
+      "steps": [
+        "Go to 'Student' on the left-hand side menu.",
+        "Select 'Student List'.",
+        "Locate the desired student and click on 'Action'.",
+        "From the 'Action' menu, select 'View'.",
+        "Click on 'Student Details'.",
+        "Click on 'Edit' to modify any detail of the student.",
+        "Finally, click on 'Save' to apply the changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I change a student's information?",
+        "Where can I find the option to edit student details?",
+        "What is the process to update a student's record?",
+        "How do I save changes after editing student details?",
+        "Can I modify any detail of a student using this process?"
+      ],
+      "keywords": [
+        "student",
+        "update",
+        "edit",
+        "details",
+        "student list",
+        "action",
+        "view",
+        "save",
+        "modify"
+      ],
+      "related_topics": [],
+      "id": "academics_update_student_details",
+      "source": {
+        "file": "1. How to Update Student Details.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_update_student_details.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Issue Admit Cards",
+      "summary": "This document outlines the process for issuing admit cards to students, either in bulk or individually, and how to detain (remove/restrict) previously approved admit cards within the ERP system.",
+      "navigation": [
+        "Left Side Menu",
+        "COE",
+        "Issue Admit Card"
+      ],
+      "steps": [
+        "Go to the Left Side Menu, click on 'COE', and then select 'Issue Admit Card' to open the page.",
+        "Select the required Course, Exam Calendar, and Exam Type from the dropdowns.",
+        "Click on the 'Go' button to filter the student list.",
+        "To issue admit cards in bulk: Select the required students from the list and click on 'Bulk Issue Admit Cards'. Admit cards will be issued for all selected students.",
+        "To issue admit cards manually for a specific student: Click on 'Issue Admit Cards' located in front of the student's record.",
+        "For manual issuance, select the specific subjects for which you want to issue the Admit Card.",
+        "Click on 'Approve Selected' to issue the admit card for the chosen subjects.",
+        "To detain (remove/restrict) an approved admit card: Select the relevant subjects for which the admit card needs to be removed/restricted and click on 'Detain Selected'. This action will remove the Admit Card approval for the selected subjects."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I access the admit card issuance page in the ERP?",
+        "What information is needed to filter students for admit card issuance?",
+        "What is the process for issuing admit cards to multiple students at once?",
+        "How can I issue an admit card for a single student and specific subjects?",
+        "Is it possible to remove or restrict an already issued admit card?",
+        "What does 'Detain Selected' mean in the context of admit cards?"
+      ],
+      "keywords": [
+        "Admit Card",
+        "Issue",
+        "Bulk Issue",
+        "Manual Issue",
+        "Detain",
+        "COE",
+        "Exam",
+        "Student",
+        "ERP"
+      ],
+      "related_topics": [],
+      "id": "academics_issue_admit_cards",
+      "source": {
+        "file": "3. Issue Admit Cards from ERP.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_issue_admit_cards.json"
+    },
+    {
+      "module": "Alumni",
+      "topic": "Add Alumni via Online Form",
+      "summary": "This procedure outlines how individuals can register as alumni by completing an online form, providing their personal, educational, employment, and residential information, and making a required payment.",
+      "navigation": [],
+      "steps": [
+        "Fill in the Personal Information section: Name, upload Alumni photo, Gender, Aadhar Number, and PAN.",
+        "Fill in the Education Details.",
+        "Fill in the Higher Education Details.",
+        "Mention the Present Status and Employment Details, including Employer Name, Designation, and Work Location.",
+        "Fill in the Present Residential Details.",
+        "Indicate whether you want to participate.",
+        "Specify how you would like to be contacted.",
+        "Complete the payment according to the cost mentioned on the form.",
+        "Click on \"Register\"."
+      ],
+      "business_rules": [
+        "Payment is required according to the cost mentioned on the form."
+      ],
+      "important_notes": [],
+      "questions": [
+        "How do I register as an alumni using the online form?",
+        "What personal and educational details are required for online alumni registration?",
+        "How do I provide my employment and residential information on the online form?",
+        "What is the final step to complete the online alumni registration?",
+        "Is payment required for online alumni registration?"
+      ],
+      "keywords": [
+        "Alumni",
+        "Online Registration",
+        "Personal Information",
+        "Education Details",
+        "Employment Details",
+        "Residential Details",
+        "Payment",
+        "Register"
+      ],
+      "related_topics": [
+        "Add Alumni via ERP System"
+      ],
+      "id": "alumni_add_alumni_via_online_form",
+      "source": {
+        "file": "4. How to Add Alumni.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Alumni",
+      "json_file": "manual_alumni_add_alumni_via_online_form.json"
+    },
+    {
+      "module": "Alumni",
+      "topic": "Add Alumni via ERP System",
+      "summary": "This guide details the process for an administrator to manually add new alumni records directly into the ERP system, covering personal, academic, employment, and social media information, with an option to upload files.",
+      "navigation": [
+        "Advanced",
+        "Alumni"
+      ],
+      "steps": [
+        "Go to \"Advanced\" on the Upper Menu.",
+        "Click on \"Alumni\".",
+        "Click on \"New Alumni\".",
+        "Fill in the following details: Personal Details, Academic Details, Employment Information, Work Address, Residential Address, Education Details, Alumni Engagement, Social Media Details, and Any Other Detail.",
+        "Upload any relevant files.",
+        "Click on \"Add\"."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How can an administrator add new alumni in the ERP system?",
+        "What is the navigation path to add alumni records in the ERP?",
+        "Which sections need to be filled when adding alumni via the ERP form?",
+        "Can I upload supporting documents when adding alumni in the ERP?",
+        "Where do I click to save a new alumni record in the ERP?"
+      ],
+      "keywords": [
+        "Alumni Management",
+        "ERP System",
+        "Add Alumni",
+        "New Alumni",
+        "Personal Details",
+        "Academic Details",
+        "Employment Information",
+        "Upload Files",
+        "Administrator"
+      ],
+      "related_topics": [
+        "Add Alumni via Online Form"
+      ],
+      "id": "alumni_add_alumni_via_erp_system",
+      "source": {
+        "file": "4. How to Add Alumni.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Alumni",
+      "json_file": "manual_alumni_add_alumni_via_erp_system.json"
+    },
+    {
+      "module": "Admissions",
+      "topic": "Check Prospectus/Registration Transactions",
+      "summary": "This document outlines the process to view and filter prospectus and registration transactions within the system, allowing users to check application data and transaction details.",
+      "navigation": [
+        "Admission",
+        "Application Data"
+      ],
+      "steps": [
+        "Go to Admission >> Application Data.",
+        "Select the desired Session.",
+        "To filter transactions (optional):",
+        "a. Click on 'Filter'.",
+        "b. Choose the Start Date and End Date.",
+        "c. Select the desired Status.",
+        "d. Click on 'Go'.",
+        "The Registration / Prospectus Transactions will be displayed.",
+        "Click on the 'eye' icon for more details about a specific transaction."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I view prospectus transactions?",
+        "Where can I find registration transaction details?",
+        "How do I filter prospectus/registration transactions by date?",
+        "Can I check the status of a registration transaction?",
+        "What is the navigation path to check application data?",
+        "How do I get more details about a specific transaction?"
+      ],
+      "keywords": [
+        "prospectus",
+        "registration",
+        "transactions",
+        "admission",
+        "application data",
+        "filter",
+        "session",
+        "status"
+      ],
+      "related_topics": [],
+      "id": "admissions_check_prospectus_registration_transactions",
+      "source": {
+        "file": "5. How to Check Prospectus  Registration Transactions.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Admissions",
+      "json_file": "manual_admissions_check_prospectus_registration_transactions.json"
+    },
+    {
+      "module": "Admission Management",
+      "topic": "Collect Registration Fee",
+      "summary": "This document provides a step-by-step guide on how to collect registration fees within the ERP system, covering navigation to application data, viewing admission settings, and processing the payment.",
+      "navigation": [
+        "Admission",
+        "Application Data",
+        "Settings",
+        "View Admission"
+      ],
+      "steps": [
+        "Go to Admission >> Application Data.",
+        "Go to Settings > View Admission.",
+        "Click on \"Pay Amount\".",
+        "Select the Payment Mode.",
+        "Fill in the details according to the payment Mode selected.",
+        "For online fees, click on \"Collect Online Fee\".",
+        "Click on \"Save\"."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I collect registration fees in the system?",
+        "What is the navigation path to collect registration fees?",
+        "Where can I find the 'Pay Amount' option for registration fees?",
+        "What details are required when collecting registration fees?",
+        "How do I process online registration fees?",
+        "What are the final steps to save a registration fee collection?"
+      ],
+      "keywords": [
+        "Registration Fee",
+        "Collect Fee",
+        "Admission",
+        "Application Data",
+        "Payment Mode",
+        "Online Fee",
+        "Pay Amount",
+        "Fee Collection"
+      ],
+      "related_topics": [
+        "Manage Admissions",
+        "Fee Setup",
+        "Process Online Payments"
+      ],
+      "id": "admission_management_collect_registration_fee",
+      "source": {
+        "file": "6. How to Collect Registration Fee.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Admission Management",
+      "json_file": "manual_admission_management_collect_registration_fee.json"
+    },
+    {
+      "module": "Data Management",
+      "topic": "Export Student Data",
+      "summary": "This document outlines the step-by-step process to export student data from the system, allowing users to filter by class or course and download the information in Excel or print format.",
+      "navigation": [
+        "Student",
+        "Export Data"
+      ],
+      "steps": [
+        "Go to 'Student' on the left-hand side menu.",
+        "Click on 'Export Data'.",
+        "Click on 'Student Data'.",
+        "Click on 'Filter'.",
+        "Select single or multiple classes/courses from the available options.",
+        "Click on 'Go'.",
+        "Click on 'Excel' or 'Print' to download the data in your preferred format."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How can I export student information from the system?",
+        "What is the navigation path to export student data?",
+        "Can I filter student data by class or course before exporting?",
+        "What are the available formats for downloading exported student data?",
+        "Where do I click to initiate the student data export process?",
+        "How do I select specific classes for student data export?"
+      ],
+      "keywords": [
+        "Student",
+        "Export",
+        "Data",
+        "Class",
+        "Course",
+        "Filter",
+        "Excel",
+        "Print",
+        "Download"
+      ],
+      "related_topics": [],
+      "id": "data_management_export_student_data",
+      "source": {
+        "file": "7. How to Export student data.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Data Management",
+      "json_file": "manual_data_management_export_student_data.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Edit Subject Combination",
+      "summary": "This document provides step-by-step instructions on how to modify an existing subject combination within the system. It guides users through the navigation path to locate and update subject groupings.",
+      "navigation": [
+        "Settings",
+        "Fee Structure",
+        "Subject Combination"
+      ],
+      "steps": [
+        "Navigate to 'Settings'.",
+        "Click on 'Fee Structure'.",
+        "Click on 'Subject Combination'.",
+        "Click on the 'Edit' button.",
+        "Select the specific Subject Combination you wish to modify.",
+        "Make the required changes to the subject combination.",
+        "Click 'Edit' to save your changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I change subjects in an existing combination?",
+        "What is the menu path to edit subject combinations?",
+        "Where can I find the option to modify subject groups?",
+        "Can I update a subject combination after it has been created?",
+        "What steps are involved in editing a subject combination?"
+      ],
+      "keywords": [
+        "edit",
+        "subject combination",
+        "modify",
+        "academics",
+        "settings",
+        "fee structure",
+        "update",
+        "subjects"
+      ],
+      "related_topics": [],
+      "id": "academics_edit_subject_combination",
+      "source": {
+        "file": "8. How to Edit Subject Combination.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_edit_subject_combination.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Assign Roll Number",
+      "summary": "This document provides a step-by-step guide on how to assign roll numbers to students within the system. It covers the process from navigating to the correct utility to saving the assigned roll numbers.",
+      "navigation": [
+        "Student",
+        "Student Utilities",
+        "Assign Roll No"
+      ],
+      "steps": [
+        "Navigate to Student > Student Utilities > Assign Roll No.",
+        "Select the desired Class from the dropdown and click on 'Go'.",
+        "Click on the 'Edit Roll Number' button.",
+        "Select the students (e.g., by clicking 'Select ALL') and enter the appropriate roll numbers for each student.",
+        "Click on 'Save Roll Number' to finalize and apply the changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I assign roll numbers to students in the ERP system?",
+        "What is the navigation path to the 'Assign Roll No' utility?",
+        "Can I assign roll numbers for a specific class?",
+        "How do I edit or input roll numbers for multiple students?",
+        "What button should I click to save the assigned roll numbers?"
+      ],
+      "keywords": [
+        "Roll Number",
+        "Assign",
+        "Student",
+        "Class",
+        "Student Utilities",
+        "Edit Roll Number",
+        "Save Roll Number",
+        "Academics"
+      ],
+      "related_topics": [],
+      "id": "academics_assign_roll_number",
+      "source": {
+        "file": "9. How to Assign Roll Number.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_assign_roll_number.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Allocate Subject",
+      "summary": "This document provides a step-by-step guide on how to allocate subjects to students within the system, specifying the class and subject type.",
+      "navigation": [
+        "Settings",
+        "Academics",
+        "Allocate Subject"
+      ],
+      "steps": [
+        "Go to Settings > Academics.",
+        "Click on \"Allocate Subject\".",
+        "Select the desired Class.",
+        "Click on \"Go\".",
+        "Select the Subject Type.",
+        "Select the Students and the Subject.",
+        "Click on \"Allocate Subjects\"."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I assign subjects to students?",
+        "What is the process for allocating a subject?",
+        "Where can I find the subject allocation feature?",
+        "Can I allocate subjects to specific classes and subject types?",
+        "What are the steps to allocate subjects to students?",
+        "How do I select students and subjects for allocation?"
+      ],
+      "keywords": [
+        "Allocate Subject",
+        "Subject Allocation",
+        "Academics",
+        "Settings",
+        "Class",
+        "Subject Type",
+        "Students"
+      ],
+      "related_topics": [],
+      "id": "academics_allocate_subject",
+      "source": {
+        "file": "How to Allocate Subject.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_allocate_subject.json"
+    },
+    {
+      "module": "Admission Management",
+      "topic": "Assign Counsellor and Tag to Admission Applications",
+      "summary": "This document outlines the process to assign a counsellor and a tag to admission applications within the system. This helps in organizing and managing applicant data by categorizing and assigning responsibility.",
+      "navigation": [
+        "Admission",
+        "Application Data",
+        "Settings",
+        "View Admission"
+      ],
+      "steps": [
+        "Navigate to Admission.",
+        "Select Application Data.",
+        "Go to Settings.",
+        "Click on View Admission.",
+        "Choose the desired Tag.",
+        "Select the appropriate Counselor.",
+        "Click on Update to save the changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I assign a counsellor to an admission application?",
+        "What is the process to tag an admission application?",
+        "Where can I find the settings to view admission applications?",
+        "How do I update counsellor and tag information for applicants?",
+        "What is the menu path to manage admission application data?",
+        "How to categorize admission applications using tags?"
+      ],
+      "keywords": [
+        "Admission",
+        "Counsellor",
+        "Tag",
+        "Application Data",
+        "Settings",
+        "View Admission",
+        "Assign",
+        "Update"
+      ],
+      "related_topics": [],
+      "id": "admission_management_assign_counsellor_and_tag_to_admission_applications",
+      "source": {
+        "file": "How to Assign Counsellor and Tags.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Admission Management",
+      "json_file": "manual_admission_management_assign_counsellor_and_tag_to_admission_applications.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Assign Subject",
+      "summary": "This document outlines the step-by-step process for assigning subjects to students within a specific class. It covers navigation to the assignment interface, selecting classes, subjects, and students, and finalizing the assignment.",
+      "navigation": [
+        "Settings",
+        "Academics",
+        "Assign Subject"
+      ],
+      "steps": [
+        "Navigate to Settings > Academics.",
+        "Click on 'Assign Subject'.",
+        "Select the desired Class and click on 'Go'.",
+        "Select the Subject and the Students to whom it should be assigned.",
+        "Click on the 'Assign Subject Option'.",
+        "Select the appropriate Subject Type.",
+        "Select the specific Subject to assign.",
+        "Finally, click on the 'Add' Button to complete the assignment."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I assign a subject to a class?",
+        "What is the menu path to assign subjects?",
+        "Can I assign a subject to multiple students at once?",
+        "What are the steps to finalize subject assignment?",
+        "Where do I select the subject type during assignment?",
+        "How do I select the class for subject assignment?"
+      ],
+      "keywords": [
+        "assign subject",
+        "academics",
+        "subject assignment",
+        "students",
+        "class",
+        "settings",
+        "education",
+        "curriculum"
+      ],
+      "related_topics": [],
+      "id": "academics_assign_subject",
+      "source": {
+        "file": "How to Assign Subject.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_assign_subject.json"
+    },
+    {
+      "module": "Admission",
+      "topic": "Generate Source Wise Application Report",
+      "summary": "This document outlines the steps to generate the Source Wise Application Report, which allows users to view admission applications categorized by their source, along with filtering options for date range and counselor.",
+      "navigation": [
+        "Admission",
+        "Admission Reports",
+        "Source Wise Report"
+      ],
+      "steps": [
+        "Go to Admission > Admission Reports > Source Wise Report.",
+        "Select the desired Source.",
+        "Select the Start Date and End Date for the report.",
+        "Select the Counselor (if applicable).",
+        "Click on the \"Go\" button.",
+        "The Source Wise Application Report will be displayed."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I generate a report showing applications by their source?",
+        "What is the navigation path to access the Source Wise Report?",
+        "Which filters are available when generating the Source Wise Application Report?",
+        "Can I view applications from a specific counselor using this report?",
+        "How can I check the source of various applications?"
+      ],
+      "keywords": [
+        "Admission",
+        "Reports",
+        "Source Wise Report",
+        "Application Source",
+        "Counselor",
+        "Admission Reports",
+        "Generate Report"
+      ],
+      "related_topics": [],
+      "id": "admission_generate_source_wise_application_report",
+      "source": {
+        "file": "How to Check Other Source Application.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Admission",
+      "json_file": "manual_admission_generate_source_wise_application_report.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Create Course Outcome (CO) Mapping",
+      "summary": "This document outlines the step-by-step process for creating Course Outcome (CO) mapping, which involves linking specific questions to course outcomes and assigning marks within the system.",
+      "navigation": [
+        "COE",
+        "Question CO Mapping"
+      ],
+      "steps": [
+        "Click on \"COE\".",
+        "Navigate to \"Question CO Mapping\".",
+        "Click on \"Add Mapping\".",
+        "Select the Class/Course, Exam Calendar, Exam Type, and Subject.",
+        "Click on \"Continue\".",
+        "Select the relevant CO (Course Outcome).",
+        "Enter the marks for each question according to the allotted marks.",
+        "Click on \"Save Mapping\"."
+      ],
+      "business_rules": [],
+      "important_notes": [
+        "Click on \"Add Row\" to add more question numbers.",
+        "Click on \"Add Column\" to increase the number of question parts.",
+        "The total marks are displayed at the end for verification purposes."
+      ],
+      "questions": [
+        "How do I create a new CO mapping?",
+        "What is the navigation path for creating CO mapping?",
+        "How can I add more questions or question parts to a CO mapping?",
+        "What information is required to start a new CO mapping?",
+        "How are marks assigned when setting up CO mapping?"
+      ],
+      "keywords": [
+        "CO Mapping",
+        "Course Outcome",
+        "Question Mapping",
+        "Exam Calendar",
+        "Marks",
+        "Academics",
+        "COE",
+        "Question Number"
+      ],
+      "related_topics": [],
+      "id": "academics_create_course_outcome_co_mapping",
+      "source": {
+        "file": "How to Create CO Mapping.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_create_course_outcome_co_mapping.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Create Subject Class Mapping",
+      "summary": "This document provides step-by-step instructions on how to create a subject class mapping in the system, allowing users to associate subjects with specific academic configurations like class, stream, batch, section, and group.",
+      "navigation": [
+        "Settings",
+        "Academics",
+        "Subject Class Mapping"
+      ],
+      "steps": [
+        "Go to Settings > Academics.",
+        "Click on Subject Class Mapping.",
+        "Click on Add New Subject Class Mapping.",
+        "Select the Class, Stream, Batch, Section, and Group.",
+        "Click on Add Subject Details.",
+        "Select the Subject and Subject Type.",
+        "Click on Add."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I create a new subject class mapping?",
+        "What is the navigation path to access subject class mapping?",
+        "Which details are required to set up a subject class mapping?",
+        "How do I associate a subject with a specific class and stream?",
+        "What are the steps to add subject details to a class mapping?"
+      ],
+      "keywords": [
+        "Subject Class Mapping",
+        "Academics",
+        "Settings",
+        "Class",
+        "Stream",
+        "Batch",
+        "Section",
+        "Group",
+        "Subject",
+        "Subject Type",
+        "Mapping"
+      ],
+      "related_topics": [],
+      "id": "academics_create_subject_class_mapping",
+      "source": {
+        "file": "How to create subject class Mapping - college.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_create_subject_class_mapping.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Declare Results",
+      "summary": "This document outlines the process to declare results for a Term Group, making them generally available, and also provides steps to declare results for specific students through the Report Card section.",
+      "navigation": [
+        "Settings > Academics > Assessment Group",
+        "Examination > Report Card"
+      ],
+      "steps": [
+        "To declare results for a Term Group:",
+        "1. In the right-side menu, click \"Settings\" then \"Academics\".",
+        "2. Click \"Assessment Group\".",
+        "3. Click the \"Edit Icon\" for the desired Term Group.",
+        "4. Toggle \"Result Declared\" ON.",
+        "5. Click \"Edit\".",
+        "To declare results for specific students (if you want to show the result of some students):",
+        "1. In the left-side menu, click \"Examination\" then \"Report Card\".",
+        "2. Select the \"Class\".",
+        "3. Select the \"Assessment Group\".",
+        "4. Click \"Go\".",
+        "5. Toggle \"Declared\" ON for each student whose result you want to declare.",
+        "6. Click \"Save All\"."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I declare results for an entire Term Group?",
+        "What is the process to make results visible for specific students?",
+        "Where can I find the settings to declare results?",
+        "How do I enable result declaration for a particular assessment group?",
+        "Can I declare results for individual students?",
+        "What is the difference between declaring results for a Term Group and for specific students?"
+      ],
+      "keywords": [
+        "Result",
+        "Declare",
+        "Assessment Group",
+        "Term Group",
+        "Report Card",
+        "Students",
+        "Academics",
+        "Examination",
+        "Settings",
+        "Toggle"
+      ],
+      "related_topics": [],
+      "id": "academics_declare_results",
+      "source": {
+        "file": "How to Declare Result.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_declare_results.json"
+    },
+    {
+      "module": "Frontdesk Management",
+      "topic": "Visitor Pass Entry",
+      "summary": "This document outlines the procedure for creating a new visitor pass entry in the system. It details the steps from navigating to the visitor section to inputting all necessary visitor information and saving the entry.",
+      "navigation": [
+        "Frontdesk",
+        "Visitor"
+      ],
+      "steps": [
+        "From the left side menu, click on \"Frontdesk\".",
+        "Click on \"Visitor\".",
+        "Click on \"Add Visitor\".",
+        "Enter the Visitor Name, Mobile number, and Address.",
+        "Optionally, enter the Organization Name.",
+        "Select the Date and Time of the visit.",
+        "Select the person whom the visitor has come to meet.",
+        "Add the Reason for the visit.",
+        "If you want to upload a visitor image, you can select either \"Open Web Cam\" or \"Upload Image\" button.",
+        "Click on \"Add\" to save the visitor pass entry."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I record a new visitor's entry?",
+        "What information is required to create a visitor pass?",
+        "Can I add an organization name for a visitor?",
+        "How do I upload a visitor's photo during entry?",
+        "Where do I specify the person a visitor is meeting?",
+        "What is the menu path to access visitor pass entry?"
+      ],
+      "keywords": [
+        "Visitor Pass",
+        "Visitor Entry",
+        "Frontdesk",
+        "Add Visitor",
+        "Visitor Management",
+        "Guest Entry",
+        "Pass Creation",
+        "Visitor Details"
+      ],
+      "related_topics": [],
+      "id": "frontdesk_management_visitor_pass_entry",
+      "source": {
+        "file": "How To Do Visitor Pass Entry.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Frontdesk Management",
+      "json_file": "manual_frontdesk_management_visitor_pass_entry.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Edit Student's Class/Course",
+      "summary": "This document provides step-by-step instructions on how to modify a student's assigned class, stream, and batch within the ERP system.",
+      "navigation": [
+        "Student",
+        "Student List",
+        "Action",
+        "View"
+      ],
+      "steps": [
+        "Navigate to 'Student' on the left-hand side menu, then select 'Student List'.",
+        "For the desired student, go to 'Action' and click 'View'.",
+        "On the student's profile page, click on 'Edit Class'.",
+        "Select the new 'Class', 'Stream', and 'Batch' from the available options.",
+        "Click on 'Shift Class' to apply the changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I change a student's assigned class?",
+        "What is the process to update a student's stream or batch?",
+        "Where can I find the option to edit a student's course details?",
+        "How do I access a student's profile to modify their class?",
+        "What information can be changed when editing a student's class?",
+        "How do I confirm the changes after selecting a new class, stream, and batch?"
+      ],
+      "keywords": [
+        "Student",
+        "Class",
+        "Course",
+        "Stream",
+        "Batch",
+        "Edit",
+        "Change",
+        "Update",
+        "Academics",
+        "Student List"
+      ],
+      "related_topics": [],
+      "id": "academics_edit_student_s_class_course",
+      "source": {
+        "file": "How to Edit Class.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_edit_student_s_class_course.json"
+    },
+    {
+      "module": "Library Management",
+      "topic": "How to Issue a Library Book to Students",
+      "summary": "This document outlines the step-by-step process for issuing a library book to a student within the system, covering navigation, student search, book identification, and final issuance.",
+      "navigation": [
+        "Dashboard",
+        "Library",
+        "Issue Book"
+      ],
+      "steps": [
+        "1. From the Dashboard, click on 'Library' and then 'Issue Book' in the left-side menu.",
+        "2. Select 'Student' as the Member Type.",
+        "3. Search for the student by entering their Name or Registration Number.",
+        "4. Enter the Accession Number of the book you wish to issue.",
+        "5. Click on the Search icon to find the book.",
+        "6. Review the suggested Return Date or select the desired number of days for the issue period.",
+        "7. Finally, click on 'Issue Book' to complete the process."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How do I issue a library book to a student?",
+        "What is the menu path to issue a book?",
+        "How can I search for a student to issue a book?",
+        "What information is required to identify a book for issuance?",
+        "Can I customize the return date for an issued book?",
+        "What are the final steps to complete a book issuance?"
+      ],
+      "keywords": [
+        "Library",
+        "Issue Book",
+        "Student",
+        "Accession Number",
+        "Return Date",
+        "Dashboard",
+        "Member Type"
+      ],
+      "related_topics": [],
+      "id": "library_management_how_to_issue_a_library_book_to_students",
+      "source": {
+        "file": "HOW TO ISSUE LIBRARY BOOK TO STUDENTS .pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Library Management",
+      "json_file": "manual_library_management_how_to_issue_a_library_book_to_students.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "Print ID Cards in Bulk",
+      "summary": "This document outlines the procedure for printing ID cards for multiple students simultaneously. Users can filter students by class and section, select the desired students, and then generate their ID cards for printing or download.",
+      "navigation": [
+        "Student",
+        "Student Certificates"
+      ],
+      "steps": [
+        "From the left-side menu, click on Student.",
+        "Select Student Certificates.",
+        "Click on the Filter button.",
+        "Select the required Class and Section.",
+        "Click on the Go button to display the student list.",
+        "Select the students for whom you want to print ID cards.",
+        "Click on the Print button.",
+        "Select Print ID Cards."
+      ],
+      "business_rules": [],
+      "important_notes": [
+        "The ID cards for the selected students will be generated and ready for printing/download."
+      ],
+      "questions": [
+        "How do I print ID cards for multiple students at once?",
+        "Where can I find the option to print student ID cards?",
+        "How do I filter students before printing ID cards?",
+        "What are the steps to generate student ID cards in bulk?",
+        "Can I download the generated ID cards?"
+      ],
+      "keywords": [
+        "ID cards",
+        "print",
+        "bulk",
+        "students",
+        "certificates",
+        "filter",
+        "class",
+        "section",
+        "generate"
+      ],
+      "related_topics": [],
+      "id": "academics_print_id_cards_in_bulk",
+      "source": {
+        "file": "How to Print ID Cards in Bulk.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_print_id_cards_in_bulk.json"
+    },
+    {
+      "module": "Academics",
+      "topic": "How to Shift Student in Group",
+      "summary": "This document provides step-by-step instructions on how to move multiple students from one group to another simultaneously. The process involves filtering students by class, selecting them, and then updating their group details.",
+      "navigation": [
+        "Student",
+        "Student List"
+      ],
+      "steps": [
+        "Navigate to 'Student' on the left-hand side menu, then click 'Student List'.",
+        "Apply a filter for a particular class and select all the students you wish to shift.",
+        "Click on 'Edit Details' for the selected students.",
+        "From the options, select 'Edit Group'.",
+        "Choose the new group for the students.",
+        "Click 'Save' to apply the changes."
+      ],
+      "business_rules": [],
+      "important_notes": [],
+      "questions": [
+        "How can I move multiple students to a different group at once?",
+        "What is the procedure for shifting students between groups?",
+        "Where do I find the option to change a student's group in bulk?",
+        "Can I shift students from different classes simultaneously using this method?",
+        "What are the steps to update student groups for a selection of students?",
+        "How do I apply a filter to select students for group shifting?"
+      ],
+      "keywords": [
+        "student",
+        "group",
+        "shift",
+        "move",
+        "edit group",
+        "student list",
+        "class",
+        "bulk update"
+      ],
+      "related_topics": [],
+      "id": "academics_how_to_shift_student_in_group",
+      "source": {
+        "file": "How to Shift Student in Group.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Academics",
+      "json_file": "manual_academics_how_to_shift_student_in_group.json"
+    },
+    {
+      "module": "Student App",
+      "topic": "Submit Institute Feedback from Student App",
+      "summary": "This document provides step-by-step instructions on how students can submit institute feedback using the Student App, covering the process from logging in to successfully submitting their responses.",
+      "navigation": [
+        "Open Feedback"
+      ],
+      "steps": [
+        "Access the Student App by navigating to Student.okiedokie.app.",
+        "Log in to the app by entering your phone number and then using the One-Time Password (OTP) for verification.",
+        "Once logged in, click on the 'Open Feedback' option.",
+        "To answer the questions presented in the feedback form, click on the 'select' option for each question.",
+        "After completing all responses, click on 'Submit Feedback' to finalize your submission."
+      ],
+      "business_rules": [],
+      "important_notes": [
+        "In the feedback form, 'T' represents the name of the teacher and the subject taught."
+      ],
+      "questions": [
+        "How do I submit institute feedback using the Student App?",
+        "What is the web address for the Student App?",
+        "How do I log in to the Student App to submit feedback?",
+        "Where can I find the feedback form within the Student App?",
+        "What should I do after filling out the feedback form?",
+        "What does 'T' mean in the feedback form questions?"
+      ],
+      "keywords": [
+        "Student App",
+        "Institute Feedback",
+        "Submit Feedback",
+        "Login",
+        "OTP",
+        "Feedback Form",
+        "Okie Dokie App"
+      ],
+      "related_topics": [],
+      "id": "student_app_submit_institute_feedback_from_student_app",
+      "source": {
+        "file": "How to submit Institute feedback.pdf",
+        "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+        "version": "1.0"
+      },
+      "module_folder": "Student App",
+      "json_file": "manual_student_app_submit_institute_feedback_from_student_app.json"
     }
   ]
 }
