@@ -12422,5 +12422,192 @@
         },
         "module_folder": "Transport",
         "json_file": "003_Vehicle_Route_Management_(Defining_Routes_and_Pick-up_Points).json"
+    },
+    {
+        "module": "Hostel Management",
+        "topic": "How to Apply for a Hostel Gate Pass",
+        "summary": "This document outlines the steps for students to apply for a hostel gate pass using the Student App, including selecting dates, reasons, and generating a QR code upon approval.",
+        "navigation": [
+            "Student App",
+            "Hostel",
+            "Hostel Gate Pass"
+        ],
+        "steps": [
+            "Open the Student App and tap the four dots in the center at the bottom of the screen.",
+            "Select the \"Hostel\" option.",
+            "Choose \"Hostel Gate Pass.\"",
+            "Click the \"Apply\" button.",
+            "Select the date and timing (from/to), and enter the Reason.",
+            "Select the category, and click \"Submit.\"",
+            "Once your hostel gate pass is approved, you can access the QR code.",
+            "Tap on \"Approved Gate Pass\" and click \"Generate QR.\"",
+            "Your QR code will now be displayed."
+        ],
+        "business_rules": [],
+        "important_notes": [
+            "The QR code for the gate pass can only be generated after the application has been approved."
+        ],
+        "questions": [
+            "How do students apply for a hostel gate pass using the app?",
+            "What is the navigation path to apply for a hostel gate pass?",
+            "What details are needed when applying for a hostel gate pass?",
+            "How do I generate the QR code for an approved hostel gate pass?",
+            "What is the final step after a gate pass is approved?"
+        ],
+        "keywords": [
+            "Hostel",
+            "Gate Pass",
+            "Student App",
+            "Apply",
+            "QR Code",
+            "Approval",
+            "Hostel Management",
+            "Leave"
+        ],
+        "related_topics": [],
+        "id": "hostel_management_how_to_apply_for_a_hostel_gate_pass",
+        "source": {
+            "file": "HOW TO APPLY HOSTEL GATE PASS (1).docx",
+            "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+            "version": "1.0"
+        },
+        "module_folder": "Hostel Management",
+        "json_file": "manual_hostel_management_how_to_apply_for_a_hostel_gate_pass.json"
+    },
+    {
+        "module": "Fees",
+        "topic": "How to Pay Fee Through Student App",
+        "summary": "This document outlines the step-by-step process for students to pay their fees using the Okie Dokie Student App, from downloading the app to viewing the payment receipt.",
+        "navigation": [],
+        "steps": [
+            "Scan the QR code to download the Okie Dokie Student App.",
+            "Enter your Registered Mobile Number and click on 'Request OTP'.",
+            "Enter the OTP received on your Registered Mobile Number and click 'Submit'.",
+            "Click on your Profile Tab.",
+            "Click on the 'Pay Now' button for fee payment.",
+            "Select 'Total Amount' or 'Other amount' option for partial payment.",
+            "Select 'UPI' and click on 'Proceed to Pay' to make the payment.",
+            "After successful payment, you can view or download your Fee Receipt."
+        ],
+        "business_rules": [],
+        "important_notes": [],
+        "questions": [
+            "How do I download the Student App?",
+            "What information do I need to log in to the Student App?",
+            "How can I pay my fees using the app?",
+            "Can I make a partial fee payment through the app?",
+            "How do I get my fee receipt after payment?",
+            "What payment methods are available on the Student App?"
+        ],
+        "keywords": [
+            "Student App",
+            "Fee Payment",
+            "Mobile App",
+            "Pay Now",
+            "UPI",
+            "Fee Receipt",
+            "Download App",
+            "OTP"
+        ],
+        "related_topics": [],
+        "id": "fees_how_to_pay_fee_through_student_app",
+        "source": {
+            "file": "PAY FEE THROUGH STUDENT APP (1).docx",
+            "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+            "version": "1.0"
+        },
+        "module_folder": "Fees",
+        "json_file": "manual_fees_how_to_pay_fee_through_student_app.json"
+    },
+    {
+        "module": "Admission",
+        "topic": "Assign Counsellor and Tags",
+        "summary": "This document provides step-by-step instructions on how to assign a counsellor and specific tags to an admission application within the ERP system.",
+        "navigation": [
+            "ADMISSION -> APPLICATION DATA",
+            "SETTINGS -> VIEW ADMISSION"
+        ],
+        "steps": [
+            "Click on 'ADMISSION' then navigate to 'APPLICATION DATA'.",
+            "Click on 'SETTINGS' then select 'VIEW ADMISSION'.",
+            "Choose the desired tag and select the appropriate counsellor.",
+            "Finally, click on the 'UPDATE' button to save the changes."
+        ],
+        "business_rules": [],
+        "important_notes": [],
+        "questions": [
+            "How do I assign a counsellor to an admission application?",
+            "What are the steps to add tags to an application?",
+            "Where can I find the option to assign counsellors and tags?",
+            "How do I update counsellor and tag assignments for an application?",
+            "What is the navigation path to assign counsellors and tags?"
+        ],
+        "keywords": [
+            "Admission",
+            "Counsellor",
+            "Tags",
+            "Application Data",
+            "Assign",
+            "Update",
+            "Settings",
+            "View Admission"
+        ],
+        "related_topics": [],
+        "id": "admission_assign_counsellor_and_tags",
+        "source": {
+            "file": "HOW TO ASSIGN COUNSELLOR AND TAGS (1).docx",
+            "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+            "version": "1.0"
+        },
+        "module_folder": "Admission",
+        "json_file": "manual_admission_assign_counsellor_and_tags.json"
+    },
+    {
+        "module": "Fees",
+        "topic": "How to Collect Fee Online",
+        "summary": "This guide provides step-by-step instructions on how to collect fees online within the ERP system. It covers the process from navigating to the online fee collection module, searching for a student, editing the receiving amount, and completing the payment via QR code.",
+        "navigation": [
+            "Fee",
+            "Collect Fee Online"
+        ],
+        "steps": [
+            "Click on 'Fee' then 'Collect Fee Online'.",
+            "Search for the student using their Registration Number or Name.",
+            "Select the month or term for which you are collecting the extra fee.",
+            "Click on the pencil icon to edit the receiving amount.",
+            "Enter the desired amount and click on the 'Proceed' button.",
+            "Click on the 'Collect Online Fee' button.",
+            "Click on the 'Pay' button.",
+            "Scan the displayed QR code using your phone to complete the payment."
+        ],
+        "business_rules": [],
+        "important_notes": [],
+        "questions": [
+            "How do I initiate online fee collection?",
+            "What is the menu path to collect fees online?",
+            "How can I find a student to collect their fees?",
+            "Is it possible to edit the fee amount before collecting online?",
+            "What are the final steps to process an online fee payment?",
+            "How do I make the payment using a QR code?"
+        ],
+        "keywords": [
+            "Online Fee Collection",
+            "Fee Payment",
+            "Student Fees",
+            "Collect Fee Online",
+            "QR Code Payment",
+            "ERP Fees",
+            "Payment Process",
+            "Edit Amount"
+        ],
+        "related_topics": [],
+        "id": "fees_how_to_collect_fee_online",
+        "source": {
+            "file": "HOW TO COLLECT FEE ONLINE (1).docx",
+            "generated_by": "Gemini 2.5 Flash (DocumentIngestor)",
+            "version": "1.0"
+        },
+        "module_folder": "Fees",
+        "json_file": "manual_fees_how_to_collect_fee_online.json"
     }
 ]

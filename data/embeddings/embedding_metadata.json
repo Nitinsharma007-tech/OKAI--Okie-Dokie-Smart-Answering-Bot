@@ -2,7 +2,7 @@
     "project": "OKAI ERP",
     "model": "all-MiniLM-L6-v2",
     "dimension": 384,
-    "topics": 227,
+    "topics": 231,
     "index_type": "IndexIDMap(IndexFlatIP)",
-    "generated_at": "2026-08-02 14:26:07"
+    "generated_at": "2026-08-06 10:40:34"
 }
