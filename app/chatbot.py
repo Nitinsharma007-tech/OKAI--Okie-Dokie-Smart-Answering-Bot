@@ -9,7 +9,7 @@ class OKAIChatbot:
     def __init__(self):
 
         print("=" * 70)
-        print("Initializing OKAI ERP Assistant...")
+        print("Initializing OD ERP Assistant...")
         print("=" * 70)
 
         self.search = SemanticSearch()
@@ -28,7 +28,7 @@ class OKAIChatbot:
         duplicate_threshold=0.98,
     )
 
-        print("\nOKAI Ready!\n")
+        print("\nOD Ready!\n")
 
     # ======================================================
     # Ask
@@ -78,7 +78,7 @@ class OKAIChatbot:
         print(f"[TIMING] context build: {time.time()-t2:.2f}s")
 
         prompt = f"""
-    You are OKAI, an intelligent ERP Assistant.
+    You are OD, an intelligent ERP Assistant for OD ERP.
 
     Answer ONLY using the knowledge provided.
 
@@ -131,4 +131,3 @@ class OKAIChatbot:
                 )
 
         return answer, search_results, False
-    

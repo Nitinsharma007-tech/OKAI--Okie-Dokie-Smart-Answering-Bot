@@ -12,7 +12,7 @@ class ContextBuilder:
         context = []
 
         context.append("=" * 80)
-        context.append("OKAI ERP KNOWLEDGE BASE")
+        context.append("OD ERP KNOWLEDGE BASE")
         context.append("=" * 80)
         context.append("")
 
