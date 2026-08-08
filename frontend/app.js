@@ -186,7 +186,14 @@ function applyTheme(theme){
     document.documentElement.dataset.theme = theme;
     try{ localStorage.setItem("okai-theme", theme); } catch(error){ }
 }
-function initTheme(){ applyTheme("dark"); } // Forced Dark Mode per requirements
+function initTheme(){
+    let saved;
+    try{ saved = localStorage.getItem("okai-theme"); } catch(error){}
+    if(saved !== "dark" && saved !== "light"){
+        saved = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    applyTheme(saved);
+}
 function toggleTheme(){ const current = document.documentElement.dataset.theme; applyTheme(current === "dark" ? "light" : "dark"); }
 themeToggleButton.addEventListener("click", toggleTheme);
 
