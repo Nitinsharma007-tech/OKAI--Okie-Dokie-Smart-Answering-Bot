@@ -1,0 +1,46 @@
+{
+    "module": "Admissions",
+    "topic": "Duplicate Field Master",
+    "summary": "The Duplicate Field Master is where administrators configure which specific fields (e.g., Phone Number, Email ID) the system should monitor to detect and flag potential duplicate leads upon entry.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Duplicate Field Master"
+    ],
+    "steps": [
+        "1. Navigate to Admission Setup > Admission Master > Duplicate Field Master.",
+        "2. Select the field(s) (e.g., 'Phone Number', 'Aadhaar Card', '10th Class Roll Number') that the system should use to check for existing leads.",
+        "3. Click 'Save'."
+    ],
+    "business_rules": [
+        "The system will use the selected field(s) to identify if a lead with the same information already exists, triggering a duplicate warning pop-up."
+    ],
+    "important_notes": [
+        "The 'Phone Number' is the most commonly used and recommended field for duplicate detection due to its uniqueness for most leads.",
+        "Carefully consider which fields to select to avoid false positives or missed duplicates."
+    ],
+    "questions": [
+        "How do I configure the fields for duplicate lead detection?",
+        "What is the primary purpose of the Duplicate Field Master?",
+        "Which fields are typically used to identify duplicate leads?",
+        "Can I select multiple fields for duplicate checking?"
+    ],
+    "keywords": [
+        "Duplicate Field Master",
+        "Duplicate detection",
+        "Lead duplication fields",
+        "Unique identifier",
+        "Phone number check",
+        "Duplicate lead warning"
+    ],
+    "related_topics": [
+        "Duplicate Lead Handling: Tags and Logic",
+        "Lead Management"
+    ],
+    "id": "admissions_duplicate_field_master",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

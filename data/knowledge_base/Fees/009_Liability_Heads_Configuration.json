@@ -1,0 +1,47 @@
+{
+    "module": "Fees",
+    "topic": "Liability Heads Configuration",
+    "summary": "Liability heads are used for amounts collected from students that represent a liability for the institution (e.g., security deposits). When refunded, these amounts do *not* create an outstanding balance for the student.",
+    "navigation": [
+        "Liability Heads"
+    ],
+    "steps": [
+        "Mark specific fee heads as 'liability heads' during their setup (e.g., 'Security Deposit')."
+    ],
+    "business_rules": [
+        "If money from a liability head is refunded, the student's balance does *not* increase (i.e., no outstanding amount is created for the student).",
+        "This is distinct from normal fee heads where a refund would typically create an outstanding balance for the student.",
+        "The original demand for a liability head is not reduced upon refund."
+    ],
+    "important_notes": [
+        "Crucial for correctly managing refundable amounts like security deposits, which are not part of regular academic fees.",
+        "Prevents incorrect balance reporting for students after refunds of liability amounts, ensuring financial accuracy."
+    ],
+    "questions": [
+        "What is a liability head in the ERP system and how does it function?",
+        "How do security deposits work when configured as liability heads?",
+        "If I refund a security deposit, will it show as an outstanding balance for the student?",
+        "How do I designate a fee head as a liability head?",
+        "What is the accounting implication of a liability head refund?"
+    ],
+    "keywords": [
+        "Liability head",
+        "security deposit",
+        "refundable amount",
+        "fee refund",
+        "student balance",
+        "financial liability",
+        "non-demand refund"
+    ],
+    "related_topics": [
+        "Refundable Heads",
+        "Fee Head",
+        "Fee Collection"
+    ],
+    "id": "fees_liability_heads_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

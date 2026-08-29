@@ -1,0 +1,4586 @@
+{
+    "video_name": "3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30)",
+    "language": "en",
+    "segments": [
+        {
+            "id": 1,
+            "start": 0.0,
+            "end": 0.6,
+            "text": "Yes, ma'am.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 2,
+            "start": 1.64,
+            "end": 2.16,
+            "text": "I'll start again.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 3,
+            "start": 2.34,
+            "end": 3.18,
+            "text": "The internet is gone.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 4,
+            "start": 3.68,
+            "end": 4.34,
+            "text": "Yes, no problem.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 5,
+            "start": 4.66,
+            "end": 5.68,
+            "text": "I'll start from the beginning.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 6,
+            "start": 6.68,
+            "end": 10.84,
+            "text": "First of all, you all will have a login from school.audipay.in.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 7,
+            "start": 11.0,
+            "end": 12.5,
+            "text": "It will also be shared with you all.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 8,
+            "start": 12.84,
+            "end": 15.64,
+            "text": "To log in to it, you all have phone numbers.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 9,
+            "start": 15.74,
+            "end": 16.74,
+            "text": "You have to log in via OTP.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 10,
+            "start": 17.42,
+            "end": 19.02,
+            "text": "Then if you want, you can also set your password.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 11,
+            "start": 20.6,
+            "end": 23.26,
+            "text": "After logging in from here, send OTP to change password.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 12,
+            "start": 23.54,
+            "end": 24.42,
+            "text": "Everyone has an option.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 13,
+            "start": 24.44,
+            "end": 25.38,
+            "text": "You can also greet your passwords.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 14,
+            "start": 27.32,
+            "end": 29.98,
+            "text": "As soon as your ERP login is done, your OTP will be logged in.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 15,
+            "start": 29.98,
+            "end": 31.4,
+            "text": "Here you have the settings icon.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 16,
+            "start": 31.84,
+            "end": 33.5,
+            "text": "From where we have to set up.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 17,
+            "start": 33.54,
+            "end": 37.0,
+            "text": "In settings, you all have the option of academics.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 18,
+            "start": 38.83,
+            "end": 43.63,
+            "text": "By clicking on academics, you will have various options defined in which you have to work.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 19,
+            "start": 43.81,
+            "end": 45.35,
+            "text": "Is this much clear at the end of all of you?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 20,
+            "start": 46.38,
+            "end": 47.42,
+            "text": "Yes, it is clear.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 21,
+            "start": 48.26,
+            "end": 50.48,
+            "text": "Now what we have to do is create a timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 22,
+            "start": 51.9,
+            "end": 55.18,
+            "text": "The first step for the timetable is to define the subjects in the system.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 23,
+            "start": 55.18,
+            "end": 61.26,
+            "text": "After defining the subjects, you have to define the subject in the subject class mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 24,
+            "start": 62.06,
+            "end": 64.74,
+            "text": "So first of all, we have to define the subjects in the system.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 25,
+            "start": 65.44,
+            "end": 67.28,
+            "text": "You have the first option.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 26,
+            "start": 67.54,
+            "end": 69.04,
+            "text": "Right now I don't have any subject in the system.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 27,
+            "start": 69.64,
+            "end": 72.14,
+            "text": "You have the option to add a subject at the top.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 28,
+            "start": 73.57,
+            "end": 75.23,
+            "text": "You will click on this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 29,
+            "start": 75.35,
+            "end": 76.17,
+            "text": "I am creating a subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 30,
+            "start": 77.23,
+            "end": 77.79,
+            "text": "English.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 31,
+            "start": 78.33,
+            "end": 79.07,
+            "text": "The name of the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 32,
+            "start": 79.49,
+            "end": 81.15,
+            "text": "Then there is a unique code for the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 33,
+            "start": 81.15,
+            "end": 85.57,
+            "text": "It is possible that the name of the subject is common, but it has a code that defines it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 34,
+            "start": 86.29,
+            "end": 87.21,
+            "text": "I have added a code.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 35,
+            "start": 87.49,
+            "end": 88.93,
+            "text": "3-digit code ENG.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 36,
+            "start": 89.09,
+            "end": 90.61,
+            "text": "Then there is an assessment model.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 37,
+            "start": 90.73,
+            "end": 92.95,
+            "text": "Scholastic subject, co-scholastic subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 38,
+            "start": 93.25,
+            "end": 97.57,
+            "text": "Scholastic subjects are basically those subjects in which we have to do marks entry.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 39,
+            "start": 98.59,
+            "end": 100.91,
+            "text": "For example, like your GK.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 40,
+            "start": 101.45,
+            "end": 107.23,
+            "text": "In your primary classes, GK, which are your small classes, in that case your course is in scholastic or discipline.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 41,
+            "start": 107.51,
+            "end": 109.53,
+            "text": "Basically, you use grading criteria for that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 42,
+            "start": 109.53,
+            "end": 111.89,
+            "text": "Teachers enter the grade.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 43,
+            "start": 112.39,
+            "end": 115.81,
+            "text": "So those subjects are the criteria for scholastic or discipline or skills.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 44,
+            "start": 116.15,
+            "end": 117.71,
+            "text": "We have made 4 assessment models.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 45,
+            "start": 118.35,
+            "end": 120.67,
+            "text": "Ma'am, can I interrupt a little?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 46,
+            "start": 121.13,
+            "end": 122.17,
+            "text": "Yes, tell me.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 47,
+            "start": 122.29,
+            "end": 125.03,
+            "text": "Ma'am, the name of the subject in English will be of everyone.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 48,
+            "start": 125.67,
+            "end": 127.03,
+            "text": "It is also in 7th.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 49,
+            "start": 127.13,
+            "end": 129.53,
+            "text": "Will this subject code be different for 6th and 7th?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 50,
+            "start": 130.17,
+            "end": 130.87,
+            "text": "No, no, no.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 51,
+            "start": 131.47,
+            "end": 133.99,
+            "text": "This subject code defines your subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 52,
+            "start": 134.25,
+            "end": 135.27,
+            "text": "It will not define your class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 53,
+            "start": 136.53,
+            "end": 137.85,
+            "text": "It is only defining your subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 54,
+            "start": 137.85,
+            "end": 139.77,
+            "text": "It can be general knowledge.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 55,
+            "start": 139.85,
+            "end": 141.25,
+            "text": "You have to use general knowledge completely.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 56,
+            "start": 141.33,
+            "end": 141.73,
+            "text": "You have to use GK.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 57,
+            "start": 142.97,
+            "end": 145.97,
+            "text": "I have made the assessment model scholastic.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 58,
+            "start": 146.49,
+            "end": 149.35,
+            "text": "Sir, we have the option to define class and stream.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 59,
+            "start": 149.91,
+            "end": 150.83,
+            "text": "There are some subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 60,
+            "start": 151.59,
+            "end": 153.71,
+            "text": "We want that when we create mapping,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 61,
+            "start": 154.23,
+            "end": 155.77,
+            "text": "it should only show in these particular classes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 62,
+            "start": 156.33,
+            "end": 157.25,
+            "text": "It should not show in all of them.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 63,
+            "start": 158.01,
+            "end": 159.47,
+            "text": "This can be a subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 64,
+            "start": 159.55,
+            "end": 161.81,
+            "text": "In that case, you can map a particular class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 65,
+            "start": 162.87,
+            "end": 165.01,
+            "text": "For example, there is a subject that I want.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 66,
+            "start": 165.01,
+            "end": 167.09,
+            "text": "When I create mapping for 5th and 6th class,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 67,
+            "start": 168.03,
+            "end": 169.77,
+            "text": "it should only display in that class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 68,
+            "start": 170.11,
+            "end": 171.53,
+            "text": "It should not display in other classes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 69,
+            "start": 171.63,
+            "end": 172.49,
+            "text": "It should not be able to add.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 70,
+            "start": 172.55,
+            "end": 175.89,
+            "text": "In that case, I can select this in a particular class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 71,
+            "start": 175.99,
+            "end": 177.07,
+            "text": "For example, my English is for everyone.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 72,
+            "start": 177.57,
+            "end": 178.67,
+            "text": "I did not select a particular class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 73,
+            "start": 179.33,
+            "end": 180.41,
+            "text": "I will add a simple one.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 74,
+            "start": 182.03,
+            "end": 183.05,
+            "text": "This is my subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 75,
+            "start": 183.89,
+            "end": 186.03,
+            "text": "In this way, you can add subjects according to your classes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 76,
+            "start": 186.71,
+            "end": 189.31,
+            "text": "Or you can add a simple subject in the system.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 77,
+            "start": 190.03,
+            "end": 190.81,
+            "text": "You can add the data of the subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 78,
+            "start": 191.55,
+            "end": 192.87,
+            "text": "Excuse me, ma'am.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 79,
+            "start": 192.91,
+            "end": 193.53,
+            "text": "Yes, ma'am.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 80,
+            "start": 193.53,
+            "end": 194.85,
+            "text": "Ma'am, can we skip the code?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 81,
+            "start": 195.39,
+            "end": 196.47,
+            "text": "Is it necessary to give?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 82,
+            "start": 197.07,
+            "end": 198.85,
+            "text": "Ma'am, it is necessary to give.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 83,
+            "start": 199.03,
+            "end": 201.65,
+            "text": "You can add something else according to your classes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 84,
+            "start": 201.81,
+            "end": 203.67,
+            "text": "For example, I used ENG for English.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 85,
+            "start": 204.35,
+            "end": 207.47,
+            "text": "In this way, code is considered a mandatory field.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 86,
+            "start": 207.69,
+            "end": 209.23,
+            "text": "In our system, code is mandatory.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 87,
+            "start": 209.67,
+            "end": 211.05,
+            "text": "You can add anything according to your classes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 88,
+            "start": 211.25,
+            "end": 212.21,
+            "text": "You can use HIN for Hindi.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 89,
+            "start": 212.83,
+            "end": 214.95,
+            "text": "You can use MAT for Math, kind of.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 90,
+            "start": 217.2,
+            "end": 217.44,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 91,
+            "start": 218.58,
+            "end": 219.64,
+            "text": "This was the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 92,
+            "start": 219.96,
+            "end": 222.06,
+            "text": "Sir, is there any query for any subject?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 93,
+            "start": 222.06,
+            "end": 226.08,
+            "text": "No, ma'am. It is okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 94,
+            "start": 226.9,
+            "end": 227.38,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 95,
+            "start": 227.98,
+            "end": 228.62,
+            "text": "I want to clarify one more thing.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 96,
+            "start": 229.38,
+            "end": 230.58,
+            "text": "The subjects that we have created,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 97,
+            "start": 230.82,
+            "end": 232.76,
+            "text": "it is possible that later you have to change",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 98,
+            "start": 232.76,
+            "end": 234.18,
+            "text": "something in the name of the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 99,
+            "start": 234.94,
+            "end": 236.96,
+            "text": "You feel that you have to change its name.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 100,
+            "start": 237.24,
+            "end": 240.88,
+            "text": "In that case, if you have only created",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 101,
+            "start": 240.98,
+            "end": 243.38,
+            "text": "I have not added it in any class in mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 102,
+            "start": 244.04,
+            "end": 245.8,
+            "text": "So, I can edit it until then,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 103,
+            "start": 246.14,
+            "end": 247.36,
+            "text": "whatever I want to edit in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 104,
+            "start": 247.76,
+            "end": 250.66,
+            "text": "But if I have added it in mapping,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 105,
+            "start": 250.66,
+            "end": 252.3,
+            "text": "then I cannot edit it from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 106,
+            "start": 252.3,
+            "end": 255.02,
+            "text": "Then I can only change its display name",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 107,
+            "start": 255.02,
+            "end": 255.04,
+            "text": "from mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 108,
+            "start": 255.56,
+            "end": 256.8,
+            "text": "I cannot change the name of the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 109,
+            "start": 257.97,
+            "end": 258.65,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 110,
+            "start": 259.21,
+            "end": 260.39,
+            "text": "We have created the subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 111,
+            "start": 261.13,
+            "end": 263.85,
+            "text": "Now, we have to map our created subjects",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 112,
+            "start": 263.85,
+            "end": 265.57,
+            "text": "in their respective class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 113,
+            "start": 266.67,
+            "end": 266.91,
+            "text": "Right.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 114,
+            "start": 267.29,
+            "end": 269.25,
+            "text": "That is an option in subject class mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 115,
+            "start": 270.59,
+            "end": 270.89,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 116,
+            "start": 271.39,
+            "end": 272.15,
+            "text": "You can call it subject course mapping",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 117,
+            "start": 272.15,
+            "end": 273.11,
+            "text": "and subject class mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 118,
+            "start": 274.25,
+            "end": 275.47,
+            "text": "In this, you have the first option,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 119,
+            "start": 275.53,
+            "end": 277.25,
+            "text": "add new subject class mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 120,
+            "start": 277.25,
+            "end": 279.39,
+            "text": "Right. You will click on this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 121,
+            "start": 279.47,
+            "end": 280.61,
+            "text": "Then you will define the class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 122,
+            "start": 280.91,
+            "end": 281.73,
+            "text": "You are making it for the fifth class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 123,
+            "start": 282.19,
+            "end": 285.17,
+            "text": "There is an option, we can multi-select it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 124,
+            "start": 285.21,
+            "end": 287.33,
+            "text": "You feel that in fifth, sixth, seventh,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 125,
+            "start": 287.49,
+            "end": 288.59,
+            "text": "I have common subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 126,
+            "start": 289.25,
+            "end": 291.15,
+            "text": "So, you can create three classes",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 127,
+            "start": 291.15,
+            "end": 291.95,
+            "text": "together.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 128,
+            "start": 293.37,
+            "end": 294.91,
+            "text": "Class fifth, by default,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 129,
+            "start": 294.99,
+            "end": 296.43,
+            "text": "it will select the stream and by default,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 130,
+            "start": 296.53,
+            "end": 297.51,
+            "text": "it will select all the sections.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 131,
+            "start": 299.13,
+            "end": 301.63,
+            "text": "I will create a single section now.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 132,
+            "start": 302.81,
+            "end": 303.87,
+            "text": "Then, after that,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 133,
+            "start": 303.93,
+            "end": 305.65,
+            "text": "you have to add the detail of the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 134,
+            "start": 305.65,
+            "end": 306.77,
+            "text": "It means, in class fifth,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 135,
+            "start": 307.45,
+            "end": 308.69,
+            "text": "you are getting the subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 136,
+            "start": 309.05,
+            "end": 309.99,
+            "text": "You are defining the subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 137,
+            "start": 311.03,
+            "end": 311.79,
+            "text": "Okay. I added the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 138,
+            "start": 312.57,
+            "end": 314.41,
+            "text": "I have the list of the subjects",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 139,
+            "start": 314.41,
+            "end": 315.25,
+            "text": "that I have created there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 140,
+            "start": 317.01,
+            "end": 319.05,
+            "text": "I will type and select according to the drop down.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 141,
+            "start": 320.09,
+            "end": 322.25,
+            "text": "Now, the assessment model",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 142,
+            "start": 322.25,
+            "end": 322.65,
+            "text": "that I added there,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 143,
+            "start": 322.89,
+            "end": 324.05,
+            "text": "I have got the assessment model.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 144,
+            "start": 324.57,
+            "end": 326.57,
+            "text": "Then, you have the subject type.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 145,
+            "start": 326.79,
+            "end": 328.05,
+            "text": "What is the subject type basically?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 146,
+            "start": 328.81,
+            "end": 330.75,
+            "text": "There are some subjects for some classes",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 147,
+            "start": 330.75,
+            "end": 332.07,
+            "text": "which are optional subjects,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 148,
+            "start": 333.07,
+            "end": 334.33,
+            "text": "which are general,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 149,
+            "start": 334.75,
+            "end": 336.43,
+            "text": "which are not common for all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 150,
+            "start": 337.85,
+            "end": 340.25,
+            "text": "Now, English is common for all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 151,
+            "start": 341.01,
+            "end": 343.03,
+            "text": "So, all the students in this class,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 152,
+            "start": 343.19,
+            "end": 344.39,
+            "text": "I have to apply this subject",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 153,
+            "start": 344.39,
+            "end": 345.33,
+            "text": "from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 154,
+            "start": 346.01,
+            "end": 347.33,
+            "text": "There is no option that",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 155,
+            "start": 347.33,
+            "end": 349.61,
+            "text": "two kids have it and three kids don't have it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 156,
+            "start": 349.65,
+            "end": 351.03,
+            "text": "So, we will do general.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 157,
+            "start": 351.25,
+            "end": 353.51,
+            "text": "But in case, we have",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 158,
+            "start": 353.51,
+            "end": 355.75,
+            "text": "in class fifth, sixth, GK, drawing,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 159,
+            "start": 356.47,
+            "end": 357.87,
+            "text": "Punjabi, so all these subjects",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 160,
+            "start": 357.87,
+            "end": 358.51,
+            "text": "are optional.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 161,
+            "start": 359.25,
+            "end": 360.79,
+            "text": "So, in that case,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 162,
+            "start": 361.05,
+            "end": 361.89,
+            "text": "you can use optional.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 163,
+            "start": 362.53,
+            "end": 363.93,
+            "text": "From here, you will do optional.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 164,
+            "start": 364.13,
+            "end": 365.83,
+            "text": "From here, you will define in subject mapping",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 165,
+            "start": 365.83,
+            "end": 367.41,
+            "text": "that it is an optional subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 166,
+            "start": 367.65,
+            "end": 369.03,
+            "text": "All the students will not get it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 167,
+            "start": 369.37,
+            "end": 371.07,
+            "text": "Then, you will define it in the next step.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 168,
+            "start": 373.2,
+            "end": 374.24,
+            "text": "Okay. For now,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 169,
+            "start": 374.66,
+            "end": 375.96,
+            "text": "I will do this as a general",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 170,
+            "start": 375.96,
+            "end": 377.74,
+            "text": "and add it from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 171,
+            "start": 380.04,
+            "end": 381.52,
+            "text": "This is my mapping created",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 172,
+            "start": 381.52,
+            "end": 382.92,
+            "text": "in which I have added one subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 173,
+            "start": 384.38,
+            "end": 385.84,
+            "text": "From here, you had the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 174,
+            "start": 385.84,
+            "end": 387.6,
+            "text": "to add more subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 175,
+            "start": 387.6,
+            "end": 389.04,
+            "text": "Other than this, all the subjects",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 176,
+            "start": 389.6,
+            "end": 390.58,
+            "text": "will be added from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 177,
+            "start": 392.18,
+            "end": 393.1,
+            "text": "Next subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 178,
+            "start": 393.58,
+            "end": 395.22,
+            "text": "Your list will be created",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 179,
+            "start": 395.22,
+            "end": 395.74,
+            "text": "in this class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 180,
+            "start": 397.79,
+            "end": 399.21,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 181,
+            "start": 399.25,
+            "end": 400.95,
+            "text": "There is one more query in this part.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 182,
+            "start": 401.29,
+            "end": 402.19,
+            "text": "I will explain it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 183,
+            "start": 402.83,
+            "end": 403.41,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 184,
+            "start": 406.6,
+            "end": 408.28,
+            "text": "Now, we have",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 185,
+            "start": 408.28,
+            "end": 410.66,
+            "text": "created the class and defined",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 186,
+            "start": 411.22,
+            "end": 412.2,
+            "text": "the subjects. Now, basically,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 187,
+            "start": 412.76,
+            "end": 414.08,
+            "text": "who is the class teacher in this class?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 188,
+            "start": 414.3,
+            "end": 415.22,
+            "text": "Who is its coordinator?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 189,
+            "start": 415.22,
+            "end": 417.48,
+            "text": "There is no corresponding subject teacher.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 190,
+            "start": 417.66,
+            "end": 418.7,
+            "text": "So, we have to define that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 191,
+            "start": 419.56,
+            "end": 420.46,
+            "text": "There is class 5th.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 192,
+            "start": 420.46,
+            "end": 422.5,
+            "text": "In class 5th, who is my class teacher?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 193,
+            "start": 422.88,
+            "end": 423.82,
+            "text": "You have the list of employees.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 194,
+            "start": 425.14,
+            "end": 426.82,
+            "text": "The ID of the employees that we have created.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 195,
+            "start": 427.24,
+            "end": 428.52,
+            "text": "You will define from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 196,
+            "start": 428.64,
+            "end": 430.04,
+            "text": "For example, this is my class teacher.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 197,
+            "start": 430.22,
+            "end": 432.18,
+            "text": "So, I have set it as a class teacher.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 198,
+            "start": 432.5,
+            "end": 435.12,
+            "text": "You can assign a coordinator",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 199,
+            "start": 435.12,
+            "end": 436.84,
+            "text": "to any other employee.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 200,
+            "start": 437.32,
+            "end": 438.16,
+            "text": "In class teacher,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 201,
+            "start": 438.46,
+            "end": 439.52,
+            "text": "we have the option to map",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 202,
+            "start": 439.52,
+            "end": 441.4,
+            "text": "a single employee.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 203,
+            "start": 441.4,
+            "end": 443.58,
+            "text": "Because class teacher is single",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 204,
+            "start": 444.1,
+            "end": 444.6,
+            "text": "for a class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 205,
+            "start": 444.84,
+            "end": 447.42,
+            "text": "But if you want to do multiple,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 206,
+            "start": 447.42,
+            "end": 449.28,
+            "text": "you can use the coordinator.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 207,
+            "start": 450.02,
+            "end": 450.58,
+            "text": "From here, you can map",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 208,
+            "start": 450.58,
+            "end": 452.8,
+            "text": "all the coordinators for this class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 209,
+            "start": 455.16,
+            "end": 455.74,
+            "text": "And one more thing.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 210,
+            "start": 456.34,
+            "end": 457.18,
+            "text": "Those who are mapped by class teacher",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 211,
+            "start": 457.18,
+            "end": 459.44,
+            "text": "and coordinator, they have",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 212,
+            "start": 459.44,
+            "end": 461.56,
+            "text": "all the subjects of a particular class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 213,
+            "start": 462.34,
+            "end": 463.44,
+            "text": "So, they have access to all the subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 214,
+            "start": 465.58,
+            "end": 467.28,
+            "text": "Now, you feel that you have to give",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 215,
+            "start": 467.28,
+            "end": 470.36,
+            "text": "a single subject to a teacher.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 216,
+            "start": 470.36,
+            "end": 471.64,
+            "text": "For example, if he is a subject teacher,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 217,
+            "start": 472.18,
+            "end": 473.62,
+            "text": "from here, the subject teacher is mapped.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 218,
+            "start": 474.06,
+            "end": 475.78,
+            "text": "In the same subject teacher, you have the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 219,
+            "start": 475.78,
+            "end": 477.26,
+            "text": "to set multiple subject teachers.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 220,
+            "start": 480.19,
+            "end": 481.93,
+            "text": "This was our teacher mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 221,
+            "start": 482.11,
+            "end": 483.01,
+            "text": "Now, there is one more thing.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 222,
+            "start": 483.47,
+            "end": 485.49,
+            "text": "As I told you, by chance, you feel",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 223,
+            "start": 485.49,
+            "end": 487.41,
+            "text": "that the name of the subject",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 224,
+            "start": 487.41,
+            "end": 488.71,
+            "text": "I have to define something else.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 225,
+            "start": 489.01,
+            "end": 490.39,
+            "text": "So, in that case, this is the display name.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 226,
+            "start": 490.89,
+            "end": 492.21,
+            "text": "The display name that you will give,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 227,
+            "start": 492.65,
+            "end": 495.21,
+            "text": "in the future, like you will do marks entry",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 228,
+            "start": 495.21,
+            "end": 496.83,
+            "text": "at the end of the student, which is visible",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 229,
+            "start": 496.83,
+            "end": 498.53,
+            "text": "to the teacher, that display name",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 230,
+            "start": 498.53,
+            "end": 501.09,
+            "text": "will appear, which you will give the display name.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 231,
+            "start": 505.12,
+            "end": 508.84,
+            "text": "Now, if I edit this normal from here,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 232,
+            "start": 509.1,
+            "end": 510.0,
+            "text": "for example, I have made this",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 233,
+            "start": 510.0,
+            "end": 510.98,
+            "text": "single subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 234,
+            "start": 512.02,
+            "end": 513.48,
+            "text": "Now, I will edit this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 235,
+            "start": 513.88,
+            "end": 516.1,
+            "text": "So, I have this teacher map in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 236,
+            "start": 518.42,
+            "end": 520.0,
+            "text": "It is showing you",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 237,
+            "start": 520.0,
+            "end": 521.36,
+            "text": "what is the subject of English",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 238,
+            "start": 521.36,
+            "end": 522.96,
+            "text": "and what is the employee edit.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 239,
+            "start": 523.04,
+            "end": 524.66,
+            "text": "I have created this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 240,
+            "start": 524.84,
+            "end": 526.78,
+            "text": "I have not assigned this to anyone",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 241,
+            "start": 526.78,
+            "end": 529.68,
+            "text": "because the display name I have put",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 242,
+            "start": 529.68,
+            "end": 531.72,
+            "text": "ENG, now I have it everywhere",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 243,
+            "start": 531.72,
+            "end": 532.6,
+            "text": "I am using the name of ENG.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 244,
+            "start": 534.05,
+            "end": 535.05,
+            "text": "There is an icon,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 245,
+            "start": 535.31,
+            "end": 535.83,
+            "text": "we have this edit.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 246,
+            "start": 536.49,
+            "end": 537.77,
+            "text": "After every mapping is created,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 247,
+            "start": 538.31,
+            "end": 539.47,
+            "text": "you can make any further changes in it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 248,
+            "start": 543.02,
+            "end": 544.56,
+            "text": "Then, we have the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 249,
+            "start": 544.56,
+            "end": 546.38,
+            "text": "to assign by default.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 250,
+            "start": 546.5,
+            "end": 547.64,
+            "text": "All the subjects added,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 251,
+            "start": 547.76,
+            "end": 548.96,
+            "text": "general subjects added,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 252,
+            "start": 549.4,
+            "end": 551.16,
+            "text": "you will select from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 253,
+            "start": 551.7,
+            "end": 553.46,
+            "text": "If you assign from here,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 254,
+            "start": 553.76,
+            "end": 555.4,
+            "text": "all the students will get it in the class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 255,
+            "start": 555.5,
+            "end": 556.76,
+            "text": "I am not doing it now because",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 256,
+            "start": 556.76,
+            "end": 558.58,
+            "text": "we are making it according to the test.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 257,
+            "start": 558.58,
+            "end": 560.28,
+            "text": "Even then, I am not assigning the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 258,
+            "start": 561.66,
+            "end": 562.6,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 259,
+            "start": 562.74,
+            "end": 563.46,
+            "text": "Let's move on to some doubts.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 260,
+            "start": 567.08,
+            "end": 568.85,
+            "text": "Okay, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 261,
+            "start": 569.13,
+            "end": 569.69,
+            "text": "Will you tell me one thing?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 262,
+            "start": 569.83,
+            "end": 572.05,
+            "text": "Do you have the criteria for optional subjects?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 263,
+            "start": 574.2,
+            "end": 575.02,
+            "text": "Do you have the criteria for optional subjects?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 264,
+            "start": 575.68,
+            "end": 577.88,
+            "text": "Yes, we have.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 265,
+            "start": 577.88,
+            "end": 579.96,
+            "text": "Okay, sir. I will explain that once.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 266,
+            "start": 580.24,
+            "end": 582.08,
+            "text": "For example, the subject I have is",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 267,
+            "start": 582.08,
+            "end": 583.08,
+            "text": "an optional subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 268,
+            "start": 583.5,
+            "end": 585.26,
+            "text": "It can be additional or vocational.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 269,
+            "start": 585.66,
+            "end": 587.76,
+            "text": "You can set it according to that.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 270,
+            "start": 587.76,
+            "end": 589.64,
+            "text": "Then, you can simply edit it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 271,
+            "start": 591.79,
+            "end": 592.77,
+            "text": "Okay.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 272,
+            "start": 592.77,
+            "end": 595.5,
+            "text": "After that, you have defined",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 273,
+            "start": 595.5,
+            "end": 596.24,
+            "text": "this optional test.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 274,
+            "start": 596.98,
+            "end": 598.6,
+            "text": "But from here, you can set it in bulk",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 275,
+            "start": 598.6,
+            "end": 599.54,
+            "text": "for all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 276,
+            "start": 600.24,
+            "end": 601.68,
+            "text": "Now, it is an optional subject,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 277,
+            "start": 601.8,
+            "end": 602.96,
+            "text": "so it won't be applied to all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 278,
+            "start": 604.4,
+            "end": 606.62,
+            "text": "Now, how can we set it?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 279,
+            "start": 606.76,
+            "end": 608.24,
+            "text": "For that, you have a separate option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 280,
+            "start": 608.24,
+            "end": 609.76,
+            "text": "for assigned subjects.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 281,
+            "start": 610.94,
+            "end": 613.24,
+            "text": "We assign optional subjects from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 282,
+            "start": 613.48,
+            "end": 614.56,
+            "text": "You have selected the class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 283,
+            "start": 615.26,
+            "end": 618.22,
+            "text": "You have a list of the students",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 284,
+            "start": 618.22,
+            "end": 619.36,
+            "text": "from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 285,
+            "start": 620.09,
+            "end": 623.05,
+            "text": "Now, which of these students",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 286,
+            "start": 623.05,
+            "end": 625.25,
+            "text": "do you want to assign the English optional subject to?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 287,
+            "start": 625.33,
+            "end": 627.51,
+            "text": "You will select the students",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 288,
+            "start": 627.51,
+            "end": 628.79,
+            "text": "from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 289,
+            "start": 630.29,
+            "end": 631.83,
+            "text": "After selecting,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 290,
+            "start": 632.13,
+            "end": 632.81,
+            "text": "you have the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 291,
+            "start": 632.81,
+            "end": 634.05,
+            "text": "to assign the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 292,
+            "start": 634.67,
+            "end": 635.99,
+            "text": "You have created the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 293,
+            "start": 636.95,
+            "end": 638.97,
+            "text": "and here you will get the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 294,
+            "start": 640.75,
+            "end": 642.51,
+            "text": "As soon as you add the subject,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 295,
+            "start": 642.73,
+            "end": 644.41,
+            "text": "it will only apply to the students",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 296,
+            "start": 644.67,
+            "end": 645.89,
+            "text": "whom you have selected.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 297,
+            "start": 645.89,
+            "end": 646.97,
+            "text": "It won't apply to all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 298,
+            "start": 652.98,
+            "end": 653.76,
+            "text": "They have told us about the whole class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 299,
+            "start": 655.0,
+            "end": 656.28,
+            "text": "The whole class will be assigned from there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 300,
+            "start": 657.4,
+            "end": 658.88,
+            "text": "The subject class mapping",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 301,
+            "start": 660.28,
+            "end": 661.74,
+            "text": "You have made it as a general map.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 302,
+            "start": 663.12,
+            "end": 665.72,
+            "text": "You have to make a general map",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 303,
+            "start": 666.28,
+            "end": 667.4,
+            "text": "After making a general map,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 304,
+            "start": 667.8,
+            "end": 669.52,
+            "text": "you can directly edit and assign from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 305,
+            "start": 670.26,
+            "end": 671.7,
+            "text": "Click and assign from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 306,
+            "start": 671.82,
+            "end": 672.66,
+            "text": "I am not doing it now.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 307,
+            "start": 672.8,
+            "end": 673.32,
+            "text": "It will apply to all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 308,
+            "start": 673.76,
+            "end": 683.23,
+            "text": "You have the option from outside",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 309,
+            "start": 683.23,
+            "end": 685.37,
+            "text": "You have the same option from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 310,
+            "start": 685.83,
+            "end": 686.81,
+            "text": "Click and assign from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 311,
+            "start": 686.89,
+            "end": 687.63,
+            "text": "It will apply to all the students.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 312,
+            "start": 691.17,
+            "end": 692.29,
+            "text": "This was the part",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 313,
+            "start": 692.29,
+            "end": 694.49,
+            "text": "of creating the subject class mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 314,
+            "start": 695.79,
+            "end": 696.53,
+            "text": "According to this,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 315,
+            "start": 696.57,
+            "end": 697.61,
+            "text": "we will define the timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 316,
+            "start": 698.75,
+            "end": 700.65,
+            "text": "For that, you will have the option",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 317,
+            "start": 700.65,
+            "end": 702.53,
+            "text": "of creating the timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 318,
+            "start": 704.74,
+            "end": 705.8,
+            "text": "You will do that part.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 319,
+            "start": 706.0,
+            "end": 707.76,
+            "text": "From here, we will define the timetable",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 320,
+            "start": 707.76,
+            "end": 710.42,
+            "text": "of the subject and the teacher",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 321,
+            "start": 710.42,
+            "end": 711.66,
+            "text": "how to map in the future.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 322,
+            "start": 712.98,
+            "end": 713.68,
+            "text": "For example,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 323,
+            "start": 713.82,
+            "end": 715.0,
+            "text": "I will create a timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 324,
+            "start": 715.46,
+            "end": 716.76,
+            "text": "Add new timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 325,
+            "start": 718.15,
+            "end": 718.85,
+            "text": "You have selected the class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 326,
+            "start": 719.21,
+            "end": 720.89,
+            "text": "I have a single class in mapping.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 327,
+            "start": 721.17,
+            "end": 722.53,
+            "text": "You are making a timetable of single class.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 328,
+            "start": 724.45,
+            "end": 725.93,
+            "text": "After that, add new schedule.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 329,
+            "start": 726.69,
+            "end": 727.89,
+            "text": "Now, you will define",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 330,
+            "start": 727.89,
+            "end": 729.17,
+            "text": "the lecture number.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 331,
+            "start": 730.09,
+            "end": 731.25,
+            "text": "Lecture number 1.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 332,
+            "start": 731.33,
+            "end": 733.01,
+            "text": "When is your lecture number 1 starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 333,
+            "start": 733.19,
+            "end": 735.53,
+            "text": "Start time, end time, or just a minute.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 334,
+            "start": 751.54,
+            "end": 752.56,
+            "text": "At least,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 335,
+            "start": 752.56,
+            "end": 753.58,
+            "text": "you have to do it 10 times.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 336,
+            "start": 756.51,
+            "end": 756.87,
+            "text": "Yes, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 337,
+            "start": 757.43,
+            "end": 760.07,
+            "text": "Shall we continue?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 338,
+            "start": 761.49,
+            "end": 762.81,
+            "text": "Yes, sir.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 339,
+            "start": 763.65,
+            "end": 764.19,
+            "text": "Just a minute.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 340,
+            "start": 765.45,
+            "end": 766.35,
+            "text": "What we have to do is",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 341,
+            "start": 766.35,
+            "end": 767.11,
+            "text": "add the schedule.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 342,
+            "start": 767.19,
+            "end": 768.71,
+            "text": "In the schedule, first we have",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 343,
+            "start": 768.71,
+            "end": 769.63,
+            "text": "lecture number 1.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 344,
+            "start": 769.97,
+            "end": 771.37,
+            "text": "In the fifth class,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 345,
+            "start": 772.19,
+            "end": 774.57,
+            "text": "when is my lecture number 1 starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 346,
+            "start": 774.67,
+            "end": 777.33,
+            "text": "For example, my lecture starts",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 347,
+            "start": 777.33,
+            "end": 778.25,
+            "text": "exactly at 8 am.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 348,
+            "start": 779.76,
+            "end": 781.58,
+            "text": "From 8 to",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 349,
+            "start": 781.58,
+            "end": 782.92,
+            "text": "8.45,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 350,
+            "start": 783.3,
+            "end": 784.14,
+            "text": "my first lecture.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 351,
+            "start": 784.92,
+            "end": 785.36,
+            "text": "8.40.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 352,
+            "start": 788.74,
+            "end": 790.0,
+            "text": "8.40 am.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 353,
+            "start": 790.48,
+            "end": 791.68,
+            "text": "After that, you can save",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 354,
+            "start": 791.68,
+            "end": 792.2,
+            "text": "this schedule.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 355,
+            "start": 793.58,
+            "end": 794.88,
+            "text": "You can add more lectures.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 356,
+            "start": 795.56,
+            "end": 796.54,
+            "text": "You have defined the second lecture.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 357,
+            "start": 798.06,
+            "end": 800.4,
+            "text": "My first lecture is 8 to 8.40.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 358,
+            "start": 800.76,
+            "end": 802.24,
+            "text": "Automatically, lecture 2",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 359,
+            "start": 802.24,
+            "end": 802.88,
+            "text": "starts from 8.40.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 360,
+            "start": 803.88,
+            "end": 806.38,
+            "text": "When is my second lecture starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 361,
+            "start": 806.38,
+            "end": 808.64,
+            "text": "Can you tell us when is your second lecture starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 362,
+            "start": 809.18,
+            "end": 810.24,
+            "text": "9.20.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 363,
+            "start": 810.24,
+            "end": 811.9,
+            "text": "9.20.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 364,
+            "start": 812.52,
+            "end": 813.84,
+            "text": "I am creating only two lectures.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 365,
+            "start": 814.6,
+            "end": 815.24,
+            "text": "I created two lectures.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 366,
+            "start": 816.16,
+            "end": 817.34,
+            "text": "I saved the schedule.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 367,
+            "start": 817.7,
+            "end": 818.82,
+            "text": "I am asking for all the schedules.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 368,
+            "start": 819.16,
+            "end": 821.74,
+            "text": "You have to add all the timings.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 369,
+            "start": 823.12,
+            "end": 824.02,
+            "text": "Lecture 3,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 370,
+            "start": 824.1,
+            "end": 825.02,
+            "text": "from 9.20.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 371,
+            "start": 825.44,
+            "end": 826.86,
+            "text": "Till when is the third lecture starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 372,
+            "start": 827.94,
+            "end": 829.6,
+            "text": "Till 10 o'clock.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 373,
+            "start": 830.15,
+            "end": 831.03,
+            "text": "Till 10 o'clock.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 374,
+            "start": 833.3,
+            "end": 835.6,
+            "text": "Then, your fourth lecture will start.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 375,
+            "start": 837.42,
+            "end": 838.5,
+            "text": "Till when is your fourth lecture starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 376,
+            "start": 839.1,
+            "end": 841.68,
+            "text": "Till 10.40.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 377,
+            "start": 841.68,
+            "end": 843.76,
+            "text": "When is your break starting?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 378,
+            "start": 844.48,
+            "end": 845.28,
+            "text": "After 10.40,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 379,
+            "start": 845.54,
+            "end": 846.44,
+            "text": "I have a 10-minute break.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 380,
+            "start": 847.6,
+            "end": 848.98,
+            "text": "So, this is your break",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 381,
+            "start": 848.98,
+            "end": 850.78,
+            "text": "in lecture 5, right?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 382,
+            "start": 851.1,
+            "end": 852.78,
+            "text": "Yes, till 10.50.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 383,
+            "start": 853.2,
+            "end": 854.06,
+            "text": "Till 10.50.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 384,
+            "start": 857.1,
+            "end": 859.28,
+            "text": "Then, your lecture 6.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 385,
+            "start": 859.62,
+            "end": 860.32,
+            "text": "6.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 386,
+            "start": 862.81,
+            "end": 864.53,
+            "text": "This is 10.50",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 387,
+            "start": 864.53,
+            "end": 865.65,
+            "text": "to 11.30.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 388,
+            "start": 870.47,
+            "end": 870.99,
+            "text": "11.30.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 389,
+            "start": 879.91,
+            "end": 885.5,
+            "text": "From 11.30,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 390,
+            "start": 885.68,
+            "end": 886.14,
+            "text": "your break starts.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 391,
+            "start": 886.14,
+            "end": 887.68,
+            "text": "Till 12.5.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 392,
+            "start": 896.9,
+            "end": 905.24,
+            "text": "Till 12.5.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 393,
+            "start": 911.45,
+            "end": 914.19,
+            "text": "Is your break single?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 394,
+            "start": 916.53,
+            "end": 916.83,
+            "text": "Yes.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 395,
+            "start": 917.15,
+            "end": 917.97,
+            "text": "After lecture 6,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 396,
+            "start": 918.11,
+            "end": 918.73,
+            "text": "your break will start.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 397,
+            "start": 920.76,
+            "end": 922.16,
+            "text": "After lecture 6,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 398,
+            "start": 922.44,
+            "end": 923.12,
+            "text": "your break will start.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 399,
+            "start": 923.16,
+            "end": 926.06,
+            "text": "I will put the time.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 400,
+            "start": 927.1,
+            "end": 927.38,
+            "text": "I will put the time.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 401,
+            "start": 952.85,
+            "end": 955.65,
+            "text": "I will put the time.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 402,
+            "start": 955.65,
+            "end": 955.69,
+            "text": "What is your break?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 403,
+            "start": 957.07,
+            "end": 957.87,
+            "text": "It is your lecture 9.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 404,
+            "start": 958.99,
+            "end": 960.99,
+            "text": "If you start from 1, it will go up to lecture 9.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 405,
+            "start": 961.61,
+            "end": 963.57,
+            "text": "If you start from 0, it will go up to lecture 8.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 406,
+            "start": 964.27,
+            "end": 965.29,
+            "text": "Make that as per your own.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 407,
+            "start": 966.05,
+            "end": 967.99,
+            "text": "I am making it like this for the test.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 408,
+            "start": 968.19,
+            "end": 968.69,
+            "text": "I am making it like this for the test.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 409,
+            "start": 969.07,
+            "end": 969.57,
+            "text": "Will it change?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 410,
+            "start": 970.41,
+            "end": 971.59,
+            "text": "Yes, it will change.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 411,
+            "start": 971.97,
+            "end": 973.65,
+            "text": "We have just created it like this.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 412,
+            "start": 974.29,
+            "end": 975.13,
+            "text": "We have added the schedule of the lecture.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 413,
+            "start": 976.63,
+            "end": 977.79,
+            "text": "It will change completely.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 414,
+            "start": 978.71,
+            "end": 980.95,
+            "text": "It will be according to your choice.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 415,
+            "start": 981.13,
+            "end": 983.1,
+            "text": "Give me a minute.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 416,
+            "start": 1048.28,
+            "end": 1049.54,
+            "text": "OK sir, what is next?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 417,
+            "start": 1050.64,
+            "end": 1052.24,
+            "text": "You can now add the timetable.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 418,
+            "start": 1052.38,
+            "end": 1054.78,
+            "text": "Class 5's lecture schedule that I made",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 419,
+            "start": 1054.78,
+            "end": 1055.78,
+            "text": "using the name of class 5.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 420,
+            "start": 1057.0,
+            "end": 1057.08,
+            "text": "OK?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 421,
+            "start": 1057.6,
+            "end": 1057.7,
+            "text": "Now according to the schedule",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 422,
+            "start": 1057.7,
+            "end": 1058.56,
+            "text": "of class 5.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 423,
+            "start": 1062.98,
+            "end": 1064.24,
+            "text": "Your timing is coming,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 424,
+            "start": 1064.34,
+            "end": 1065.62,
+            "text": "you can change now.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 425,
+            "start": 1066.36,
+            "end": 1067.74,
+            "text": "Whatever you feel like.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 426,
+            "start": 1068.56,
+            "end": 1070.32,
+            "text": "Then you have it",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 427,
+            "start": 1071.12,
+            "end": 1072.26,
+            "text": "Monday, Tuesday, Wednesday,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 428,
+            "start": 1072.4,
+            "end": 1073.42,
+            "text": "Thursday, Friday, Saturday.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 429,
+            "start": 1073.6,
+            "end": 1074.32,
+            "text": "How is each subject?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 430,
+            "start": 1074.32,
+            "end": 1080.96,
+            "text": "You have to add the name of the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 431,
+            "start": 1081.38,
+            "end": 1082.54,
+            "text": "There is a single subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 432,
+            "start": 1083.04,
+            "end": 1083.58,
+            "text": "Add the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 433,
+            "start": 1084.54,
+            "end": 1088.66,
+            "text": "I have mapped two teachers for English for the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 434,
+            "start": 1089.24,
+            "end": 1090.24,
+            "text": "I have selected them.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 435,
+            "start": 1090.82,
+            "end": 1091.26,
+            "text": "I will push.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 436,
+            "start": 1091.52,
+            "end": 1092.34,
+            "text": "I have the subject.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 437,
+            "start": 1094.76,
+            "end": 1096.28,
+            "text": "I will remove it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 438,
+            "start": 1097.59,
+            "end": 1099.03,
+            "text": "You can also remove it from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 439,
+            "start": 1099.27,
+            "end": 1100.41,
+            "text": "I have clicked on it.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 440,
+            "start": 1100.41,
+            "end": 1102.05,
+            "text": "Subject English.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 441,
+            "start": 1103.02,
+            "end": 1103.42,
+            "text": "Name of the employee.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 442,
+            "start": 1104.3,
+            "end": 1104.48,
+            "text": "Push.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 443,
+            "start": 1104.48,
+            "end": 1105.56,
+            "text": "You have mapped the teacher.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 444,
+            "start": 1107.7,
+            "end": 1110.28,
+            "text": "If you feel there is someone else on Tuesday,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 445,
+            "start": 1110.52,
+            "end": 1111.46,
+            "text": "then the same option will remain.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 446,
+            "start": 1112.22,
+            "end": 1114.54,
+            "text": "You have to define the break from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 447,
+            "start": 1114.54,
+            "end": 1115.68,
+            "text": "Define the break from here.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 448,
+            "start": 1118.45,
+            "end": 1120.63,
+            "text": "You can also run two subjects at the same time.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 449,
+            "start": 1121.33,
+            "end": 1122.99,
+            "text": "There is an option for another.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 450,
+            "start": 1123.98,
+            "end": 1126.08,
+            "text": "If there is someone else, you can add that too.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 451,
+            "start": 1129.85,
+            "end": 1131.47,
+            "text": "It is proper to define the subject on Monday, Tuesday, Wednesday.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 452,
+            "start": 1133.67,
+            "end": 1136.51,
+            "text": "Define the subject and push from there.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 453,
+            "start": 1136.51,
+            "end": 1139.41,
+            "text": "There is a break on that date and time period.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 454,
+            "start": 1140.03,
+            "end": 1142.05,
+            "text": "If you click on it and toggle on the break,",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 455,
+            "start": 1142.25,
+            "end": 1143.13,
+            "text": "then the break will start.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 456,
+            "start": 1144.35,
+            "end": 1145.61,
+            "text": "Same push and remove.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 457,
+            "start": 1145.61,
+            "end": 1146.67,
+            "text": "Both options remain.",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        },
+        {
+            "id": 458,
+            "start": 1152.72,
+            "end": 1155.78,
+            "text": "In this part, how to create a timetable in a query?",
+            "speaker": "Unknown",
+            "module": "",
+            "topic": "",
+            "keywords": []
+        }
+    ]
+}

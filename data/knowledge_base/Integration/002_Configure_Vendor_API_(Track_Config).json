@@ -1,0 +1,53 @@
+{
+    "module": "Integration",
+    "topic": "Configure Vendor API (Track Config)",
+    "summary": "Track Config is used to set up the details of a vendor's API for vehicle tracking. This involves defining the API URL, the HTTP method (GET or POST), any necessary query parameters, and request headers. It also includes specifying the GPS ID Key which the backend uses to match ERP vehicle IDs with the vendor's system.",
+    "navigation": [],
+    "steps": [
+        "**API URL:** Copy the base API URL from the vendor's documentation. This is typically the part of the URL before any query parameters (i.e., before the first '?').",
+        "**Method:** Select the appropriate HTTP method (GET or POST) based on the vendor's API configuration. GET is used when query parameters are attached to the URL, while POST is used for sending data in an object (request body).",
+        "**Query Parameters:** Add any required query parameters, such as authentication tokens or additional values needed to call the API. For example, `token=your_token_value`. The GPS ID Key (e.g., 'wickle number') is also configured here to pass the ERP vehicle's GPS ID to the vendor API.",
+        "**Headers:** Configure request headers, such as `Accept` with a value of `application/json`, to specify the expected response format.",
+        "**Request Body:** (Applicable for POST requests only) Configure the data object to be sent in the request body."
+    ],
+    "business_rules": [
+        "The choice between GET and POST methods depends entirely on how the vendor has configured their API.",
+        "The setup for Track Config is a one-time configuration on the backend; the app will automatically call the configured API based on this setup.",
+        "The GPS ID Key in Track Config is the parameter name (e.g., 'wickle number') that the vendor's API expects to receive the vehicle's unique ID."
+    ],
+    "important_notes": [
+        "Query patterns are values attached after a '?' in the URL.",
+        "The 'Test Connection' feature allows verifying the API configuration and viewing the raw response, but it may have UI issues and might not always work as expected on the portal."
+    ],
+    "questions": [
+        "How do I configure a new vendor API for tracking?",
+        "What is the difference between GET and POST methods in Track Config?",
+        "Where do I specify the API URL and query parameters?",
+        "How do I ensure the API response is in JSON format?",
+        "What is the purpose of the GPS ID Key in Track Config?"
+    ],
+    "keywords": [
+        "Track Config",
+        "API URL",
+        "GET method",
+        "POST method",
+        "Query Parameters",
+        "Headers",
+        "Request Body",
+        "GPS ID Key",
+        "Vendor API setup",
+        "API integration",
+        "Test Connection"
+    ],
+    "related_topics": [
+        "AuthConfig Overview",
+        "Configure Vendor API Response (Response Config)",
+        "Assigning Vendor GPS ID to Vehicles"
+    ],
+    "id": "integration_configure_vendor_api_track_config",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

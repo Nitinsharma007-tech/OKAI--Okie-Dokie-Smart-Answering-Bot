@@ -1,0 +1,42 @@
+{
+    "module": "Fees",
+    "topic": "Cancelling a Fee Receipt",
+    "summary": "Describes the process of cancelling a fee receipt and where the cancelled transactions are reported.",
+    "navigation": [
+        "Fees > Fee Transaction List > (select transaction) > Cancel"
+    ],
+    "steps": [
+        "Navigate to the \"Fee Transaction List\".",
+        "Select the receipt to be cancelled.",
+        "Choose the \"Cancel\" option.",
+        "Provide a remark explaining the reason for cancellation.",
+        "Save the cancellation."
+    ],
+    "business_rules": [
+        "Cancelled receipts will appear in the \"Cancellation Report\" and can be filtered by \"status: cancel\" in other reports."
+    ],
+    "important_notes": [
+        "A remark is required when cancelling a receipt."
+    ],
+    "questions": [
+        "How do I cancel a fee receipt?",
+        "Where can I find cancelled fee receipts?",
+        "What information is required when cancelling a receipt?"
+    ],
+    "keywords": [
+        "cancel receipt",
+        "fee transaction",
+        "cancellation report",
+        "void receipt"
+    ],
+    "related_topics": [
+        "Student Fee Collection",
+        "Fee Reports"
+    ],
+    "id": "fees_cancelling_a_fee_receipt",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

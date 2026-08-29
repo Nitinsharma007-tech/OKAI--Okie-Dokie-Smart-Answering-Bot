@@ -1,0 +1,54 @@
+{
+    "module": "HRM",
+    "topic": "View and Edit Processed Salaries (Salary Summary Month Wise)",
+    "summary": "This feature allows users to view the processed salaries for a specific month for all or selected employees and make individual adjustments to earning or deduction amounts.",
+    "navigation": [
+        "HRM",
+        "Salary Summary Month Wise"
+    ],
+    "steps": [
+        "Navigate to \"HRM\" > \"Salary Summary Month Wise\".",
+        "Select the \"Year\" and \"Month\" for which you want to view salaries.",
+        "Click \"Go\". (Leaving other fields blank will show all employees).",
+        "Review the list of employees with their IDs, names, departments, designations, payable days, gross salary, deduction amount, and paid salary.",
+        "To make changes for a specific employee, click the \"View\" option corresponding to their entry.",
+        "The employee's complete salary structure will open.",
+        "To modify an existing head, change the amount directly.",
+        "To add a new earning or deduction head, click \"Add\", select the head, and enter the amount (e.g., adding \"Advance Recovery\" deduction).",
+        "After making changes, enter \"Remarks\" explaining the modification (e.g., \"Advance Recovery added\").",
+        "Click \"Save\". A pop-up will confirm that the changes have been saved."
+    ],
+    "business_rules": [
+        "Any changes made to an employee's processed salary must be accompanied by remarks to be saved and reflected."
+    ],
+    "important_notes": [
+        "This is the primary place to make ad-hoc changes to an employee's salary for a specific month after it has been processed.",
+        "Changes made here only affect the current month's processed salary, not the underlying salary template (contract)."
+    ],
+    "questions": [
+        "How can I view the salaries processed for a particular month?",
+        "Where do I go to edit an employee's salary after it has been processed?",
+        "How do I add an advance deduction to an employee's salary for the current month?",
+        "What are \"Remarks\" for when editing a salary?",
+        "Can I change an employee's basic salary for a month from here?"
+    ],
+    "keywords": [
+        "salary summary",
+        "edit salary",
+        "monthly payroll",
+        "advance recovery",
+        "deduction adjustment",
+        "HRM salary view",
+        "salary changes"
+    ],
+    "related_topics": [
+        "Processing Employee Salaries",
+        "Creating Earning and Deduction Heads"
+    ],
+    "id": "hrm_view_and_edit_processed_salaries_salary_summary_month_wise",
+    "source": {
+        "file": "4. 1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

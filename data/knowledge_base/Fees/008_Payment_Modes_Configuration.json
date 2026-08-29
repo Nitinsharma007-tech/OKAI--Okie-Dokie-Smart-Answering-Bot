@@ -1,0 +1,45 @@
+{
+    "module": "Fees",
+    "topic": "Payment Modes Configuration",
+    "summary": "This configuration defines the various methods by which payments (fees, miscellaneous charges, other income) can be received by the institution, offering flexibility to payers.",
+    "navigation": [
+        "Payment Modes"
+    ],
+    "steps": [
+        "Define and enable all accepted payment modes (e.g., 'Cash', 'Cheque', 'Bank Transfer', 'Card', 'Online Bank', 'QR Code')."
+    ],
+    "business_rules": [
+        "When entering any payment, one payment mode must be selected to categorize the transaction.",
+        "Static QR codes can be set up at fee counters for easy digital payments."
+    ],
+    "important_notes": [
+        "Ensures flexibility and convenience for students/payers in making payments.",
+        "Proper configuration helps in tracking payment methods for reporting and reconciliation."
+    ],
+    "questions": [
+        "How do I configure accepted payment methods in the ERP system?",
+        "Can I add new payment modes like 'QR Code' or 'Online Payment'?",
+        "Where do I select the payment mode when recording a fee payment?",
+        "What are the standard payment modes supported by the system?"
+    ],
+    "keywords": [
+        "Payment modes",
+        "payment methods",
+        "cash payment",
+        "cheque payment",
+        "bank transfer",
+        "card payment",
+        "online payment",
+        "QR code payment"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Institute Bank Setup"
+    ],
+    "id": "fees_payment_modes_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

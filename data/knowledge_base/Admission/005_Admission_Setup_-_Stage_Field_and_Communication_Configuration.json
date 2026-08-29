@@ -1,0 +1,75 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup - Stage Field and Communication Configuration",
+    "summary": "Details the advanced configuration of admission stages, including sequencing stages, assigning counselors for restricted visibility, setting up automated communication (SMS, WhatsApp, Email), and defining which fields are visible, mandatory, and grouped at each specific stage.",
+    "navigation": [
+        "Admission Module",
+        "Admission Setup",
+        "Stage Setup"
+    ],
+    "steps": [
+        "Navigate to Admission Module > Admission Setup.",
+        "Click on \"Stage Setup\".",
+        "To create a new stage setup, click \"Add Stage Setup\". (Alternatively, copy stages from old sessions).",
+        "Select the \"Stage Name\" from the dropdown (stages defined in Stage Master).",
+        "Assign a \"Sequence Number\" to define the order in which stages appear.",
+        "Select the \"Stage Type\": 'Lead' for initial, fresh inquiries or 'Application' once work has begun.",
+        "**To Assign Stage Counselor (Optional):** Select a specific counselor from the dropdown. This restricts visibility.",
+        "**To Configure Communication Preferences (Optional):** Select an \"SMS Template\", \"WhatsApp Template\", and/or \"Email Template\" from the dropdowns.",
+        "**To Configure Fields for the Stage:**",
+        "Click \"Add Field\" to add individual fields, or \"Select Multiple Fields\" to add common fields at once, or \"Copy Field\" to duplicate fields from an existing stage.",
+        "For each field: Select \"Field Name\", toggle \"Mandatory\" if required, select \"Field Type\" (e.g., Text, Date, Select Box, Phone Number, File Type).",
+        "For \"Select Box\" type, add multiple values (e.g., \"Male\", \"Female\", \"Others\").",
+        "Assign a \"Group By\" name (e.g., \"Personal Details\", \"Transport Details\") to organize fields on the page.",
+        "Assign a \"Sequence Number\" within the group to control the display order of fields.",
+        "Save the stage setup."
+    ],
+    "business_rules": [
+        "An application at a stage with an assigned counselor will only be visible to that specific counselor; their screen will be blank for applications not yet at their assigned stage.",
+        "When a lead moves to a stage with configured communication preferences, the selected SMS, WhatsApp, or Email will be automatically triggered.",
+        "Only relevant fields should be displayed at each stage to avoid clutter and improve user experience.",
+        "Fields can be grouped and sequenced for better organization and presentation on the application page."
+    ],
+    "important_notes": [
+        "The 'Stage Type' (Lead/Application) is an advanced concept; 'Lead' is typically for the very first, untouched inquiry.",
+        "Admin users have full visibility of all applications, regardless of counselor assignment.",
+        "Copying fields from existing stages can significantly speed up the setup process."
+    ],
+    "questions": [
+        "How do I define which fields are visible and mandatory at each admission stage?",
+        "Can I set up automated SMS or email notifications when an application moves to a new stage?",
+        "How can I restrict a counselor's view to only applications that have reached their assigned stage?",
+        "What is the purpose of 'Group By' and 'Sequence Number' when configuring fields for a stage?",
+        "How do I add options for a 'Select Box' field type?",
+        "What is the difference between 'Lead' and 'Application' stage types in the stage setup?"
+    ],
+    "keywords": [
+        "Stage Setup",
+        "Field configuration",
+        "Mandatory fields",
+        "Stage sequence",
+        "Stage type",
+        "Lead stage",
+        "Application stage",
+        "Stage counselor",
+        "Communication preferences",
+        "SMS template",
+        "WhatsApp template",
+        "Email template",
+        "Field type",
+        "Group By",
+        "Field sequencing",
+        "Copy fields",
+        "Admission workflow"
+    ],
+    "related_topics": [
+        "Admission Setup - Stage Master Configuration",
+        "Lead vs. Application Stage Type Distinction"
+    ],
+    "id": "admission_admission_setup_stage_field_and_communication_configuration",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

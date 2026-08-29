@@ -1,0 +1,33 @@
+{
+    "module": "Education Management",
+    "topic": "Schools Module Overview",
+    "summary": "The Schools module in the ERP system is used to manage data and operations specific to different schools or departments within an educational institution.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [],
+    "questions": [
+        "What information can be configured in the Schools module?",
+        "How do I add a new school or department to the system?",
+        "What is the relationship between the Schools module and the Student module?"
+    ],
+    "keywords": [
+        "Schools module",
+        "school management",
+        "educational institutions",
+        "department management",
+        "school configuration"
+    ],
+    "related_topics": [
+        "Student Module",
+        "University Charges",
+        "Academic Programs",
+        "Campus Management"
+    ],
+    "id": "education_management_schools_module_overview",
+    "source": {
+        "file": "16. 720p-syb-fmmz-jmq (2025-07-09 12_10 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

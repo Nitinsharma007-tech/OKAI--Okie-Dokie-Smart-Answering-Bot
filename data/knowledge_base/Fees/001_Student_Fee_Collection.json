@@ -1,0 +1,61 @@
+{
+    "module": "Fees",
+    "topic": "Student Fee Collection",
+    "summary": "Describes the process of collecting fees from students, including full and partial payments, selecting specific fee heads, and handling different payment modes.",
+    "navigation": [
+        "Student's profile > collect fee",
+        "Fee > collect fee"
+    ],
+    "steps": [
+        "Navigate to the \"collect fee\" page.",
+        "Search for the student using their admission number or name.",
+        "Select the desired terms/months for fee collection.",
+        "To collect a partial amount for a specific month, manually enter the reduced amount.",
+        "To adjust amounts across different fee heads (e.g., admission fee, tuition fee), manually edit the amounts for each head.",
+        "To collect fees for only specific heads, un-tick the other fee heads.",
+        "Click \"Proceed\".",
+        "Select the payment mode (e.g., Cash, Check, Demand Draft, Online Bank Transfer).",
+        "If applicable (e.g., Check, Online Bank Transfer), enter the reference number and the payment date (date amount was received).",
+        "Click \"Collect Fees\" to generate the receipt.",
+        "To collect the entire outstanding amount for all terms, click \"all\" to select all installments, then proceed with payment."
+    ],
+    "business_rules": [
+        "Reference number and payment date are mandatory for certain payment modes (e.g., online, check)."
+    ],
+    "important_notes": [
+        "The 'payment date' is the date the amount was physically received (e.g., cheque date), which may differ from the 'transaction date' (date entered in ERP)."
+    ],
+    "questions": [
+        "How do I collect fees from a student?",
+        "Can I collect a partial fee amount for a specific month?",
+        "How can I adjust the collected amount across different fee heads?",
+        "What is the difference between payment date and transaction date during fee collection?",
+        "How do I collect fees for only specific fee heads?",
+        "How can I collect the full outstanding fee amount for all terms?"
+    ],
+    "keywords": [
+        "collect fee",
+        "student fee",
+        "fee payment",
+        "partial payment",
+        "fee heads",
+        "payment mode",
+        "reference number",
+        "payment date",
+        "transaction date",
+        "admission fee",
+        "tuition fee",
+        "collect full amount"
+    ],
+    "related_topics": [
+        "Fee Setup",
+        "Fee Reports",
+        "Concession Management"
+    ],
+    "id": "fees_student_fee_collection",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

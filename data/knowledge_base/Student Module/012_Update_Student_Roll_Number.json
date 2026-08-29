@@ -1,0 +1,48 @@
+{
+    "module": "Student Module",
+    "topic": "Update Student Roll Number",
+    "summary": "Allows teachers to update or assign roll numbers to students within their specific class.",
+    "navigation": [
+        "Student Module",
+        "Update Roll Number"
+    ],
+    "steps": [
+        "Navigate to the section for 'Update Roll Number' (exact path may vary, often found under student management).",
+        "Select the relevant 'Class' (e.g., Class 1).",
+        "A list of students for the selected class will be displayed.",
+        "Click on 'Edit Roll Number' (or a similar option) to make the fields editable.",
+        "Enter or modify the roll numbers for the students as required.",
+        "Save the changes to update the roll numbers."
+    ],
+    "business_rules": [
+        "Teachers are typically responsible for assigning and updating roll numbers for students within their assigned classes.",
+        "Roll numbers are distinct from admission numbers and must be assigned separately."
+    ],
+    "important_notes": [
+        "This feature is essential for maintaining accurate class rosters and student identification within a class.",
+        "Ensure that roll numbers are unique within a class."
+    ],
+    "questions": [
+        "How do I update student roll numbers for a class?",
+        "Can a teacher assign roll numbers to students?",
+        "Where can I find the option to edit roll numbers for students in my class?",
+        "What is the process for managing student roll numbers?"
+    ],
+    "keywords": [
+        "Update roll number",
+        "assign roll number",
+        "student roll number",
+        "class roll numbers",
+        "edit roll number"
+    ],
+    "related_topics": [
+        "Add New Student (Individual)",
+        "Student Profile Management"
+    ],
+    "id": "student_module_update_student_roll_number",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

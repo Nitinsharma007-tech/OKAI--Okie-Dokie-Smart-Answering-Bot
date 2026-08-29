@@ -1,0 +1,43 @@
+{
+    "module": "Admissions",
+    "topic": "Registration and Application Fees",
+    "summary": "These are fees collected from prospective students for registration or application forms before they are formally admitted to the school or college. They are not part of the regular fee demand.",
+    "navigation": [],
+    "steps": [
+        "Utilize a separate form in the system for the registration of prospective children.",
+        "Collect payment against this registration or application."
+    ],
+    "business_rules": [
+        "Collected from children who are *not yet* registered as students in the school/college.",
+        "Not part of the regular fee demand structure for admitted students.",
+        "A separate form and process are used for collection, distinct from regular fee collection."
+    ],
+    "important_notes": [
+        "These fees are specifically for prospective students, unlike regular fees or miscellaneous charges which are for admitted students.",
+        "They do not contribute to a student's academic demand."
+    ],
+    "questions": [
+        "How do I process registration fees for new applicants?",
+        "Are registration fees considered part of the student's regular fee demand?",
+        "Can I generate a receipt for application charges?",
+        "What is the difference between registration fees and regular tuition fees?",
+        "How are prospector charges handled in the system?"
+    ],
+    "keywords": [
+        "Registration fee",
+        "application fee",
+        "prospectors charges",
+        "admission fees",
+        "pre-admission fees"
+    ],
+    "related_topics": [
+        "Admissions Module",
+        "Fee Collection"
+    ],
+    "id": "admissions_registration_and_application_fees",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

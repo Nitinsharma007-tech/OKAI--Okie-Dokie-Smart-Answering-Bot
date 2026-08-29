@@ -1,0 +1,72 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Customization and Debugging",
+    "summary": "This topic provides guidance on customizing PDF templates by modifying their underlying code and using dynamic variables. It also covers essential debugging techniques to identify and correct issues with missing or incorrect data in printed templates.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "PDF Template"
+    ],
+    "steps": [
+        "**Load Template**: Select the desired template type (e.g., Character Certificate) and click \"Load Template\" to retrieve its existing code.",
+        "**Modify Code**: Edit the template's HTML/CSS code. For example, to make text uppercase, apply `text-transform: uppercase;` styling to the relevant `div`, `span`, or `x-transform` element.",
+        "**Identify Variables**: Use variables to display dynamic data. Common variables include: `DisplayData.EntityName` (Institute Name), `DisplayData.EntityAddress` (Institute Address), `DisplayData.StudentName` (Student's Name), `DisplayData.FatherName` (Student's Father's Name), `DisplayData.Category` (Student's Category), `DisplayData.Session` (Academic Session), `DisplayData.Logo` (School/Institute Logo).",
+        "**Debug Missing Data**: If a variable's data is not printing: Print the document (even if data is missing). Right-click on the page and select \"Inspect\". Navigate to the \"Console\" tab in the developer tools. Locate and expand the `object` (or relevant array) to view all available variables and their exact names. Compare the variable name used in your template code with the exact name found in the console. Correct any discrepancies in the template code (e.g., change `DisplayData.StudentCategory` to `DisplayData.Category` if that's what the console shows)."
+    ],
+    "business_rules": [
+        "All variables must be prefixed with `DisplayData.` (e.g., `DisplayData.VariableName`). `DisplayData` acts as an array that calls and retrieves the data.",
+        "The exact variable name as displayed in the browser's console must be used for data to populate correctly.",
+        "For complex reports like report cards, variables might be nested within arrays (e.g., for columns, fee heads, skill groups, subjects, assessment groups)."
+    ],
+    "important_notes": [
+        "Most default templates may require minor code adjustments to meet specific requirements.",
+        "Some templates, especially for advanced report cards or specific certificates (e.g., custom transfer certificates), may require extensive custom coding and design.",
+        "The console is a critical tool for debugging and identifying the correct variable names and data structures."
+    ],
+    "questions": [
+        "How do I load an existing template for customization?",
+        "What is the process for modifying the code of a PDF template?",
+        "How can I ensure text is printed in uppercase in my template?",
+        "My template is not displaying student information; how can I fix this?",
+        "What is the `DisplayData` prefix used for in variables?",
+        "How do I use the browser's console to find correct variable names?",
+        "Are all report card templates simple to customize?",
+        "Can I include images or stamps in custom templates?"
+    ],
+    "keywords": [
+        "Template customization",
+        "code modification",
+        "HTML",
+        "CSS",
+        "text-transform",
+        "variables",
+        "dynamic data",
+        "DisplayData",
+        "EntityName",
+        "EntityAddress",
+        "StudentName",
+        "FatherName",
+        "Category",
+        "Session",
+        "Logo",
+        "debugging templates",
+        "inspect page",
+        "browser console",
+        "object",
+        "array variables",
+        "complex reports",
+        "report card customization",
+        "custom design templates"
+    ],
+    "related_topics": [
+        "PDF Template Management",
+        "Report Card Template Configuration",
+        "ERP System Administration"
+    ],
+    "id": "institute_setup_pdf_template_customization_and_debugging",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,37 +1,44 @@
 {
     "module": "Transport",
     "topic": "Transport Setup Overview",
-    "summary": "Provides an overview of the transport setup process within the ERP system, which involves configuring vehicles, routes, pick-up/drop points, and charges. It highlights that transport setup is session-dependent and is managed through the system's settings.",
+    "summary": "This topic introduces the basic configuration of transport within the ERP system, covering vehicles, pick-up points, drop points, and associated charges. It highlights that transport setup is session-dependent, meaning configurations may vary for each academic session.",
     "navigation": [
-        "Settings icon"
+        "Settings icon",
+        "Institute Setup",
+        "Transport"
     ],
-    "steps": [],
+    "steps": [
+        "Log in to the system.",
+        "Navigate to the 'Settings' icon.",
+        "Select 'Institute Setup'.",
+        "Choose 'Transport' to access transport-related basic setup options."
+    ],
     "business_rules": [
-        "Transport setup is session dependent, meaning configurations may vary for each academic session."
+        "Transport setup is session-dependent, meaning configurations may differ for each academic session."
     ],
     "important_notes": [
-        "The basic setup options are typically found under the 'Settings' icon, tailored to the specific section being configured."
+        "Session-dependent means the setup needs to be done for each session, or copied from a previous session."
     ],
     "questions": [
-        "How do I begin setting up transport in the ERP system?",
-        "What does 'session dependent' mean for transport setup?",
-        "Where are the basic transport configuration options located?"
+        "How do I access the transport setup in the ERP system?",
+        "What is included in the basic transport setup?",
+        "What does 'session-dependent' mean for transport setup?"
     ],
     "keywords": [
         "Transport setup",
-        "Basic configuration",
-        "Session dependent",
-        "ERP transport",
-        "Settings"
+        "basic transport configuration",
+        "institute setup",
+        "session dependent transport",
+        "ERP transport module"
     ],
     "related_topics": [
         "Vehicle Management",
         "Vehicle Route Management",
-        "Assigning Transport to Students"
+        "Transport Excel Upload (Student Assignment)"
     ],
     "id": "transport_transport_setup_overview",
     "source": {
-        "file": "kashish _ Okie - 2026_06_09 16_58 IST – Recording (1).txt",
+        "file": "1. kashish  Okie - 20260609 1658 IST – Recording.txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

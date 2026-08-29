@@ -1,0 +1,62 @@
+{
+    "module": "Fee Management",
+    "topic": "Handling Manual Concessions",
+    "summary": "This topic explains the concept of manual concessions, which are ad-hoc concessions given to students without predefined criteria, often at the discretion of the institute. It describes how to set up a 'Manual Concession' group to allow for flexible, on-the-fly concession application.",
+    "navigation": [
+        "Settings icon",
+        "Institute Setup",
+        "Fee Setup",
+        "Concession",
+        "Add New Concession Group"
+    ],
+    "steps": [
+        "Create a 'Manual Concession' group:",
+        "Name it 'Manual Concession'.",
+        "Select 'All Fee Heads'.",
+        "Set the 'Concession Type' to 'Flat'.",
+        "Set the 'Value' to '0'.",
+        "Save this concession group.",
+        "When applying a manual concession to a student (typically from the student's fee demand or profile):",
+        "Select the 'Manual Concession' group.",
+        "Manually enter the desired concession amount (the 'Flat 0' setup makes this field editable).",
+        "Enter relevant remarks for the concession.",
+        "Optionally, upload supporting documents (e.g., an application with principal's signature).",
+        "Save the concession."
+    ],
+    "business_rules": [
+        "Manual concessions are used when the amount and criteria are not predefined and vary per student.",
+        "The system will issue a warning if a concession is applied after fees have already been received for the affected installment."
+    ],
+    "important_notes": [
+        "Setting up a 'Manual Concession' group with 'Flat' and '0' allows for flexible, ad-hoc concession amounts to be entered at the time of assignment.",
+        "This is useful for principal-approved or special case concessions.",
+        "The system provides a warning if a concession is applied to an amount that has already been received."
+    ],
+    "questions": [
+        "What is a manual concession and when is it used?",
+        "How do I set up a 'Manual Concession' group in the system?",
+        "Can I enter any amount for a manual concession?",
+        "Can I upload documents for a manual concession?",
+        "What happens if I apply a manual concession after fees are paid?"
+    ],
+    "keywords": [
+        "Manual concession",
+        "ad-hoc concession",
+        "flexible concession",
+        "principal approval concession",
+        "fee clerk concession",
+        "upload concession document",
+        "concession warning"
+    ],
+    "related_topics": [
+        "Concession Groups",
+        "Fee Management",
+        "Student Management"
+    ],
+    "id": "fee_management_handling_manual_concessions",
+    "source": {
+        "file": "1. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

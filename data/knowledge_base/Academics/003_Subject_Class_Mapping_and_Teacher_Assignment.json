@@ -1,0 +1,83 @@
+{
+    "module": "Academics",
+    "topic": "Subject Class Mapping and Teacher Assignment",
+    "summary": "This topic details the process of mapping defined subjects to specific classes, setting subject types (general or optional), and assigning class teachers, coordinators, and subject teachers. It also covers how to assign optional subjects to individual students and manage subject display names.",
+    "navigation": [
+        "Settings icon",
+        "Academics",
+        "Subject Class Mapping",
+        "Assigned Subjects"
+    ],
+    "steps": [
+        "Navigate to 'Subject Class Mapping'.",
+        "Click on 'Add new subject class mapping'.",
+        "Define the 'Class' (e.g., Class 5). Multiple classes can be selected for common subjects.",
+        "Optionally, select specific 'Stream' and 'Section' if not using defaults.",
+        "Add 'Subject' details:",
+        "Select the subject from the dropdown (pre-defined subjects).",
+        "The 'Assessment model' will auto-populate.",
+        "Select 'Subject type': 'General' (for all students) or 'Optional' (for selected students).",
+        "Add the subject.",
+        "Optionally, add more subjects to the same class mapping.",
+        "Assign 'Class Teacher': Select a single employee from the list.",
+        "Assign 'Coordinator': Select one or more employees from the list.",
+        "Assign 'Subject Teacher': Select one or more employees for specific subjects.",
+        "For General Subjects: To assign to all students, click 'Assign by default' or use the 'Click and assign' option from the mapping overview.",
+        "For Optional Subjects: To assign to specific students, navigate to 'Assigned Subjects' (a separate option).",
+        "In 'Assigned Subjects', select the 'Class'.",
+        "Select the specific 'Students' from the list.",
+        "Click 'Assign Subject' and select the optional subject to apply it only to the selected students."
+    ],
+    "business_rules": [
+        "A class can have only one Class Teacher.",
+        "Multiple Coordinators can be assigned to a class.",
+        "Multiple Subject Teachers can be assigned to a single subject within a class.",
+        "Class Teachers and Coordinators have access to all subjects of their mapped class.",
+        "Subject Teachers have access only to their specifically assigned subjects.",
+        "General subjects are automatically applied to all students in a class.",
+        "Optional subjects must be assigned individually to specific students."
+    ],
+    "important_notes": [
+        "The 'Display Name' set in subject class mapping is what teachers will see during marks entry and what students will see.",
+        "Once a subject is mapped, its original name cannot be changed from the subject definition; only the display name can be altered within the mapping.",
+        "Existing subject class mappings can be edited after creation using the edit icon."
+    ],
+    "questions": [
+        "How do I map subjects to specific classes?",
+        "What is the difference between a general and an optional subject in mapping?",
+        "How do I assign a class teacher to a class?",
+        "Can a class have multiple subject teachers for the same subject?",
+        "How do I assign an optional subject to individual students?",
+        "Where can I change the display name of a subject for a class?",
+        "What level of access do class teachers and coordinators have to subjects?"
+    ],
+    "keywords": [
+        "subject class mapping",
+        "subject course mapping",
+        "add new mapping",
+        "class",
+        "stream",
+        "section",
+        "subject type",
+        "general subject",
+        "optional subject",
+        "class teacher",
+        "coordinator",
+        "subject teacher",
+        "assign by default",
+        "assigned subjects",
+        "display name",
+        "edit mapping"
+    ],
+    "related_topics": [
+        "Subject Definition",
+        "Timetable Management",
+        "Employee Management"
+    ],
+    "id": "academics_subject_class_mapping_and_teacher_assignment",
+    "source": {
+        "file": "3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "module": "Fees",
+    "topic": "Concession Report",
+    "summary": "Displays a report of all assigned fee concessions, showing details like the fee head, concession amount, and student.",
+    "navigation": [
+        "Fees > Fee Reports > Concession Report"
+    ],
+    "steps": [
+        "Navigate to \"Concession Report\".",
+        "View concessions applied to students, categorized by fee head (e.g., tuition fee concession)."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This report helps track all concessions provided."
+    ],
+    "questions": [
+        "Where can I see a list of all applied fee concessions?",
+        "How do I view the concession report?"
+    ],
+    "keywords": [
+        "concession report",
+        "fee concession",
+        "concession tracking"
+    ],
+    "related_topics": [
+        "Concession Management",
+        "Fee Reports"
+    ],
+    "id": "fees_concession_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

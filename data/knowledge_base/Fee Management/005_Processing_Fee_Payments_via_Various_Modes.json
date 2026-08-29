@@ -1,0 +1,70 @@
+{
+    "module": "Fee Management",
+    "topic": "Processing Fee Payments via Various Modes",
+    "summary": "Details the available payment modes (cash, cheque, online) and the process for each, including integration with payment gateways like Razorpay and handling back-gate entries.",
+    "navigation": [
+        "Collect Fee",
+        "Select Student",
+        "Fee Collection Section",
+        "Proceed",
+        "Payment Mode"
+    ],
+    "steps": [
+        "**For Cash/Cheque/Other Offline Payments:**",
+        "1. After entering the amount, click 'Proceed'.",
+        "2. Select the payment mode (e.g., 'Cash', 'Cheque').",
+        "3. For non-cash payments (e.g., cheque, back-gate online entries), select the relevant institute bank.",
+        "4. Enter a reference number (optional).",
+        "5. Select a particular date (optional).",
+        "6. Add remarks (optional).",
+        "7. Collect the fee.",
+        "**For Direct Online Payment via ERP:**",
+        "1. After entering the amount, click 'Proceed'.",
+        "2. Select 'Online' as the payment mode.",
+        "3. The system will redirect to the integrated payment gateway (e.g., Razorpay).",
+        "4. The student/payer can complete the payment using a scanner (UPI), card, or debit card."
+    ],
+    "business_rules": [
+        "The default payment mode is cash.",
+        "Razorpay is integrated for online payments.",
+        "Institute banks must be configured in the system for non-cash offline payments."
+    ],
+    "important_notes": [
+        "Reference number, date, and remarks are optional for offline payments but recommended for comprehensive record-keeping.",
+        "Payment gateway charges may apply for online transactions; these need to be confirmed.",
+        "The 'Collect Fee Online' option can be used for direct online payments, or online payments can be initiated from the general 'Collect Fee' option by selecting 'Online' as the payment mode."
+    ],
+    "questions": [
+        "What payment modes are available for fee collection?",
+        "How do I process a cash payment for student fees?",
+        "How do I record a cheque payment or other offline bank transfers?",
+        "Is there an integrated payment gateway for online fee collection?",
+        "What information is required when recording an offline payment?",
+        "How does the online payment process work through the ERP?"
+    ],
+    "keywords": [
+        "Payment mode",
+        "cash payment",
+        "cheque payment",
+        "online payment",
+        "Razorpay",
+        "payment gateway",
+        "institute banks",
+        "reference number",
+        "remarks",
+        "collect online fee",
+        "UPI",
+        "card payment"
+    ],
+    "related_topics": [
+        "Student Fee Collection Process",
+        "Fee Receipt Generation",
+        "Payment Gateway Charges"
+    ],
+    "id": "fee_management_processing_fee_payments_via_various_modes",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

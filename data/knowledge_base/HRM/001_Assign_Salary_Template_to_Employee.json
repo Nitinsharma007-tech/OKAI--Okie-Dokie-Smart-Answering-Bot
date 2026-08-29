@@ -1,0 +1,64 @@
+{
+    "module": "HRM",
+    "topic": "Assign Salary Template to Employee",
+    "summary": "This process allows assigning a predefined salary structure (contract) to an employee, defining their earnings and deductions for a specific period. It supports using standard templates or copying from existing employee contracts.",
+    "navigation": [
+        "HRM",
+        "Assign Salary Template"
+    ],
+    "steps": [
+        "Navigate to \"HRM\" > \"Assign Salary Template\".",
+        "Search for the desired employee by ID or name.",
+        "Select the employee using the checkbox.",
+        "Click the \"Assign Template\" button at the bottom.",
+        "Choose one of the following options:",
+        "  - \"Copy from Salary Template\": Select a standard template (e.g., With PF, Without PF, Without ESI PF).",
+        "  - \"Import from Salary\": Copy an existing contract from a previously assigned employee.",
+        "If copying an existing contract, review and make necessary changes to amounts or add/remove earning/deduction heads.",
+        "Enter the Basic amount (e.g., 14390).",
+        "Review automatically calculated deductions like ESI and PF. Adjust to fixed amounts if required (e.g., ESI 101, PF 1612).",
+        "Add any additional deduction heads (e.g., Labour Welfare Fund, Advance Recovery) and their amounts.",
+        "Click \"Calculate\" to see the gross salary, total deductions, and paid salary.",
+        "Click \"Next\".",
+        "Set the \"Start Date\" and \"End Date\" for the contract.",
+        "Click \"Assign\" to finalize the contract assignment."
+    ],
+    "business_rules": [
+        "If a contract already exists for an employee for a specific period, a new contract cannot be assigned for an overlapping past date. The previous contract must be removed first if a past date is required.",
+        "ESI and PF are typically calculated based on percentages, but can be set to fixed amounts if needed.",
+        "\"Up to amount\" for ESI/PF indicates the maximum deduction, not a fixed value, and calculation is based on percentage."
+    ],
+    "important_notes": [
+        "The \"Assign Salary Template\" option is preferred over adding from the employee view as it shows calculation amounts.",
+        "A contract defines the salary structure for a period; actual salary processing is done monthly.",
+        "\"Added count 1\" confirms successful contract assignment."
+    ],
+    "questions": [
+        "How do I assign a new salary contract to an employee?",
+        "Can I modify an existing salary contract for an employee?",
+        "What happens if I try to assign a contract for a date that already has one?",
+        "How do I set fixed ESI or PF amounts instead of percentage-based calculation?",
+        "Where can I see if an employee already has a contract assigned?"
+    ],
+    "keywords": [
+        "assign contract",
+        "salary template",
+        "employee contract",
+        "HRM contract",
+        "PF ESI setup",
+        "deduction setup",
+        "earning setup",
+        "assign salary structure"
+    ],
+    "related_topics": [
+        "Processing Employee Salaries",
+        "Creating Earning and Deduction Heads",
+        "Viewing Employee Salary Templates"
+    ],
+    "id": "hrm_assign_salary_template_to_employee",
+    "source": {
+        "file": "4. 1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

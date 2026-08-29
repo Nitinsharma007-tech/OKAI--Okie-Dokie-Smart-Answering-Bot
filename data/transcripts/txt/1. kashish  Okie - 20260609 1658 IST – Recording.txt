@@ -258,312 +258,438 @@ there is one for 6 months.
 It will be from April to June.
 It will be for 6 months.
 So all the installments are made.
-So this is what we have.
-Now,
-you have to add pickup points.
-To add pickup points
-this Buss.
-This bus that runs on route 1,
-this bus, like,
-that goes to Ansaal,
-it goes to Taiseel camp,
-there are pickup points.
-For example, it is Ansaal's pickup point.
-All the pickup points are different.
-But,
-whatever installments are made,
-in this installment, the fees will not be charged.
-You might know this in the case of schools.
-In the case of schools, we do not take the fees for the transport in the month of June,
-nor do we assign the fees to the children in demand.
-The fees for the transport in the month of June are not there.
-So, what will happen here?
-All the installments will come in April to March.
-So, in that case, you will select the installments here.
-And then what is he doing?
-After selecting that, he is defining in the setup
-that whatever fees we will pay here,
-the fees will not be charged in the selected installment.
-Do you understand?
-What is the purpose of this?
-Select skip installment.
-We have to skip the transport amount for the selected particular installment.
+This is how it is in school.
+We get it.
+Now, you have to add the pick-up points here.
+Like, this bus
+that runs on route 1,
+for example,
+it is going on Ansal,
+at Tehsil camp,
+it has some pick-up points.
+For example, this is Ansal's pick-up point.
+But
+as far as the fees are concerned,
+the pace of our installments
+will not cost us.
+Select skip installment, we have to skip the transport amount for the selected particular
+installment.
 Ma'am, we can select multiple months at a time.
-Exactly.
-We can select for the first and second installment.
-But this means that he will skip.
-Selecting means that he will not pay the fees for that particular installment.
-Okay.
-We do this in the case of schools, most probably.
-If we select the month of June,
-then when we assign a particular pick-up point to the student,
-then in that case, the fees will be charged from April to March.
-It will not be charged in June because we have selected the month of June.
+Exactly, we can select for the first or second installment, but keep in mind that he will
+skip.
+Selecting means that he will not put the last piece in that particular installment.
+We do this in the case of schools, we select the month of June, then when we assign a particular
+pick-up point to the student, then in that case, it will take place from April to March
+and it will not take place in June because we have selected the month of June.
 This is the main agenda.
 Then we have the select employee.
 Now, you can also assign the driver of this bus.
-You can assign more than one if you want.
+You can assign more than one.
 Now, where does this data come from?
 It comes from the employee.
 In our setup, you have not seen the basic employee of HRM.
 Have you seen how the employees are added?
-No, ma'am.
+No, I have not seen it.
 Okay.
 So now when you see it, you will know.
-Okay.
 Basic employees are added.
-Either teaching, non-teaching, driver, daily wages,
-whatever.
-So we save that data.
-So that comes to the employee.
-Means this is the driver of the bus.
-Its list comes.
-The list is created in your system.
-Okay.
+All the employees of the institute, either teaching, non-teaching, driver, daily wages,
+whatever, we also save their data, so they come to the employee.
+Means this is the driver of the bus, its list comes, the list is created in your system.
+Okay?
 Is it clear?
-Yes, ma'am.
+Yes ma'am.
 Okay.
-Then now we have the pick-up point.
+Now we come to the pick-up point.
 Like I have this bus.
-Okay.
-Inside this bus,
-where does this bus go?
-On the side of the institute,
-we have complete data in an excel format.
-Okay.
-If we have complete data,
-it will be written that in route 1,
-this vehicle runs.
-And the vehicle running in route 1,
-what are the pick-up points?
-I will say Ansel.
-Okay.
-If Ansel has a pick-up point,
-what is the pick-up time?
+In this bus, where does this bus go?
+On the side of the institute, we have complete data in an excel format.
+Complete data comes.
+Their complete data will be there.
+It will be written in route 1.
+This vehicle runs.
+And this vehicle runs in route 1.
+What are the pick-up points in this?
+I call it Ansel.
+Okay?
+If Ansel has a pick-up point, what is the pick-up time?
 What is the drop time?
-Like this bus that is running,
-at what time does this bus reach Ansel?
+Like this bus is running.
+At what time does this bus reach Ansel?
 At what time does it drop the students at Ansel?
-Okay.
+Okay?
 That is the timing.
-For example,
-I put it at 6 o'clock.
-6 am.
-Okay.
-And what is the drop point?
+For example, I put it at 6 am.
+Okay?
+And what is my drop point?
 4 pm.
-Okay.
-So, this is the pick-up time
-and drop point.
-There will be a drop time.
-Okay.
-Then after that,
-you have the amount.
+Okay?
+This is the pick-up time and drop point.
+The drop time will be there.
+Okay?
+Then after that, you have the amount.
 Longitude and latitude are not mandatory.
 In which case does this work?
-I will tell you.
-Our GPS tracking system works.
-Okay.
-So, we put the longitude and latitude of the bus.
+I told you that our GPS tracking system works.
+Okay?
+So we put the longitude and latitude of the bus.
 It is of Google Maps.
-I mean,
-there is no use case now.
-You will know gradually.
-Okay.
-Basically,
-we put this.
-Then its amount,
-its corresponding Ansel route,
-how much is the amount?
-For example,
-2000.
-Okay.
-So, this is 2000.
-Similarly,
-add another pick-up point.
-your number of pick-up points
-can be added.
-Now,
-we will add one.
+That means it is not in use case.
+You will know it slowly.
+Okay?
+Basically, we put this.
+Then its amount, its corresponding Ansel route, how much is it?
+For example, 2000.
+Okay?
+So this is 2000.
+Same.
+Add another pick-up point.
+Similarly, you can add number of pick-up points.
+Now we will add one.
 You will add.
-As soon as you add,
-it will be created in the system.
-Okay.
-This option,
-this was the option
-to add manually the pick-up route.
-In the pick-up route,
-all the pick-up points are there.
-One pick-up point has been added.
-That is why it is being made here.
-If you add more than one,
-it will be more than one.
+As soon as you add, it will be created in the system.
+Okay?
+This option, this was the option to manually add the pick-up route.
+In the pick-up route, all the pick-up points are there.
+If you put only one pick-up point, that is why it is being made here.
+If you put more than one, it will be more than one.
 Is that okay?
-Let's go ahead.
+Let's move ahead.
 There are more options in this.
 Yes, ma'am.
-Okay.
-Now,
-you have added it once.
-But,
-it can be done later.
-we need to add more pick-up points to it.
-In that case,
-same option for adding is there.
-You will add,
-it will open the interface.
-You will add another one according to your choice.
-It will update.
-Yes?
-You mean,
-we can add multiple points?
+Okay?
+You have added it once, but it can be like this.
+Later, you have to add more pick-up points in it.
+In that case, there is the same option of plus edit.
+You will edit.
+The interface will open.
+You will add another according to you.
+You will update.
+It will be updated.
+Okay?
+That means you can add multiple points.
 Yes, exactly.
-n number of points here.
+And you can add number of points here.
+Okay.
+One is done.
+Then you will add pick-pick.
+Then you will add another.
+Okay.
+This was our option to add manually till now.
+Means you can manually add buttons in the system.
+Then there is an option.
+You can also update it in bulk via Excel.
+Okay?
+That will be our option.
+Upload pick-up point.
+This will be our sample Excel.
+This is only because we have added one pick-up point in it.
+It is not for root.
+You will have to make a root from the musical root.
+We create a kind of roadmap.
+We can add all the points in it with this.
+It has sample Excel.
+Let me show you.
+Remember one more thing.
+With sample Excel, we don't have in-time and out-time mandatory.
+Means this is pick-up time, pick-up time and out-drop time.
+This is non-mandatory.
+But if we add manually, it will take time from us.
+Excel is not mandatory.
+Okay?
+Same thing.
+There is a name of pick-up point.
+There is amount.
+There is time.
+Whatever you are adding there manually, you can keep it in Excel format.
+As it is, once you upload Excel, it will be done.
+Excel format is very simple.
+There is pick-up point, amount, pick-up time and drop latitude.
+Okay?
+If you have any doubts, tell me in Excel.
+No, ma'am.
+Okay.
+Then let's look ahead.
+This will be uploaded from Excel.
+Okay?
+Here you will choose a file.
+Whatever you will save.
+Okay.
+Do you understand Excel?
+How to do it?
+You have kept data in Excel.
+Whatever you update.
+Okay?
+You have saved it in your system.
+After saving, you will access it from here.
+You will choose a file.
+It will be saved in your system.
+It will be accessed from there.
+It will be accessed.
+Then you will click on submit.
+It will update the data.
+In case if it doesn't update, if there is an issue, it will generate an error file and
+give it to you.
+If it gets an error.
+What can be the error?
+Like you have not added the metadata information.
+You have left the amount blank.
+Or you have added an amount.
+Okay?
+In that case, it will give you an error.
+Clear?
+Yes, ma'am.
+If you want to export the data of the existing data, you can do it in Excel.
+Your existing data.
+This is our basic transport setup.
+If you have any doubts, you can tell us.
+Let's move ahead.
+Not yet.
+Okay.
+Then, the third option is transport Excel upload.
+What does this option mean?
+We have defined the configuration in the system.
+The number of buses.
+The road map of the bus.
+We have defined that.
+Now, which student has to go in which bus?
+Which student goes through which pickup point?
+That is what we have defined.
+Okay?
+For that, we have the same two options.
+You are assigning a bus to a student manually.
+Okay?
+Or you have Excel.
+You have some data of Excel.
+You assign all the students to Excel.
+Okay?
+So, if we have to assign data of transport from Excel to students, then we have this
+option.
+Transport Excel upload.
+Okay?
+Is the meaning clear?
+Why is it being used?
+Repeat it once.
+What have we done in the system?
+We have defined the buses of the institute.
+We have set up which bus goes to which pickup point and which drop point.
+We have not assigned a student to which pickup point and which bus goes to which.
+We have not assigned that.
+Okay?
+When we have to assign data from Excel, then we have this option.
+Transport Excel upload.
+It has student details.
+Basically, the routes are assigned to the student.
+Yes, exactly.
+We are assigning the route to the student.
+This is also your sample.
+I will show it to you.
+This is our sample.
+Okay?
+It will be visible.
+Yes, ma'am.
+Here, you will have a reg number.
+You must have noticed something in ERP.
+The student that we consist in ERP, we look at it with a unique ID.
+That is reg number.
+We can also say over admission number.
+It depends on what word we are using in the institute.
+Reg number is a unique ID for the student.
+We update all the data corresponding to it.
+Either it is the transport, or the student's fee demand,
+or why it doesn't have any existing details.
+The student details that we update.
+We do a reg number corresponding to it.
+We are doing the same in this too.
+The student's reg number comes here.
+Which student is it?
+It must be his reg number.
+Okay?
+Then, it's wickle root and pick-up point.
+What is wickle root?
+Here, we make the wickle root.
+This is the wickle root.
+This is the name.
+This is our wickle root.
+Then, it's pick-up point.
+Which pick-up point will it be?
+Which pick-up point is it coming from?
+Like Ansel.
+Here, I have made another one.
+Like the seal camp.
+Which sector is it coming from?
+In this way, pick-up points are different.
+Which pick-up point is it coming from?
+It is coming from root 1.
+So, what will I keep in Excel?
+I will keep root 1.
+The student's reg number will be the student's.
+Then, your wickle root.
+That is root 1.
+And then, its pick-up point.
+What is the pick-up point?
+That is Ansel.
+So, I will keep Ansel here.
+In case of any other student's pick-up point,
+I will keep someone else.
+Okay.
+If there is some other root,
+I will keep that root.
+Do you understand?
+So, this is the root point.
+We will just assign this.
+So, automatically, in the student's interface,
+the corresponding fees that we have created here
+will be charged to the office.
+Okay.
+Is there no need for wickle number in Excel?
+No.
+Why is there no need for wickle number?
+Because we are defining wickle number in this.
+In Excel, the root
+and its corresponding pick-up point
+will be needed.
+Okay.
+So, in that case, you will get this.
+Means, the simple purpose of this point
+is that you are assigning
+the data of transport
+to the students via Excel.
+Okay, ma'am.
 Okay.
 Okay.
+Then, we have to discuss
+one thing.
+This was our basic transport setup.
 Okay.
-One is done,
-then you will add pick-pick,
-and then add another one.
+We will discuss one more thing today.
+That is, concession books.
+You must have seen
+this basic fee setup
+How does it work?
+How do fee heads,
+term group,
+and fee group work?
+Up to here,
+it must have been okay.
+From fee heads to fee group.
+It is okay.
+It is okay.
 Okay.
-That is.
-This was our
-option to add manually.
-This means,
-can the rock buttons by use that can manually add value then a
-option of the bulk may be updated via Excel.
-Upload pick up point.
-Pick up point.
-Root.
-Kind of.
-Pick up point.
-Sample Excel.
-Sample Excel.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up point.
-Pick up.
-Excel.
-Excel.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Save.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Pick up.
-Excel.
-Excel.
-Excel.
-data via Excel.
-Okay.
-basic transport setup.
-That is concession books.
-That is concessions.
-That is concession books.
-That is concession books.
-concession.
-concession.
-concession.
-concession.
-Yes, sir.
-You can add a new concession in the system.
-You have the option to add a new concession group.
-How does this work?
-Whatever fee you have defined in the system,
-and the corresponding installments.
-Because your entire fee structure is going according to the installments.
-Even the concession will not go according to the installments.
-Like if your fee is tuition fee, tuition fee is 4 installments,
-then the concession will also be tuition fee.
-It will go according to 4 installments.
+Now, we will discuss
+one point today.
+That is, concessions.
+Look.
+What do we have?
+There is an entity.
+There is an institute.
+In the institute,
+there are many concessions.
+Like sibling concession.
+You must have heard about it.
+Apart from that,
+there is staffer concession.
+If a student is a teacher's child,
+then a staffer concession is given to him.
+There is third child concession.
+Like, if there are three siblings,
+then a third concession is given to one of them.
 Right?
-Yes.
-For example,
-I am making a concession.
-I am making a staff card concession.
-Here you will define the name of the concession,
-the job concession you are creating.
-Then the concession that is being created,
-which fee head is being created?
-There is an option,
-everyone's fee head is being created.
-One fee head is being created.
-You will select according to yourself.
-For example, the staff card concession,
-their annual fees are being created.
-They have said that they have a 50% concession.
-Like all the fees,
-the complete fees is 50%.
-So there are two options,
-percentage and flat.
-I talked about 50%
-so I will use percentage.
-And here I will list the percentage value.
-Like in all the installments,
-it is 50%.
-So I did 50 here.
-In case the concession is not in the percentage,
-that is it is in the flat.
-Flat means that there are 5000 concessions.
-For first installment only.
-There is no concession on anyone else.
-So you can flat according to yourself
-and put that value.
-It is clear,
-if you add normal to create concession group,
-your concession group will be added.
-This is done.
+So, in this way,
+there can be many concession groups
+in the system.
+So, in the system,
+concession groups have to be created.
+That is the concession option.
+Same.
+Now, you can understand that
+concession is also session dependent.
+Right?
+Session to session,
+it varies.
+Or you can copy according to yourself.
+The existing session of last year,
+the same concession of that session
+will also be there.
+You can copy it
+and create as it is.
+Okay?
+Yes, ma'am.
+Okay.
+Now, how to add a new concession
+in the system?
+You have the option
+to add a new concession group.
+Now, look, how does this come?
 In the system,
-staff card concession,
-sibling concession,
-whatever is their criteria,
+whatever fee you have defined,
+and the corresponding installments,
+because your entire fee structure
+is going according to the installment.
+Okay?
+So, even the concession
+will not be given according to the installment.
+Like, if your fee is tuition fee,
+tuition fee is four installments,
+then the concession is also tuition fee.
+Okay?
+Four installments will be given.
+Okay?
+Yes, ma'am.
+Okay?
+Now, you have to make concessions.
+For example,
+the concession that I am making,
+I am making staff card concessions.
+Okay?
+Here, you will define the name
+of the concession that you are creating.
+Then, the concession that you are creating,
+which fee head is it on?
+There is one option,
+everyone's fee head is on our concession.
+One fee head is on our concession.
+Okay?
+You will select according to your concession.
+For example,
+the staff card concession,
+their annual fee is on that concession.
+They have said that
+they have 50% concession.
+Like, all the fees,
+the complete fees are 50%.
+Okay?
+So, you have two options,
+percentage and flat.
+I have talked about 50%.
+So, I will use percentage,
+and here,
+I will list the percentage value.
+Like, in sub-installment,
+it is 50%.
+Okay?
+So, I have done 50 here.
+Okay?
+In case,
+concession is not in percentage,
+that is,
+it is in flat.
+Flat means,
+it is 5000 concessions
+for first installment only.
+It is not on anyone else.
+Okay?
+So, in that way,
+you can flat according to your concession
+and add that value.
+Clear?
+To create concession group,
+you will add normal,
+your concession group will be added.
+Yes, ma'am.
+staff can have concession,
+like sibling concession.
+Whatever is their criteria,
 on the basis of that criteria,
 your concession can be done.
 Ma'am,
@@ -572,342 +698,205 @@ by default,
 this name,
 like staff board,
 we have typed it ourselves.
-So by default,
-all concessions,
-whatever is available,
-will come by default,
+So, by default,
+all the concessions
+which are available,
+they will come by default,
 when you assign concession.
 For example,
-when I assign concession to a student,
-then that list will come to me,
-that in the system,
-which ones are made for the institute.
-Now,
-the name of every entity is very different.
+when I assign concession
+then I will get that list,
+that which concessions
+we have made
+the name of every entity
+is very different.
 Okay?
-Okay.
-So in that case,
+So, in that case,
 when will this come?
 We are defining it now.
-What you are saying now,
+Now,
+the thing you are saying
 that it is listed,
-we are defining it now.
-When the student will be assigned,
-then they will come,
-for a drop down.
-One more thing,
-most of the time,
-we also do manual concessions.
-You must have seen one thing,
-many times,
-such concessions are given,
-like the principal said,
-give me 5,000.
+we are selecting it.
+So, we are defining it now.
+From here.
+When the student
+will be assigned,
+then it will come.
+For a drop down.
 Okay?
-So that is our manual concession,
-that we can give at any cost.
-Our means,
-it is the institute's will,
-that your fee is clear,
-that we can give at any cost.
-So such a concession is also called
+One more thing,
+most of the time
+we do manual concessions also.
+You must have seen
+that many times
+such concessions
+are given.
+Like,
+the principal said,
+give me 5,000 rupees.
+Okay?
+So, that is our manual concession.
+That is,
+we can give it at any cost.
+It means,
+it is up to the institute
+to give it at any cost.
+Okay?
+We can give it at any cost.
+So, such a concession
+is also called
 manual concession.
 Okay?
 I mean,
-it is used in most of the entities,
-so I am telling you,
-by doing manual concessions.
-In the case of manual concessions,
-we keep all the head sticks,
-and we do it flat,
-and we do it zero.
+it is used in most of the entities
+so that is why
+I am telling you
+to do manual concessions.
+In the case of manual concessions
+we keep all the head sticks
+and we flat them
+and do zero.
 Why do we do this?
-Because this is a concession group,
-in which you don't know,
+Because this is
+such a concession group
+in which
+you don't know
 when and how much concession
-you have to give to a student.
+is to be given
+to a student.
 Okay?
 This,
-your fee is clear,
-or any person concerned,
-in the institute,
-according to their criteria,
-according to them,
-a student will be assigned.
-So in that case,
-we also make a manual concession.
+your fee clerk
+or any person concerned
+in the institute
+will assign
+their criteria.
+So, in that case
+we also make
+a manual concession.
 Okay?
 When this happens,
-when it is not defined,
-they have to give concessions,
-but this is not defined,
-how much concession they have to give.
-That varies in every student's case.
-Then manual concessions are used.
-Thank you.
-I will also tell you how to apply.
-Where can it be applied?
-You have a student.
-This is the student's list.
+when it is not defined
+they have to give concessions
+but they don't define
+how much concessions
+they have to give.
+It varies
+in every student's case.
+Then manual concessions
+are given.
 Okay?
-You will click on the student list.
-Here you have the concession fee.
-Okay?
-You will click on this.
-Okay.
-Transport is also from here.
-I will also tell you that.
-Now the system in which you have created concessions,
-you will have the list of concessions.
-What you were saying,
-Kanvi.
-Yes.
-For example,
-I have to give a manual concession.
-Okay?
-So in the case of manual concessions,
-what is happening?
-Here,
-it is auto-tick,
-it has done annual fee.
-Why?
-I had done all the tics.
-Because if you look at the demand of the fee,
-it is only in the annual fees.
-If it is not there,
-then the concession will not be given.
+Okay ma'am.
+Let me tell you
+how it can be done.
+Because if you see
+the fee demand
+then it is only
+in the annual fees.
+If it is not there
+then the concession
+will not be given.
 Right?
-When the concession will be given,
-the amount will be given.
-Now here,
-you have the option,
-it is editable for you.
-Means,
-you can give as much concessions as you want.
-We call that a manual concession.
-Whatever remark you want to enter,
-you will enter a remark.
-And there is an option,
-we can upload a file from here.
-Like you must have seen,
-there is an application at many places,
-there is a signature on the application,
-it is written on it.
-So that document.
+When the concession
+will also be given
+as much as the amount
+will be given.
+Now here you have
+the option
+that is editable for you
+means you can give
+as much concessions
+as you want according to you.
+We call that
+manual concession.
 Okay?
-We can upload that in the system,
-in the corresponding of this particular student.
-You will save it,
-it will be saved.
-Here,
-you are asking for the same confirmation
-that we have already received this.
+Whatever remark you want to enter
+you will enter the remark
+and there is an option
+we can upload the file
+from here.
+Like you must have seen
+there is an application
+on which
+there is a signature
+on which
+it is written
+then that document
+can be uploaded
+corresponding to
+this particular student.
+If you save
+then it will be saved.
+Here you have
+the confirmation
+asking
+that
+we have received
+They have received
+the money
+from the beginning.
+That is why
+they are giving it.
+In this
+you can see
+concession.
+If you click
+then you will save.
 Okay?
-Look,
-For example,
-your fees were 10,000.
-Out of those 10,000,
-you have also deposited 10,000.
-So,
-your balance will be zero.
-But still,
-you are giving concessions.
-So,
-the money in that child
-will be shown in the extra fee
-or something like that.
+In this
+you can see
+what he is saying
+For example
+the fees
+for this student
+are all
+the money
+he has.
 Okay?
-Here,
-you will save the normal,
-your concession will be given.
-Just for the sake of it.
-Okay?
-This is our concession
-assignment option.
-Apart from that,
-there will be a staff ward.
-For example,
-in the case of staff ward,
-in the case of staff ward,
-whatever percentage
-I had fixed,
-I had fixed,
-it was automatically
-taken as much as I had to give.
-5,000,
-yes,
-5,000 flat fixed.
-Okay?
-5,000,
-it has automatically
-fixed 5,000 flat here.
-Okay?
-you can see one more thing.
-Here,
-there is also an option
-for an enter amount
-by pushing.
-For example,
-we have here
-multiple of heads selected.
-Okay?
-And there is manual concession.
-In the case of
-manual concession,
-we have to give
-3,000 concessions.
-3,000 concessions,
-if you push,
-it will see
-your headwise.
-In this head,
-as much as
-you are getting
-for example,
-in this head,
-the margin
-was 2,000.
-The margin of 2,000
-means that
-your demand
-was up to 2,000.
-So,
-it will give
-2,000 concessions.
-It cannot give
+And I am
+assigning concessions
+but we have received
+it.
 Do you understand?
-Yes.
-Okay?
-it will give
-2,000.
-Next head
-will give
-1,000.
-In case of manual.
-Okay?
-we can assign
-a bus
-to a student
+After that
+you are making concessions
+so we are saying
+that we will
+to the extra fee
+So you still have
+to proceed
+or not
+He is saying that.
+Do you understand?
+For example
+the amount.
+Then
 manually.
-Okay?
-we will do that.
-In case of
-student profiles,
-the student
-interface
-you will click on
-assign route
-then you will
-have a pop-up
-window
-opened.
-What is this?
-To assign.
+Student profiles and the
+student interface open.
+Assign route then a pop up
+window.
 Like
-which bus is
-route.
-We have created
-Okay?
-Which pickup point
-is it?
-Pickup point.
-And after that,
-its amount.
-Here,
-automatically
-it has
-fetched the amount.
-Okay?
-The drop point
-is also the same.
-Select
-different route
-you will
-toggle on
-then it will give you
-the option.
-If it is the same,
-it will show the same.
-Okay?
-You will select
-all installments.
-Okay?
-You will assign
-then it will
-be assigned.
-Here,
-Chetan has been
-assigned route
-successfully.
-Means,
-it has been assigned
-Now, if you
-see here,
-then it has
-been assigned
-If you see here,
-even in its demand,
-transport will be
-So,
-in the second
-and third
-installments,
-it will be
-assigned.
-It is clear
-how we
-have assigned
-We have
-assigned
-pickup point
-and route.
-The amount
-its corresponding
-system will
-automatically
-automatically
-in your
-demand.
-will be
-transferred.
-We cannot
-assign
-in bulk.
-every student
-will have
-a particular
-route.
-We can do it
-in bulk.
-We have
-seen
-an option
-in
-transport.
-We can
-assign it in bulk.
-We
-use it in bulk.
-Do you know
-we have?
-The students
-in the previous
-section
-upcoming
-session
-may be
-most of
-cases
-are the
-In the
-previous
-session,
-we
-export
-the
-reports.
-We
-have
-the
-transport
-report
+pick up point.
+The amount.
+Automatically.
+Drop point.
+Select different.
+Installment.
+Assign.
+Assign.
+Assign.
+Assign.
+Transport.
+Transport.
+Transport.
+Transport.
+System.
+Automatically.
+Transport.
+Assign.
+No more.
+Okay.
+That's all for today.
+Ma'am, please share the recording.

@@ -1,0 +1,63 @@
+{
+    "module": "Attendance Management",
+    "topic": "Attendance Configuration",
+    "summary": "This topic outlines the various attendance models available (date-wise, lecture-wise, open timetable), different attendance versions (old, new, v3), and other settings such as HRM leave cycle integration and allowing future date attendance.",
+    "navigation": [
+        "Institute Preferences",
+        "Attendance"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences' > 'Attendance'.",
+        "**Attendance Model:** Select the appropriate model based on the institute type and operational structure:",
+        "  - 'Date-wise and method-wise mapping': This model is fixed for schools.",
+        "  - 'Lecture-wise employee calendar': Typically used for colleges and universities.",
+        "  - 'Date-wise employee calendar'.",
+        "  - 'Open timetable'.",
+        "**Attendance Version:** Choose the attendance version:",
+        "  - 'New model': Recommended for new client setups.",
+        "  - 'Old model': Used by some existing clients, but will be phased out eventually.",
+        "  - 'Version 3': Not for general use without prior information and specific approval.",
+        "**HRM Leave Cycle:** This field displays the active leave cycle from the HRM module and is automatically updated; it is not a compulsory setup here.",
+        "**Update after payroll compute:** This option allows for updating attendance setup after payroll computation.",
+        "**Allow future date:** Toggle this option to allow marking attendance for future dates (e.g., 4 days in advance for employees). This is typically kept disabled as attendance cannot be marked for future dates."
+    ],
+    "business_rules": [
+        "'Date-wise and method-wise mapping' is the fixed attendance model for schools.",
+        "New clients should always use the 'New model' for attendance unless specifically instructed otherwise.",
+        "Marking attendance for future dates is generally not permitted, and the option is usually disabled."
+    ],
+    "important_notes": [
+        "The selection of the attendance model is highly dependent on the client's operational structure (e.g., school vs. college).",
+        "Always prioritize the 'New model' for new client setups to ensure compatibility with future updates."
+    ],
+    "questions": [
+        "Which attendance model should be used for schools?",
+        "What are the different attendance versions available in the system?",
+        "How do I configure attendance for colleges or universities?",
+        "Can I mark attendance for a future date?",
+        "What is the recommended attendance version for new clients?",
+        "How does the HRM leave cycle integrate with attendance settings?"
+    ],
+    "keywords": [
+        "Attendance settings",
+        "attendance model",
+        "date-wise",
+        "lecture-wise",
+        "open timetable",
+        "attendance version",
+        "HRM leave cycle",
+        "future date attendance",
+        "attendance configuration"
+    ],
+    "related_topics": [
+        "HRM",
+        "Institute Preferences",
+        "Timetable Management"
+    ],
+    "id": "attendance_management_attendance_configuration",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

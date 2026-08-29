@@ -1,0 +1,43 @@
+{
+    "module": "Fees",
+    "topic": "Fee Head Collection Report",
+    "summary": "Allows users to view day-wise or monthly-wise collection amounts categorized by fee head and payment mode.",
+    "navigation": [
+        "Fees > Fee Reports > Fee Head Collection Report"
+    ],
+    "steps": [
+        "Navigate to \"Fee Head Collection Report\".",
+        "Select the desired date range (e.g., today, a specific month).",
+        "Optionally, select a \"mode\" to differentiate collection by payment mode (e.g., cash, online, amount adjust).",
+        "The report will display collection amounts per fee head (e.g., admission fee, tuition fee, miscellaneous) for the selected period and mode."
+    ],
+    "business_rules": [
+        "\"Amount adjust\" refers to amounts collected in one fee head but later adjusted to another."
+    ],
+    "important_notes": [
+        "This report helps analyze collection trends per fee head and payment method."
+    ],
+    "questions": [
+        "How can I see the collection amounts per fee head?",
+        "Can I view fee head collection day-wise or month-wise?",
+        "What does \"amount adjust\" mean in the fee head collection report?"
+    ],
+    "keywords": [
+        "fee head collection",
+        "day-wise collection",
+        "monthly collection",
+        "payment mode",
+        "amount adjust",
+        "fee adjustment"
+    ],
+    "related_topics": [
+        "Fee Reports",
+        "Student Fee Collection"
+    ],
+    "id": "fees_fee_head_collection_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

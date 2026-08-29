@@ -1,0 +1,60 @@
+{
+    "module": "Fee Management",
+    "topic": "Assigning and Managing Fee Concessions",
+    "summary": "Explains how to assign concessions to students, including selecting concession groups, setting amounts (percentage or fixed), adding mandatory remarks, and optionally uploading supporting documents.",
+    "navigation": [
+        "Collect Fee",
+        "Select Student",
+        "Fee Collection Section",
+        "Concession option"
+    ],
+    "steps": [
+        "In the student's fee collection section, click the 'Concession' option.",
+        "Select a concession group (e.g., 'Manual', 'Sports Concession').",
+        "If a predefined concession group (e.g., Sports Concession) is selected, the system automatically calculates the concession amount (e.g., 10% on tuition fee).",
+        "If 'Manual' is selected, enter the fixed concession amount.",
+        "Enter a mandatory remark explaining the reason for the concession.",
+        "Optionally, upload supporting documents (e.g., principal's application signature, approval letter).",
+        "Save the concession.",
+        "The payable amount will be automatically updated to reflect the concession."
+    ],
+    "business_rules": [
+        "Concession groups can be defined as percentage-based (e.g., 10% on tuition fee) or fixed amounts.",
+        "Remarks are mandatory when assigning a concession.",
+        "Document upload is optional but recommended for audit trails."
+    ],
+    "important_notes": [
+        "Concession groups and their criteria (e.g., percentage, applicable fee heads) need to be shared and configured in the system.",
+        "The system can automatically calculate percentage-based concessions on specific fee heads once configured.",
+        "The updated payable amount is immediately visible after assigning the concession."
+    ],
+    "questions": [
+        "How do I assign a fee concession to a student?",
+        "Can concessions be percentage-based or a fixed amount?",
+        "What information is required when assigning a concession?",
+        "Can I upload supporting documents for a concession?",
+        "Where do I define concession groups like 'Sports Concession'?",
+        "How does a concession impact the student's payable fee?"
+    ],
+    "keywords": [
+        "Fee concession",
+        "concession group",
+        "percentage concession",
+        "fixed amount concession",
+        "manual concession",
+        "remarks",
+        "document upload",
+        "sports concession",
+        "fee discount"
+    ],
+    "related_topics": [
+        "Student Fee Collection Process",
+        "Fee Structure Configuration"
+    ],
+    "id": "fee_management_assigning_and_managing_fee_concessions",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

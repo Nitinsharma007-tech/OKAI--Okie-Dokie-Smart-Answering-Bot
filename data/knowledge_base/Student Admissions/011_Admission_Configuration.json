@@ -1,0 +1,58 @@
+{
+    "module": "Student Admissions",
+    "topic": "Admission Configuration",
+    "summary": "This topic covers various settings related to student admissions, including selecting the default admission session, configuring roll number and admission number generation (auto-generate or use application number), allowing backdated admissions, setting up admission fee receipt numbering, and making counselor calls mandatory.",
+    "navigation": [
+        "Institute Preferences",
+        "Admissions"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences' > 'Admissions'.",
+        "**Select admissions session:** Choose the default academic session for which admissions data will be displayed and processed (e.g., 25-26).",
+        "**Application data approved auto-generate (Roll Number):**",
+        "  - 'On': Automatically generates roll numbers for students upon admission.",
+        "  - 'Off': Roll numbers are not auto-generated; the application number is used as the admission number, and roll numbers are assigned later.",
+        "**Warn admission number (Auto-generate Admission Number):** Enable this to automatically generate admission numbers.",
+        "**Allow backdate admission:** Disable this option to prevent users from recording admissions with a past date.",
+        "**Admission fee receipt number:** Configure whether receipt numbers for admission-related fees (e.g., prospectus fee, entrance fee) are separate for each session.",
+        "**Counselor compulsory call:** Enable this to make it mandatory for counselors to call applicants as part of the admission process."
+    ],
+    "business_rules": [
+        "The choice between auto-generating roll numbers or using application numbers depends on the institute's specific admission process and policy.",
+        "Backdated admissions are generally disabled to maintain data integrity and accurate record-keeping."
+    ],
+    "important_notes": [
+        "Carefully consider the roll number generation setting as it impacts the student's unique identifier throughout their academic journey.",
+        "Disabling backdated admissions helps in maintaining accurate and chronological admission records."
+    ],
+    "questions": [
+        "How do I set the default session for admissions?",
+        "Can the system automatically generate roll numbers for new students?",
+        "What is the difference between auto-generating roll numbers and using application numbers for admissions?",
+        "How can I prevent backdated admissions?",
+        "Is it possible to have separate receipt numbering for admission fees per session?",
+        "How do I make counselor calls mandatory for applicants?"
+    ],
+    "keywords": [
+        "Admission settings",
+        "admissions session",
+        "auto-generate roll number",
+        "application number",
+        "backdate admission",
+        "admission fee",
+        "receipt number",
+        "counselor call",
+        "student admissions"
+    ],
+    "related_topics": [
+        "Student Management",
+        "Academic Session Management",
+        "Fee Management"
+    ],
+    "id": "student_admissions_admission_configuration",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

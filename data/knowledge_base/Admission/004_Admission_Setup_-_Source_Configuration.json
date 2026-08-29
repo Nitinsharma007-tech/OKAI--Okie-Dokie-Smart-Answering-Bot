@@ -1,0 +1,51 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup - Source Configuration",
+    "summary": "Explains how to define and manage the various sources from which admission leads originate, such as direct walk-ins, online advertisements, or third-party integrations, and how to enable reference tracking.",
+    "navigation": [
+        "Admission Module",
+        "Admission Setup",
+        "Admission Master",
+        "Source"
+    ],
+    "steps": [
+        "Navigate to Admission Module > Admission Setup > Admission Master.",
+        "Click on \"Source\".",
+        "Click \"Add New Details\" to add a new lead source.",
+        "Enter the \"Source Name\" (e.g., \"Direct Walk-in\", \"Newspaper Ad\", \"Google Ad\", \"Website\", \"College Duniya\").",
+        "Optionally, toggle on \"Reference Source\" if the lead source involves a referral.",
+        "Save the new source."
+    ],
+    "business_rules": [
+        "Enabling the \"Reference Source\" option will add additional fields for capturing reference details when a lead is being added."
+    ],
+    "important_notes": [
+        "Accurate tracking of lead sources is essential for analyzing the effectiveness of different marketing and outreach efforts."
+    ],
+    "questions": [
+        "How do I add new lead sources in the Admission module?",
+        "What is the purpose of the \"Reference Source\" option when setting up lead sources?",
+        "Can I track leads coming from online ads or third-party platforms?",
+        "Where do I define the origin of an admission inquiry?"
+    ],
+    "keywords": [
+        "Admission source",
+        "Lead source",
+        "Direct walk-in",
+        "Online ads",
+        "Third-party integration",
+        "Reference source",
+        "Source setup",
+        "Lead generation"
+    ],
+    "related_topics": [
+        "Admission Setup - Stage Master Configuration",
+        "Admission Leads Page"
+    ],
+    "id": "admission_admission_setup_source_configuration",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

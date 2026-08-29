@@ -1,0 +1,69 @@
+{
+    "module": "Fees",
+    "topic": "Fine Configuration Setup",
+    "summary": "This setup defines how late payment fines are calculated, including the fine amount, frequency of increase, maximum limit (flat or percentage), threshold for applicability, and specific fee heads on which fines are levied.",
+    "navigation": [
+        "Fine Config"
+    ],
+    "steps": [
+        "Assign a unique name to the fine setup (e.g., 'Monthly Fine').",
+        "Specify the base fine amount (e.g., 10 rupees).",
+        "Define the 'Number of Days' for fine increase (e.g., '1 day' for daily increase, '2 days' for every two days).",
+        "Set the 'Up to Amount Time' as either 'Flat' or 'Percentage':",
+        "If 'Flat', set a maximum fine amount (e.g., 150 rupees).",
+        "If 'Percentage', set a maximum fine as a percentage of the total due amount (e.g., 50%).",
+        "Set a 'Threshold Limit' as a percentage of the total fee amount. If the outstanding balance exceeds this percentage, the fine will be applied (e.g., 10%).",
+        "Select specific fee 'Heads' on which the fine should be calculated (e.g., Tuition Fee, Development Fee).",
+        "Optionally, use 'Date-wise Setup' to define a specific end date for fine calculation (e.g., up to the 31st of the current month)."
+    ],
+    "business_rules": [
+        "Fines can increase daily or every specified number of days.",
+        "Sundays are included in fine calculation by default.",
+        "A threshold limit (percentage of total fee) determines if a fine is applicable. If the balance is below this threshold, no fine is charged.",
+        "Fines can be capped at a maximum flat amount or a maximum percentage of the total due amount.",
+        "Fines can be applied to specific fee heads only.",
+        "The fine amount is calculated on the *total* balance across selected heads, not individually per head.",
+        "The fine amount is always calculated and posted to a dedicated 'Fine' fee head.",
+        "Either the daily/flat/percentage setup or the date-wise setup works; they are mutually exclusive. If date-wise is added, it takes precedence."
+    ],
+    "important_notes": [
+        "The threshold limit helps avoid fining students for small, round-off balances.",
+        "The maximum fine limit prevents fines from accumulating indefinitely.",
+        "The system automatically updates the fine counter.",
+        "A dedicated 'Fine' fee head must be enabled and used for every school to record fine amounts."
+    ],
+    "questions": [
+        "How do I set up late payment fines in the ERP system?",
+        "Can I configure fines to increase daily or every few days?",
+        "What is a fine threshold limit and how does it work?",
+        "How can I set a maximum limit for the fine amount, either flat or as a percentage?",
+        "How do I specify which fee heads are subject to fines?",
+        "Are Sundays included in fine calculations?",
+        "What is the purpose of a date-wise fine setup and how does it override other settings?"
+    ],
+    "keywords": [
+        "Fine setup",
+        "late fee",
+        "penalty",
+        "fine amount",
+        "fine calculation",
+        "threshold limit",
+        "fee heads",
+        "maximum fine",
+        "flat fine",
+        "percentage fine",
+        "daily fine",
+        "date-wise fine"
+    ],
+    "related_topics": [
+        "Fee Group",
+        "Fee Collection",
+        "Fee Head"
+    ],
+    "id": "fees_fine_configuration_setup",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

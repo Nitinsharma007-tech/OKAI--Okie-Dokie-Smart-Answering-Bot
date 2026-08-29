@@ -1,0 +1,1204 @@
+Uh
+Uh
+Uh
+Uh
+So, I will look up the
+So, I will look up the
+So, I will look up the recording after this session.
+.
+Uh no, . I was only
+Uh no, . I will repeat after
+Uh no, . I will repeat after
+Uh no, . I will repeat after this session.
+this.
+.
+.
+.
+.
+.
+.
+, .
+No, .
+.
+No, .
+No, .
+.
+, .
+.
+.
+.
+.
+public school.
+.
+.
+.
+installment
+installment
+by
+installment
+installment
+installment
+.
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+.
+.
+and
+26.
+I want to take a look.
+I want to take a look. Please let the
+Please.
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+.
+Uh
+Um
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+Uh
+.
+.
+.
+.
+Check your system.
+Check your system.
+Check.
+.
+System data.
+.
+.
+.
+.
+.
+.
+.
+.
+Uh
+Uh
+Next.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Normal.
+Normal.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+Recipes.
+international school, so I have put here TAS-1, now the receipt number will go like this to
+the first child, if it will go on to do the receipt, it will go on like this to any class
+receipt, because I have not divided class wise here, I have taken all the classes, now
+I have put 1138 in the bio-discord system, so we have selected all the classes, we have not put anything in prefix, we have not put anything in suffix, we have put 1138 in the prefix suffix, so if we have not put the prefix suffix, then this number will come directly to the receipt, if I have put the prefix, I have put TAS-prefix, so this will be our receipt number,
+if I put the suffix in this also, so how will the suffix be put, I have put the suffix as hyphen 25-26 here, hyphen 25-26, we have to keep this record many times, that the receipt is of which session, so it is a 25 words session, so I have put 25 words here,
+normally, in the standard cases, only this number is used, no prefix is used, no suffix is used, in 90-95% cases, direct number is used, some schools say that put the prefix, suffix people will get very less, this is the part of the pre-recept setup,
+so next we will move forward, after pre-recept, we have the refund receipt, when we will put the refund entry in the system, we have to refund the money for some reason, so in that case also a receipt will be generated, this is the setup of that receipt,
+same setup is going to be there, I have selected all the classes, for refund, suppose I have used R, R hyphen 1, so when the first receipt of the refund will come, R hyphen 1 will come, next 2 will come, 3 will come, so this counter will automatically increase,
+the counter will automatically increase in the system, so the counter will automatically increase, the counter will be updated, the counter will be updated, the counter will be updated automatically,
+this counter and I have put P in the pre-primary classes.
+So if any of these classes receive a receipt, then this counter will be used.
+If any of these classes receive a receipt, then this counter will be used.
+So we can separate the counters on the basis of the class.
+The class will receive a receipt according to the counter.
+If we have to separate all of them,
+then we can do it in any way.
+Next we have,
+if we talk about this in the receipt setting,
+delete receipts by excel.
+So we have taken an excel upload option here.
+We will discuss this later.
+The last part of the setup is the delete part.
+What can we do in the system?
+The receipts that we have entered in our system,
+are usually cancelled.
+A receipt type is cancelled.
+But there are some special cases,
+in which we have to delete the receipt.
+In which we have to put another receipt in the same receipt.
+Or we do not want to show the receipt.
+So for that, we have made an option of hard delete.
+We can do hard delete from here, and then upload it in excel.
+We will discuss this later.
+We will go ahead of the receipt setup and go to the delete functions at the end.
+So after the receipt setting,
+we have the next one, the fine config.
+We have seen this in the term group,
+we have the option to put a fine.
+So how will the fine option work?
+We will see that later.
+If we talk about how the fine setup will be.
+First of all, we will talk about the fine setup.
+First of all, we will talk about the name.
+What will be the name of the fine setup?
+What will be the name of the fine setup?
+I have named it monthly fine.
+This was the name of my setup, monthly fine.
+Now, what is the fine setup?
+The fine setup has to be that
+the fines increase day by day.
+First of all, how much fine does it take?
+Fine amount.
+I said fine amount, it takes 10 rupees.
+Monthly fine amount, it takes 10 rupees.
+Monthly fine amount, it takes 10 rupees.
+On number of days.
+How many days does the fine take?
+I defined it here in one day.
+Every day, the fine increases by 10 rupees.
+The first day the fine is 10 rupees,
+the next day it will be 20 rupees,
+the next day it will be 30 rupees,
+and the next day it will be 20 rupees.
+If I make number of days 2,
+then how will it be in that case?
+The first day the fine is 10 rupees,
+the second day the fine is also 10 rupees,
+the third day it will be 20 rupees,
+the fourth day it will be 20 rupees,
+and the fifth day it will be 30 rupees.
+The fine will increase every 2 days.
+The fines that we make according to the day,
+are they included on Sunday or are they skipped?
+Included.
+, .
+Next, we have the threshold limit.
+What is the threshold limit?
+In the system, we are defining the balance of the child
+if it is more than this percentage.
+Suppose the April fees were 5000 rupees.
+We have put a check in the system
+that if the child's balance is more than 10%, then he will be fined.
+This is 5000 rupees.
+We have put the rule of 10%.
+Now, if the child's balance, suppose the child has come to make a payment
+suppose the child has made a payment here,
+he has made a payment here and his balance will be 200 rupees.
+He has paid 4800 rupees out of 5000 rupees and the balance is 200 rupees.
+If the child's balance is less than 200 rupees,
+then the child will not be fined.
+If the child had made a payment before 4000 rupees,
+and the balance was 1000 rupees,
+then the threshold limit is more than 10% and the balance is 20%.
+In that case, the child is eligible for a fine.
+The child is fined.
+It is a little confusing.
+Is anything clear?
+, .
+No, . It is not confusing. It is clear.
+If the child's amount is more than the amount we have set,
+then only he will be fined.
+If it is less than that, then he will not be fined.
+Many times parents pay in round-off.
+Suppose the child's fee was 5050 rupees,
+then what will he do?
+He will only pay 5000 rupees.
+He will leave 50 rupees in balance.
+In that case, we cannot fine him.
+We have such cases.
+That is why we set a percentage here,
+that it will not be charged.
+So we can set a percentage here.
+After that comes the heads.
+Which fee do we have to pay to get a fine?
+We have different heads.
+Some schools say that we will not take a fine on admission fee.
+We will only take a fine on tuition fee.
+Tution fee or transport.
+Transport or development.
+We will take a fine on tuition fee or development fee.
+We will not take a fine on any other.
+Apart from this, if there is a child's balance in any head,
+then he will not be fined.
+If there is a balance in the head, then only the child will be fined.
+So how are we doing the same setup here?
+We have the option of add new.
+First of all, I will keep the name of the fine here.
+Monthly fine.
+Then it is asking the amount.
+How much is the fine?
+I say that the fine will be 10 rupees.
+After that, the system is asking up to amount time.
+How much will the fine amount go?
+Will it go in the flat or percentage?
+I said that it will go in the flat.
+How much will it go maximum?
+It will go up to 150 rupees fine.
+It will increase according to 10 rupees per day.
+It will increase maximum and increase only for 15 days.
+Suppose our last date was 10th.
+After 10th, it started to increase from 11th.
+It will reach 150 rupees by the 25th.
+Because the fine is increasing every day.
+And after that, it will stop.
+Even if we go to pay on the 26th, it will show 150.
+It will show 250 even on the 27th.
+It will only show 150.
+It will not increase beyond that.
+Its index is coming to us.
+Enter on every day.
+I have put it here.
+Every day the fine increases according to 10 rupees.
+And now it goes up to 150 rupees.
+Here comes the threshold limit.
+What percentage do you want to do?
+So I have said here that 10%.
+If more than 10% is due, then fine will be calculated.
+If it is more than 10%, then fine will be calculated.
+After that, the system is asking about the heads.
+Which heads should be calculated?
+I have calculated tuition fee and development fee.
+The rest will not be calculated.
+, on tuition fee and development fee,
+will the total fine of 10 rupees be calculated?
+Or individually 10 rupees?
+The total of both will be calculated.
+How is the total of both being calculated?
+For example, for tuition fee, we had 2000 rupees.
+For development fee, we had 1000 rupees.
+So the total amount is 3000 rupees.
+Its 10% is 300.
+If a child has more than 300 balance,
+then he will be fined 10 rupees on the first day.
+On the next day, he will be fined 20 rupees.
+On the next day, he will be fined 30 rupees.
+?
+.
+Is that clear?
+, .
+.
+Let me add this setup that we have done.
+What happened?
+, like the amount of fine,
+that particular amount is 10, 20, 30.
+I will tell you the next one.
+The total amount of fine is also calculated in percentage.
+Rp down.
+Let's talk about the fine setup.
+First of all, I will talk about the fee head.
+In the fee head, we have a head named as fine.
+This fine head will always be used.
+The amount of fine will always be calculated in this head.
+?
+I have turned on this head.
+This head will be used for every school.
+Every school has its own head.
+I have set it up in the system.
+This head will be used for every school.
+We will go to fine complete.
+I have told you about this monthly.
+I am telling you about the flat one.
+What is the other one, ?
+Compound fine is used.
+, compound is used.
+I guess it is working.
+I mean, the server issue is working.
+When I was also trying,
+some modules took a long time to complete.
+Still, it didn't work.
+, I will show you the server issue.
+So, the next one comes to us.
+If I talk about this,
+the server issue is done.
+So, this is the setup in the system.
+The monthly fine is made.
+It is made according to 10 rupees per day.
+It will go up to 150 rupees per day.
+It will be on percentage 10.
+I will review this again.
+We have one more option here.
+Instead of flat, we will do percentage.
+What will happen in the case of percentage?
+In the case of flat,
+we have defined that
+it will go up to 150.
+The fine amount
+can go up to 150 rupees.
+What happens in the case of percentage?
+We will put percentage here.
+What will we put in percentage?
+We don't know the total balance
+of that month.
+Every child will have a different balance.
+If the total balance
+of the child,
+which we have set here,
+is more than 10 percent,
+then the fine
+will increase
+according to 10 rupees per day.
+But it will go
+up to 50 percent
+in the same case.
+I will tell you the same case again.
+The percentage I set is 50 rupees.
+In this case,
+I will tell you again.
+The total fee of the child
+was 2000 rupees.
+The development fee
+of the child was 1000 rupees.
+The total of the child is 3000 rupees.
+If the child's balance
+is the same,
+it is more than 300 rupees.
+If the child's balance
+is more than 300 rupees,
+then it will go up to
+10 rupees, 20 rupees, 30 rupees.
+How much will it go up to?
+We have set 50 percent.
+Here we had set 150 rupees.
+We have set
+50 percent.
+How much is the 50 percent of 3000 rupees?
+1500 rupees.
+It will go up
+to 1500 rupees.
+We are assuming that
+every child's fee amount will be different.
+In the case of colleges,
+this section is used.
+Every child's amount will be different.
+Someone will have a hostel, someone will have a transport,
+someone will have a discount.
+Every child's amount will be different.
+The total fine
+of that child
+will go up to
+2 percent.
+We have set it up to 10 percent.
+It was 3000 rupees.
+In the case of 10 percent,
+it will go up to 300 rupees.
+It will go up to 300 rupees and
+it will not increase further.
+Is that clear or is there any doubt?
+, .
+Is there any doubt in this query?
+No, .
+Here we can set the percentage.
+How much percentage will it go up to?
+I am telling you about the flat one.
+It will go up to 150 rupees.
+It will go up to these two heads.
+It will go up to more than 10 percent and
+it will increase every day.
+This is our normal setup.
+In this,
+if we talk,
+we have a date-wise setup option.
+We can set it up date-wise.
+How will the date-wise setup work?
+Either in this case, the upper setup works
+or the lower setup works.
+What is up to date in this?
+Here,
+we can set in the system
+that the fine that has started to be
+10 rupees per day,
+up to date,
+it will go up to 31.
+It will go up to 31
+of the current month
+and it will go up to
+10 rupees per day.
+Either the upper
+or the lower structure will work.
+If we add it date-wise,
+the lower structure will work.
+The last date that we set,
+the last date that we set on the 10th,
+we have set up the current month.
+It will go up to 31
+of the current month.
+It will go up to 31
+of the current month.
+It will go up to 31
+What happens in that case?
+When the child goes to pay,
+this is the same case.
+In this same case,
+the child's fine amount will increase
+10 rupees, 20 rupees, 30 rupees,
+what will it go to in the end?
+It will go up to 210 rupees.
+It will start on the 11th
+and end on the 31st.
+for example, July 31st.
+August.
+I'm.
+I'm.
+up to 30.
+per day.
+.
+You are a setup.
+You're a setup.
+You're a setup. 30 days.
+, .
+edit.
+you.
+, .
+, .
+, .
+I don't know.
+and July.
+So,
+April.
+one.
+April.
+April.
+April.
+April.
+April.
+.
+same.
+30 April.
+190.
+Anyone else?
+Anyone else?
+200.
+Calculate.
+20th day.
+It's the last day.
+It's the last day.
+Calculate.
+1112.
+.
+Payment.
+200.
+200.
+Anyone else?
+Anyone else?
+200.
+.
+.
+.
+Payment.
+Payment.
+Mm .
+Mm .
+300.
+300.
+300.
+200.
+200.
+Mm .
+.
+.
+200 of April.
+210 of May and 50 rupees 15.
+If you're talking about 15 June, so 50 rupees again of June.
+This is how it's counted.
+200.
+210.
+.
+200.
+, .
+Fine.
+Fine.
+Fine.
+.
+.
+.
+April, May, June.
+.
+.
+April, May, June.
+April, May, June.
+April.
+July.
+Clear.
+.
+Mm .
+.
+.
+.
+.
+.
+.
+set up normally we initially do it from our end, we have a requirement from the client,
+most of the time we open the phone.
+We also give a portal through which they cut our fees and receipts.
+This is the portal.
+This is the portal.
+This is the portal.
+In this, the setup part, if the client opens it, the fee clerk will not show all these things.
+, , this will be at our admin end.
+If you show all this, he will not change anything in this.
+He will change the name, he will delete it, add something else, he will do anything.
+So what we say is that the complete structure is a permission-based structure.
+He will not have this option here.
+Even if there is an option, he can only view it, edit, delete, he can't do anything.
+, .
+, it's all a permission-based structure, he can only see these things, the setup things.
+His job is to take the fee entry, cancel the receipt, take out the report, that's it.
+, so let's move ahead after the fine config.
+Next is the miscellaneous remark.
+, what is miscellaneous remark?
+The fee that we have, let me talk about the fee.
+The structure of the fees that we have, majorly, there are four types of fees.
+, the fee receiving, there are four types of fee receiving.
+How are there four types?
+First is the fee.
+, the normal fee that the child received.
+, the fee that you have defined in the fee group,
+here the fee group that we have made, you have defined in the fee group,
+what is going to be received?
+That if a child comes, a class 1 child comes with a general degree,
+then he will get a total fee of 30,000 rupees.
+, that is fee.
+, next we have miscellaneous.
+, what is miscellaneous?
+Miscellaneous is the money that is taken from the child,
+which is extra from its demand.
+How is it extra from the demand?
+The child, like a school child, who is coming to study in a normal school,
+he broke the glass of his class, the glass of the glass or window,
+he broke the glass, so the school fined that child for 500 rupees.
+, other than fee demand, the child had a standard fee of 30,000 rupees,
+but what is the school saying?
+You will have to pay 500 rupees for this.
+Understood?
+, the extra miscellaneous that we make in the fee group,
+it is an update of the individual student.
+.
+We will not put miscellaneous in the fee group that we are making.
+We will not use miscellaneous in that.
+So then the miscellaneous charges to the student,
+the extra charges that the student is fined, where does that mean?
+I will tell you that now.
+There is no demand.
+When I initially added the child, I did not feel anything.
+How does this happen?
+The child broke the glass.
+.
+Or apart from this, the child lost his ID card.
+.
+If you want to take a duplicate ID card, then what is the school doing?
+They are taking 100 rupees from him.
+Duplicate ID card is your issue.
+It will cost 100 rupees.
+.
+There are some schools,
+what they do,
+they take money from the kids to do Activa Parking.
+They are taking girls or bikes.
+They take money for that.
+100 rupees, 200 rupees, this kind of amount.
+.
+Activa Parking.
+Do you understand what kind of expenses are there?
+The students who are specific,
+other than the fee demand,
+which has nothing to do with the fee demand of the child,
+they are not a part of the structure of the child.
+And for this, demand does not come first.
+Without demand.
+The child does not see a balance
+in which he has to pay this amount.
+Is that clear?
+Do you understand what is going on?
+ .
+Does anyone else have any doubt in this?
+.
+Let's talk about colleges.
+In colleges, they take money for bus pass.
+There is a bus pass for children.
+There is a pass for roadways.
+They take money for that.
+They take a re-examination fee from the children.
+There was a re-examination fee in a child's paper.
+In that case, the child will give his paper
+and take money for that.
+So they take a re-examination fee.
+These are the expenses of the state,
+which they take from the children separately.
+So the first part is the fee.
+The second is miscellaneous.
+Third, we have registration.
+Registration slash application.
+Has our registration module been covered yet?
+Not yet.
+.
+We have a registration process.
+What is the registration process?
+Before taking admission in school or college,
+the child pays a registration form
+for the prospectors.
+The child gets his registration done.
+The fee is paid for that registration.
+?
+Rs. 200 or Rs. 500.
+The fee must have been paid for that registration.
+There are Rs. 100 registration charges
+or Rs. 200 registration charges.
+So there are some fees like that.
+So that is covered in this.
+Registration fee or prospectors charges.
+When do we collect this from the child?
+The child will pay
+what is not part of our school
+or college yet.
+The demand you put, the fee demand you put,
+you put it on the children
+who are part of your college,
+part of the school, part of the student.
+? The miscellaneous money you took,
+the miscellaneous money you took from the children
+who have become part of our school,
+who are studying in our school,
+can we take this money from them?
+Registration fees or prospectors charges
+are those children
+who have not been registered
+as a student in our school yet.
+They have not become part of the school yet.
+Their admission has not been done yet.
+They have just got their registration done.
+? So this is not a part of the demand.
+It is added separately
+in the system. A separate form is made
+for the registration of the children.
+And we take this payment against that.
+? That is registration fee
+or prospectors charges.
+? The next fourth one
+we have is other fee.
+Other income as we call it.
+? What can be other income?
+What can be other income?
+There are two ways
+of thinking about school income.
+There are two ways of thinking about school income.
+One is that they are taking money from the children.
+How are they taking money from the children?
+How are they taking money from the children?
+Are they taking money in fees or miscellaneous
+or registration?
+This is income.
+Second, they have different sources
+for income.
+Like school canteen.
+What is there in school canteen?
+The canteen, they get money
+from the canteen person
+annually.
+Like we have given the canteen
+on rent.
+We have given this person
+a contract of one year.
+We will get one lakh rupees
+from that person every year.
+And he will run the canteen in our school.
+So the money that comes from that person
+is the income of the school.
+For example, sale of scrap.
+The waste that is collected,
+the waste that is collected in our school,
+there are files, papers, so much waste
+is collected. They sell the waste.
+The files are collected, they sell it.
+So we get money by selling it.
+That is other income.
+It is the income of the school
+or the college.
+So they do the entry
+in the system.
+Suppose they took money from someone.
+They sold the waste.
+They took money from the waste person.
+So they cut a receipt and give it to him.
+They took money from the canteen person.
+They took money from the bill
+that the canteen charge is over.
+They took money from the bill.
+They will cut a receipt of his name
+and give it to him.
+That is a part of other income.
+Is it clear?
+, .
+There are four modes, as I told you.
+These four are clear.
+Is there any doubt, any query?
+Does anyone have any query?
+No, .
+But all the other sources
+that they have,
+the college and the school
+will tell us about their sources.
+Which sources?
+, other sources of income.
+All the other sources
+will be told to us by the school.
+So we have an option here.
+The school will tell us
+those sources initially.
+We can't add it in the head.
+Whatever it was,
+suppose you added it here.
+It was tuition.
+It was development fees.
+You set the standard demand in the system.
+Now let's talk about miscellaneous.
+We don't know what kind of miscellaneous is miscellaneous.
+So for that,
+we have an option of miscellaneous remark.
+What we have to do is
+we can make miscellaneous remarks in the system.
+Which I have shown you.
+Glass break, ID card duplicate,
+active parking.
+All these remarks are made in the system.
+Like ID card duplicate,
+bus pass,
+re-examination fee.
+We can make such remarks in the system.
+We can collect money against
+the remarks we make.
+Clear?
+There is a collection part.
+We will come to that later.
+As we are making a fee head,
+demand is put in the fee head.
+So you can tell them that
+this is a miscellaneous fee head.
+We can collect money from the
+master who will make it.
+We can take money from the children.
+If it is not made,
+what do we have to do in that case?
+This is a miscellaneous fee head.
+The school will send it to us.
+Based on that,
+it will be made again.
+The client will tell us that
+this is a miscellaneous fee head.
+So he will tell us.
+We will make it based on that.
+Then he will collect money from it.
+Clear?
+Let's move ahead from miscellaneous.
+We will cover the receipt remark later.
+We will not cover it now.
+Next we have other income head.
+How is the other income head?
+As I told you about miscellaneous,
+I told you about other income.
+We also make masters
+of other income heads in the system.
+What will be the masters?
+We can make the same masters here.
+Sale of scrap,
+canteen contract,
+other income resource.
+We can make masters of this.
+It will also be the same that
+we can collect directly from there.
+Clear?
+Other income head.
+Miscellaneous remark.
+Other income head.
+Fine config.
+Recept setup.
+No doubts.
+We have
+a fine
+which is in our system.
+It will not be listed.
+It can be anything.
+I will give an example.
+I will give an example.
+As such,
+And one of them has SBI, and the last one is 2324.
+So this type of master setup system has been made.
+When the client will go to take the entry,
+then he will have to select which bank he will deposit this money from.
+He will have to select which bank he will deposit the money from.
+Suppose a child has cut a cheque for his fees,
+then which bank will he deposit the cheque from?
+He will have to select which bank he will deposit the money from.
+So the last report will show how much money will be deposited in this bank account.
+Is there any doubt in this?
+No, .
+We have made masters of the Institute Bank,
+but nothing has been done in this.
+We have the Institute Bank,
+and where will the money be deposited?
+So the receipt setting is done,
+the fine config is done,
+the miscellaneous remark is done,
+the other income head is done,
+and the Institute Bank is done.
+We are not talking about the subject combination and expense management now.
+We will see this later.
+We are not talking about the setup yet.
+Next we are looking at payment modes.
+Payment modes.
+The money that is being received for any school,
+the entry fee,
+from which mode can the money be deposited?
+Normally, we say that money can be deposited from cash,
+money can be deposited from cheques,
+a child can be transferred from a bank,
+a child can be deposited from a card,
+a child can be deposited from an online bank.
+In a bank,
+sorry, in a school or college,
+what they have done is they have put a static QR code on the fee counter,
+they have hidden it so that the child can scan it and pay for it.
+, you pay codes.
+In that case,
+we change the record mode.
+When we go to enter,
+one payment mode by record will be selected.
+Is the payment mode clear?
+Any doubts or queries?
+, it is clear.
+our payment mode is done.
+Next, we have liability heads.
+.
+What are liability heads?
+Let's talk about liability heads.
+The liability head is our liability head.
+What is the liability?
+When the child was admitted,
+they took 2000 rupees from the security.
+They took 2000 rupees from the child for security.
+The amount of security is taken
+because if there is any problem with the child
+throughout his or her performance in the school time,
+they can cut that 2000 rupees and cover the money.
+Otherwise, when the child passes out,
+they refund the security amount.
+Suppose there was a child.
+He took admission in class 8.
+He took admission in class 8.
+He paid 2000 rupees in the name of security.
+He paid 2000 rupees in the name of security in class 8.
+What did we do?
+We made a new fee group at that time.
+A new admission fee group.
+We had put 2000 rupees in the name of security.
+The child paid.
+He went ahead while paying.
+He went ahead.
+He reached class 12.
+.
+The child passed out when he reached class 12.
+He completed class 12.
+The last one that is existing in Maria is in class 12.
+The child did not go ahead of class 12.
+.
+So what we have to do is
+we have to refund the 2000 rupees of the child.
+.
+Let me talk in the same way.
+Let me talk in the same way.
+We took a tuition fee of 2000 rupees from this child at that time.
+If I refund the tuition fee of the child.
+Suppose the child had 30,000 rupees in demand.
+I refunded 2000 rupees from that.
+.
+So how much balance will the child lose?
+I mean, let's look at it this way.
+Let's look at it in another way.
+The child had 30,000 rupees in demand.
+We received 30,000 rupees from that.
+.
+And after that, we refunded 2000 rupees from that.
+So what will be the balance of the child?
+.
+.
+Tell me again.
+Tell me again.
+The demand was 30,000 rupees.
+We received the same amount of demand from that.
+But we refunded 2000 rupees from that.
+, there is no balance left.
+He had given 30,000 rupees.
+Zero.
+We refunded 2000 rupees from that.
+Tell me again.
+Does anyone have any knowledge about the balance of the child?
+Let me tell you.
+The child had 30,000 rupees.
+He paid 30,000 rupees at that time.
+What did we do?
+We refunded 2000 rupees from that 30,000 rupee tuition fee.
+When we refunded it,
+suppose we had taken money from April to March.
+When we refunded it, the money decreased in March.
+So the child's balance of 2000 rupees was returned.
+His demand was 30,000 rupees.
+We received 30,000 rupees from 30,000 rupees.
+We also refunded 2000 rupees.
+So his balance of 2000 rupees is left.
+Because when we refund the received minus,
+we have 28,000 rupees left.
+We have received 28,000 rupees from the child.
+So what will you do with the child's balance of 2000 rupees?
+The balance of 2000 rupees is left.
+So the child can pay the balance again.
+It will be shown in the balance system.
+, there was no concept of balance.
+No, I will tell you again.
+We had put a demand of 30,000 rupees.
+From 30,000 rupees, 30,000 rupees was paid by the child.
+We had to take 30,000 rupees from the child.
+And the child also gave us 30,000 rupees.
+After that, we said that we refunded the child at 2000 rupees.
+We refunded the child at 2000 rupees.
+So we have to take back the 2000 rupees.
+That's how much the balance is left.
+So when we have to take it back,
+then why did we refund it?
+That was the reason.
+, we had to refund it for some reason.
+That is the point.
+The child took a refund from us for some reason at that time.
+The child took a refund for some reason.
+It can be any reason.
+For example, if we talk in the normal case,
+the child had to pay in some other mode.
+The child gave cash by default.
+He says that I have to pay 2000 rupees by cheque.
+So give me back 2000 rupees.
+, .
+Or any such case comes.
+Or the child made an extra payment.
+So the child's amount of money will be refunded.
+The balance will be raised in the normal case.
+But if we have made a liability head in the system,
+then in the case of liability head,
+the balance will not be raised.
+That is a part of liability.
+It was a security amount.
+What did we do?
+We took 2000 rupees security from the child in class 8.
+So if we are now refunding the security money,
+then in that case, the balance will not be raised.
+If it is a normal head, then the balance will be raised.
+If it is a liability head, then the balance will not be raised.
+, . Clear.
+I have made the development fee a liability head.
+So if I refund money in the development fee,
+then the balance will not be raised in this case.
+If I refund it from the tuition fee,
+then the balance will be raised.
+Is that clear? , .
+We have the same refundable heads.
+The refundable heads also have the same structure.
+What happened in this case?
+If we talk about this case,
+the child was demanding 30,000 rupees.
+We received 30,000 rupees from the child.
+We refunded the child for 2000 rupees.
+I am talking about the liability head case.
+And the balance of the child was zero.
+Because it was a liability head, we did not see any balance.
+So if we do this calculation,
+then there will be a difference of 2000 rupees in this calculation.
+, this should have happened.
+The demand should have been updated to 28,000.
+If we refunded the refundable money
+to the liability head.
+The liability head had the money in the demand
+that we had to take the money.
+What happened in the refundable case?
+The child's amount was 30,000.
+We received 30,000 from him.
+We refunded 2000 from him.
+The balance was zero.
+But if the refundable head was there,
+then automatically this amount will be less
+and 28,000 will remain.
+28,000 was the demand.
+We received 30,000 from him.
+We received 2000 extra.
+So the balance was zero.
+So this will match.
+The difference between the liability head
+and the refundable head is that
+in one case the demand is less.
+Is there any doubt in the queries?
+No, .
+Is there any doubt in the queries?
+No, . It's clear.
+No, .
+No, .
+Let's cover the last part.
+I am leaving the fee excel uploads
+which we will cover later.
+Other income amount mapper.
+I had told you about the structure of other income.
+We have other incomes like this.
+What can be other income?
+In some cases,
+we define other income.
+For example,
+in college,
+we give charges in the name of an interview.
+If a teacher applies,
+the form that he is filling
+is of 200 rupees.
+In the name of an interview,
+we have to pay 200 rupees.
+What can we do?
+We can make a mapper here.
+How?
+So far, the option we have is open.
+How is it open?
+We have made the head
+of other income.
+I will write something here.
+I have to take an entry of 60,000 rupees.
+I have sold 60,000 rupees in the sale of scrap.
+I have to take an entry of 60,000 rupees.
+I have to type the amount manually.
+What we have done is
+in some cases,
+there are repeated entries of other income.
+In that case,
+what can we do?
+This was the other income.
+In the name of job application,
+we have made the other income head.
+What can we do?
+We can make a mapper here.
+Job application.
+In this, we can put an amount of 200 rupees.
+When we go to enter
+the other income,
+I will show you the entry view.
+This is the entry view.
+As soon as I add
+the amount details here,
+I will cover it later.
+I am showing you as it is.
+If I do the sale of scrap,
+the amount is zero.
+I can write whatever I want here.
+If I talk about
+the other one, whose mapper I have made,
+job application.
+As soon as I put the job application here,
+it will automatically come up to 200 rupees.
+I don't have to put it.
+I have to take an entry here.
+That is the part of mapper.
+We have already mapped the amount.
+In this head,
+whenever we go to enter,
+we will take an entry of 200 rupees.
+Is the query clear?
+No, .
+, tell me the meaning
+of the other income account.
+Which one?
+, the other income account mapper.
+I understood.
+I will tell you again.
+Till now, we have defined the other income.
+We have made different heads in the other income.
+The sale of scrap, school canteen,
+job application charges.
+What we do is
+when we go to enter,
+we have to put the amount manually.
+We don't know the demand part.
+We don't know how much amount we have to take.
+So what we do is we write the amount manually.
+The sale of scrap is the same scrap.
+50,000 rupees is the same scrap.
+So we put 50,000 rupees and take an entry.
+If there is a job application to fill an employee,
+then there is a form of 200 rupees.
+So I will type 200 rupees manually and then I will take an entry.
+If I have made an amount mapper here,
+other income amount mapper,
+then in the case of job application,
+always 200 rupees amount will come up automatically.
+How is it coming up automatically?
+Here I am showing,
+here we have the option of other income.
+In this, when we add the amount details,
+here I first said sale of scrap.
+I am getting the option to put the amount here.
+I will have to put the amount here.
+Whatever amount is sold.
+I am talking the same way.
+I made a canteen contract here.
+I will have to put the amount here.
+If I change the job application here,
+then here automatically 200 rupees
+will come up because I have made a mapper here.
+Only in the case of job application,
+there was a mapper, so in the case of job application,
+200 rupees came up and now I can take an entry of 200 rupees.
+I don't have to type the amount manually.
+ .
+.
+It is clear that anyone has any doubt or query in this.
+Anyone has any doubt or query?
+No .
+, once again,
+we will implement what happened today
+and then if there is any query,
+then we will take a call from you.
+So now if I tell you
+what we have covered,
+I will repeat it once again.
+We have
+received setting, fine setup,
+miscellaneous remark,
+other income head, institute bank,
+payment mode, liability head,
+refundable head and other
+income accounts.
+We have covered all this.
+What we have not covered, we have not
+worked on concession,
+we have not worked on concession,
+we have not worked on receipt remark,
+subject combination and expense management
+and excel uploads.
+.
+These are the five that we have not worked on.
+We have covered the rest.
+.
+So once you try this,
+if you have any doubt or query,
+then reach out for this.

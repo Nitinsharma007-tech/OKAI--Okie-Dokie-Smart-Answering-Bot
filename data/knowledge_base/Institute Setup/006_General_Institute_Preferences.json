@@ -1,0 +1,74 @@
+{
+    "module": "Institute Setup",
+    "topic": "General Institute Preferences",
+    "summary": "This topic covers various general preferences for an institute, including setting color themes, configuring the fee profile display, defining library fine collection methods, specifying document requirements for fee edits, managing receipt numbering conventions, and enabling options for skipping terms or collecting fees across multiple sessions.",
+    "navigation": [
+        "Institute Preferences"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences'.",
+        "**Color Theme:** Select a color theme to match the client's logo or branding.",
+        "**Fee Profile View:** Choose between 'Horizontal', 'Vertical', or 'Fee Head Group Wise' display for the fee profile. This setting is universal for all users of the entity.",
+        "**Library Fine Collection:** Decide how library book security deposits or fines are collected:",
+        "  - 'Separate in library': The librarian collects directly.",
+        "  - 'Added to fees': The librarian transfers the fine to the fee department for collection.",
+        "**Document Compulsory:** Toggle this option to make document uploads mandatory when editing fee records.",
+        "**Allow separate receipt setting for each session:**",
+        "  - 'On': Receipt numbers reset for each new academic session (e.g., 1-100 for current session, then 1-100 again for the next session).",
+        "  - 'Off': Receipt numbers carry forward sequentially from the previous session (e.g., 1-100 for current, then 101+ for the next session).",
+        "**Allow skip first term:** Enable this to allow students to skip payment for the first term (e.g., pay May fees while skipping April's fees).",
+        "**Allow select session (Multi-session fee collection):**",
+        "  - 'On': Allows collecting fees for pending dues across multiple sessions via on-screen pop-ups, streamlining the process.",
+        "  - 'Off': Requires manually switching to the relevant session to collect fees for previous academic periods.",
+        "**Batch option for schools:** Ensure this button is 'inactive' for schools and 'active' for colleges/universities (this setting is also found in Course Management).",
+        "**Check library dues for new student certificates:** Toggle this to check for pending library book returns or dues before issuing new student certificates.",
+        "**Automatic adjustment of extra fees:** Enable this for the system to automatically pass entries for the adjustment of any extra fee payments made by students.",
+        "**Check fees for no dues certificate:** Toggle this to make checking fee dues mandatory before issuing a no-dues certificate."
+    ],
+    "business_rules": [
+        "Fee actions, such as fee collection, are primarily performed from the web interface, not the mobile application.",
+        "The fee profile view setting applies universally to all users within that specific entity.",
+        "The batch option must be inactive for schools."
+    ],
+    "important_notes": [
+        "Carefully consider the implications of 'Allow separate receipt setting for each session' as it directly affects the numbering sequence of receipts.",
+        "The 'Allow select session' option significantly streamlines the fee collection process for students who have pending dues across multiple academic sessions."
+    ],
+    "questions": [
+        "How can I change the color theme of the ERP for my institute?",
+        "Where do I configure how library fines are collected?",
+        "What is the purpose of 'Allow separate receipt setting for each session'?",
+        "How can I enable multi-session fee collection?",
+        "Why is the batch option disabled for schools in Institute Preferences?",
+        "Should the system automatically adjust extra fee payments?",
+        "How do I make document uploads compulsory when editing fees?"
+    ],
+    "keywords": [
+        "Institute preferences",
+        "color theme",
+        "fee profile view",
+        "library fine",
+        "document compulsory",
+        "receipt setting",
+        "skip term",
+        "multi-session fee",
+        "batch option",
+        "library dues",
+        "extra fees",
+        "no dues certificate",
+        "fee collection"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Course Management",
+        "Student Management",
+        "System Configuration",
+        "Library Management"
+    ],
+    "id": "institute_setup_general_institute_preferences",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

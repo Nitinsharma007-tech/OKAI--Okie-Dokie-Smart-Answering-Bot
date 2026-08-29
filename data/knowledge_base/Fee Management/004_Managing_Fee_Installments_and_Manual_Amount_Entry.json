@@ -1,0 +1,64 @@
+{
+    "module": "Fee Management",
+    "topic": "Managing Fee Installments and Manual Amount Entry",
+    "summary": "Explains how to handle fee installments, including default selection, selecting all installments, and manually entering a custom payment amount, along with the fee head sequence.",
+    "navigation": [
+        "Collect Fee",
+        "Select Student",
+        "Fee Collection Section"
+    ],
+    "steps": [
+        "In the fee collection section, review the due demand and available installments.",
+        "The system automatically selects the first or current due installment based on the date.",
+        "To select all installments, click 'Select All'.",
+        "To enter a custom payment amount, directly input the desired amount (e.g., 10,000) in the designated field. The system will allocate this amount based on the predefined fee head sequence.",
+        "Alternatively, manually adjust amounts for individual fee heads if specific allocations are required."
+    ],
+    "business_rules": [
+        "Installments are automatically selected based on their due dates.",
+        "Manual amount entry allocates funds according to a predefined fee head sequence.",
+        "The fee head sequence can be customized."
+    ],
+    "important_notes": [
+        "**Default Fee Head Sequence:**",
+        "1. Security",
+        "2. Tuition Fee",
+        "3. Transport",
+        "4. Hostel",
+        "5. Student Development Fund",
+        "6. Student Fund",
+        "7. Fines (at the end)",
+        "This sequence can be adjusted as per institutional policy."
+    ],
+    "questions": [
+        "How do I select specific fee installments for collection?",
+        "Can I collect a partial fee amount from a student?",
+        "How does the system allocate a custom payment amount across different fee heads?",
+        "What is the default sequence for fee heads when collecting payments?",
+        "How can I change the fee head sequence?"
+    ],
+    "keywords": [
+        "Fee installments",
+        "partial payment",
+        "custom amount",
+        "fee head sequence",
+        "tuition fee",
+        "security deposit",
+        "transport fee",
+        "hostel fee",
+        "student fund",
+        "development fund",
+        "fines"
+    ],
+    "related_topics": [
+        "Student Fee Collection Process",
+        "Fee Structure Configuration",
+        "Fine Calculation"
+    ],
+    "id": "fee_management_managing_fee_installments_and_manual_amount_entry",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

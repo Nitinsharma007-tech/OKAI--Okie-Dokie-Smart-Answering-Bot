@@ -1,0 +1,48 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Bulk Student Upload via Excel",
+    "summary": "Describes the functionality to add multiple student records to the system efficiently using an Excel file. Users can download a sample Excel template, populate it with mandatory student details, and then upload the file for bulk data entry.",
+    "navigation": [
+        "Student",
+        "Student List",
+        "Excel Upload"
+    ],
+    "steps": [
+        "Navigate to the 'Student List' section.",
+        "Locate and click on the 'Excel Upload' option.",
+        "Click on 'Sample Excel' to download the template file.",
+        "Fill in all mandatory student data (e.g., Name, Father Name, Mother Name) in the downloaded Excel file.",
+        "Upload the completed Excel file to add students in bulk to the system."
+    ],
+    "business_rules": [
+        "All mandatory data fields in the Excel template must be filled for successful bulk upload."
+    ],
+    "important_notes": [
+        "This feature significantly streamlines the process of adding a large number of students.",
+        "A sample Excel template is provided to ensure users input data in the correct format and include all required fields."
+    ],
+    "questions": [
+        "How can I add multiple students to the system simultaneously?",
+        "Where can I find the sample Excel template for bulk student upload?",
+        "What are the mandatory fields required when adding students via Excel upload?"
+    ],
+    "keywords": [
+        "Bulk Upload",
+        "Excel Upload",
+        "Add Student",
+        "Sample Excel",
+        "Mandatory Data",
+        "Student Data Import",
+        "Mass Student Entry"
+    ],
+    "related_topics": [
+        "Student List Management",
+        "Student Details View and Edit"
+    ],
+    "id": "student_sas_bulk_student_upload_via_excel",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

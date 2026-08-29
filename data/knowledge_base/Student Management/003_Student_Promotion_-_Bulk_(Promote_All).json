@@ -1,0 +1,85 @@
+{
+    "module": "Student Management",
+    "topic": "Student Promotion - Bulk (Promote All)",
+    "summary": "Describes how to configure and execute bulk promotion of all eligible students from one academic session to the next, providing a report on the promotion outcome.",
+    "navigation": {
+        "Configuration": [
+            "Student",
+            "Student Session Management",
+            "Student Session Management Config"
+        ],
+        "Execution": [
+            "Student",
+            "Student Session Management",
+            "Promote All"
+        ],
+        "Report": [
+            "Bulk Operation",
+            "Report File"
+        ]
+    },
+    "steps": {
+        "Configuration": [
+            "Navigate to \"Student\" -> \"Student Session Management\" -> \"Student Session Management Config\".",
+            "Click to create a new configuration for student session management.",
+            "Define the promotion rule for each class by selecting 'From Class', 'From Batch' (if applicable), 'From Category', 'To Class', 'To Section', 'To Category' (always \"Old\" for promoted students), and 'Promoted Status' (\"Simple Promote\" or \"Promoted with Dues\").",
+            "Click \"Add\" to save the configuration.",
+            "Repeat this process for all classes that need to be promoted (e.g., LKG to UKG, Class 1 to Class 2, etc.)."
+        ],
+        "Execution": [
+            "Navigate to \"Student\" -> \"Student Session Management\".",
+            "Click the \"Promote All\" button.",
+            "Select the 'To Session' (e.g., 25-26) in the pop-up window.",
+            "Click \"Confirm\".",
+            "Wait for the process to complete; a success message will indicate when the report file will be ready."
+        ],
+        "Reporting": [
+            "Navigate to \"Bulk Operation\" -> \"Report File\".",
+            "Download the generated Excel report file.",
+            "Review the report for 'Total Count', 'Added Count', 'Updated Count', and 'Skipped Count' with reasons."
+        ]
+    },
+    "business_rules": [
+        "Bulk promotion operates based on the configurations defined in \"Student Session Management Config\".",
+        "The 'To Category' for all promoted students is always \"Old\".",
+        "For schools, \"Promoted with Dues\" is typically preferred; for colleges, \"Simple Promote\" is common. This choice must be confirmed with the client.",
+        "If sections are to be combined during promotion (e.g., Class 1A and 1B to Class 2A), this must be confirmed by the institute.",
+        "Inactive students are automatically excluded from bulk promotion.",
+        "Promotion will be skipped for students if the fee structure for their target class/session is not set up."
+    ],
+    "important_notes": [
+        "Bulk promotion is the most efficient method for promoting a large student body.",
+        "The report file provides an overview of the promotion results; for detailed verification, export student data and use tools like VLOOKUP.",
+        "If a single class requires different 'Promoted Status' (with/without dues) for different students, bulk promotion cannot handle this; manual promotion must be used for those specific students."
+    ],
+    "questions": [
+        "How do I promote all students to the next academic session at once?",
+        "Where do I configure the rules for bulk student promotion?",
+        "How can I check the results of a bulk student promotion?",
+        "What are common reasons for students being skipped during bulk promotion?",
+        "Can I promote students from multiple sections into a single section using bulk promotion?"
+    ],
+    "keywords": [
+        "Bulk Student Promotion",
+        "Promote All",
+        "Student Session Management Config",
+        "Promotion Configuration",
+        "Bulk Operation Report",
+        "Skipped Students",
+        "Promoted with Dues (Bulk)",
+        "Simple Promote (Bulk)",
+        "Student Category Old"
+    ],
+    "related_topics": [
+        "Active Session Management",
+        "Student Promotion - Manual",
+        "Fee Setup",
+        "Bulk Operations"
+    ],
+    "id": "student_management_student_promotion_bulk_promote_all",
+    "source": {
+        "file": "14. 1080p-syb-fmmz-jmq (2025-07-04 16_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

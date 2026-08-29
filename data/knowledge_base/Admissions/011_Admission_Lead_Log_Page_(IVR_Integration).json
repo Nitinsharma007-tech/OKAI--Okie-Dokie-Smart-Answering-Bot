@@ -1,0 +1,61 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Lead Log Page (IVR Integration)",
+    "summary": "The Admission Lead Log page is where incoming calls from an integrated IVR system are received, managed, and converted into lead logs. It allows users to view call details, listen to recordings, update caller information, and convert logs into full leads or reject them.",
+    "navigation": [
+        "Admission Lead Log"
+    ],
+    "steps": [
+        "1. Navigate to the 'Admission Lead Log' page.",
+        "2. View incoming calls, categorized as 'Received Calls' or 'Missed Calls'.",
+        "3. Identify calls by counselor if assigned.",
+        "4. If caller info is blank, call back the student to gather details.",
+        "5. After discussion, add the student's 'Name' and 'Stream' to the log.",
+        "6. Click on the 'Recording' option to listen to the call recording.",
+        "7. To convert a call log into a lead, click 'Convert Log'.",
+        "8. To reject a log (e.g., if the student is not interested), click 'Reject'.",
+        "9. To accept a call that was initially missed, click 'Accept Call'.",
+        "10. Use available filters to check 'Converted Logs', 'Pending Logs', 'Call Status', or data for a 'Specific Counselor'."
+    ],
+    "business_rules": [
+        "This page requires integration with an IVR partner (e.g., MyOperator) to receive call data and recordings.",
+        "Calls are initially received as logs and must be converted to full leads for further processing."
+    ],
+    "important_notes": [
+        "The IVR acts as a mediator, routing calls to counselors and pushing call records (logs, status, duration) to the ERP.",
+        "IVR configuration (secret token, company ID, IVR ID, KPI) is done in 'Admission Setup > MyOperator Config'.",
+        "Call recordings are crucial for quality assurance and training."
+    ],
+    "questions": [
+        "How do I manage incoming calls from the IVR system?",
+        "Where can I convert call logs into new admission leads?",
+        "Can I access and listen to call recordings from the ERP?",
+        "What is the role of MyOperator (IVR) in the lead management process?",
+        "How do I configure the IVR integration settings?",
+        "What information is captured in a call log?"
+    ],
+    "keywords": [
+        "Admission lead log",
+        "IVR integration",
+        "MyOperator",
+        "Call logs",
+        "Received calls",
+        "Missed calls",
+        "Convert log to lead",
+        "Reject log",
+        "Call recording",
+        "Caller info",
+        "IVR partner"
+    ],
+    "related_topics": [
+        "IVR Integration (MyOperator Config)",
+        "Lead Management",
+        "Admission Setup"
+    ],
+    "id": "admissions_admission_lead_log_page_ivr_integration",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

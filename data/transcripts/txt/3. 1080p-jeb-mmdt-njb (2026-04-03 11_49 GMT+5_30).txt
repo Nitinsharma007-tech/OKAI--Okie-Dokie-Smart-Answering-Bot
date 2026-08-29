@@ -1,0 +1,458 @@
+Yes, ma'am.
+I'll start again.
+The internet is gone.
+Yes, no problem.
+I'll start from the beginning.
+First of all, you all will have a login from school.audipay.in.
+It will also be shared with you all.
+To log in to it, you all have phone numbers.
+You have to log in via OTP.
+Then if you want, you can also set your password.
+After logging in from here, send OTP to change password.
+Everyone has an option.
+You can also greet your passwords.
+As soon as your ERP login is done, your OTP will be logged in.
+Here you have the settings icon.
+From where we have to set up.
+In settings, you all have the option of academics.
+By clicking on academics, you will have various options defined in which you have to work.
+Is this much clear at the end of all of you?
+Yes, it is clear.
+Now what we have to do is create a timetable.
+The first step for the timetable is to define the subjects in the system.
+After defining the subjects, you have to define the subject in the subject class mapping.
+So first of all, we have to define the subjects in the system.
+You have the first option.
+Right now I don't have any subject in the system.
+You have the option to add a subject at the top.
+You will click on this.
+I am creating a subject.
+English.
+The name of the subject.
+Then there is a unique code for the subject.
+It is possible that the name of the subject is common, but it has a code that defines it.
+I have added a code.
+3-digit code ENG.
+Then there is an assessment model.
+Scholastic subject, co-scholastic subject.
+Scholastic subjects are basically those subjects in which we have to do marks entry.
+For example, like your GK.
+In your primary classes, GK, which are your small classes, in that case your course is in scholastic or discipline.
+Basically, you use grading criteria for that.
+Teachers enter the grade.
+So those subjects are the criteria for scholastic or discipline or skills.
+We have made 4 assessment models.
+Ma'am, can I interrupt a little?
+Yes, tell me.
+Ma'am, the name of the subject in English will be of everyone.
+It is also in 7th.
+Will this subject code be different for 6th and 7th?
+No, no, no.
+This subject code defines your subject.
+It will not define your class.
+It is only defining your subject.
+It can be general knowledge.
+You have to use general knowledge completely.
+You have to use GK.
+I have made the assessment model scholastic.
+Sir, we have the option to define class and stream.
+There are some subjects.
+We want that when we create mapping,
+it should only show in these particular classes.
+It should not show in all of them.
+This can be a subject.
+In that case, you can map a particular class.
+For example, there is a subject that I want.
+When I create mapping for 5th and 6th class,
+it should only display in that class.
+It should not display in other classes.
+It should not be able to add.
+In that case, I can select this in a particular class.
+For example, my English is for everyone.
+I did not select a particular class.
+I will add a simple one.
+This is my subject.
+In this way, you can add subjects according to your classes.
+Or you can add a simple subject in the system.
+You can add the data of the subjects.
+Excuse me, ma'am.
+Yes, ma'am.
+Ma'am, can we skip the code?
+Is it necessary to give?
+Ma'am, it is necessary to give.
+You can add something else according to your classes.
+For example, I used ENG for English.
+In this way, code is considered a mandatory field.
+In our system, code is mandatory.
+You can add anything according to your classes.
+You can use HIN for Hindi.
+You can use MAT for Math, kind of.
+Okay.
+This was the subject.
+Sir, is there any query for any subject?
+No, ma'am. It is okay.
+Okay, sir.
+I want to clarify one more thing.
+The subjects that we have created,
+it is possible that later you have to change
+something in the name of the subject.
+You feel that you have to change its name.
+In that case, if you have only created
+I have not added it in any class in mapping.
+So, I can edit it until then,
+whatever I want to edit in it.
+But if I have added it in mapping,
+then I cannot edit it from here.
+Then I can only change its display name
+from mapping.
+I cannot change the name of the subject.
+Okay, sir.
+We have created the subjects.
+Now, we have to map our created subjects
+in their respective class.
+Right.
+That is an option in subject class mapping.
+Okay.
+You can call it subject course mapping
+and subject class mapping.
+In this, you have the first option,
+add new subject class mapping.
+Right. You will click on this.
+Then you will define the class.
+You are making it for the fifth class.
+There is an option, we can multi-select it.
+You feel that in fifth, sixth, seventh,
+I have common subjects.
+So, you can create three classes
+together.
+Class fifth, by default,
+it will select the stream and by default,
+it will select all the sections.
+I will create a single section now.
+Then, after that,
+you have to add the detail of the subject.
+It means, in class fifth,
+you are getting the subjects.
+You are defining the subjects.
+Okay. I added the subject.
+I have the list of the subjects
+that I have created there.
+I will type and select according to the drop down.
+Now, the assessment model
+that I added there,
+I have got the assessment model.
+Then, you have the subject type.
+What is the subject type basically?
+There are some subjects for some classes
+which are optional subjects,
+which are general,
+which are not common for all the students.
+Now, English is common for all the students.
+So, all the students in this class,
+I have to apply this subject
+from here.
+There is no option that
+two kids have it and three kids don't have it.
+So, we will do general.
+But in case, we have
+in class fifth, sixth, GK, drawing,
+Punjabi, so all these subjects
+are optional.
+So, in that case,
+you can use optional.
+From here, you will do optional.
+From here, you will define in subject mapping
+that it is an optional subject.
+All the students will not get it.
+Then, you will define it in the next step.
+Okay. For now,
+I will do this as a general
+and add it from here.
+This is my mapping created
+in which I have added one subject.
+From here, you had the option
+to add more subjects.
+Other than this, all the subjects
+will be added from here.
+Next subject.
+Your list will be created
+in this class.
+Okay, sir.
+There is one more query in this part.
+I will explain it.
+Okay.
+Now, we have
+created the class and defined
+the subjects. Now, basically,
+who is the class teacher in this class?
+Who is its coordinator?
+There is no corresponding subject teacher.
+So, we have to define that.
+There is class 5th.
+In class 5th, who is my class teacher?
+You have the list of employees.
+The ID of the employees that we have created.
+You will define from here.
+For example, this is my class teacher.
+So, I have set it as a class teacher.
+You can assign a coordinator
+to any other employee.
+In class teacher,
+we have the option to map
+a single employee.
+Because class teacher is single
+for a class.
+But if you want to do multiple,
+you can use the coordinator.
+From here, you can map
+all the coordinators for this class.
+And one more thing.
+Those who are mapped by class teacher
+and coordinator, they have
+all the subjects of a particular class.
+So, they have access to all the subjects.
+Now, you feel that you have to give
+a single subject to a teacher.
+For example, if he is a subject teacher,
+from here, the subject teacher is mapped.
+In the same subject teacher, you have the option
+to set multiple subject teachers.
+This was our teacher mapping.
+Now, there is one more thing.
+As I told you, by chance, you feel
+that the name of the subject
+I have to define something else.
+So, in that case, this is the display name.
+The display name that you will give,
+in the future, like you will do marks entry
+at the end of the student, which is visible
+to the teacher, that display name
+will appear, which you will give the display name.
+Now, if I edit this normal from here,
+for example, I have made this
+single subject.
+Now, I will edit this.
+So, I have this teacher map in it.
+It is showing you
+what is the subject of English
+and what is the employee edit.
+I have created this.
+I have not assigned this to anyone
+because the display name I have put
+ENG, now I have it everywhere
+I am using the name of ENG.
+There is an icon,
+we have this edit.
+After every mapping is created,
+you can make any further changes in it.
+Then, we have the option
+to assign by default.
+All the subjects added,
+general subjects added,
+you will select from here.
+If you assign from here,
+all the students will get it in the class.
+I am not doing it now because
+we are making it according to the test.
+Even then, I am not assigning the students.
+Okay, sir.
+Let's move on to some doubts.
+Okay, sir.
+Will you tell me one thing?
+Do you have the criteria for optional subjects?
+Do you have the criteria for optional subjects?
+Yes, we have.
+Okay, sir. I will explain that once.
+For example, the subject I have is
+an optional subject.
+It can be additional or vocational.
+You can set it according to that.
+Then, you can simply edit it.
+Okay.
+After that, you have defined
+this optional test.
+But from here, you can set it in bulk
+for all the students.
+Now, it is an optional subject,
+so it won't be applied to all the students.
+Now, how can we set it?
+For that, you have a separate option
+for assigned subjects.
+We assign optional subjects from here.
+You have selected the class.
+You have a list of the students
+from here.
+Now, which of these students
+do you want to assign the English optional subject to?
+You will select the students
+from here.
+After selecting,
+you have the option
+to assign the subject.
+You have created the option
+and here you will get the subject.
+As soon as you add the subject,
+it will only apply to the students
+whom you have selected.
+It won't apply to all the students.
+They have told us about the whole class.
+The whole class will be assigned from there.
+The subject class mapping
+You have made it as a general map.
+You have to make a general map
+After making a general map,
+you can directly edit and assign from here.
+Click and assign from here.
+I am not doing it now.
+It will apply to all the students.
+You have the option from outside
+You have the same option from here.
+Click and assign from here.
+It will apply to all the students.
+This was the part
+of creating the subject class mapping.
+According to this,
+we will define the timetable.
+For that, you will have the option
+of creating the timetable.
+You will do that part.
+From here, we will define the timetable
+of the subject and the teacher
+how to map in the future.
+For example,
+I will create a timetable.
+Add new timetable.
+You have selected the class.
+I have a single class in mapping.
+You are making a timetable of single class.
+After that, add new schedule.
+Now, you will define
+the lecture number.
+Lecture number 1.
+When is your lecture number 1 starting?
+Start time, end time, or just a minute.
+At least,
+you have to do it 10 times.
+Yes, sir.
+Shall we continue?
+Yes, sir.
+Just a minute.
+What we have to do is
+add the schedule.
+In the schedule, first we have
+lecture number 1.
+In the fifth class,
+when is my lecture number 1 starting?
+For example, my lecture starts
+exactly at 8 am.
+From 8 to
+8.45,
+my first lecture.
+8.40.
+8.40 am.
+After that, you can save
+this schedule.
+You can add more lectures.
+You have defined the second lecture.
+My first lecture is 8 to 8.40.
+Automatically, lecture 2
+starts from 8.40.
+When is my second lecture starting?
+Can you tell us when is your second lecture starting?
+9.20.
+9.20.
+I am creating only two lectures.
+I created two lectures.
+I saved the schedule.
+I am asking for all the schedules.
+You have to add all the timings.
+Lecture 3,
+from 9.20.
+Till when is the third lecture starting?
+Till 10 o'clock.
+Till 10 o'clock.
+Then, your fourth lecture will start.
+Till when is your fourth lecture starting?
+Till 10.40.
+When is your break starting?
+After 10.40,
+I have a 10-minute break.
+So, this is your break
+in lecture 5, right?
+Yes, till 10.50.
+Till 10.50.
+Then, your lecture 6.
+6.
+This is 10.50
+to 11.30.
+11.30.
+From 11.30,
+your break starts.
+Till 12.5.
+Till 12.5.
+Is your break single?
+Yes.
+After lecture 6,
+your break will start.
+After lecture 6,
+your break will start.
+I will put the time.
+I will put the time.
+I will put the time.
+What is your break?
+It is your lecture 9.
+If you start from 1, it will go up to lecture 9.
+If you start from 0, it will go up to lecture 8.
+Make that as per your own.
+I am making it like this for the test.
+I am making it like this for the test.
+Will it change?
+Yes, it will change.
+We have just created it like this.
+We have added the schedule of the lecture.
+It will change completely.
+It will be according to your choice.
+Give me a minute.
+OK sir, what is next?
+You can now add the timetable.
+Class 5's lecture schedule that I made
+using the name of class 5.
+OK?
+Now according to the schedule
+of class 5.
+Your timing is coming,
+you can change now.
+Whatever you feel like.
+Then you have it
+Monday, Tuesday, Wednesday,
+Thursday, Friday, Saturday.
+How is each subject?
+You have to add the name of the subject.
+There is a single subject.
+Add the subject.
+I have mapped two teachers for English for the subject.
+I have selected them.
+I will push.
+I have the subject.
+I will remove it.
+You can also remove it from here.
+I have clicked on it.
+Subject English.
+Name of the employee.
+Push.
+You have mapped the teacher.
+If you feel there is someone else on Tuesday,
+then the same option will remain.
+You have to define the break from here.
+Define the break from here.
+You can also run two subjects at the same time.
+There is an option for another.
+If there is someone else, you can add that too.
+It is proper to define the subject on Monday, Tuesday, Wednesday.
+Define the subject and push from there.
+There is a break on that date and time period.
+If you click on it and toggle on the break,
+then the break will start.
+Same push and remove.
+Both options remain.
+In this part, how to create a timetable in a query?

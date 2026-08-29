@@ -1,0 +1,66 @@
+{
+    "module": "Admissions",
+    "topic": "Duplicate Lead Handling: Tags and Logic",
+    "summary": "The system automatically identifies duplicate leads based on configured fields (e.g., phone number). Special tags, 'Duplicate' and 'Duplicate Primary', are used to manage these. 'Duplicate Primary' marks the first instance of a lead, while subsequent leads with the same identifying information are marked 'Duplicate'.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Admission Tags"
+    ],
+    "steps": [
+        "To create the 'Duplicate' tag:",
+        "1. Navigate to Admission Setup > Admission Master > Admission Tags.",
+        "2. Click 'Add New Details'.",
+        "3. Enter the tag name exactly as 'Duplicate' (no leading/trailing spaces).",
+        "4. Choose a random color.",
+        "5. Mark the label as 'Negative'.",
+        "6. Click 'Save'.",
+        "7. Edit the newly created 'Duplicate' tag.",
+        "8. Change all Hex color values to '0' (zero out RGB components).",
+        "9. Click 'Save'.",
+        "To create the 'Duplicate Primary' tag:",
+        "1. Navigate to Admission Setup > Admission Master > Admission Tags.",
+        "2. Click 'Add New Details'.",
+        "3. Enter the tag name exactly as 'Duplicate Primary'.",
+        "4. Select any color.",
+        "5. Add a label (generally 'Positive').",
+        "6. Change all Hex color values to '0' (black).",
+        "7. Click 'Save'."
+    ],
+    "business_rules": [
+        "When a new lead is added with the same identifying field (e.g., phone number) as an existing lead, the system will pop up a warning.",
+        "The first lead created with a specific identifying field will be automatically tagged as 'Duplicate Primary'.",
+        "Any subsequent leads created with the same identifying field will be automatically tagged as 'Duplicate'."
+    ],
+    "important_notes": [
+        "The 'Duplicate Primary' tag is crucial for identifying the original lead among multiple duplicates.",
+        "Ensure the 'Duplicate' tag is named exactly 'Duplicate' and its color is set to black (all zeros in Hex) for proper system functionality.",
+        "Ensure the 'Duplicate Primary' tag is named exactly 'Duplicate Primary' and its color is set to black (all zeros in Hex) for proper system functionality."
+    ],
+    "questions": [
+        "How does the ERP system identify duplicate leads?",
+        "What is the process for setting up 'Duplicate' and 'Duplicate Primary' tags?",
+        "What is the significance of the 'Duplicate Primary' tag?",
+        "Which fields are used to check for lead duplication?",
+        "Why are the colors of duplicate tags set to black?"
+    ],
+    "keywords": [
+        "Duplicate leads",
+        "Duplicate Primary tag",
+        "Lead duplication",
+        "Duplicate tag setup",
+        "Identifying duplicates",
+        "Phone number duplication"
+    ],
+    "related_topics": [
+        "Admission Tags: Creation and Usage",
+        "Duplicate Field Master",
+        "Lead Management"
+    ],
+    "id": "admissions_duplicate_lead_handling_tags_and_logic",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

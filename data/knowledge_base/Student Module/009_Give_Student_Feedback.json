@@ -1,0 +1,61 @@
+{
+    "module": "Student Module",
+    "topic": "Give Student Feedback",
+    "summary": "Process for teachers to provide structured feedback for students, including a title, type, category, description, and optional attachments. Feedback can be marked as private or open.",
+    "navigation": [
+        "Student Module",
+        "Student Feedback"
+    ],
+    "steps": [
+        "Navigate to 'Student Feedback'.",
+        "Use the filter options to select the specific class or view all classes' data.",
+        "Select the student for whom feedback is to be given.",
+        "Enter a 'Feedback Title'.",
+        "Choose the visibility option: 'Open Private' (visible to other teachers in feedback reports) or 'Private' (visible only to the teacher who gave it).",
+        "Select the 'Feedback Type' (e.g., Positive, Negative, Neutral) from the dropdown.",
+        "Select the 'Feedback Category' (e.g., Academic Performance, Sports, Behavior) from the dropdown.",
+        "Add a detailed 'Feedback Description'.",
+        "Optionally, upload an 'Attachment File'.",
+        "Select 'Send Notification' if the feedback should be visible on the student's app.",
+        "Save the feedback."
+    ],
+    "business_rules": [
+        "Feedback types and categories must be pre-configured in 'Institute Setup' before they can be used.",
+        "Students can view their feedback on the student app if the 'Send Notification' option is selected."
+    ],
+    "important_notes": [
+        "'Open Private' feedback is shared among teachers, while 'Private' feedback remains confidential to the giver.",
+        "Feedback provided is recorded on the student's timeline, accessible through their profile."
+    ],
+    "questions": [
+        "How do teachers provide feedback to students in the ERP system?",
+        "What is the difference between 'Open Private' and 'Private' feedback for students?",
+        "Can students view the feedback given by their teachers?",
+        "How do I attach a file to student feedback?",
+        "Where can I find a student's feedback history or timeline?",
+        "How do I send a notification to a student about their feedback?"
+    ],
+    "keywords": [
+        "Give feedback",
+        "student feedback",
+        "teacher feedback",
+        "feedback title",
+        "feedback type",
+        "feedback category",
+        "open private",
+        "private feedback",
+        "student app notification",
+        "student timeline",
+        "feedback description"
+    ],
+    "related_topics": [
+        "Configure Student Feedback",
+        "Student Profile Management"
+    ],
+    "id": "student_module_give_student_feedback",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

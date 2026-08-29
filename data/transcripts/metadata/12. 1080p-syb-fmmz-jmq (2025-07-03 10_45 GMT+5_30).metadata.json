@@ -1,0 +1,9 @@
+{
+    "video_name": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30)",
+    "model": "medium",
+    "language": "en",
+    "device": "cuda",
+    "compute_type": "float16",
+    "processing_time_seconds": 306.25,
+    "created_at": "2026-08-29T13:38:23.417030"
+}

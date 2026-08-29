@@ -1,0 +1,37 @@
+{
+    "module": "Fees",
+    "topic": "Daily Payment Mode Collection Report",
+    "summary": "Shows the daily collection amounts categorized by payment mode.",
+    "navigation": [
+        "Fees > Fee Reports > Daily Payment Mode Collection"
+    ],
+    "steps": [
+        "Navigate to \"Daily Payment Mode Collection\".",
+        "Select the desired date range.",
+        "The report will display total collection for each payment mode (e.g., cash, online) within the selected period."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "Useful for quickly checking how much was collected through each payment method on a given day or period."
+    ],
+    "questions": [
+        "How do I check daily collection by payment mode?",
+        "Where can I see how much was collected via cash, online, etc.?"
+    ],
+    "keywords": [
+        "daily payment mode collection",
+        "payment mode report",
+        "cash collection",
+        "online collection"
+    ],
+    "related_topics": [
+        "Fee Reports",
+        "Student Fee Collection"
+    ],
+    "id": "fees_daily_payment_mode_collection_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

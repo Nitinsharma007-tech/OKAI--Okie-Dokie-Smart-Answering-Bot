@@ -1,0 +1,51 @@
+{
+    "module": "Fees",
+    "topic": "Miscellaneous Charges Configuration",
+    "summary": "Miscellaneous charges are extra amounts collected from students that are not part of their regular fee demand and do not have a prior demand. These are typically for specific incidents or services.",
+    "navigation": [
+        "Miscellaneous Remark"
+    ],
+    "steps": [
+        "Create miscellaneous remarks in the system (e.g., 'Glass Break', 'ID Card Duplicate', 'Activa Parking', 'Bus Pass', 'Re-examination Fee').",
+        "Collect money directly against these created remarks."
+    ],
+    "business_rules": [
+        "Miscellaneous charges are *extra* from the standard fee demand defined in fee groups.",
+        "They are not defined in the fee group structure.",
+        "They do not generate a prior demand; money is collected directly when the service/incident occurs.",
+        "These charges are for specific student-related incidents or services (e.g., damaged property, lost ID card, specific parking/pass fees)."
+    ],
+    "important_notes": [
+        "These charges are for students who are already part of the school/college.",
+        "The school/client will provide the list of required miscellaneous fee heads/remarks.",
+        "These charges are collected without a pre-existing balance or demand."
+    ],
+    "questions": [
+        "What are miscellaneous charges in the ERP system?",
+        "How do I add an extra charge to a student's account that is not part of their regular fees?",
+        "Can I create custom miscellaneous charges like 'Duplicate ID Card Fee' or 'Re-examination Fee'?",
+        "Do miscellaneous charges create a demand for the student before payment?",
+        "How do I collect money for miscellaneous charges?"
+    ],
+    "keywords": [
+        "Miscellaneous charges",
+        "extra fees",
+        "student charges",
+        "non-demand fees",
+        "glass break fee",
+        "ID card fee",
+        "re-examination fee",
+        "bus pass fee"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Fee Group",
+        "Other Income Heads"
+    ],
+    "id": "fees_miscellaneous_charges_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

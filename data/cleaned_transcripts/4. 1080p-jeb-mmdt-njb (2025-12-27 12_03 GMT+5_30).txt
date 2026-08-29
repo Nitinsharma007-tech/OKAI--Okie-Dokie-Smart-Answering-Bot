@@ -1,0 +1,565 @@
+, so , apka jo abhi login url hai, , jo usse log in karte hai,
+uspe HRM ki apas complete permissions hai, apne check kar liye hogi.
+Tke, to abhi tak aapne kya kya, masters wajhara create kiye the, assign kiye the, then uske
+bhaad apne kuch contracts bhi laga liye hogi employees.
+Anji.
+Ji, tke.
+Ab jo aapne contracts laga liye usme kuch funding jo the ho gayi the complete matlab
+laga liye the apne.
+Anji .
+Tke .
+To , ho cover karna hai part to bara se, ya ho clear aap uske aage kare.
+, sara starting se bata do merko, mere mind me re to raha ho raha ho raha ho raha
+, , .
+, agar aapko contract kisi bhi employee ko hme lagaana hota hai, to aap basi ye assign
+salary template ka option rahega, .
+Anji.
+Tke, assign means, jais aji se aapko create karna hoga.
+Tke, jo bhi employee ke liye, assign salary template mein, jabbi hum assign karte hai
+Ab ho, aapko contract ko, apne is terse ek option open hoga.
+Ye.
+.
+Yaha se apke paas employees aage ho jimko aapko assign karna hai.
+, jitna bhi aappas total number of employees ho gye, wo sare aapki aapne aate
+hai.
+Anji.
+Tke, apko aap search kar sakto ho, either the employee ID or the name.
+.
+Jis bhi employee ko aapko lagaana hoga, apne search kiya.
+For example, mujhe is employee ko lagaana hai, ma search karoogi name se, ho aage hain.
+Then yaha select box se aapko select karna hai.
+, select karne ke baad aappas bottom ek button aayega, assign template ka.
+Means, aap isko contract laga rahe ho aapki ke liye mein.
+Tke, assign karoogi, assign karne ke liye aappas option hai, copy from salary template, import
+from salary.
+Dua option kya rahe the hai, ek to aapne contract template create kare rahe hai.
+Jo aapne salary template create kiya ho, chaar tarah ke standard created hai.
+With PF, without PF, without DSIPF.
+.
+Yaha phir aappas dosa option kya ho uskta hai, ki jo aapne previously employee ko lagaaya
+hain.
+Ye humne already employee ko lagaaya hain tha.
+First date aari hain, humne 31 December tak laga diya tha.
+Tke, aage ke liye aap isko hi continue karna chaate ho, December ke baad.
+Tke, to aap isko hi as it is copy karoogi, isme jo bhi aapko amount me changes, ya koi
+head me changes.
+, jo bhi karne hoge, wo aap kar sakte ho.
+In case, for example, aapko further ke liye hi koi reduction head aage contract ke liye
+assign karna hai, to aap yaha se head bhi add kar sakte ho.
+Tke, aap contract me change kar sakte ho, upcoming ke liye, 31 December ke baad ki contracts
+me.
+Tke.
+Calculate karte hai hum, to humare pas amount aajata hai, jo bhi contract ke according amount
+create ho raha hoga.
+Then aap next karoge, to aap se date maangega, ki kap tak ke liye aapko usse assign karna
+hai.
+Tke, pehle wala jo contract hai, wo aapko already 31 December tak assigned hai.
+Tke, to aap jo aap aage assign kar sakte ho, December ke baad kar hi assign kar sakte ho.
+, ek January se lagega, start date aap dekh rahe ho ki aap freeze aariye January
+2026.
+Agar mujhe November ka banana hai.
+Ha, aapko, man dekho kar November ka banana hai, to phir jo previous contract hai wo aapko
+remove karne padege.
+Kyuki aapne I think December se banane ke liye bho raha tha na.
+Ha na, to wo phir previous contract.
+Ja saar mein trial kari ho, to wo to mein November se karungi na.
+Agar aap chahe ho November se bhi create kar sakte ho, phir usme agar aapko head mein
+koi changes hai na, wo create karne ke baad bhi ho jate hai.
+Ye toh mein se contract create karne ka bata hote hai, agar aapko contract ki change karna
+hai.
+Tke, aap aap jesse batari ho na, aapko November ki for example salary banane hai, wo aap banane
+sakte ho.
+Uske liye aapko pati salary summary month wise ka use karke, aap pehle dates set kar lo
+ki employee ki, kisi ek ki banane lete hai, jesse aapki hi kar lete hai.
+Tke, ye salary summary month aapne dekha hoga, humne December ki create ki thi.
+Tke, for example ye aapki November ki hoti, isi toh aap November ki bhi banane liye jega.
+Wahi aapas jo ye hai, mark attendance month wise, November ki poore month ki karke hai.
+Asana aap mujhe hi bata ho, jesse maine na driver ki banane lete hai.
+.
+Tke, to wo maine shahe contract nahi lagaye tha usme.
+.
+.
+Ye hai employee?
+Ye.
+Tke.
+Aapne isse view kiya, aapko ye doubt hai, isko contract lagaya hai na, yaha pe na salary
+template rehta hai ye.
+.
+Agar contract laga ho, toh yaha wo show karega, yaha wo show nahi kara, means yaha pe contract
+nahi laga ho.
+Nahi laga ho.
+.
+Wahi aapko contract lagana hai iska, yaha se sign salary template se.
+Laga do main?
+Anji.
+.
+Aapko click, yaha pe click karna hai, select karoge assign template, then dekho yaha pe
+koi nahi aara hai, it means isko previous koi laga hi nahi hua.
+Tke, toh aapko yaha se assign karna hai isse.
+.
+Kya hai, aapko iska, wahi 10,000 wala system?
+Nahi, with hai, with, with.
+With laga hai?
+Anji.
+P, F, E, S, I both?
+Anji.
+Aur Labour Welfare Fund bhi lagayega.
+Toh a basic itna rakhna hai aapko amount matata jaye.
+Basic rakhna hai, aapne 14,390.
+14,390.
+Is tarah se aap basic amount enter karna.
+Incase koi D.A. hai, grade pe toh wo enter jasut pe nahi hai, toh aap iske skip kar dena,
+zero heat.
+.
+Chiken.
+Ab deduction mein, waise toh ho E, S, P, F, I wo automatically calculate terega, jo
+aapne click diya tha.
+Aapne ye dekho, ye automatic mein aara hai aapka ye 158.
+Jee, 158 na up to amount hai.
+Anji.
+Jo salary, even up to amount hota hai, dekho jo salary.
+Abhi humare paas E, S, I iska 101 hai.
+.
+.
+Toh utna hi rahega.
+Dekho kya hota hai, ye iska amount hai.
+Chiken.
+14,390 ka 0.75%.
+Anji.
+Wo iska aayega.
+E, S, I .
+Ye up to amount hai.
+Up to amount ho bata bote maximum kaha tak jasut te.
+Abhi meri jo salary sheet mein iska amount hai 101.
+.
+E, S, I.
+Abhi me isko change kar sakte ho na.
+ up to amount kyu change karna hai.
+I think 101 hi banega.
+Ek min main calculate bhi kar lete ho saath saath hai.
+Aapkar hum dekhe humara hai 14,390.
+14,390 ka aap kya rahe ho 0.75%.
+Ye baithega aapka 107 kuch baithega.
+Aapka kitna hai?
+Ye mere paas 101 hai, ye iska amount iska.
+, toh itna hi baithega.
+I think iski salary ke according.
+Aapko fix karna hai 101, aap ye kya rahe ho.
+ ye 101 hi jara hi iska ameesha se.
+Mere peechi salary sheets dekhi hai.
+.
+Itna hi hai, jaise ye fix hi ho gaya ho.
+Agar dekho fix rakhna hai wo bhi kar se toh.
+Wo 14,000 rupay pe laga rakhna ho anon ne.
+Jo aapka PFASI karte hai na.
+Jo peechi aap CSI karte hai.
+Wo 14 ke upar basic pe laga raha ho.
+.
+390 upar upar, 7 rupay aur upar raha rahe ho.
+.
+Toh ye na, dekho up to amount ka koi ye nahi hai.
+Ki aap sochho ki 150, 80 aayega ho.
+.
+Up to amount matlab ye nahi hota.
+Wo percentage ke saapse calculate karega.
+Jitna banega, agar 158 se zyada ban raha hoga na.
+Toh wo 158 tak rakhega.
+Iska matlab ye hota hai.
+Take care.
+So abhi , abhi merko ye bata ho ki,
+agar mujhe apni salary sheet se match karna hai.
+Toh isko 101 kar sakti ho na.
+Dekho, agar aapko karna hai, toh fir aap simple hai.
+Hum isko ister aise nahi rakhege.
+Hum isko normal wala rakhege.
+Add karoge.
+.
+Isko aapko rakhna hai ESI Employee Contribution.
+Isko aap rakhoge fixed.
+Hai na.
+Kittni value rakhni hai, hu aap rakte na.
+Kittna badari ho jo na 101,
+agar aapko usi ke according banane hai.
+Aap , ispe laga ho ek baar 101.
+101 karna hai ki kaise aayega.
+, koi nahi 101 karna hai.
+Isko percentage hi aayega, PF ko?
+PF mein aayega.
+1612.
+1000, 500, 12.
+12% iska dekh lukte hai.
+14, 399.
+1726.
+1726.
+Aapka kittne hai?
+1612.
+, toh fir ye bhi aap usse isaab se karlo.
+Ye bhi matlab aapko apne according rakna hai.
+Delete karoge.
+Yaha pe PF hai aapka.
+Isko bhi aap fixed kar sakte ho.
+Like fir ye fixed rahega.
+Matlab ikla hi rahega har salary contract.
+Jabbi aap salary process karoge na, upta hi amount rahega hai.
+And agar next month ye change ho jaye toh?
+Toh fir aap change kar sakte ho.
+Mai aapko woi bata dugi, aap salary mein bhi change kar sakte ho.
+Kitna rakko amount bata na?
+1612.
+1612.
+Uske alawa employer contribution bhi hai kuch?
+, ye labor welfare fund hai.
+Bhi ho deduction bhi aayega.
+Ye toh hata do na, employer contribution.
+ ji.
+Yahaan se delete ho jayega.
+Ab ik dosra aap kair rahe ho labor welfare fund.
+Ye hai.
+Ye 27 rupees.
+27.
+Ye aap contract mein laga rahe ho .
+It means jabbi aap salary process karoge,
+toh automatically ye deduction mein hi dekhayega.
+Mai aapko bhi bata dugi,
+agar aapko contract change karna ho, salary process ke baat karna ho,
+toh wo bhi aap kar sakte ho.
+Ye kiya, then aap calculate karoge,
+wo salary dekhadega ki gross salary itni banti hai.
+Deduction aapki 1740 bani
+and paid salary ki 12,650 bani.
+Aur Manu, aap maine ispe se advance cut karna hai.
+ fine.
+Ab advance ka bhi aapka deduction rahe toh.
+Advance recovery.
+Aapko kitna karna advance?
+Ye laga lo 11000.
+Toh ye aapko is month ka hi karna hoga na.
+Har month mein toh,
+toh waise toh zero banega abhi ke liye.
+Matab ek toh contract mein toh zero hai.
+Har month ki salary ke hi saab se hai.
+Ye toh aapka.
+Abhi ke liye hi zero karke
+we calculate karke assign karege.
+Jab aapki salary process ho jaayegi
+toh mein waha pe bataa doon ki aap kaise edit kar sakte hai.
+Abhi aap mujhe ye batao ki
+agar hum yahi par isko salary bana rahe hain.
+Abhi contract laga rahe ho,
+salary nahi bana rahe ho.
+Ye aapko contract laga rahe hain.
+Contract ho gaya means
+a salary structure hota hai na.
+Jaise ki aapko ye salary pattern hai aapka.
+6 mine ke liye, 7 mine ke liye,
+12 mine ke liye.
+Toh wo ek salary pattern assign kar rahe hain.
+Har mene ki aapki kam jaga
+wo hum banane ke baat patte hain.
+Bas maine head selected kar liye.
+Incase hoga toh aap amount waha pe enter kar sakte ho.
+Jo bhi rahega.
+Then aap calculate karoge.
+Next, next rahega.
+Next karne ke baad aapko dates pe le jayega.
+Aapki isme aapne sign nahi kari thi kya?
+Usko joining date?
+Joining date, shahid mere
+Sukhmeet ko bola doon aapka.
+Implore ki joining getne lagi ho hai.
+But koi baat nahi hum na.
+Kap se laga ho maa contract bata hoon.
+Kap se laga ho isse.
+Agaste laga hoon.
+Agaste pehle toh banaoge bhi nahi aap.
+Agaste lege kap tak ke liye ye contract
+hume future mein assign karna hai.
+Wo hoti hain aapki end date contract ki.
+Toh kap tak ke liye assign karna hai aapko ye?
+26 tak toh gardo .
+March, April kaha tak karo?
+Mai tak gardo .
+Ye 31 mahi tak ho gaya.
+Means 1 June se
+new contract lagaana padega.
+Ya isi ko aap extend kar skte hoon.
+Aap assign karoge toh ye
+contract employee ko assign ho jayega.
+Added count 1 means
+contract assigned kya is employee ko.
+Abhi aapne ye contract lagaaya hai.
+Aap iski salary banata hoon.
+Toh ek cheez hai,
+sabse pehle salary banane se pehle
+uske pay birthdays aapko jise
+maine bataya tha na.
+Ye maine laga diyate iske.
+Laga diyate.
+Aap pay birthdays lagaay te
+then uske baad aap us computer
+attendance rata hai jahaan se aap salary banane hoon.
+HRM ke andar computer
+attendance.
+Jis month ki salary banane hai
+aapko month select karna hai.
+November ki November.
+Aap go karoge simple
+toh aap saari employees ke list
+aajayegi aapne.
+Aap search kar sakto single employee
+iski karne hai.
+Aapne iski pay birthdays 28 banaye hai?
+20.
+Toh 28 days ki salary banane hai 
+aapko iski.
+Aapne click ki aapne select
+kiya. Select karne ke baad aap process
+salary karoge toh ye iske aajayega
+added.
+Means iski salary ban chuki hai.
+Ab jo salary bani hai hume wo dekhni hai
+toh uske liye aap pass option hai
+salary summary month wise.
+.
+Yaha pe aap select karoge 2025
+November month ki salary dekhni hai.
+Ab hiyaan se kuch bhi select nahi karoge toh
+by default sabhi employees ka data aega
+jo aapne banaya waoga.
+November ki aapne process kari hoge
+ye kuch aur bhi employees hai.
+Toh aap jaisi ye employee hai.
+Is employee ka deduction ye hai
+amount ye, is accordingly iske salary ban rahi hai.
+Ab aapki paas ye toh
+upar se aa rahi hai, overall aari hai
+jo system ne banake liye.
+Isne aapko jo bhi changes karne ho de
+aap pass ye view ka option hai.
+Ab view karoge, iska
+one minute dena.
+.
+.
+Haji kare continue.
+, so
+view hota hai, ye toh aapki salary create
+ho gayi, ab us employee ki
+particular employee ki salary mein aapko
+jo bhi changes karne hai, aap view kare ge
+usko corresponding structure kura
+view karte hi aap pass hi uska open ho jayega
+structure. ye view kaha se
+kar rahi the hai. ,
+I will tell you from the starting.
+HRM ke andar yaha se apne salary
+process ki.
+Process hone ke baad success
+aagaya means uske salary create ho gayi.
+Isi ka next option hai, salary
+summary month wise. Naam se kya
+clear hota hai ki aap a particular month
+ki salary dekh rahi ho employee ki.
+Toh aapko simple
+month, month and year select
+karke go kar dena, aap us us month
+mein jitne bhi employees ki salary bani
+ho gayi ho aajayi.
+.
+Ab isme se agar aapko kisi
+aapne dekh liya, yaha pe kya raha hai
+employee ki IDs, unka name
+corresponding department designation
+jis month ki aap salary dekh rahi ho
+November month, kitne payable days
+aapne banaye hai, kuch ke 30, kuch ke
+zero, kuch ke 20. 
+unki kya gross salary hai, kya
+deduction amount hai, then gross minus
+deduction karke jo employee ki paid salary
+bachti hai ho.
+Ab aapko iske
+amount mein kuch bhi changes karne hai
+ kisi bhi, toh aap pass iske
+corresponding view rehta hai.
+.
+Ab view karoge, view karne
+ke baad, us employee ka
+aap matlab pura complete salary ka
+platform, aapka structure uska open jayega.
+Ab aapki jaise bhi
+iska advance deduct karna hoga
+aap isme
+amount mein bhi changes, for example
+aapko basic increase karna hai, kam karna hai, aap
+wo bhi kar sakte ho. .
+Ab aapko iske advance recovery, ye deduction
+rahega, jisme, jo deduction ki head
+hai, wo yahaan se hoyegi, jo aapko
+uske increase karna hai, matlab pay scale increase
+karne ke liye head ho, earning heads wo yahaan se
+rahegi aapki. .
+Ab aapko advance dalne hai,
+aapkar pata ho, itna dalne hai. 11,000
+dalne hai. 11,000
+aapne advance dalne hai, aap jaisi 11,000
+dalogue, aap dekhogue, yahaan pe
+istera se pop up aayega aur ye structure
+change karega, wo gross salary deduction
+aur paid. .
+Ye isse sabse baith raha hai, aapke
+according ye hai, matlab itni gross salary
+ban rahe di, 12,740
+deduction aur paid uska
+691 baith raha hai. .
+691 year? .
+, basic bhi hai.
+So, ab uske baad, aap
+paas yaha pe, ab dikho ye to save
+hua, yaha pe save hua hai, but
+ye tab tak reflect nahi karega bottom me
+jab tak aap uske remarks dalke save nahi karege.
+Means aap koi bhi
+change karo, jab tak aap remarks
+dalke save nahi karege, to wo actual
+save nahi hoga.
+Aapne remarks center karne ki
+jo aapne change kiya hai, wo kya kiya hai.
+For example, maine advance recovery ka change kiya hai.
+To maine istera se remark
+usne enter kiya, save karo ki
+to aap us pop up aayega ki ye save
+ho gaya hai.
+Ye save ho gaya hai, ab then aap isko
+view karoge, to iski
+ye bhi change ho gaye aapka.
+ .
+ , matlab aap
+ view karke koi bhi change kar
+skte hai. Ab agar aapko
+kisi aur employee me bhi in case aapko
+lagta hai, kisi aur employee me bhi aapko deduction
+aur ho sab head karna hai. For example, ye employee
+hai, koi bhi hum le lete hai.
+Iski salary jo process hui hai, isme aapko
+deduction head bhi dalna hai.
+To aap yahan se add ghar hoge,
+kaunsa deduction head hai, aap direct
+select karke, amount karke bhi
+save kar sakte ho remarks dalke.
+ .
+Aur ek cheech ho raha hai, in case
+aapko koi aisa head chahiye, jo yahan pe nahi aara.
+Aisa ho sakta aapko, earning head me bhi koi
+aisa head chahiye, jo matlab koi bhi
+koi bhi head ka name, jo bhi
+aapko lage hai, koi head aapko chahiye aisa.
+To head aap create kahan se kar sakte ho,
+yahan pe settings me HRM
+setup milega aapko.
+, kahan pe payroll master hai.
+ salary ka jitna bhi hota hai, wo
+humara payroll master ke andar aata hai.
+Aap ispe click karoge, ye earning heads
+hai, in case aapko koi earning head
+additional chahiye aur basic aapko
+lagta koi conveyance allowance dena ya
+kuch bhi, koi bhi name ka head chahiye.
+Ispe click karoge, kuch to head aapko
+upar mile jayege, like HRA Medical
+Law and Special Enforcement. To aap direct
+yahan se tick kar ke bhi save kar sakte ho, in case
+agar upar hai aapko wo head.
+ . . Aur in case agar inme se
+koi nahi hai, to aap add new
+karoge, apni sabse yahan pe name enter
+karoge, jo bhi hai head ka.
+Save kar doge to wo head create ho jayega.
+ .
+Karke save zarur karna hota hai.
+Same earning head ki liye hai, same
+aapka deduction head ki liye,
+agar aapko in case koi deduction head
+add karna ho. .
+And , ek cheech aur salary template
+me koi change nahi ho payega, in case
+agar wo template kisi bhi employee ko assign
+hota hai. .
+Agar aapko change karna hoga na, fir wahi ye salary
+je se hum process karte hain, aap wahan se change
+kar sakte ho. Jo aapne salary bhi dekhne, salary
+summary month price mein, aap yahan se
+kar sakte ho, nahi to contract bhi
+sign kar sakte ho, future ke liye.
+ .
+Aur baaki aapko contract view karna ho
+kisi employee ka, to apas employee ke
+andar hi option hai, jaise abhi isi
+ka hi dekh lete hai, jo ek employee hai, abhi
+humne jis ko sign kiya.
+Yahan se aap employee view karoge, to wo salary
+template aara tha nahi, wahi se hi aap dekh
+sakte ho.
+Is tarah se main jo employee hota
+hain, humare pas, apas employee ki list
+hain jo.
+Yahan se aap
+search karoge, jis to employee ko karna
+hai, aap employee search kiya.
+Is abhi employee ko humne assign kiya.
+Ab ispe click karoge, yahan
+pe apas bottom mein rehta hai salary template.
+Anji.
+Ispe click karke, jo bhi template
+assign hai, usko dekh sakte ho.
+Yahan se bhi, yahan se bhi new ad hota,
+but wahi se zyada preferable rehta hai, kiki
+wahan se aapko calculation amount dekh jaata hai.
+, agar main koi aap accounts
+number darli hain.
+, wo bank details .
+, salary details.
+Wo salary details ka section hain.
+Jaise kuch logon ke chek bante hain,
+toh kaise merko aisa kuch show
+hoga ki inke chek bane ge, kuch
+aisa ho sakte hain.
+Malha, aap ispe se keh rahe ho ki
+salary via chek de rahe hain jo.
+Abhi jinke bank account number toh
+honge, wo toh main add kar doon.
+Abhi yahan
+payment mention kar sakte ho via chek kar
+ke.
+Abhi kuch pop up
+saarega ki ye via chek bane ge.
+, matlab aap uspe pop up
+chah rahe ho.
+Remarks main daal sakte ho, ,
+agar aap chah ho toh fir wo.
+Jo remark ki details rahe the hain,
+aap usme enter kar sakte ho.
+Itna hi part hai, .
+Asi salary process ka saara.
+Koi doubt ho kuch.
+Waise ye bhi theek hai, aap payment mode me likho,
+RTGS, jiski jaari hain.
+Aur yahan pe likho chek. Aapko pada rahega.
+Ye chek se jayegi, ye RTGS se jayegi.
+.
+Abhi yahan likh doon ke toh, , yahan pe
+fayda ye ki, ko ek hi bari aapne kar,
+matlab save kar diya, Harman Thapu karne ki
+zarat nahi hai.
+Matlab mereko ye tha ki, agar me salary slip nikal lo
+isme do, fir merko ye.
+, jo aap yahan enter karoge na, ye
+paanch details hai, bank name, branch name,
+aapki salary slip pe reflect
+toh diye.
+Koi doubt, koi query,
+.
+Abhi kuch query tab aayegi na.
+.
+.
+.
+.

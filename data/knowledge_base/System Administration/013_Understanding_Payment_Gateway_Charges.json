@@ -1,0 +1,47 @@
+{
+    "module": "System Administration",
+    "topic": "Understanding Payment Gateway Charges",
+    "summary": "Discusses the charges associated with using payment gateways for online transactions, particularly for credit card and UPI payments.",
+    "navigation": [],
+    "steps": [
+        "The ERP team will share detailed information regarding Razorpay charges.",
+        "The institute will discuss with its bank for alternative gateway options if external gateway charges are deemed too high."
+    ],
+    "business_rules": [
+        "Payment gateway charges are typically applied by the bank/gateway provider.",
+        "Charges can vary for different payment methods (e.g., credit card, UPI).",
+        "Minimum charges as per bank norms may apply for credit card transactions."
+    ],
+    "important_notes": [
+        "The current ERP portal might not apply charges directly for online form filling (e.g., for a 10,000 registration fee).",
+        "The ERP team will provide detailed property information and competitive rates for payment gateway charges.",
+        "Consideration should be given to using the institute's own bank gateway if external gateway charges are not favorable."
+    ],
+    "questions": [
+        "What are the charges for using the integrated payment gateway (Razorpay)?",
+        "Do different payment methods (credit card, UPI) have different charges?",
+        "Are there any charges applied by the ERP portal itself for online payments?",
+        "Can we use our own bank's payment gateway?",
+        "Where can I get detailed information about payment gateway charges?"
+    ],
+    "keywords": [
+        "Payment gateway charges",
+        "Razorpay",
+        "credit card charges",
+        "UPI charges",
+        "bank gateway",
+        "online payment fees",
+        "transaction fees",
+        "payment processing"
+    ],
+    "related_topics": [
+        "Online Admission Registration and Payment Process",
+        "Processing Fee Payments via Various Modes"
+    ],
+    "id": "system_administration_understanding_payment_gateway_charges",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

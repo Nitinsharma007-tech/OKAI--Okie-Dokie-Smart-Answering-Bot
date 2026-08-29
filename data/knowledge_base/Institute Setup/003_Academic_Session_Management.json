@@ -1,0 +1,49 @@
+{
+    "module": "Institute Setup",
+    "topic": "Academic Session Management",
+    "summary": "This topic explains how to create and manage academic sessions within the ERP, including setting start and end dates, and designating an active session that will be the default for all users.",
+    "navigation": [
+        "Institute setup",
+        "Institute profile",
+        "Sessions"
+    ],
+    "steps": [
+        "Navigate to 'Institute setup' > 'Institute profile' > 'Sessions'.",
+        "To add a new session, specify the 'Start date' and 'End date'.",
+        "For schools, sessions typically follow a calendar year (e.g., January 1st to December 31st).",
+        "For colleges, sessions are usually academic years (e.g., 25-26 odd, 25-26 even).",
+        "Use the 'Edit' option to modify details of an existing session.",
+        "Mark a session with a 'star' icon to set it as the 'current active session'. This session will open by default for all users."
+    ],
+    "business_rules": [
+        "The session marked with a star will be the default active session for all users (teachers, staff, etc.) upon login."
+    ],
+    "important_notes": [
+        "Ensure the correct session is marked as active to prevent data entry errors and ensure users are working in the correct academic period."
+    ],
+    "questions": [
+        "How do I create a new academic session in the ERP?",
+        "How can I set a specific session as the default active session for all users?",
+        "What is the difference in session setup for schools versus colleges?",
+        "Where can I edit the start and end dates of an academic session?"
+    ],
+    "keywords": [
+        "Sessions",
+        "academic year",
+        "start date",
+        "end date",
+        "active session",
+        "default session",
+        "session management"
+    ],
+    "related_topics": [
+        "Course Management",
+        "Student Admissions"
+    ],
+    "id": "institute_setup_academic_session_management",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

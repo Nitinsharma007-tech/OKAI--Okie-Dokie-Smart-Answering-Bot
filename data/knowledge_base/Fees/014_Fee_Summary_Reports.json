@@ -1,0 +1,50 @@
+{
+    "module": "Fees",
+    "topic": "Fee Summary Reports",
+    "summary": "Provides various summary reports of fee demands, concessions, payable amounts, received amounts, and pending balances, categorized by head, course, or category.",
+    "navigation": [
+        "Fees > Fee Reports > Fee Summary"
+    ],
+    "steps": [
+        "Navigate to \"Fee Summary\".",
+        "Select \"Head wise\" option.",
+        "Filter for \"active students\".",
+        "The report will show demand, concession, payable, received, and balance pending for each fee head.",
+        "To view course-wise summary, select \"Course wise\" option and choose specific courses (e.g., Class one, Class five).",
+        "To view category-wise summary, select \"Category wise\" option (e.g., General admission category).",
+        "To view group-wise summary (used in colleges if fee head groups are defined), select \"Group wise\" option.",
+        "To view a combined summary of multiple fee heads, select \"Combined Head wise\" option."
+    ],
+    "business_rules": [
+        "\"Group wise\" summary is typically used in colleges where fee head groups are defined."
+    ],
+    "important_notes": [
+        "These reports provide a high-level overview of the financial status of fees."
+    ],
+    "questions": [
+        "How can I get a summary of fee demands, collections, and outstanding balances?",
+        "Can I view fee summaries by fee head, course, or admission category?",
+        "What is the purpose of the fee summary report?"
+    ],
+    "keywords": [
+        "fee summary",
+        "head wise summary",
+        "course wise summary",
+        "category wise summary",
+        "demand",
+        "concession",
+        "payable",
+        "received",
+        "balance pending"
+    ],
+    "related_topics": [
+        "Fee Reports",
+        "Fee Setup"
+    ],
+    "id": "fees_fee_summary_reports",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

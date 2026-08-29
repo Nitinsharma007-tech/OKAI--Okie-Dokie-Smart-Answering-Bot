@@ -1,0 +1,4 @@
+Question: How to give scholarship?
+
+Answer:
+To give a scholarship, open the Scholarship module. Select the student using the student's roll number. After selecting the student, apply the required scholarship and save the changes.

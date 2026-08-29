@@ -1,0 +1,50 @@
+{
+    "module": "Fees",
+    "topic": "Concession Management",
+    "summary": "Describes how to create concession groups, assign concessions to students, and view them in reports.",
+    "navigation": [
+        "Student Profile > Concession Fees"
+    ],
+    "steps": [
+        "Go to Fee Setup and create a concession group (e.g., \"10% concession\").",
+        "Define the concession type (e.g., percentage) and apply it to specific fee heads or terms (e.g., PAB, March).",
+        "Open the student's profile.",
+        "Navigate to \"Concession Fees\".",
+        "Select the appropriate concession group.",
+        "The concession amount will automatically populate based on the group's definition.",
+        "Add or edit remarks if necessary.",
+        "Save the concession assignment."
+    ],
+    "business_rules": [
+        "Concession groups must be set up first.",
+        "Concession amounts are automatically calculated based on the group's percentage/type."
+    ],
+    "important_notes": [
+        "Assigned concessions are visible on the \"collect fee\" page and in the \"Concession Report\"."
+    ],
+    "questions": [
+        "How do I apply a fee concession to a student?",
+        "Where can I create concession groups?",
+        "How are concession amounts calculated?",
+        "Where can I view student concessions?"
+    ],
+    "keywords": [
+        "concession",
+        "fee concession",
+        "concession group",
+        "student concession",
+        "assign concession",
+        "concession fees"
+    ],
+    "related_topics": [
+        "Fee Setup",
+        "Concession Report",
+        "Student Fee Collection"
+    ],
+    "id": "fees_concession_management",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

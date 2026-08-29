@@ -1,0 +1,45 @@
+{
+    "module": "Admission",
+    "topic": "Lead vs. Application Stage Type Distinction",
+    "summary": "Clarifies the distinction between 'Lead' and 'Application' stage types within the Admission Stage Setup, primarily used to differentiate between fresh, untouched inquiries and those on which work has begun, and how this affects their display.",
+    "navigation": [
+        "Admission Module",
+        "Admission Setup",
+        "Stage Setup"
+    ],
+    "steps": [],
+    "business_rules": [
+        "A 'Lead' stage is typically the very first stage, representing a fresh inquiry where no data has been added or documents requested.",
+        "An 'Application' stage is for leads where work has started, data has been added, or actions have been taken by a counselor.",
+        "Setting a stage as 'Lead' type ensures that the application is displayed on the 'Admission Leads' page.",
+        "All subsequent stages after the initial 'Lead' stage should generally be set as 'Application' type."
+    ],
+    "important_notes": [
+        "This distinction helps categorize and manage inquiries based on their progression state within the admission funnel."
+    ],
+    "questions": [
+        "What is the functional difference between a 'Lead' stage and an 'Application' stage?",
+        "When should I designate a stage as a 'Lead' type versus an 'Application' type?",
+        "How does the stage type influence where an admission inquiry is displayed in the system?",
+        "Why is the very first stage typically set as a 'Lead' stage?"
+    ],
+    "keywords": [
+        "Lead stage",
+        "Application stage",
+        "Stage type",
+        "Admission Leads page",
+        "Fresh lead",
+        "Inquiry status",
+        "Admission funnel"
+    ],
+    "related_topics": [
+        "Admission Setup - Stage Field and Communication Configuration",
+        "Admission Leads Page"
+    ],
+    "id": "admission_lead_vs_application_stage_type_distinction",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

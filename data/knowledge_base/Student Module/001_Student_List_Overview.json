@@ -1,0 +1,45 @@
+{
+    "module": "Student Module",
+    "topic": "Student List Overview",
+    "summary": "Provides a comprehensive list of all students in the institute, with filtering capabilities to view specific categories of students.",
+    "navigation": [
+        "Student Module",
+        "Student List"
+    ],
+    "steps": [
+        "Login to the Student Module.",
+        "Navigate to 'Student List'.",
+        "View all students present in the institute.",
+        "Use the 'filter' option to narrow down the list based on specific categories."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "The student list displays all students in the system.",
+        "Filtering helps in viewing specific categories or subsets of students."
+    ],
+    "questions": [
+        "How do I view a list of all students in the ERP system?",
+        "Where can I find the total number of students in the institute?",
+        "How do I filter the student list by specific criteria or categories?",
+        "What is the navigation path to access the student list?"
+    ],
+    "keywords": [
+        "Student list",
+        "view students",
+        "filter students",
+        "student count",
+        "student module",
+        "all students"
+    ],
+    "related_topics": [
+        "Adding New Student (Individual)",
+        "Student List Course Wise",
+        "Exporting Student Data to Excel"
+    ],
+    "id": "student_module_student_list_overview",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

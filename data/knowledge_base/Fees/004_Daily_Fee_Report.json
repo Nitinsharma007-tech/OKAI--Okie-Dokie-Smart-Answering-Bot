@@ -1,0 +1,39 @@
+{
+    "module": "Fees",
+    "topic": "Daily Fee Report",
+    "summary": "Provides a daily report of fee collections, specifically excluding admission heads. It includes miscellaneous heads and regular fee heads.",
+    "navigation": [
+        "Fees > Fee Reports > Daily Fee Report"
+    ],
+    "steps": [
+        "Navigate to \"Daily Fee Report\".",
+        "View daily fee collection details."
+    ],
+    "business_rules": [
+        "Admission heads are NOT shown in this report.",
+        "Miscellaneous heads and other income heads (if configured in fee setup) are shown."
+    ],
+    "important_notes": [
+        "The key difference from \"Combined Daily Collection\" is the exclusion of admission heads."
+    ],
+    "questions": [
+        "Where can I see daily fee collections excluding admission fees?",
+        "What is the difference between the Daily Fee Report and Combined Daily Collection?"
+    ],
+    "keywords": [
+        "daily fee report",
+        "fee collection",
+        "exclude admission heads",
+        "miscellaneous heads"
+    ],
+    "related_topics": [
+        "Combined Daily Collection Report",
+        "Fee Setup"
+    ],
+    "id": "fees_daily_fee_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

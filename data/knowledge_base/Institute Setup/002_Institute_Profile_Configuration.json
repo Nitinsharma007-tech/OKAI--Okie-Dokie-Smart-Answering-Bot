@@ -1,0 +1,56 @@
+{
+    "module": "Institute Setup",
+    "topic": "Institute Profile Configuration",
+    "summary": "This topic details the process of setting up an institute's basic profile, including general information, contact details, social media links, additional facilities, and configuring the MIS option for daily reports.",
+    "navigation": [
+        "Institute setup",
+        "Institute profile",
+        "Basic setup"
+    ],
+    "steps": [
+        "Navigate to 'Institute setup' > 'Institute profile' > 'Basic setup'.",
+        "Fill in 'Basic details' such as School name, Founding year, University, and Affiliation.",
+        "Add 'Further details' including Social media links (Facebook, Google, Twitter, Instagram) and the institute's Website.",
+        "Enter the institute's 'Address' and 'Contact details'.",
+        "Specify any 'Additional facilities' offered by the institute.",
+        "Configure 'Contact person' details.",
+        "Utilize the 'Send MIS option' to enable daily reports on fee collection, fine collection, and attendance status."
+    ],
+    "business_rules": [
+        "Contact person details should be added with prior information and confirmation from your reporting manager."
+    ],
+    "important_notes": [
+        "The 'Send MIS option' is crucial for generating daily operational reports."
+    ],
+    "questions": [
+        "How do I set up a new institute's profile in the ERP?",
+        "Where can I add social media links and website information for an institute?",
+        "What are the mandatory fields for the basic institute profile?",
+        "How do I configure daily MIS reports for fee collection and attendance?"
+    ],
+    "keywords": [
+        "Institute profile",
+        "basic setup",
+        "school name",
+        "founding year",
+        "university",
+        "affiliation",
+        "social media",
+        "address",
+        "contact details",
+        "additional facilities",
+        "contact person",
+        "MIS report"
+    ],
+    "related_topics": [
+        "User Management",
+        "Reporting",
+        "System Configuration"
+    ],
+    "id": "institute_setup_institute_profile_configuration",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

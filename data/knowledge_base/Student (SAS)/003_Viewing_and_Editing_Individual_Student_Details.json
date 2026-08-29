@@ -1,0 +1,74 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Viewing and Editing Individual Student Details",
+    "summary": "Details how to access and modify an individual student's comprehensive profile, including personal information, parent details, vehicle/transport assignment, hostel details, subject assignments, and document uploads. It also notes that default fields are configured in the entity setup.",
+    "navigation": [
+        "Student",
+        "Student List",
+        "Action (for a specific student)",
+        "View"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Locate the desired student in the list.",
+        "Click on the 'Action' button next to the student's name.",
+        "Select 'View' from the action options to open the student's detailed profile.",
+        "To update the student's profile picture, use the 'Update' option.",
+        "To edit details within any section (e.g., Personal Details, Parent Details), click the 'Edit' option specific to that section.",
+        "Make the necessary changes (e.g., update phone number).",
+        "Click 'Save' to apply and store the changes.",
+        "To assign transport to a student:",
+        "Go to the 'Vehicle Details' section.",
+        "Click 'Assign Route'.",
+        "In the pop-up window, select the vehicle and route from the available options.",
+        "Enter the default amount for installments (e.g., April, May, June).",
+        "Confirm the assignment.",
+        "To upload or view student documents:",
+        "Go to the 'Documents' section.",
+        "View existing documents (e.g., Aadhaar card, admit card, parent photographs).",
+        "Use the 'Upload again' option to replace an existing document or upload a new one."
+    ],
+    "business_rules": [
+        "Default student fields (e.g., Gender) are configured in the entity setup, where their display names can be customized.",
+        "Transport assignment requires selecting a route and specifying installment amounts."
+    ],
+    "important_notes": [
+        "The complete student display, encompassing fee and subject details, is part of the Student Information System (SIS).",
+        "Any detail can be edited by clicking 'Edit' in its respective section and then 'Save'."
+    ],
+    "questions": [
+        "How do I view the detailed profile of a specific student?",
+        "Can I update a student's profile picture in the system?",
+        "How do I edit a student's personal details, such as their phone number?",
+        "What is the process for assigning transport to a student?",
+        "Where can I upload student documents like Aadhaar cards or parent photos?",
+        "What information is included in a student's detailed view?"
+    ],
+    "keywords": [
+        "Student Details",
+        "View Student",
+        "Edit Student",
+        "Personal Details",
+        "Parent Details",
+        "Vehicle Details",
+        "Transport Assignment",
+        "Hostel Details",
+        "Subject Details",
+        "Documents",
+        "Upload Documents",
+        "SIS",
+        "Entity Setup",
+        "Profile Picture Update"
+    ],
+    "related_topics": [
+        "Student List Management",
+        "Student Status Management (Active/Inactive)",
+        "Scholar ID Management"
+    ],
+    "id": "student_sas_viewing_and_editing_individual_student_details",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

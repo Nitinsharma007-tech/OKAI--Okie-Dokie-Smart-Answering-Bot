@@ -1,0 +1,56 @@
+{
+    "module": "Inventory",
+    "topic": "Stock Transfer between Stores/Departments",
+    "summary": "This topic details the process of transferring inventory items from one internal store or department to another. It covers specifying the source and destination, item details, quantity, and the option to add narration and supporting documents.",
+    "navigation": [
+        "Inventory",
+        "Transactions",
+        "Stock Transfer"
+    ],
+    "steps": [
+        "Navigate to Inventory > Transactions > Stock Transfer.",
+        "Select the 'From Store' (e.g., Central Store).",
+        "Select the 'To Store' or department (e.g., a specific teaching department).",
+        "Enter or select the 'Item' to be transferred.",
+        "Specify the 'Quantity' of the item being transferred.",
+        "Add a 'Narration' or reason for the transfer.",
+        "Optionally, upload 'Additional Documents' related to the transfer.",
+        "Save the stock transfer entry."
+    ],
+    "business_rules": [
+        "Stock transfers are used for internal movement of goods between different locations or departments within the organization."
+    ],
+    "important_notes": [
+        "This process is distinct from external purchase or sales transactions.",
+        "It is crucial for distributing items from a main storage facility to various operational branches or departments."
+    ],
+    "questions": [
+        "How do I transfer stock from one store to another?",
+        "What information is required to complete a stock transfer?",
+        "Can I add a reason for a stock transfer?",
+        "Is it possible to upload documents for a stock transfer?",
+        "Where do I record the quantity of items being transferred?"
+    ],
+    "keywords": [
+        "Stock transfer",
+        "Inventory transfer",
+        "Store transfer",
+        "Department transfer",
+        "Central store",
+        "Quantity",
+        "Narration",
+        "Additional documents",
+        "Transactions"
+    ],
+    "related_topics": [
+        "Item Creation and Management",
+        "Recording Purchase Entries",
+        "Inventory Reporting"
+    ],
+    "id": "inventory_stock_transfer_between_stores_departments",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

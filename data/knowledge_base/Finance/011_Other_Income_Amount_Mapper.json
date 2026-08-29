@@ -1,0 +1,47 @@
+{
+    "module": "Finance",
+    "topic": "Other Income Amount Mapper",
+    "summary": "This feature allows pre-defining fixed amounts for specific 'Other Income' heads. When an entry is made for that mapped head, the amount automatically populates, reducing manual data entry and ensuring consistency.",
+    "navigation": [
+        "Other Income Amount Mapper"
+    ],
+    "steps": [
+        "Create a mapper for an 'Other Income' head (e.g., 'Job Application Charges').",
+        "Assign a fixed amount to this mapped head (e.g., 200 rupees).",
+        "When making an 'Other Income' entry, selecting the mapped head will automatically populate the predefined amount."
+    ],
+    "business_rules": [
+        "Used for 'Other Income' heads that have repeated, fixed amounts, such as standard application fees or minor service charges.",
+        "Automates the amount entry process, reducing errors and saving time.",
+        "For other income heads without a mapper, the amount must still be entered manually."
+    ],
+    "important_notes": [
+        "This feature is particularly useful for recurring other income items with consistent pricing.",
+        "It streamlines the data entry process for finance personnel."
+    ],
+    "questions": [
+        "How can I pre-define amounts for recurring other income entries?",
+        "What is the purpose of the Other Income Amount Mapper?",
+        "Can I set a fixed charge for 'Job Application Fees' using this feature?",
+        "How does the amount mapper automate other income entries?",
+        "When should I use the Other Income Amount Mapper versus manual entry?"
+    ],
+    "keywords": [
+        "Other income mapper",
+        "amount mapper",
+        "fixed income amount",
+        "automate entry",
+        "job application charges",
+        "predefined amount"
+    ],
+    "related_topics": [
+        "Other Income Heads",
+        "Fee Collection"
+    ],
+    "id": "finance_other_income_amount_mapper",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

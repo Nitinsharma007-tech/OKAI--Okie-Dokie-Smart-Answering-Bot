@@ -1,0 +1,60 @@
+{
+    "module": "Academics",
+    "topic": "Subject Definition",
+    "summary": "This topic explains how to define new subjects in the ERP system, including assigning a unique code, selecting an assessment model, and optionally mapping to specific classes or streams. It also details rules for editing subjects.",
+    "navigation": [
+        "Settings icon",
+        "Academics",
+        "Define Subjects (implied option)"
+    ],
+    "steps": [
+        "Navigate to the subject definition section within Academics.",
+        "Click on 'Add a subject'.",
+        "Enter the 'Name of the subject' (e.g., English).",
+        "Enter a 'Unique code' for the subject (e.g., ENG).",
+        "Select an 'Assessment model' from the available options (e.g., Scholastic, Co-scholastic, Discipline, Skills).",
+        "Optionally, select specific 'Class and Stream' if the subject should only be available for particular classes during mapping.",
+        "Add/Save the subject."
+    ],
+    "business_rules": [
+        "The subject code is a mandatory field.",
+        "The subject code defines the subject itself, not the class it is taught in.",
+        "Scholastic subjects require marks entry.",
+        "Co-scholastic, Discipline, or Skills subjects typically use grading criteria."
+    ],
+    "important_notes": [
+        "Subjects can only be edited (name, code, assessment model) if they have not yet been mapped to any class.",
+        "If a subject is already mapped to a class, only its display name can be changed from the subject class mapping section, not the original subject name."
+    ],
+    "questions": [
+        "How do I add a new subject to the ERP system?",
+        "What is a scholastic subject and how does it differ from co-scholastic?",
+        "Is the subject code a mandatory field when defining a subject?",
+        "Can I restrict a subject to specific classes during its definition?",
+        "When can I edit a subject's name or code after creation?"
+    ],
+    "keywords": [
+        "subject",
+        "define subject",
+        "add subject",
+        "subject name",
+        "subject code",
+        "assessment model",
+        "scholastic",
+        "co-scholastic",
+        "discipline",
+        "skills",
+        "class mapping",
+        "edit subject"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Timetable Management"
+    ],
+    "id": "academics_subject_definition",
+    "source": {
+        "file": "3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

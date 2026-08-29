@@ -1,0 +1,50 @@
+{
+    "module": "Admissions",
+    "topic": "Show Member Detail Filter (Admission Leads Page)",
+    "summary": "The 'Show Member Detail' filter on the Admission Leads page allows a team leader to view not only their own leads but also the combined lead data of all counselors under their team. This provides a comprehensive overview of the team's lead pipeline.",
+    "navigation": [
+        "Admission Leads"
+    ],
+    "steps": [
+        "1. Navigate to the 'Admission Leads' page.",
+        "2. Click on the filter options.",
+        "3. Select the desired 'Team Leader' from the counselor filter.",
+        "4. Toggle the 'Show Member Detail' option to 'On'.",
+        "5. Click 'Go' to apply the filter and view the combined lead data."
+    ],
+    "business_rules": [
+        "When 'Show Member Detail' is 'Off', only the individual leads assigned to the selected counselor (or team leader) are displayed.",
+        "When 'Show Member Detail' is 'On', the system displays all leads assigned to the selected counselor (or team leader) AND all leads assigned to their team members."
+    ],
+    "important_notes": [
+        "This filter is a critical tool for team leaders to monitor their team's overall performance, lead engagement, and progress.",
+        "It helps in understanding the collective workload and pipeline of the team."
+    ],
+    "questions": [
+        "How can a team leader view all the leads managed by their team members?",
+        "What is the function of the 'Show Member Detail' filter?",
+        "What is the difference in lead visibility when 'Show Member Detail' is on versus off?",
+        "Is this filter available to all counselors or only team leaders?",
+        "How does this filter help in team performance monitoring?"
+    ],
+    "keywords": [
+        "Show Member Detail",
+        "Team lead filter",
+        "Counselor data visibility",
+        "Team leads",
+        "Lead visibility",
+        "Admission Leads filter",
+        "Team performance monitoring"
+    ],
+    "related_topics": [
+        "Admission Team Structure",
+        "Admission Leads Page: Filters and Global Search",
+        "Lead Management"
+    ],
+    "id": "admissions_show_member_detail_filter_admission_leads_page",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

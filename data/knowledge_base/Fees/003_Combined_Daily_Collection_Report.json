@@ -1,0 +1,44 @@
+{
+    "module": "Fees",
+    "topic": "Combined Daily Collection Report",
+    "summary": "Provides a comprehensive daily report of all fee collections, including admission heads and other income, with details like receipt number, student info, payment mode, and collected amounts per head.",
+    "navigation": [
+        "Fees > Fee Reports > Combined Daily Collection"
+    ],
+    "steps": [
+        "Navigate to \"Combined Daily Collection\" report.",
+        "View details such as receipt number, date, student admission number, student name, class, payment mode, and amount collected per fee head.",
+        "The report also shows which user processed the payment.",
+        "The report columns are editable, allowing users to customize displayed information (e.g., remove roll number)."
+    ],
+    "business_rules": [
+        "This report includes collections from admission heads and other income heads (miscellaneous) in addition to regular fee heads."
+    ],
+    "important_notes": [
+        "This report is more comprehensive than the Daily Fee Report as it includes admission heads and other income."
+    ],
+    "questions": [
+        "Where can I see all daily fee collections, including admission fees and other income?",
+        "How do I view the combined daily collection report?",
+        "Can I customize the columns in the combined daily collection report?"
+    ],
+    "keywords": [
+        "combined daily collection",
+        "fee report",
+        "daily collection",
+        "admission heads",
+        "other income",
+        "miscellaneous heads",
+        "collection report"
+    ],
+    "related_topics": [
+        "Daily Fee Report",
+        "Fee Head Collection Report"
+    ],
+    "id": "fees_combined_daily_collection_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

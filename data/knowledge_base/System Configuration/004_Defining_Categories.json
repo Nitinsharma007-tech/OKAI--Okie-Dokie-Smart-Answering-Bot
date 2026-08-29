@@ -1,0 +1,35 @@
+{
+    "module": "System Configuration",
+    "topic": "Defining Categories",
+    "summary": "Categories are fundamental classification tools used throughout the ERP system to group and organize various entities, such as items, accounts, or records, for improved reporting and management.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [],
+    "questions": [
+        "How do I create new categories in the ERP system?",
+        "What is the purpose of using categories for data classification?",
+        "Can categories be hierarchical or nested?",
+        "Where are categories typically applied within different ERP modules?"
+    ],
+    "keywords": [
+        "Categories",
+        "classification",
+        "grouping",
+        "data organization",
+        "master data",
+        "configuration"
+    ],
+    "related_topics": [
+        "Master Data Management",
+        "System Setup",
+        "Reporting and Analytics",
+        "Attribute Management"
+    ],
+    "id": "system_configuration_defining_categories",
+    "source": {
+        "file": "16. 720p-syb-fmmz-jmq (2025-07-09 12_10 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

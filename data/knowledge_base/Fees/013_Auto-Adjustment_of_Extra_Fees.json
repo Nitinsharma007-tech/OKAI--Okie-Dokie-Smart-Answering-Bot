@@ -1,0 +1,48 @@
+{
+    "module": "Fees",
+    "topic": "Auto-Adjustment of Extra Fees",
+    "summary": "Explains how the system automatically adjusts extra fees received (e.g., due to overpayment or concession after payment) against future installments or other pending fee heads, provided the \"auto adjust extra fee\" toggle is enabled.",
+    "navigation": [
+        "(Configuration: Fee Setup > (toggle for auto adjust extra fee))",
+        "(Action: Fee > collect fee > (student profile))"
+    ],
+    "steps": [
+        "Ensure the \"auto adjust extra fee\" toggle is enabled in Fee Setup.",
+        "Collect an amount that results in an overpayment or an \"extra fee\" (e.g., applying a concession after full payment, or receiving more than the current due).",
+        "The system will automatically adjust this extra fee against the next available pending fee head or future installment.",
+        "The adjustment will be recorded with an \"auto remark\"."
+    ],
+    "business_rules": [
+        "The \"auto adjust extra fee\" toggle must be enabled for this feature to work.",
+        "Extra fees are adjusted against the first available pending fee head or next month's installment."
+    ],
+    "important_notes": [
+        "If a concession is applied after an amount has already been received, the system will adjust the difference as an extra fee.",
+        "If there are no pending dues in the current month/term, the extra fee will be adjusted against the next month's dues."
+    ],
+    "questions": [
+        "What happens if a student overpays their fees?",
+        "How does the system handle extra fees received?",
+        "Where can I enable auto-adjustment for extra fees?",
+        "How are concessions handled if applied after payment?"
+    ],
+    "keywords": [
+        "extra fee",
+        "auto adjust",
+        "overpayment",
+        "fee adjustment",
+        "future installment",
+        "concession adjustment"
+    ],
+    "related_topics": [
+        "Student Fee Collection",
+        "Concession Management",
+        "Fee Setup"
+    ],
+    "id": "fees_auto_adjustment_of_extra_fees",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

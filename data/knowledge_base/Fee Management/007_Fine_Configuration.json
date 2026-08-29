@@ -1,0 +1,49 @@
+{
+    "module": "Fee Management",
+    "topic": "Fine Configuration",
+    "summary": "This topic explains how to configure fine-related settings, specifically enabling or disabling partial payment of fines and controlling the ability to edit system-calculated fine amounts.",
+    "navigation": [
+        "Institute Preferences",
+        "Fine setting"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences' > 'Fine setting'.",
+        "**Fine partial payment:**",
+        "  - 'On': Allows students to make partial payments against a calculated fine (e.g., paying 50 INR for a 100 INR fine).",
+        "  - 'Off': Requires the student to pay the full calculated fine amount.",
+        "**Edit calculated amount:**",
+        "  - 'On': Allows users to manually edit the fine amount that has been automatically calculated by the system.",
+        "  - 'Off': The system-calculated fine amount is fixed and cannot be edited by users."
+    ],
+    "business_rules": [
+        "The system automatically calculates fines when the due date for a fee passes."
+    ],
+    "important_notes": [
+        "These options are crucial for managing the flexibility and control over fine collection processes.",
+        "Ensure that these settings align with the institute's official policy on fine payments and adjustments."
+    ],
+    "questions": [
+        "How can I allow students to make partial payments for fines?",
+        "Where do I enable or disable the ability to edit system-calculated fines?",
+        "What happens if the 'Fine partial payment' option is turned off?",
+        "Can the fine amount be manually adjusted after it's automatically calculated by the system?"
+    ],
+    "keywords": [
+        "Fine settings",
+        "partial payment",
+        "edit fine",
+        "calculated fine",
+        "fine collection",
+        "fee management"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Institute Preferences"
+    ],
+    "id": "fee_management_fine_configuration",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

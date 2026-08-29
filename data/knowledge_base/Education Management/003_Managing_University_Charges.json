@@ -1,0 +1,35 @@
+{
+    "module": "Education Management",
+    "topic": "Managing University Charges",
+    "summary": "This topic covers the definition, application, and management of various charges associated with university operations, including tuition, fees, and other student-related costs.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [],
+    "questions": [
+        "How are different types of university charges defined in the system?",
+        "Where can I view a student's outstanding university charges?",
+        "How do I apply or waive specific university charges for a student?",
+        "What is the process for generating invoices for university charges?"
+    ],
+    "keywords": [
+        "University charges",
+        "student fees",
+        "tuition management",
+        "billing",
+        "fee structure",
+        "education finance"
+    ],
+    "related_topics": [
+        "Student Module",
+        "Fee Management",
+        "Payment Processing",
+        "Financial Aid"
+    ],
+    "id": "education_management_managing_university_charges",
+    "source": {
+        "file": "16. 720p-syb-fmmz-jmq (2025-07-09 12_10 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

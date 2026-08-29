@@ -1,0 +1,51 @@
+{
+    "module": "HRM",
+    "topic": "Manage Employee Bank Details and Payment Mode",
+    "summary": "This topic explains how to enter and manage an employee's bank details and specify their salary payment mode (e.g., RTGS, Cheque) within their salary details section.",
+    "navigation": [
+        "HRM",
+        "Employee",
+        "View Employee",
+        "Salary Details (section within employee profile)"
+    ],
+    "steps": [
+        "Go to HRM > Employee.",
+        "Search for the desired employee.",
+        "Click on the employee's record to view their details.",
+        "Navigate to the \"Salary Details\" section.",
+        "Enter the employee's \"Bank Name\", \"Branch\", \"Account Number\", and \"IFSC Code\".",
+        "In the \"Payment Mode\" field or \"Remarks\" section, specify the payment method (e.g., \"RTGS\", \"Cheque\").",
+        "Save the changes."
+    ],
+    "business_rules": [
+        "Bank details entered here will reflect on the employee's salary slip."
+    ],
+    "important_notes": [
+        "Specifying the payment mode (e.g., \"Cheque\") in remarks can help in identifying how salary will be disbursed.",
+        "Once saved, these details are permanent and do not need to be re-entered each month."
+    ],
+    "questions": [
+        "How do I add an employee's bank account details for salary processing?",
+        "Where can I specify if an employee's salary will be paid via cheque or RTGS?",
+        "Will the bank details appear on the salary slip?"
+    ],
+    "keywords": [
+        "Employee Bank Details",
+        "Payment Mode",
+        "Salary Details",
+        "RTGS",
+        "Cheque",
+        "Salary Slip",
+        "Employee Profile"
+    ],
+    "related_topics": [
+        "Employee Management",
+        "Salary Slip Generation"
+    ],
+    "id": "hrm_manage_employee_bank_details_and_payment_mode",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

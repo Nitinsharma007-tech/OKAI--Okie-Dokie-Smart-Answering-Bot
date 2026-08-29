@@ -1,0 +1,52 @@
+{
+    "module": "Inventory",
+    "topic": "Recording Purchase Entries",
+    "summary": "This topic describes how to record purchase transactions in the system. It covers capturing details such as the vendor, payment method, purchased items, and the ability to upload supporting documents like purchase bills.",
+    "navigation": [
+        "Inventory",
+        "Transactions",
+        "Purchase Entry"
+    ],
+    "steps": [
+        "Navigate to Inventory > Transactions > Purchase Entry (Assumed based on context).",
+        "Enter details of the vendor ('From whom you have purchased').",
+        "Specify the payment method (e.g., 'in what cash').",
+        "Enter details of the purchased items and their quantities.",
+        "Upload the purchase bill or other relevant documents.",
+        "Save the purchase entry."
+    ],
+    "business_rules": [
+        "A purchase entry captures comprehensive details of a procurement transaction, not just the purchase bill.",
+        "Documents related to the purchase can be uploaded and attached to the entry."
+    ],
+    "important_notes": [
+        "This entry provides a detailed record of 'how much purchase has been done'."
+    ],
+    "questions": [
+        "How do I record a new purchase in the ERP system?",
+        "What details should be included in a purchase entry?",
+        "Can I upload a purchase bill to the system?",
+        "Where do I specify the vendor for a purchase transaction?",
+        "How do I record the payment method for a purchase?"
+    ],
+    "keywords": [
+        "Purchase entry",
+        "Procurement",
+        "Purchase bill",
+        "Vendor",
+        "Cash purchase",
+        "Document upload",
+        "Inventory transactions"
+    ],
+    "related_topics": [
+        "Item Creation and Management",
+        "Stock Transfer between Stores/Departments",
+        "Inventory Reporting"
+    ],
+    "id": "inventory_recording_purchase_entries",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

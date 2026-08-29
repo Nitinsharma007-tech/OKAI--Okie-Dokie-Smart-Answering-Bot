@@ -1,0 +1,59 @@
+{
+    "module": "Student Management",
+    "topic": "Student Promotion - Manual",
+    "summary": "Details the process of manually promoting individual or selected groups of students from one academic session and class to the next, with options for handling pending dues.",
+    "navigation": [
+        "Student",
+        "Student Session Management"
+    ],
+    "steps": [
+        "Navigate to \"Student\" -> \"Student Session Management\".",
+        "Use the \"Filter\" option to select the 'From Class' (e.g., Class 1) and 'From Section' (e.g., A) of the students you wish to promote.",
+        "Select the specific student(s) from the displayed list.",
+        "Choose the 'To Class' (e.g., Class 2) for the selected students.",
+        "Click \"Add selected student to session\".",
+        "In the pop-up window, verify the 'From Session' (disabled, e.g., 24-25).",
+        "Select the 'To Session' (e.g., 25-26).",
+        "Select the 'To Class' (e.g., Class 2) and 'To Section' (e.g., A).",
+        "Set the 'Category' for the promoted student (typically \"Old\").",
+        "Choose the 'Promoted Status': \"Simple Promote\" (dues remain in current session) or \"Promoted with Dues\" (pending dues carried forward).",
+        "Confirm and save the promotion."
+    ],
+    "business_rules": [
+        "Only active students can be promoted. Inactive students will be skipped.",
+        "The choice between \"Simple Promote\" and \"Promoted with Dues\" should be confirmed by the client/institute as it impacts fee collection.",
+        "Promotion will be skipped if the fee structure for the target class and session is not yet set up."
+    ],
+    "important_notes": [
+        "The system will display a message indicating the status of the promotion (e.g., \"Student updated\", \"Skipped\", \"Re-updated\").",
+        "A \"Skip\" status often indicates a missing fee group for the target class/session.",
+        "Manual promotion is suitable for promoting a small number of students or when specific students require different due handling within the same class."
+    ],
+    "questions": [
+        "How do I promote a single student to the next academic year?",
+        "What is the difference between \"Simple Promote\" and \"Promoted with Dues\" during student promotion?",
+        "Why was a student skipped during manual promotion?",
+        "Can I promote an inactive student?"
+    ],
+    "keywords": [
+        "Manual Student Promotion",
+        "Promote Student",
+        "Student Session Management",
+        "Simple Promote",
+        "Promoted with Dues",
+        "Skip Promotion",
+        "Inactive Student",
+        "Fee Group Not Found"
+    ],
+    "related_topics": [
+        "Active Session Management",
+        "Student Promotion - Bulk",
+        "Fee Setup"
+    ],
+    "id": "student_management_student_promotion_manual",
+    "source": {
+        "file": "14. 1080p-syb-fmmz-jmq (2025-07-04 16_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

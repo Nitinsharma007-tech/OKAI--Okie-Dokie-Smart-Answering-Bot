@@ -48,75 +48,163 @@ So let's start with the second formula we have to cover, which is concatenate,
 So let's start with the second formula we have to cover, which is concatenate, concatenate,
 So let's start with the second formula we have to cover, which is concatenate, concatenate,
 So let's start with the second formula we have to cover, which is concatenate, concatenate, concatenate,
-So let's start with the second formula we have to cover, which is concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concatenate concaten
-or A plus, x, y, z, we can put any values.
-And if the child's grade percentage is above 80%,
-then the child's grade is D.
-So in that case, what do we do?
-For example, I have 90, 80, and so on.
-So for 90, A is done.
-For 80, D is done.
-If the child's grade percentage is above 90%,
-then A grade is done.
-For 80, D is done.
-For 70, C is done.
-For 60, D is done.
-And EF is done.
+So let's start with our if condition,
+So let's start with our if condition,
+So in that case, what we do is, for example, I have 90, 80, and so on.
+So for 90, A is done. For 80, B is done.
+If the child's grade percentage is 90 or above that, then A grade will come.
+For 80, above that, B. For 70, above that, C. For 60, D and EF.
 This is done for grading.
 Or it can be done for pass fail as well.
-If the child's grade is below 40%,
-then 30% fail.
-So in that case, what do we do?
-We will have to enter the marks or values.
-This is student.
-This is student.
-Student name.
-Then subject 1, subject 2, subject 3.
+If the child's grade is below 40, then 30% fails.
+So in that case, what we do is, we have to enter the marks or values of the child.
+Student name, then subject 1, subject 2, subject 3.
 Three subjects are done.
 The child's number is 20, 30, and 50.
-This is total.
-This is total.
-And this is grade.
-This is my grade value.
-This is my grade value.
+This is the total.
+This is the total.
+And this is the grade.
+This is the grade value.
 And here, after 20, we have 30, 40, and 40.
-?
-?
-Total is done.
+This is the total.
 We will sum these three.
 100.
 We will enter the values here.
-30.
+30, 10, and 40.
+This is done.
+40, and 30.
+I have made this situational by my own will.
+To apply any condition.
 10.
-.
-?
-And this is done.
-.
-And 30.
-I have made it situational.
-I have made it situational to apply any condition of my own.
-?
-Now I will apply the formula for the grade.
-That equal if, sorry, after if, bracket.
-Equal if, bracket start, logical test.
+Now I will apply the grade formula.
+Equal, if, sorry.
+After if, bracket.
+Equal, if, bracket start.
+Logical test.
 100.
-This is greater than equal to 90.
-it is common this was if I get start this one equal to 15 fit to b, I will give an answer to this, I have put two conditions
-if the value is above 90 then print a, if it is above 80 then print b, otherwise false i, otherwise we can print fail
-now you tell me if you have understood otherwise I will brief you
-what you have done, how you have worked, or I will apply all the formulas and show you
-tell me one by one
-Akshat, Aman, Palak, Tanvi, Tinku
- please brief one more time
-understand what I have done, I have worked on these two values, I have applied if condition, what I have done, this is grade
-I am giving an example, this is the total of the child, we have applied grade on this, if the marks of the student, if the marks of the student in total is 90 equal to 90 or greater than 90
-these are the symbols I have taken, greater than equal to
-if the marks are greater than 80 then print a, if the marks are greater than 80 then print b, otherwise print fail
-if the marks are greater than 80 then print a, if the marks are greater than 80 then print a, if the marks are greater than 80 then print b, otherwise print fail
-I have done the same printing formula in grade, if the marks of the student were above 90 then print a, if the marks were greater than 90 then print a, if the marks were greater than 90 then print a, if the marks were greater than 80 then print b, otherwise print fail
-if the marks were greater than 80 then print b, otherwise print fail
-if the marks were greater than 80 then print a, if the marks were greater than 80 then print b, otherwise print fail
-if the marks were greater than 80 then print a, if the marks were greater than 80 then print a, if the marks were greater than 80 then print fail
-so these were the formulas for today, if anyone has any doubts or questions you can ask them again
-what I have covered, if we look up true, concatenate, trim, transpose or countenance, do you understand?
-so close it, if anyone has any doubt or question you can ask them again
+This is greater than.
+Equal to 90.
+Grade 8.
+Common.
+This was if, bracket start.
+This one equal to 15.
+Grade B.
+I will try.
+I have applied two conditions.
+If the total value is greater than 90, then A is printed.
+If it is greater than 80, then B is printed.
+Otherwise, false I.
+Otherwise, we can print fail.
+See.
+Fail.
+Now tell me if you have understood this.
+Otherwise, I will brief you.
+What have you done?
+Or I will apply all the formulas.
+Tell me one by one.
+Akshat, Aman, Palak, Tanvi, Tinku.
+, brief one last one.
+.
+Understand what I have done.
+I have worked on these two values.
+I have worked on these two values.
+I have applied if condition.
+This is grade.
+I am taking an example.
+I am taking an example.
+This is the total of the child.
+We have applied grade on this.
+If the marks of the student.
+Read this condition.
+If the marks of the student.
+In total.
+90 equal to 90 or greater than 90.
+These are the symbols I have taken.
+.
+Greater than equal to.
+A print.
+Or.
+80.
+That is equal to 80.
+Or above that.
+B print.
+Otherwise.
+Fail print.
+So.
+That condition has been applied.
+If the marks of the student.
+90.
+Or above that.
+A print.
+80.
+Or above that.
+How much will it go above that?
+It will go up to 90.
+.
+If the marks of the student.
+80 to 89.
+89.5.
+B print.
+Otherwise.
+In grade.
+The same printing formula.
+Has been applied.
+The marks of the student.
+90 or above that.
+Means above 100.
+So.
+A print.
+Here.
+90 or above that.
+90 means I have applied equal.
+Even if there is 90.
+A print.
+So.
+A print.
+Now.
+Here.
+80.
+Or greater than 80.
+So.
+B print.
+It is equal to 80.
+But.
+There are no 90.
+If there were 90.
+A print.
+So.
+B print.
+So below 80.
+Then.
+It seems that there is a mistake.
+I haven't applied all.
+I have only passed 2 print value.
+Now.
+I show the marks.
+Up and down.
+It is showing 80.
+.
+I make it 70.
+See this.
+Fail print.
+Because.
+The condition I have applied.
+Is written 80.
+Then.
+There is a problem.
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .
+, .

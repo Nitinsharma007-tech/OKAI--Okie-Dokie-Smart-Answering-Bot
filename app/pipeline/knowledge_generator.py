@@ -2,6 +2,9 @@ import os
 import json
 import re
 
+import numpy as np
+from sentence_transformers import SentenceTransformer
+
 from app.gemini_agent import GeminiAgent
 
 
@@ -17,6 +20,10 @@ class KnowledgeGenerator:
         os.makedirs(
             self.output_folder,
             exist_ok=True
+        )
+
+        self.semantic_model = SentenceTransformer(
+            "sentence-transformers/all-MiniLM-L6-v2"
         )
 
         self.system_prompt = """
@@ -134,6 +141,29 @@ DO NOT WRITE ANYTHING EXCEPT JSON.
 
             return
 
+        master_file = "master_data/knowledge_master.json"
+        existing_topics = []
+        if os.path.exists(master_file):
+            with open(master_file, "r", encoding="utf-8") as f:
+                existing_topics = json.load(f).get("topics", [])
+
+        existing_ids = {
+            topic.get("id")
+            for topic in existing_topics
+            if topic.get("id")
+        }
+        existing_texts = [self._topic_text(topic) for topic in existing_topics]
+        existing_texts = [text for text in existing_texts if text]
+        if existing_texts:
+            existing_embeddings = self.semantic_model.encode(
+                existing_texts,
+                convert_to_numpy=True,
+                normalize_embeddings=True,
+            )
+        else:
+            existing_embeddings = np.empty((0, 384), dtype=np.float32)
+
+        saved_count = 0
         for index, topic in enumerate(
             topics,
             start=1
@@ -184,6 +214,14 @@ DO NOT WRITE ANYTHING EXCEPT JSON.
 
             topic["id"] = f"{module_id}_{topic_id}"
 
+            topic_text = self._topic_text(topic)
+            if topic["id"] in existing_ids or self._is_semantic_duplicate(
+                topic_text,
+                existing_embeddings,
+            ):
+                print(f"   - Skipped existing topic: {topic_name}")
+                continue
+
             topic["source"] = {
 
                 "file": source_file,
@@ -224,4 +262,36 @@ DO NOT WRITE ANYTHING EXCEPT JSON.
 
                 )
 
+            existing_ids.add(topic["id"])
+            if topic_text:
+                topic_embedding = self.semantic_model.encode(
+                    topic_text,
+                    convert_to_numpy=True,
+                    normalize_embeddings=True,
+                )
+                existing_embeddings = np.vstack((existing_embeddings, topic_embedding))
+            saved_count += 1
             print(f"   ✓ {safe_filename}")
+
+        print(f"   Saved {saved_count} new topic(s) from {source_file}")
+
+    @staticmethod
+    def _topic_text(topic):
+        parts = [
+            topic.get("module", ""),
+            topic.get("topic", ""),
+            topic.get("summary", ""),
+            *topic.get("questions", []),
+            *topic.get("keywords", []),
+        ]
+        return " ".join(str(part).strip() for part in parts if str(part).strip())
+
+    def _is_semantic_duplicate(self, topic_text, existing_embeddings):
+        if not topic_text or not len(existing_embeddings):
+            return False
+        embedding = self.semantic_model.encode(
+            topic_text,
+            convert_to_numpy=True,
+            normalize_embeddings=True,
+        )
+        return float(np.max(existing_embeddings @ embedding)) >= 0.92

@@ -1,0 +1,4 @@
+cd "C:\Users\nitin\OneDrive\Desktop\OKAI"
+.\venv\Scripts\Activate.ps1
+uvicorn main_api:app --host 0.0.0.0 --port 8000 --reload
+http://localhost:8000

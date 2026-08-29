@@ -1,0 +1,44 @@
+{
+    "module": "System Access",
+    "topic": "ERP Login and Entity Switching",
+    "summary": "This topic explains the process of logging into the ERP system, identifying the default entity, and switching to a specific testing entity for daily operations.",
+    "navigation": [],
+    "steps": [
+        "Navigate to the ERP login URL: campus.audipay.in (or campus.audier.in).",
+        "Log in using your registered mobile number.",
+        "Enter the One-Time Password (OTP) received on your mobile number.",
+        "Upon successful login, the 'Team Okidoki' entity will open by default. Do not perform any actions on this entity.",
+        "To switch to your assigned testing entity, click the icon at the top of the screen and select 'Select Entity'."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "The 'Team Okidoki' entity is a default system entity; no operational actions should be performed within it.",
+        "Always switch to your designated testing entity to perform daily tasks and configurations."
+    ],
+    "questions": [
+        "How do I log in to the ERP system?",
+        "What is the correct URL for accessing the ERP platform?",
+        "How can I switch between different entities after logging in?",
+        "What should I do if 'Team Okidoki' is the default entity after login?"
+    ],
+    "keywords": [
+        "Login",
+        "ERP access",
+        "URL",
+        "credentials",
+        "OTP",
+        "switch entity",
+        "Team Okidoki",
+        "mobile number"
+    ],
+    "related_topics": [
+        "User Management",
+        "Security Settings"
+    ],
+    "id": "system_access_erp_login_and_entity_switching",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

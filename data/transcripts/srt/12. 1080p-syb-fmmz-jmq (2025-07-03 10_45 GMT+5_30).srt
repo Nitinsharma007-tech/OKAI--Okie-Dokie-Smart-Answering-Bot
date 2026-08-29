@@ -1,0 +1,1076 @@
+1
+00:00:08,619 --> 00:00:09,140
+Okay.
+
+2
+00:00:17,879 --> 00:00:19,920
+Basically, I said module means
+
+3
+00:00:19,920 --> 00:00:24,559
+Basically, I said module means student module to the student
+
+4
+00:00:24,559 --> 00:00:26,960
+student module to the student information module.
+
+5
+00:00:26,960 --> 00:00:27,320
+student information system.
+
+6
+00:00:27,320 --> 00:00:28,679
+student list.
+
+7
+00:00:30,440 --> 00:00:31,820
+basic topics.
+
+8
+00:00:36,329 --> 00:00:39,109
+student module.
+
+9
+00:00:43,719 --> 00:00:45,579
+first login.
+
+10
+00:00:45,579 --> 00:00:48,859
+student module.
+
+11
+00:00:54,359 --> 00:00:55,439
+student module.
+
+12
+00:00:56,659 --> 00:00:56,920
+student.
+
+13
+00:01:00,100 --> 00:01:01,500
+student.
+
+14
+00:01:01,500 --> 00:01:02,359
+student.
+
+15
+00:01:02,920 --> 00:01:04,319
+student.
+
+16
+00:01:05,540 --> 00:01:11,920
+student list.
+
+17
+00:01:13,579 --> 00:01:14,280
+student.
+
+18
+00:01:19,099 --> 00:01:20,500
+student.
+
+19
+00:01:20,500 --> 00:01:20,680
+student.
+
+20
+00:01:20,680 --> 00:01:22,700
+All students present in our
+
+21
+00:01:22,700 --> 00:01:23,040
+All students present in our list.
+
+22
+00:01:37,109 --> 00:01:38,870
+student list.
+
+23
+00:01:42,140 --> 00:01:43,900
+student list.
+
+24
+00:01:45,340 --> 00:01:46,219
+student.
+
+25
+00:01:47,840 --> 00:01:49,239
+student.
+
+26
+00:01:51,340 --> 00:01:52,739
+student.
+
+27
+00:01:52,739 --> 00:01:53,659
+student list.
+
+28
+00:01:55,079 --> 00:01:56,480
+student.
+
+29
+00:02:00,769 --> 00:02:03,250
+number of students.
+
+30
+00:02:03,250 --> 00:02:03,909
+number of students.
+
+31
+00:02:04,540 --> 00:02:05,939
+institute.
+
+32
+00:02:10,099 --> 00:02:11,500
+screen.
+
+33
+00:02:17,199 --> 00:02:19,139
+2525 students.
+
+34
+00:02:21,599 --> 00:02:23,000
+student.
+
+35
+00:02:27,400 --> 00:02:28,099
+filter.
+
+36
+00:02:31,979 --> 00:02:32,680
+filter.
+
+37
+00:02:47,500 --> 00:02:48,900
+filter.
+
+38
+00:03:04,240 --> 00:03:04,840
+that means
+
+39
+00:03:04,840 --> 00:03:07,240
+specific category.
+
+40
+00:03:08,060 --> 00:03:08,599
+134.
+
+41
+00:03:16,389 --> 00:03:17,789
+134.
+
+42
+00:03:20,539 --> 00:03:21,939
+134.
+
+43
+00:03:23,020 --> 00:03:23,960
+134.
+
+44
+00:03:32,280 --> 00:03:33,680
+134.
+
+45
+00:03:36,300 --> 00:03:37,699
+134.
+
+46
+00:03:37,699 --> 00:03:37,960
+134.
+
+47
+00:03:38,060 --> 00:03:38,560
+134.
+
+48
+00:03:41,699 --> 00:03:43,099
+student.
+
+49
+00:03:44,580 --> 00:03:45,979
+student.
+
+50
+00:03:47,000 --> 00:03:47,039
+student.
+
+51
+00:03:48,159 --> 00:03:48,879
+student.
+
+52
+00:03:49,639 --> 00:03:50,919
+student.
+
+53
+00:03:56,759 --> 00:03:57,000
+new student.
+
+54
+00:04:00,539 --> 00:04:00,960
+new student.
+
+55
+00:04:07,629 --> 00:04:09,030
+student.
+
+56
+00:04:09,030 --> 00:04:09,389
+I'm going to put it on the screen.
+
+57
+00:04:10,030 --> 00:04:11,949
+in case.
+
+58
+00:04:16,470 --> 00:04:18,129
+Action. Action.
+
+59
+00:04:20,589 --> 00:04:21,290
+student.
+
+60
+00:04:24,060 --> 00:04:25,459
+student.
+
+61
+00:04:28,459 --> 00:04:30,279
+profile picture.
+
+62
+00:04:30,699 --> 00:04:32,540
+same option.
+
+63
+00:04:34,480 --> 00:04:35,139
+there after.
+
+64
+00:04:40,819 --> 00:04:43,220
+basic details.
+
+65
+00:04:43,579 --> 00:04:43,879
+for example.
+
+66
+00:04:46,220 --> 00:04:47,620
+student.
+
+67
+00:04:54,120 --> 00:04:54,819
+default.
+
+68
+00:04:54,819 --> 00:04:55,939
+default.
+
+69
+00:04:58,420 --> 00:05:00,620
+for example.
+
+70
+00:05:06,639 --> 00:05:08,339
+display name.
+
+71
+00:05:15,029 --> 00:05:17,829
+for example.
+
+72
+00:05:18,670 --> 00:05:18,850
+personal.
+
+73
+00:05:18,850 --> 00:05:18,910
+student.
+
+74
+00:05:20,329 --> 00:05:21,730
+option.
+
+75
+00:05:25,060 --> 00:05:26,160
+change.
+
+76
+00:05:29,199 --> 00:05:30,600
+number.
+
+77
+00:05:33,399 --> 00:05:33,939
+save.
+
+78
+00:05:43,769 --> 00:05:45,170
+student.
+
+79
+00:05:47,569 --> 00:05:48,769
+details.
+
+80
+00:05:49,290 --> 00:05:49,709
+details.
+
+81
+00:05:51,810 --> 00:05:52,509
+details.
+
+82
+00:05:58,720 --> 00:06:00,120
+student.
+
+83
+00:06:01,540 --> 00:06:02,240
+details.
+
+84
+00:06:05,029 --> 00:06:05,810
+transport.
+
+85
+00:06:06,189 --> 00:06:07,370
+assign.
+
+86
+00:06:11,490 --> 00:06:14,319
+for example.
+
+87
+00:06:14,319 --> 00:06:15,459
+assign.
+
+88
+00:06:22,689 --> 00:06:23,389
+system.
+
+89
+00:06:24,649 --> 00:06:25,269
+system.
+
+90
+00:06:27,790 --> 00:06:29,189
+select.
+
+91
+00:06:30,670 --> 00:06:32,490
+by default.
+
+92
+00:06:33,389 --> 00:06:34,129
+assignment.
+
+93
+00:06:35,269 --> 00:06:36,670
+assignment.
+
+94
+00:06:43,069 --> 00:06:44,470
+student.
+
+95
+00:06:47,449 --> 00:06:47,769
+subject.
+
+96
+00:06:55,029 --> 00:06:57,170
+complete details.
+
+97
+00:06:58,910 --> 00:06:59,610
+subject.
+
+98
+00:06:59,610 --> 00:07:02,290
+student.
+
+99
+00:07:05,610 --> 00:07:05,870
+this.
+
+100
+00:07:06,769 --> 00:07:08,170
+student.
+
+101
+00:07:16,459 --> 00:07:17,860
+student.
+
+102
+00:07:19,060 --> 00:07:19,899
+student.
+
+103
+00:07:20,399 --> 00:07:21,500
+details.
+
+104
+00:07:23,920 --> 00:07:24,839
+student.
+
+105
+00:07:28,620 --> 00:07:30,019
+change.
+
+106
+00:07:33,509 --> 00:07:34,689
+edit.
+
+107
+00:07:35,829 --> 00:07:36,509
+edit.
+
+108
+00:07:40,709 --> 00:07:41,250
+save.
+
+109
+00:07:44,029 --> 00:07:45,430
+documents.
+
+110
+00:07:45,430 --> 00:07:46,029
+student.
+
+111
+00:07:46,629 --> 00:07:48,069
+for example.
+
+112
+00:07:51,930 --> 00:07:54,730
+for example.
+
+113
+00:07:58,970 --> 00:08:00,370
+student.
+
+114
+00:08:02,149 --> 00:08:03,550
+student.
+
+115
+00:08:05,509 --> 00:08:07,449
+for example.
+
+116
+00:08:07,449 --> 00:08:07,910
+for example.
+
+117
+00:08:09,629 --> 00:08:10,009
+for example.
+
+118
+00:08:10,589 --> 00:08:17,350
+for example.
+
+119
+00:08:21,050 --> 00:08:22,449
+document.
+
+120
+00:08:30,149 --> 00:08:31,550
+student.
+
+121
+00:10:14,960 --> 00:10:24,580
+both number series is auto-generated. Then admission number is our primary,
+
+122
+00:10:25,019 --> 00:10:29,399
+on which we can search the student. Thereafter, there is a roll number field,
+
+123
+00:10:29,740 --> 00:10:32,820
+you have to assign a roll number separately, you can see that here.
+
+124
+00:10:33,379 --> 00:10:40,879
+ID, student name, I am adding a student for myself. Basic date of birth, whenever you add,
+
+125
+00:10:41,799 --> 00:10:47,000
+while adding, if your pink line field is required, it means you have to add those details mid-day.
+
+126
+00:10:47,000 --> 00:10:50,039
+For example, if you have not added father qualification, mother qualification,
+
+127
+00:10:50,039 --> 00:10:52,960
+then you can also add students without any information.
+
+128
+00:11:02,299 --> 00:11:28,000
+For example, father name or mother.
+
+129
+00:12:10,909 --> 00:12:15,090
+The student that I have added is the one with the name of the tummy, 123456.
+
+130
+00:12:18,000 --> 00:12:23,179
+Apart from this, you have excel upload. You can also use excel upload in bulk.
+
+131
+00:12:26,990 --> 00:12:30,679
+First option is add student. From here, you can add students in bulk.
+
+132
+00:12:31,440 --> 00:12:34,100
+There is a sample file for this, sample means sample excel.
+
+133
+00:12:35,379 --> 00:12:40,320
+By downloading this sample excel and adding data to it, your student gets added.
+
+134
+00:13:17,269 --> 00:13:20,809
+If you have not filled the data before, then the student does not get added, it shows you the error.
+
+135
+00:13:23,179 --> 00:13:25,740
+You can add from excel, you can try it on your own.
+
+136
+00:13:28,750 --> 00:13:30,629
+You have to fill the same basic details in this as well.
+
+137
+00:13:35,950 --> 00:13:42,269
+Then we have after the student list, we have student list course wise as well.
+
+138
+00:13:44,669 --> 00:13:47,970
+Student list course wise. Now the student list that you have seen,
+
+139
+00:13:47,970 --> 00:13:53,149
+it has all the complete data.
+
+140
+00:13:54,070 --> 00:13:55,289
+Student list course wise.
+
+141
+00:14:00,870 --> 00:14:08,649
+For example, a teacher who is only a class 1 teacher, he has only class 1 data.
+
+142
+00:14:18,549 --> 00:14:24,269
+The main purpose was that if there is a class teacher, he only has to show his class to his students.
+
+143
+00:14:25,509 --> 00:14:27,830
+For that, we have student list course wise.
+
+144
+00:14:32,159 --> 00:14:41,190
+If you have any query, you can add a new student from here.
+
+145
+00:14:42,730 --> 00:14:49,899
+You have to export this data in excel. You can also export this data in excel by clicking on this.
+
+146
+00:14:54,429 --> 00:14:57,669
+Then we have the student certificates.
+
+147
+00:14:58,230 --> 00:15:02,690
+Student certificates basically in the institute, you can print the student's character certificate.
+
+148
+00:15:03,710 --> 00:15:06,889
+You can print his ID card, library card.
+
+149
+00:15:07,750 --> 00:15:09,950
+You can print all these certificates from here.
+
+150
+00:15:12,610 --> 00:15:17,370
+You have the option to search for a single student.
+
+151
+00:15:17,370 --> 00:15:24,940
+You can search by name.
+
+152
+00:15:26,440 --> 00:15:26,960
+You can search by name.
+
+153
+00:15:30,480 --> 00:15:35,139
+By default, you can print all the certificates.
+
+154
+00:15:35,139 --> 00:15:35,460
+You can also use the same filter.
+
+155
+00:15:38,480 --> 00:15:39,399
+You can also use the same filter.
+
+156
+00:16:44,899 --> 00:16:49,679
+You can also give this certificate by entering the details.
+
+157
+00:16:52,539 --> 00:16:54,539
+By default, you have to enter the details.
+
+158
+00:16:55,059 --> 00:16:55,960
+You have to enter the details.
+
+159
+00:16:56,759 --> 00:16:59,519
+If you save from here, you can print it.
+
+160
+00:17:00,059 --> 00:17:04,980
+Then you have the option to print and inactive.
+
+161
+00:17:04,980 --> 00:17:10,480
+the student really were all right top it's a don't be auctioneers to print
+
+162
+00:17:10,480 --> 00:17:15,819
+that case at the strength of inactive bird for example massive popcorn print
+
+163
+00:17:15,819 --> 00:17:22,240
+that get the father to get yeah yeah yeah mara print this cop set that's up
+
+164
+00:17:22,240 --> 00:17:37,910
+there all right chicken is the rest of our DC certificate print that's a clear
+
+165
+00:17:40,079 --> 00:17:44,480
+yes from us a institute to have a certificate print that's a certificate
+
+166
+00:17:44,480 --> 00:17:51,640
+certificate student ledger has student ledger to get tuition fee certificate
+
+167
+00:17:51,640 --> 00:17:55,880
+we have coffee can you take a certificate up about that college
+
+168
+00:17:55,880 --> 00:18:03,539
+because we basically use with a student ID card admit card appreciation
+
+169
+00:18:03,539 --> 00:18:09,819
+certificate I did I did you just sit up with students gosh is there is a different
+
+170
+00:18:09,819 --> 00:18:20,309
+certificates rent a printer to get your student ID card at Institute student
+
+171
+00:18:20,309 --> 00:18:26,430
+certificate any option for bulk print let's say key case are they and would
+
+172
+00:18:26,430 --> 00:18:32,799
+you say I'm gonna get bit card one other guy let's look okay I think about they
+
+173
+00:18:32,799 --> 00:18:37,119
+go for example much enough bulk printer that many students selected a ginger
+
+174
+00:18:37,119 --> 00:18:41,720
+printer for example you just student Anna meeting student and in come on
+
+175
+00:18:41,720 --> 00:18:45,960
+bulk print bulk print up ID card because of the bulk map the cap renting
+
+176
+00:18:45,960 --> 00:18:50,940
+they go bulk makes a top ID card printer and you'll sit there in a bulk may admin
+
+177
+00:18:50,940 --> 00:18:57,970
+cut rate turn you'll sit there to go Sarah that yeah pass bulk me ID card
+
+178
+00:18:57,970 --> 00:19:03,369
+okay many team student select here the way bus three students going to get
+
+179
+00:19:03,369 --> 00:19:08,359
+selected okay yeah print option a new bulk print set table after I'm just a
+
+180
+00:19:08,359 --> 00:19:15,660
+character certificate have a sub-a put on a balcony then you'll take a CD a
+
+181
+00:19:55,039 --> 00:20:00,640
+mission teacher this year right so how many of the basic setup for the student
+
+182
+00:20:00,640 --> 00:20:04,720
+feedback to get enough quick entity because you can then I'm a student
+
+183
+00:20:04,720 --> 00:20:20,619
+feedback already set up a student feedback and then I'm a good basic set up
+
+184
+00:20:20,619 --> 00:20:24,220
+kind of this like you go to a student feedback after enable or check again to
+
+185
+00:20:24,220 --> 00:20:29,259
+Institute set up can't help it you can't pass that they have a student master
+
+186
+00:20:29,259 --> 00:20:34,069
+set up to get this kind of care out there up for a student feedback set up
+
+187
+00:20:34,069 --> 00:20:40,750
+a student feedback type or student feedback category to get to student
+
+188
+00:20:40,750 --> 00:20:45,309
+feedback type is there a couple student co-feedback dinner either positive
+
+189
+00:20:45,309 --> 00:20:49,930
+feedback or something negative feedback or something neutral or something to get
+
+190
+00:20:49,930 --> 00:20:56,349
+your drop-down Institute like a gate cry it's a positive feedback or something
+
+191
+00:20:56,349 --> 00:21:01,029
+negative or neutral ticket feedback that I thereafter feedbacking category
+
+192
+00:21:01,029 --> 00:21:04,190
+you will kiss category got feedback in a chart that's it back else at the
+
+193
+00:21:04,190 --> 00:21:10,480
+academy performance was up here and a sports host of that co-curricular
+
+194
+00:21:10,480 --> 00:21:14,220
+rose up there was a little bit more to do something for example they said that
+
+195
+00:21:14,220 --> 00:21:23,319
+we sports key academy key co-curricular use the level of yeah okay categories
+
+196
+00:21:23,319 --> 00:21:31,180
+was at the head drop student feedback within a clip and I said they're behavior
+
+197
+00:21:31,180 --> 00:21:42,180
+class behavior came in or I'm lucky just say behavior was up there I will
+
+198
+00:21:42,180 --> 00:21:47,230
+understand that to get three up the categories would have a basic set up
+
+199
+00:21:47,230 --> 00:21:51,250
+just that feedback set up a little bit to student feedback type or feedback
+
+200
+00:21:51,250 --> 00:21:56,650
+category you go to set up a feedback they guess is a teacher those capacity a
+
+201
+00:21:56,650 --> 00:22:01,359
+student can the fourth option of the student feedback to get this go Jesse
+
+202
+00:22:01,359 --> 00:22:06,160
+up open click karo game filter page on a poor chicken by default up a sorry
+
+203
+00:22:06,160 --> 00:22:10,299
+classes for data for example class monkey teacher co-student got feedback
+
+204
+00:22:10,299 --> 00:22:17,599
+this is student car feedback section and yeah has a feedback this up to date to
+
+205
+00:22:17,599 --> 00:22:22,859
+get feedback cut I tell yeah I'm poor title open up open the clear private
+
+206
+00:22:22,859 --> 00:22:26,880
+open private means go there for example you do feedback there you know man
+
+207
+00:22:26,880 --> 00:22:30,559
+student car many were open use key at the means other teachers will be a
+
+208
+00:22:30,559 --> 00:22:34,420
+student car feedback show feedback report of tears me to get all student
+
+209
+00:22:35,380 --> 00:22:45,440
+private means to the teacher data here or just the student is open private
+
+210
+00:22:45,440 --> 00:22:55,259
+coming yes yeah I'm a master when I am a student got feedback negative then I
+
+211
+00:22:55,259 --> 00:22:59,380
+had neutral then I have positive then I'm oh then poncy category got feedback
+
+212
+00:22:59,380 --> 00:23:03,980
+there you may look at mix key they know to get or manage if good feedback
+
+213
+00:23:05,619 --> 00:23:10,400
+description and attachment fine attachment up here so what that's good
+
+214
+00:23:12,109 --> 00:23:15,490
+to get then a person a kiss and notification that before it's coming in
+
+215
+00:23:15,490 --> 00:23:19,470
+get out there come on a password a student app I'm gonna take you yeah
+
+216
+00:23:19,470 --> 00:23:22,849
+just means to me happens we have just map operate cut to the except up not
+
+217
+00:23:22,849 --> 00:23:27,009
+data they accept you know up me free deposit because this is a gap with the
+
+218
+00:23:27,009 --> 00:23:32,730
+institute so student up me at pay up enough feedback they suck it to get to
+
+219
+00:23:32,730 --> 00:23:33,470
+notification
+
+220
+00:23:46,069 --> 00:23:52,849
+or a job feedback add to the student time when we show them up to pass
+
+221
+00:23:52,849 --> 00:23:59,519
+student list up a student list me just be sure and got feedback I don't know
+
+222
+00:23:59,519 --> 00:24:07,779
+what's the student key timelines except there's many student click yeah it's a
+
+223
+00:24:07,779 --> 00:24:15,000
+student time line up here to get this particular okay it's major job major
+
+224
+00:24:15,000 --> 00:24:18,720
+population here you go you have to ask them up here so they suck the up major
+
+225
+00:24:18,720 --> 00:24:25,470
+use the feedback at the update to get the feedback in the area student feedback
+
+226
+00:24:25,470 --> 00:24:31,279
+access at the answer so that's gonna be sick up the set up for them to get it
+
+227
+00:24:31,279 --> 00:24:41,920
+may in char options may actually be queries no matter you can't then how
+
+228
+00:24:42,480 --> 00:24:49,700
+scholar ID of the scholar I need to be a my pasta a can't eat a he is making a
+
+229
+00:24:49,700 --> 00:24:53,700
+student go home news keys caller ID said yeah that's all that an admission
+
+230
+00:24:53,700 --> 00:24:58,640
+number to go up a scholar ID system into actor up there to get to a mighty
+
+231
+00:24:58,640 --> 00:25:04,599
+scholar idea to get scholar ID update got a student under a classic option that
+
+232
+00:25:04,599 --> 00:25:09,980
+updates caller ID come here to get this papo click on it
+
+233
+00:25:09,980 --> 00:25:14,559
+student car data yeah just for example which is a student is caller I didn't
+
+234
+00:25:14,559 --> 00:25:19,779
+really update Karni a mess pick a movie at it yeah up a job you just kept
+
+235
+00:25:19,779 --> 00:25:26,059
+change Karni a more take a safer to me to a change of a chicken please ma'am
+
+236
+00:25:26,059 --> 00:25:30,779
+repeat come nice a query they will scholar ID out there student gonna
+
+237
+00:25:30,779 --> 00:25:34,279
+admission number up about our home student quite easy unique numbers a
+
+238
+00:25:34,279 --> 00:25:38,390
+actor there for example class one I was missing name give what sort of student
+
+239
+00:26:09,759 --> 00:26:14,000
+edit I didn't click on okay yeah I say I'll update go to a job you have to
+
+240
+00:26:14,000 --> 00:26:22,289
+then I say for the little data say go to a student and then you have to make a
+
+241
+00:26:22,289 --> 00:26:28,640
+update smaller I think it was scale our student got high to rate update gonna
+
+242
+00:26:28,640 --> 00:26:32,400
+will be happy I submit because of those simple I basically just a teacher I
+
+243
+00:26:32,400 --> 00:26:35,319
+you know teacher can't get that teachers roll numbers we update got the upper
+
+244
+00:26:35,319 --> 00:26:38,619
+butter over her a class can the teacher of me roll number update because of the
+
+245
+00:26:38,619 --> 00:26:42,240
+answer get up now height or weight students go update because of the
+
+246
+00:26:42,240 --> 00:26:48,039
+update height we have to click here up we asked me class like to turn here this
+
+247
+00:26:48,039 --> 00:26:52,680
+class kiss wouldn't have a bit when such a class fun yeah my section yeah section
+
+248
+00:26:52,680 --> 00:26:59,539
+naked look at okay so class a gap key yeah yeah data upload where we get my
+
+249
+00:26:59,539 --> 00:27:02,819
+bones a class kiss student around the details are here up move your job date
+
+250
+00:27:02,819 --> 00:27:06,240
+kind of skin you have to get another label select gonna keep music update
+
+251
+00:27:06,240 --> 00:27:10,019
+kind of height yeah wait for example move your weight update kind of many bits
+
+252
+00:28:13,519 --> 00:28:17,839
+student key details are we then we should update gather their music height update
+
+253
+00:28:17,839 --> 00:28:23,279
+can you student key to get here already updated is smell up in key so they go
+
+254
+00:28:23,279 --> 00:28:27,160
+it's no question you're a chip that many added details pick me I did pick
+
+255
+00:28:27,160 --> 00:28:33,650
+yeah three editable oh yeah check it update yeah or yeah ha ha pass bottom me
+
+256
+00:28:33,650 --> 00:28:38,009
+jessie up or they will a be up in a sara enter got a time to get then update
+
+257
+00:28:38,569 --> 00:28:43,529
+serial numbers in a select kind of a specific option I'll tell you update
+
+258
+00:28:44,210 --> 00:28:47,750
+obviously click on any update or drive up a successful message I'll get you up
+
+259
+00:28:47,750 --> 00:28:55,099
+make it a student stop date yeah yeah yeah hi to the great students he gets
+
+260
+00:28:55,099 --> 00:28:59,019
+them take the same in the data up go fetch kind of topics back so the best
+
+261
+00:28:59,019 --> 00:29:08,599
+speakers up to give us came back next time I pass that enrollment number or
+
+262
+00:29:08,599 --> 00:29:12,440
+rule number German student course I'm gonna be there yeah because a classman
+
+263
+00:29:12,440 --> 00:29:16,759
+under 50 students have those kids student you go roll over to me and tell
+
+264
+00:29:16,759 --> 00:29:25,049
+me to get the whole same class left curry class money can you give me a class
+
+265
+00:29:25,049 --> 00:29:31,230
+money can you pass list of it right after that editable new got that my edit
+
+266
+00:29:31,230 --> 00:29:36,150
+roll number pick me up as reset option that I for example which is class
+
+267
+00:30:09,890 --> 00:30:12,769
+clear a point same option excel
+
+268
+00:30:31,950 --> 00:30:37,210
+student list student list course wise certificates feedback or the which
+
+269
+00:30:37,210 --> 00:30:40,269
+updations admission number height weight roll number yes
+

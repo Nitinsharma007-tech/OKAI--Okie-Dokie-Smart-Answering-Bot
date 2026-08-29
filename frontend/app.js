@@ -19,6 +19,7 @@ const chatFab = document.getElementById("chat-fab");
 const chatCloseButton = document.getElementById("chat-close");
 const questionCountEl = document.getElementById("question-count");
 const themeToggleButton = document.getElementById("theme-toggle");
+const dataUploadButton = document.getElementById("data-upload-btn");
 const printButton = document.getElementById("print-btn");
 const shortcutsButton = document.getElementById("shortcuts-btn");
 const shortcutsPopover = document.getElementById("shortcuts-popover");
@@ -93,6 +94,12 @@ window.addEventListener("DOMContentLoaded", ()=>{
     initTheme();
     loadModules();
 });
+
+if (dataUploadButton) {
+    dataUploadButton.onclick = function () {
+        window.location.href = "/upload.html";
+    };
+}
 
 function appendUserMessage(message){
     const wrapper = document.createElement("div");

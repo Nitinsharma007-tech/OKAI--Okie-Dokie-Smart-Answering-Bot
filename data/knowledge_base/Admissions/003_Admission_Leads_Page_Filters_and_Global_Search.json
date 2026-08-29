@@ -1,0 +1,56 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page: Filters and Global Search",
+    "summary": "The Admission Leads page uses default filters to show relevant leads. By default, leads with negative tags are hidden to prevent clutter. Users can adjust filters or use the Global Search feature to find leads that have been marked with negative tags.",
+    "navigation": [
+        "Admission Leads"
+    ],
+    "steps": [
+        "To find leads with negative tags using filters:",
+        "1. Go to the 'Admission Leads' page.",
+        "2. Click on the filter options.",
+        "3. Select the specific 'Negative' tag (e.g., 'Not Interested') from the tag filter.",
+        "4. Select relevant statuses like 'Engaged with Pending' and 'Completed Follow-up'.",
+        "5. Click 'Go' and then search for the application number.",
+        "To find leads using Global Search (without changing default filters):",
+        "1. Go to the 'Admission Leads' page.",
+        "2. Ensure default filters are applied (do not select any specific tags like 'Not Interested').",
+        "3. Turn on 'Global Search'.",
+        "4. Enter the application number in the search bar; the lead will be visible."
+    ],
+    "business_rules": [
+        "By default, the 'Admission Leads' page only displays leads with 'Not Engaged' or 'Engaged with Pending Follow-up' statuses.",
+        "By default, only 'Positive' tags are selected in the filter, meaning leads marked with negative tags are not visible in the main view."
+    ],
+    "important_notes": [
+        "The default filtering helps counselors focus on actionable leads by hiding those marked with negative outcomes (e.g., 'Not Interested')."
+    ],
+    "questions": [
+        "Why are leads I marked as 'Not Interested' not showing on my Admission Leads page?",
+        "How can I view leads that have been assigned a negative tag?",
+        "What are the default filters applied on the Admission Leads page?",
+        "When should I use Global Search versus adjusting filters to find a lead?",
+        "Can I customize the default filters on the Admission Leads page?"
+    ],
+    "keywords": [
+        "Admission Leads page",
+        "Lead filters",
+        "Negative tags visibility",
+        "Positive tags filter",
+        "Not engaged status",
+        "Pending follow-up status",
+        "Global Search",
+        "Finding leads"
+    ],
+    "related_topics": [
+        "Admission Tags: Creation and Usage",
+        "Lead Management",
+        "Show Member Detail Filter (Admission Leads Page)"
+    ],
+    "id": "admissions_admission_leads_page_filters_and_global_search",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -4,6 +4,6 @@
     "language": "en",
     "device": "cuda",
     "compute_type": "float16",
-    "processing_time_seconds": 230.01,
-    "created_at": "2026-08-02T13:39:30.666131"
+    "processing_time_seconds": 250.08,
+    "created_at": "2026-08-29T14:45:32.020492"
 }

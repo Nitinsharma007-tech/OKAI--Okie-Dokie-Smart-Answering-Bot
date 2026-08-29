@@ -1,0 +1,43 @@
+{
+    "module": "Finance",
+    "topic": "Institute Bank Account Configuration",
+    "summary": "This setup defines the bank accounts of the institution where collected fees and other income will be deposited, allowing for accurate tracking and reporting of deposits per bank.",
+    "navigation": [
+        "Institute Bank"
+    ],
+    "steps": [
+        "Create masters for each of the institution's bank accounts (e.g., 'SBI', 'HDFC', 'ICICI')."
+    ],
+    "business_rules": [
+        "When recording a payment (e.g., fee, other income), the user must select the specific bank account where the money will be deposited.",
+        "Reports can be generated to show how much money has been deposited into each individual bank account."
+    ],
+    "important_notes": [
+        "This configuration is crucial for financial reconciliation and accurate reporting of cash flows.",
+        "It helps in segregating funds received into different bank accounts."
+    ],
+    "questions": [
+        "How do I add or manage the institution's bank accounts in the ERP system?",
+        "Where do I specify which bank account a fee payment is deposited into?",
+        "Can I get a report of deposits per bank account for reconciliation purposes?",
+        "What information is needed to set up an institute bank account?"
+    ],
+    "keywords": [
+        "Institute bank",
+        "bank account setup",
+        "deposit bank",
+        "fee deposit",
+        "financial reconciliation",
+        "bank masters"
+    ],
+    "related_topics": [
+        "Payment Modes",
+        "Fee Collection"
+    ],
+    "id": "finance_institute_bank_account_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

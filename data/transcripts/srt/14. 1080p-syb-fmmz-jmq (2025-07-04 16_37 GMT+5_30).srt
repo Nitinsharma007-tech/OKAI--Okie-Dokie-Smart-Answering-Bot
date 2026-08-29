@@ -1,0 +1,3544 @@
+1
+00:00:00,000 --> 00:00:21,280
+In this session, if anyone has a query, okay, there is no query, everything is clear, by the way, there was nothing like that yesterday, what you had was to update the details, right, Kunal, you were saying something, is there any query?
+
+2
+00:00:22,350 --> 00:00:24,149
+No, no, no.
+
+3
+00:00:24,149 --> 00:00:50,950
+Okay, okay, basically, we will add students tomorrow, the overview of the SAS module, okay, how your details are updated, for example, can anyone tell me which details we saw to update yesterday, tell me any detail, does anyone remember?
+
+4
+00:00:50,950 --> 00:01:03,060
+For example, basic details, for example, height, weight, address and transportation.
+
+5
+00:01:05,299 --> 00:01:21,129
+Okay, right, so today our session will be about promoting students, how can we do student session management, I will share the screen with you, is the screen visible?
+
+6
+00:01:24,280 --> 00:01:25,459
+Yes, it is.
+
+7
+00:01:25,459 --> 00:01:29,180
+Okay, so what is the topic of student session management today?
+
+8
+00:01:29,180 --> 00:01:44,689
+Okay, student session management means, right now you have learned how to make a session, right, in the case of school, you must have made these sessions, right, in this way, more sessions are made, you know how to switch the sessions, there are different sessions, right.
+
+9
+00:01:45,250 --> 00:01:57,430
+Now, the students that we add, suppose if I have added a student in this session, right, then it will be in this session, do you understand a little?
+
+10
+00:01:57,430 --> 00:02:01,269
+Now, the students that I have added in this session, it will be in this session, right.
+
+11
+00:02:01,650 --> 00:02:12,879
+Now, upcoming, for example, what is going on right now, it is going on 25-26, right, suppose if it is going on 24-25 right now, can anyone tell us when our school session starts?
+
+12
+00:02:14,699 --> 00:02:17,300
+1st April to 31st March.
+
+13
+00:02:17,300 --> 00:02:31,819
+1st April to 31st March, right, so in the case of school, we have a session like this, for example, if your session is going on 24-25, then it means it will be from 1st April to 31st March to 2025.
+
+14
+00:02:32,449 --> 00:02:41,270
+Right, now the next session that you will start, suppose if your session ends, then the next session that you will start is from 25-26, when will it start?
+
+15
+00:02:42,030 --> 00:02:54,699
+From 1st April to 2025, right, from 1st April to 2025, when you switch the session, then you have a student, so you were in this session in 24-25, do you understand a little?
+
+16
+00:02:56,719 --> 00:03:11,189
+Session dependent, what I mean to say is that if we add a student, then our session is dependent, means the session in which we are doing it, it will exist in that session.
+
+17
+00:03:11,189 --> 00:03:30,379
+Right, so now if in 24-25 your student exists, for example, today is 31st March to 2025, for example, from tomorrow 1st April to 2025, means your next session is starting, 25-26.
+
+18
+00:03:30,379 --> 00:03:37,039
+Okay, now if the next session starts, you have made active session 25-26, do you know the meaning of active session?
+
+19
+00:03:38,759 --> 00:03:40,759
+You must have told you in the session, what is active session?
+
+20
+00:03:41,659 --> 00:03:54,259
+The session that your current is running, suppose you log in, right, you log in and open your ERP, right, you opened your entity, so by default, which session is opening as soon as you open it?
+
+21
+00:03:54,639 --> 00:04:11,900
+See, like what I did, I switched some entity, in the case of school, like for example, this is school, okay, I switched the entity, by default, the session that is opening with me, which session is that?
+
+22
+00:04:11,900 --> 00:04:18,519
+The one that is running right now is active session, okay, by default, which session is your open, we call it active session.
+
+23
+00:04:18,519 --> 00:04:35,790
+You may have a lot of sessions, in this case there are a lot of sessions, but by default, which is your open, it is active session, so you know how to mark active session, what are you saying?
+
+24
+00:04:36,370 --> 00:04:39,750
+You don't know this, right, okay, see, what is active session?
+
+25
+00:04:40,589 --> 00:04:52,949
+The session that is running, the sessions that you make, in the institute setup, you set up the session, right, from here, okay, so here you have a star mark with the action, what is written on this?
+
+26
+00:04:52,949 --> 00:05:00,689
+Active session, as soon as I click on this, active session, this happens that by default, which session are you activating?
+
+27
+00:05:00,810 --> 00:05:13,110
+Means, whenever you open this entity, then by default, which session will open, so we call it active, like in this, we have marked 24-25 as active session,
+
+28
+00:05:13,110 --> 00:05:33,300
+if I do this active session and save it, see, I am saying save it, so now I have this active session, means 25-26 by default, whenever I switch the entity, then this session will open, okay, is that clear?
+
+29
+00:05:34,550 --> 00:05:41,089
+Okay, so now what were we talking about the student, you have added the student in 24-25, okay, now what happened?
+
+30
+00:05:41,089 --> 00:05:58,290
+Sorry to disturb you, when I was exploring, first I tried to upload the sample list, then I tried to upload that list,
+
+31
+00:05:58,290 --> 00:06:08,730
+so that list is not being uploaded, they share an error report, PDF, in which errors come, set of errors, after this, can you hear me ma'am?
+
+32
+00:06:08,930 --> 00:06:10,850
+Yes, yes, I can hear you.
+
+33
+00:06:11,110 --> 00:06:11,470
+Hello.
+
+34
+00:06:12,089 --> 00:06:16,959
+Hello, can't you hear my voice? Can you hear anyone?
+
+35
+00:06:18,550 --> 00:06:19,370
+I can't hear you.
+
+36
+00:06:25,019 --> 00:06:28,670
+Sorry, sorry, sorry.
+
+37
+00:06:29,199 --> 00:06:29,779
+Hello.
+
+38
+00:06:29,779 --> 00:06:31,420
+Yes, yes, govind.
+
+39
+00:06:32,199 --> 00:06:46,439
+So ma'am, when I was doing that, when I tried to add manually, so when they were adding manually, there were some fields, when I was adding, it was not dropping down, it was being considered compulsory, that it has to be filled.
+
+40
+00:06:47,279 --> 00:06:51,300
+Yes, so you must be getting the fields compulsory, some compulsory fields you will have to do.
+
+41
+00:06:51,860 --> 00:06:55,680
+But ma'am, it was not dropping down, those fields were not open able.
+
+42
+00:06:56,620 --> 00:06:58,199
+Which entity did you try?
+
+43
+00:06:58,199 --> 00:07:06,540
+Ma'am, I tried a new entity, ma'am, this was an entity in the IU's testing.
+
+44
+00:07:08,449 --> 00:07:13,449
+Okay, in IU's testing, you were adding, maybe there could be fee groups, did you make a separate session?
+
+45
+00:07:14,879 --> 00:07:16,040
+Yes ma'am, I made a separate session.
+
+46
+00:07:16,819 --> 00:07:23,839
+Okay, so you made a separate session, so the fee will not be set up. Actually, what happens is, the student is always added when the entire fee of the course has been set up.
+
+47
+00:07:23,839 --> 00:07:27,959
+Okay, now when your fee training will be done, then all of this will remain.
+
+48
+00:07:28,220 --> 00:07:30,120
+Okay, then in which component should I try all these things?
+
+49
+00:07:30,660 --> 00:07:33,620
+You can do it in OM Convent, do you have OM Convent?
+
+50
+00:07:33,939 --> 00:07:40,620
+OM Convent, let me check ma'am. No ma'am, right now I have Ram Prasad DAV, Springdale.
+
+51
+00:07:40,939 --> 00:07:45,000
+Yes, you can do it in Springdale, you must be doing it on local testing, you have a QA server, right?
+
+52
+00:07:45,339 --> 00:07:46,160
+Yes ma'am.
+
+53
+00:07:46,160 --> 00:07:48,779
+Yes, so you can do it in Springdale, there is no issue.
+
+54
+00:07:49,139 --> 00:07:54,959
+If there is a current session, 24-25, or the previous session, 23-24, you can do it in that, it will be done.
+
+55
+00:07:55,040 --> 00:07:55,319
+Okay.
+
+56
+00:07:55,860 --> 00:08:00,779
+Basically, the fee is set up, now it will come slowly, so your fee will be set up.
+
+57
+00:08:00,800 --> 00:08:04,620
+If I set up a new session in Springdale, then the fee will not be set up.
+
+58
+00:08:06,319 --> 00:08:09,579
+If you set up a session, then the fee will not be set up.
+
+59
+00:08:10,000 --> 00:08:11,360
+The fee set up can be different in every session.
+
+60
+00:08:12,180 --> 00:08:12,699
+Okay ma'am.
+
+61
+00:08:12,699 --> 00:08:17,399
+So if you see in the previous session, you will already get the fee set up, it will be there from the beginning,
+
+62
+00:08:17,839 --> 00:08:19,439
+so you can add the student and see.
+
+63
+00:08:19,860 --> 00:08:20,899
+Okay ma'am.
+
+64
+00:08:21,759 --> 00:08:23,420
+So what is the student session management?
+
+65
+00:08:24,160 --> 00:08:27,920
+In the current session, students exist.
+
+66
+00:08:28,600 --> 00:08:30,620
+Okay, now what you have to do, for example,
+
+67
+00:08:31,540 --> 00:08:36,600
+from tomorrow your next session is going to start, 1st April, 2025 is starting.
+
+68
+00:08:36,799 --> 00:08:38,220
+So it will be a 25-26 session.
+
+69
+00:08:38,220 --> 00:08:42,519
+Now in this, your students are not the ones who existed in the previous session.
+
+70
+00:08:43,799 --> 00:08:45,700
+You need these in the next session too.
+
+71
+00:08:45,759 --> 00:08:50,279
+For example, if a student is in class 1, then in the next session, which class will he go to?
+
+72
+00:08:50,460 --> 00:08:51,240
+He will go to class 2.
+
+73
+00:08:53,210 --> 00:08:55,950
+So this is in the student session management.
+
+74
+00:08:56,350 --> 00:09:00,610
+How can you promote the student from one session to another session?
+
+75
+00:09:01,629 --> 00:09:04,070
+Basically, this will be your training point today.
+
+76
+00:09:04,070 --> 00:09:08,269
+So is the student session management clear?
+
+77
+00:09:08,529 --> 00:09:09,870
+Any doubts, any queries?
+
+78
+00:09:10,889 --> 00:09:14,870
+It will continue until he passes out in class 12,
+
+79
+00:09:15,029 --> 00:09:16,889
+meanwhile he doesn't leave his session in between,
+
+80
+00:09:17,309 --> 00:09:19,610
+so he will be promoted in every session.
+
+81
+00:09:20,009 --> 00:09:22,990
+So what happens with us, we are given the option to promote.
+
+82
+00:09:23,490 --> 00:09:26,370
+So we have an option to promote all,
+
+83
+00:09:26,649 --> 00:09:28,049
+and one is to manually promote.
+
+84
+00:09:28,129 --> 00:09:29,269
+So I will discuss both the options.
+
+85
+00:09:29,970 --> 00:09:34,889
+What we have to do, students have to be promoted from one session to another session.
+
+86
+00:09:34,889 --> 00:09:37,070
+That will be here with us.
+
+87
+00:09:38,230 --> 00:09:39,750
+Basically, promoted will always be active students.
+
+88
+00:09:40,129 --> 00:09:42,110
+In case if someone doesn't have to do it in the next session,
+
+89
+00:09:42,269 --> 00:09:43,470
+or he has been relieved in between,
+
+90
+00:09:44,070 --> 00:09:45,950
+then that student will be automatically inactive,
+
+91
+00:09:46,169 --> 00:09:46,970
+so he will not be promoted.
+
+92
+00:09:48,370 --> 00:09:50,529
+So in student session management,
+
+93
+00:09:51,070 --> 00:09:52,830
+first of all we are discussing the first point,
+
+94
+00:09:53,409 --> 00:09:55,250
+how we can manually promote students.
+
+95
+00:09:57,409 --> 00:10:01,529
+So in student, we have an option, student session management.
+
+96
+00:10:03,620 --> 00:10:07,929
+In this, we have an option, filter.
+
+97
+00:10:08,509 --> 00:10:09,350
+What happens in the filter,
+
+98
+00:10:09,450 --> 00:10:12,789
+with the filter, which class of students you want to promote.
+
+99
+00:10:12,950 --> 00:10:14,129
+First, you select the class.
+
+100
+00:10:14,250 --> 00:10:16,710
+For example, I have selected nursery class students.
+
+101
+00:10:18,870 --> 00:10:20,049
+I have selected section A,
+
+102
+00:10:20,129 --> 00:10:22,230
+all my students will come here.
+
+103
+00:10:29,090 --> 00:10:30,149
+I will select class 1.
+
+104
+00:10:35,320 --> 00:10:37,500
+As class 1, I have got the student.
+
+105
+00:10:37,940 --> 00:10:40,320
+Here, this is the detail of the student.
+
+106
+00:10:40,320 --> 00:10:42,539
+What is the promoted status here?
+
+107
+00:10:42,620 --> 00:10:43,019
+Nothing.
+
+108
+00:10:43,080 --> 00:10:47,279
+It means that this student has not been promoted in the upcoming session.
+
+109
+00:10:49,080 --> 00:10:52,059
+If it has been promoted, then its status would be here.
+
+110
+00:10:54,759 --> 00:10:55,899
+What I have to do,
+
+111
+00:10:55,980 --> 00:10:57,460
+I have to manually promote the student.
+
+112
+00:10:57,779 --> 00:10:58,399
+So what will I do?
+
+113
+00:10:58,759 --> 00:10:59,659
+I have selected a student.
+
+114
+00:11:00,139 --> 00:11:01,539
+For example, this is a student.
+
+115
+00:11:01,980 --> 00:11:04,980
+This student is in class 1A right now.
+
+116
+00:11:05,899 --> 00:11:06,720
+So in next session,
+
+117
+00:11:07,559 --> 00:11:08,120
+in class 2,
+
+118
+00:11:08,779 --> 00:11:09,480
+I have selected.
+
+119
+00:11:09,600 --> 00:11:10,299
+After selecting,
+
+120
+00:11:10,299 --> 00:11:12,480
+I have an option below,
+
+121
+00:11:12,559 --> 00:11:14,580
+add selected student to session.
+
+122
+00:11:14,700 --> 00:11:17,240
+Means I am promoting it in the session.
+
+123
+00:11:17,519 --> 00:11:18,120
+So what happened here?
+
+124
+00:11:18,460 --> 00:11:19,919
+Now a pop-up window has opened.
+
+125
+00:11:21,179 --> 00:11:23,159
+Now the student you have selected,
+
+126
+00:11:23,460 --> 00:11:24,639
+here its details are coming.
+
+127
+00:11:26,059 --> 00:11:27,200
+What did you do?
+
+128
+00:11:27,659 --> 00:11:28,299
+In which session?
+
+129
+00:11:28,519 --> 00:11:29,639
+See, it is 24-25 disabled.
+
+130
+00:11:29,740 --> 00:11:31,039
+It means you are promoting it from 24-25.
+
+131
+00:11:32,100 --> 00:11:33,539
+In which session do you want to send the student?
+
+132
+00:11:34,080 --> 00:11:34,860
+I want to send it in 25-26.
+
+133
+00:11:35,799 --> 00:11:37,080
+Which class do I want to send it in?
+
+134
+00:11:37,200 --> 00:11:38,220
+Now it is in class 1.
+
+135
+00:11:38,620 --> 00:11:40,179
+So I have to send it in class 2.
+
+136
+00:11:40,860 --> 00:11:43,320
+Class 2, stream the class 2 section.
+
+137
+00:11:43,799 --> 00:11:44,000
+This is its A.
+
+138
+00:11:44,440 --> 00:11:45,000
+Category.
+
+139
+00:11:45,919 --> 00:11:47,080
+Which category is your category?
+
+140
+00:11:47,139 --> 00:11:47,960
+All are coming for now
+
+141
+00:11:47,960 --> 00:11:49,279
+because I have not filtered the category.
+
+142
+00:11:50,320 --> 00:11:51,220
+In general category,
+
+143
+00:11:51,840 --> 00:11:53,419
+old or new, it is a natural thing.
+
+144
+00:11:54,139 --> 00:11:55,960
+There is an old student in class 1.
+
+145
+00:11:56,220 --> 00:11:57,639
+So what will be next?
+
+146
+00:11:57,759 --> 00:11:59,159
+It will be new next.
+
+147
+00:11:59,159 --> 00:12:00,379
+Sorry, it will be old.
+
+148
+00:12:00,500 --> 00:12:01,019
+In next session,
+
+149
+00:12:01,240 --> 00:12:02,200
+in upcoming session,
+
+150
+00:12:02,419 --> 00:12:02,820
+old.
+
+151
+00:12:03,080 --> 00:12:03,879
+Now see, what is this?
+
+152
+00:12:03,879 --> 00:12:04,860
+Promoted status.
+
+153
+00:12:05,039 --> 00:12:07,559
+It means the student you want to promote,
+
+154
+00:12:07,799 --> 00:12:08,840
+how to do it?
+
+155
+00:12:08,840 --> 00:12:09,659
+These are the two options.
+
+156
+00:12:09,980 --> 00:12:11,340
+It impacts your fees.
+
+157
+00:12:12,740 --> 00:12:13,980
+Simple promote means
+
+158
+00:12:13,980 --> 00:12:14,820
+in this session,
+
+159
+00:12:15,639 --> 00:12:17,039
+all the dues of the student,
+
+160
+00:12:17,240 --> 00:12:18,299
+they will remain till this session.
+
+161
+00:12:18,700 --> 00:12:19,960
+They will not go in next session.
+
+162
+00:12:22,470 --> 00:12:23,690
+Promoted with dues means
+
+163
+00:12:23,690 --> 00:12:24,789
+if in this session,
+
+164
+00:12:25,450 --> 00:12:26,750
+any dues of the student is pending,
+
+165
+00:12:27,370 --> 00:12:28,570
+then in the upcoming session,
+
+166
+00:12:28,730 --> 00:12:29,809
+in which you are promoting it,
+
+167
+00:12:30,769 --> 00:12:32,110
+those dues will go away.
+
+168
+00:12:34,929 --> 00:12:36,769
+If there are any queries in these two points,
+
+169
+00:12:37,049 --> 00:12:37,730
+then you can ask.
+
+170
+00:12:38,529 --> 00:12:39,129
+Do you want to repeat?
+
+171
+00:12:39,730 --> 00:12:40,450
+Can I repeat?
+
+172
+00:12:44,419 --> 00:12:46,320
+No, ma'am.
+
+173
+00:12:46,600 --> 00:12:46,940
+Okay.
+
+174
+00:12:46,940 --> 00:12:47,259
+It is very simple.
+
+175
+00:12:47,299 --> 00:12:48,220
+No, ma'am.
+
+176
+00:12:48,340 --> 00:12:48,659
+Okay.
+
+177
+00:12:48,860 --> 00:12:51,240
+So, you have to promote a student like me.
+
+178
+00:12:51,440 --> 00:12:52,259
+It means,
+
+179
+00:12:52,460 --> 00:12:53,120
+if in this session,
+
+180
+00:12:53,600 --> 00:12:54,419
+any dues are pending,
+
+181
+00:12:54,580 --> 00:12:55,399
+which he has not paid,
+
+182
+00:12:55,559 --> 00:12:56,600
+then they will remain till this session.
+
+183
+00:12:57,240 --> 00:12:58,460
+They will not go in next.
+
+184
+00:12:58,460 --> 00:12:58,820
+Okay.
+
+185
+00:12:59,100 --> 00:12:59,919
+This will always
+
+186
+00:12:59,919 --> 00:13:01,240
+be confirmed by the client.
+
+187
+00:13:02,039 --> 00:13:02,320
+It means,
+
+188
+00:13:02,620 --> 00:13:04,120
+the entity that you have,
+
+189
+00:13:04,159 --> 00:13:05,460
+it will confirm you,
+
+190
+00:13:05,720 --> 00:13:06,480
+whether you have to get them
+
+191
+00:13:06,480 --> 00:13:07,460
+promoted or not.
+
+192
+00:13:08,080 --> 00:13:09,279
+We do all this by confirming.
+
+193
+00:13:10,019 --> 00:13:10,580
+Okay.
+
+194
+00:13:10,919 --> 00:13:12,700
+Just like in our
+
+195
+00:13:13,779 --> 00:13:15,019
+the height and weight,
+
+196
+00:13:15,240 --> 00:13:15,919
+as we were doing yesterday,
+
+197
+00:13:16,259 --> 00:13:17,360
+if we do not have height and weight
+
+198
+00:13:18,340 --> 00:13:19,220
+registered in this,
+
+199
+00:13:19,220 --> 00:13:21,279
+then we cannot assign it.
+
+200
+00:13:22,179 --> 00:13:22,240
+No.
+
+201
+00:13:22,779 --> 00:13:23,740
+height and weight is not your job
+
+202
+00:13:23,740 --> 00:13:24,460
+to assign it.
+
+203
+00:13:24,779 --> 00:13:25,840
+That was just a reason.
+
+204
+00:13:26,200 --> 00:13:27,879
+It is always the teachers
+
+205
+00:13:27,879 --> 00:13:28,159
+of the institute
+
+206
+00:13:28,159 --> 00:13:29,539
+who do the update.
+
+207
+00:13:30,240 --> 00:13:31,200
+You should know the option
+
+208
+00:13:31,200 --> 00:13:32,320
+from which it is done.
+
+209
+00:13:33,080 --> 00:13:33,679
+It means,
+
+210
+00:13:34,059 --> 00:13:35,200
+we have the option
+
+211
+00:13:35,779 --> 00:13:37,379
+if we...
+
+212
+00:13:37,379 --> 00:13:37,580
+Yes.
+
+213
+00:13:38,179 --> 00:13:38,679
+It means,
+
+214
+00:13:38,899 --> 00:13:39,600
+you can do it if you want,
+
+215
+00:13:39,820 --> 00:13:40,899
+but it is not your job.
+
+216
+00:13:41,080 --> 00:13:41,580
+You just
+
+217
+00:13:41,580 --> 00:13:42,360
+should know
+
+218
+00:13:42,360 --> 00:13:42,779
+what is happening
+
+219
+00:13:42,779 --> 00:13:43,620
+from where
+
+220
+00:13:44,159 --> 00:13:45,039
+so that you can
+
+221
+00:13:45,039 --> 00:13:46,399
+guide the person
+
+222
+00:13:46,399 --> 00:13:46,679
+of the institute.
+
+223
+00:13:48,279 --> 00:13:48,419
+So,
+
+224
+00:13:48,419 --> 00:13:49,779
+if the student is promoted
+
+225
+00:13:50,639 --> 00:13:51,200
+then this student
+
+226
+00:13:51,620 --> 00:13:52,120
+will come to you
+
+227
+00:13:52,120 --> 00:13:53,139
+with a message
+
+228
+00:13:53,139 --> 00:13:54,580
+that the student
+
+229
+00:13:54,580 --> 00:13:55,240
+that I selected
+
+230
+00:13:55,240 --> 00:13:56,620
+has been updated.
+
+231
+00:13:56,899 --> 00:13:57,759
+Skip Re-updated
+
+232
+00:13:57,759 --> 00:13:58,059
+is zero.
+
+233
+00:13:58,559 --> 00:13:59,559
+Skip means
+
+234
+00:13:59,559 --> 00:14:00,720
+it will not update.
+
+235
+00:14:01,000 --> 00:14:01,059
+Okay.
+
+236
+00:14:02,039 --> 00:14:03,580
+This can be a way
+
+237
+00:14:03,580 --> 00:14:04,419
+of skipping.
+
+238
+00:14:04,559 --> 00:14:05,759
+What can be the reason
+
+239
+00:14:06,080 --> 00:14:07,460
+In case
+
+240
+00:14:07,460 --> 00:14:07,559
+the class in which
+
+241
+00:14:07,559 --> 00:14:08,639
+you are promoting
+
+242
+00:14:08,639 --> 00:14:08,720
+the student,
+
+243
+00:14:09,179 --> 00:14:09,860
+its fee structure
+
+244
+00:14:09,860 --> 00:14:10,139
+is not ready.
+
+245
+00:14:11,639 --> 00:14:12,039
+So, it will skip.
+
+246
+00:14:12,820 --> 00:14:12,879
+Now,
+
+247
+00:14:13,039 --> 00:14:13,960
+as I promoted,
+
+248
+00:14:14,399 --> 00:14:15,220
+here the promoted
+
+249
+00:14:15,220 --> 00:14:15,899
+status came
+
+250
+00:14:15,899 --> 00:14:16,740
+that the student
+
+251
+00:14:16,740 --> 00:14:17,539
+has been promoted.
+
+252
+00:14:20,149 --> 00:14:21,370
+This is our
+
+253
+00:14:21,370 --> 00:14:21,889
+way to manually
+
+254
+00:14:21,889 --> 00:14:22,549
+promote.
+
+255
+00:14:24,429 --> 00:14:24,710
+Okay.
+
+256
+00:14:25,269 --> 00:14:25,529
+Rest,
+
+257
+00:14:25,629 --> 00:14:26,309
+we have bulk.
+
+258
+00:14:26,730 --> 00:14:27,210
+We can also
+
+259
+00:14:27,210 --> 00:14:27,850
+give this to the institute.
+
+260
+00:14:28,710 --> 00:14:29,509
+It depends.
+
+261
+00:14:29,769 --> 00:14:30,289
+The institute
+
+262
+00:14:30,809 --> 00:14:31,350
+promotes at its end
+
+263
+00:14:31,350 --> 00:14:34,009
+or you have to
+
+264
+00:14:34,009 --> 00:14:34,509
+promote once
+
+265
+00:14:34,509 --> 00:14:35,509
+and use the option.
+
+266
+00:14:36,610 --> 00:14:37,629
+Any query
+
+267
+00:14:38,470 --> 00:14:39,450
+Ma'am,
+
+268
+00:14:39,830 --> 00:14:40,429
+can you tell
+
+269
+00:14:40,429 --> 00:14:41,250
+the meaning
+
+270
+00:14:41,250 --> 00:14:41,330
+of the word
+
+271
+00:14:41,330 --> 00:14:41,350
+skip?
+
+272
+00:14:41,350 --> 00:14:41,730
+What should I tell?
+
+273
+00:14:43,179 --> 00:14:43,740
+What should I tell?
+
+274
+00:14:44,659 --> 00:14:45,080
+Skip.
+
+275
+00:14:45,799 --> 00:14:46,320
+Okay.
+
+276
+00:14:48,179 --> 00:14:49,580
+When you are promoting,
+
+277
+00:14:50,299 --> 00:14:50,840
+okay.
+
+278
+00:14:51,279 --> 00:14:51,980
+You promoted.
+
+279
+00:14:52,139 --> 00:14:52,519
+In the promote,
+
+280
+00:14:53,029 --> 00:14:54,039
+you had one success.
+
+281
+00:14:54,240 --> 00:14:54,740
+It was promoted.
+
+282
+00:14:54,940 --> 00:14:55,720
+Skip means
+
+283
+00:14:55,720 --> 00:14:56,220
+it skipped.
+
+284
+00:14:56,419 --> 00:14:57,059
+It did not promote.
+
+285
+00:14:57,820 --> 00:14:58,139
+Okay.
+
+286
+00:14:58,360 --> 00:14:58,539
+So,
+
+287
+00:14:58,539 --> 00:14:58,940
+it will give you
+
+288
+00:14:58,940 --> 00:14:59,720
+an error file
+
+289
+00:14:59,720 --> 00:15:00,259
+or a reason
+
+290
+00:15:00,259 --> 00:15:00,799
+generated.
+
+291
+00:15:01,039 --> 00:15:01,559
+Like now,
+
+292
+00:15:01,620 --> 00:15:02,039
+Govind told
+
+293
+00:15:02,039 --> 00:15:03,080
+that he was adding
+
+294
+00:15:03,279 --> 00:15:03,480
+So,
+
+295
+00:15:03,600 --> 00:15:06,580
+it will give you
+
+296
+00:15:06,580 --> 00:15:07,039
+an error
+
+297
+00:15:07,389 --> 00:15:08,840
+when you are
+
+298
+00:15:09,259 --> 00:15:10,500
+In the case
+
+299
+00:15:10,500 --> 00:15:10,919
+of skip.
+
+300
+00:15:10,919 --> 00:15:11,940
+What can be
+
+301
+00:15:12,340 --> 00:15:12,720
+It will say
+
+302
+00:15:12,720 --> 00:15:13,980
+fee group note found.
+
+303
+00:15:14,559 --> 00:15:15,120
+It means
+
+304
+00:15:15,120 --> 00:15:15,700
+the class
+
+305
+00:15:15,700 --> 00:15:15,820
+in which
+
+306
+00:15:15,820 --> 00:15:16,779
+you are promoting
+
+307
+00:15:16,779 --> 00:15:17,000
+the student
+
+308
+00:15:17,000 --> 00:15:18,279
+does not have
+
+309
+00:15:18,279 --> 00:15:19,059
+a fee structure.
+
+310
+00:15:20,039 --> 00:15:20,659
+The session
+
+311
+00:15:20,659 --> 00:15:20,879
+in which
+
+312
+00:15:20,879 --> 00:15:21,440
+you are promoting
+
+313
+00:15:21,440 --> 00:15:22,100
+for example,
+
+314
+00:15:22,340 --> 00:15:22,840
+this student
+
+315
+00:15:22,840 --> 00:15:23,539
+in class 2.
+
+316
+00:15:24,740 --> 00:15:26,419
+I did not
+
+317
+00:15:26,419 --> 00:15:28,100
+in class 2.
+
+318
+00:15:29,899 --> 00:15:30,000
+So,
+
+319
+00:15:30,000 --> 00:15:30,299
+the student
+
+320
+00:15:30,299 --> 00:15:31,000
+be promoted.
+
+321
+00:15:32,490 --> 00:15:33,269
+This can be
+
+322
+00:15:33,269 --> 00:15:34,129
+of your skip.
+
+323
+00:15:35,320 --> 00:15:35,580
+Okay.
+
+324
+00:15:36,340 --> 00:15:36,440
+Okay.
+
+325
+00:15:36,440 --> 00:15:37,139
+Apart from that,
+
+326
+00:15:37,320 --> 00:15:38,179
+there was an updated.
+
+327
+00:15:38,379 --> 00:15:39,259
+Updated means
+
+328
+00:15:39,259 --> 00:15:40,039
+for example,
+
+329
+00:15:40,179 --> 00:15:41,200
+I have promoted
+
+330
+00:15:41,200 --> 00:15:41,360
+it before.
+
+331
+00:15:42,120 --> 00:15:42,379
+Okay.
+
+332
+00:15:42,440 --> 00:15:43,360
+I am changing it.
+
+333
+00:15:43,639 --> 00:15:45,539
+I am promoting
+
+334
+00:15:45,539 --> 00:15:46,019
+It will show you
+
+335
+00:15:46,019 --> 00:15:46,559
+updated.
+
+336
+00:15:48,330 --> 00:15:48,710
+Okay.
+
+337
+00:15:48,850 --> 00:15:49,750
+On the existing record,
+
+338
+00:15:50,269 --> 00:15:50,350
+if we do
+
+339
+00:15:50,350 --> 00:15:51,370
+any rework again,
+
+340
+00:15:51,529 --> 00:15:52,149
+it will be updated.
+
+341
+00:15:53,419 --> 00:15:53,799
+Okay.
+
+342
+00:15:54,100 --> 00:15:54,460
+Similarly,
+
+343
+00:15:54,580 --> 00:15:55,700
+I can also
+
+344
+00:15:57,080 --> 00:15:57,960
+do
+
+345
+00:15:57,960 --> 00:15:58,559
+promotion.
+
+346
+00:15:58,919 --> 00:15:59,059
+So,
+
+347
+00:15:59,240 --> 00:15:59,639
+this was
+
+348
+00:15:59,639 --> 00:16:00,120
+the way
+
+349
+00:16:00,120 --> 00:16:00,600
+to promote
+
+350
+00:16:00,600 --> 00:16:02,019
+in the student
+
+351
+00:16:02,019 --> 00:16:02,399
+session.
+
+352
+00:16:04,179 --> 00:16:05,320
+Like we
+
+353
+00:16:05,320 --> 00:16:06,360
+promoted
+
+354
+00:16:06,360 --> 00:16:06,740
+in the next
+
+355
+00:16:06,740 --> 00:16:07,059
+session
+
+356
+00:16:07,059 --> 00:16:08,179
+in 25-26.
+
+357
+00:16:09,539 --> 00:16:10,080
+And
+
+358
+00:16:10,080 --> 00:16:11,379
+due to any case
+
+359
+00:16:11,379 --> 00:16:11,960
+the school
+
+360
+00:16:11,960 --> 00:16:12,580
+left.
+
+361
+00:16:13,100 --> 00:16:13,440
+Okay.
+
+362
+00:16:14,000 --> 00:16:14,379
+Okay.
+
+363
+00:16:14,720 --> 00:16:15,159
+So,
+
+364
+00:16:15,159 --> 00:16:15,840
+in 25-26,
+
+365
+00:16:16,059 --> 00:16:16,639
+inactive
+
+366
+00:16:16,639 --> 00:16:17,399
+or
+
+367
+00:16:17,399 --> 00:16:18,279
+how?
+
+368
+00:16:18,779 --> 00:16:19,220
+Yes.
+
+369
+00:16:19,220 --> 00:16:20,539
+Inactive
+
+370
+00:16:20,539 --> 00:16:20,620
+it can be
+
+371
+00:16:20,620 --> 00:16:21,139
+the case
+
+372
+00:16:21,139 --> 00:16:22,399
+that
+
+373
+00:16:22,399 --> 00:16:24,000
+the institute
+
+374
+00:16:24,000 --> 00:16:24,840
+found out
+
+375
+00:16:24,840 --> 00:16:24,860
+it.
+
+376
+00:16:25,360 --> 00:16:25,460
+Like
+
+377
+00:16:25,460 --> 00:16:26,460
+April 25,
+
+378
+00:16:26,779 --> 00:16:27,100
+the institute
+
+379
+00:16:27,100 --> 00:16:27,419
+found out
+
+380
+00:16:27,419 --> 00:16:27,659
+before
+
+381
+00:16:30,259 --> 00:16:30,320
+So,
+
+382
+00:16:30,480 --> 00:16:30,580
+if
+
+383
+00:16:30,580 --> 00:16:30,980
+it was inactive,
+
+384
+00:16:31,299 --> 00:16:31,600
+it will not
+
+385
+00:16:31,600 --> 00:16:32,100
+promote
+
+386
+00:16:34,360 --> 00:16:34,740
+If
+
+387
+00:16:34,740 --> 00:16:35,159
+is inactive
+
+388
+00:16:35,159 --> 00:16:36,139
+in 25-26,
+
+389
+00:16:36,240 --> 00:16:41,620
+then it will not
+
+390
+00:16:42,269 --> 00:16:42,529
+Okay.
+
+391
+00:16:42,990 --> 00:16:43,269
+And then
+
+392
+00:16:43,269 --> 00:16:43,889
+second case
+
+393
+00:16:43,889 --> 00:16:44,409
+till then
+
+394
+00:16:44,409 --> 00:16:44,710
+it was
+
+395
+00:16:44,710 --> 00:16:45,110
+available.
+
+396
+00:16:45,389 --> 00:16:45,470
+Then
+
+397
+00:16:45,470 --> 00:16:46,049
+they found out
+
+398
+00:16:46,049 --> 00:16:46,769
+in 25-26,
+
+399
+00:16:47,070 --> 00:16:47,730
+after promoting
+
+400
+00:16:47,730 --> 00:16:48,370
+the child
+
+401
+00:16:48,370 --> 00:16:48,990
+became inactive.
+
+402
+00:16:49,889 --> 00:16:50,009
+Okay.
+
+403
+00:16:50,549 --> 00:16:51,210
+Then you can
+
+404
+00:16:51,210 --> 00:16:51,710
+inactive it
+
+405
+00:16:51,710 --> 00:16:52,669
+in 25-26.
+
+406
+00:16:54,110 --> 00:16:54,529
+Okay.
+
+407
+00:16:57,279 --> 00:16:58,179
+In short,
+
+408
+00:16:58,899 --> 00:16:59,100
+if
+
+409
+00:16:59,100 --> 00:16:59,419
+a student
+
+410
+00:16:59,419 --> 00:16:59,919
+is inactive
+
+411
+00:17:00,320 --> 00:17:01,340
+then it cannot
+
+412
+00:17:01,340 --> 00:17:01,500
+promote
+
+413
+00:17:01,500 --> 00:17:02,100
+in 25-26.
+
+414
+00:17:02,220 --> 00:17:02,360
+It will
+
+415
+00:17:02,360 --> 00:17:02,940
+say that
+
+416
+00:17:02,940 --> 00:17:03,179
+the student
+
+417
+00:17:03,179 --> 00:17:03,559
+is inactive
+
+418
+00:17:03,559 --> 00:17:04,480
+in 25-26.
+
+419
+00:17:05,240 --> 00:17:05,359
+Okay.
+
+420
+00:17:05,519 --> 00:17:06,440
+This was
+
+421
+00:17:06,440 --> 00:17:06,599
+your
+
+422
+00:17:06,599 --> 00:17:06,880
+manual
+
+423
+00:17:06,880 --> 00:17:07,299
+promotion.
+
+424
+00:17:08,460 --> 00:17:09,000
+Any other
+
+425
+00:17:09,000 --> 00:17:09,440
+query?
+
+426
+00:17:13,069 --> 00:17:13,589
+Okay.
+
+427
+00:17:13,589 --> 00:17:14,009
+Let's go ahead.
+
+428
+00:17:14,609 --> 00:17:14,730
+Now
+
+429
+00:17:14,730 --> 00:17:15,309
+we have
+
+430
+00:17:15,309 --> 00:17:15,670
+bulk
+
+431
+00:17:15,670 --> 00:17:15,950
+promote.
+
+432
+00:17:16,230 --> 00:17:16,950
+The most
+
+433
+00:17:17,990 --> 00:17:18,750
+useable
+
+434
+00:17:18,750 --> 00:17:19,089
+is
+
+435
+00:17:19,089 --> 00:17:19,730
+bulk
+
+436
+00:17:19,730 --> 00:17:20,029
+promote.
+
+437
+00:17:20,190 --> 00:17:20,670
+Because
+
+438
+00:17:20,670 --> 00:17:21,269
+hardly
+
+439
+00:17:21,269 --> 00:17:21,630
+you
+
+440
+00:17:21,630 --> 00:17:22,490
+5-10
+
+441
+00:17:22,490 --> 00:17:22,950
+minutes
+
+442
+00:17:22,950 --> 00:17:23,549
+if
+
+443
+00:17:23,549 --> 00:17:23,890
+your
+
+444
+00:17:23,890 --> 00:17:24,170
+config
+
+445
+00:17:24,170 --> 00:17:24,369
+ready.
+
+446
+00:17:25,190 --> 00:17:25,509
+Okay.
+
+447
+00:17:26,210 --> 00:17:27,309
+your time
+
+448
+00:17:27,309 --> 00:17:27,809
+is consumed.
+
+449
+00:17:28,589 --> 00:17:28,730
+So
+
+450
+00:17:28,730 --> 00:17:30,230
+the major
+
+451
+00:17:30,230 --> 00:17:30,970
+useable
+
+452
+00:17:30,970 --> 00:17:31,589
+bulk
+
+453
+00:17:31,589 --> 00:17:31,829
+promote.
+
+454
+00:17:32,390 --> 00:17:32,509
+Okay.
+
+455
+00:17:32,910 --> 00:17:32,970
+To
+
+456
+00:17:32,970 --> 00:17:33,230
+bulk
+
+457
+00:17:33,230 --> 00:17:33,569
+promote
+
+458
+00:17:33,569 --> 00:17:34,589
+your
+
+459
+00:17:34,589 --> 00:17:35,250
+option
+
+460
+00:17:35,250 --> 00:17:35,890
+is
+
+461
+00:17:35,890 --> 00:17:36,069
+used.
+
+462
+00:17:36,250 --> 00:17:36,750
+But
+
+463
+00:17:36,750 --> 00:17:37,309
+before
+
+464
+00:17:37,309 --> 00:17:37,970
+we
+
+465
+00:17:37,970 --> 00:17:38,470
+have
+
+466
+00:17:38,470 --> 00:17:38,730
+a
+
+467
+00:17:38,730 --> 00:17:39,250
+config
+
+468
+00:17:53,640 --> 00:17:54,640
+of
+
+469
+00:17:54,799 --> 00:17:54,819
+student
+
+470
+00:17:54,819 --> 00:17:55,819
+session
+
+471
+00:17:56,420 --> 00:17:57,220
+management.
+
+472
+00:17:57,819 --> 00:17:58,000
+Here
+
+473
+00:17:58,000 --> 00:17:58,579
+your
+
+474
+00:17:58,579 --> 00:17:58,920
+student
+
+475
+00:17:58,920 --> 00:17:59,240
+session
+
+476
+00:17:59,240 --> 00:17:59,779
+management
+
+477
+00:17:59,779 --> 00:18:00,420
+config
+
+478
+00:18:00,420 --> 00:18:00,880
+is
+
+479
+00:18:01,079 --> 00:18:01,380
+So
+
+480
+00:18:01,380 --> 00:18:02,240
+you can
+
+481
+00:18:02,240 --> 00:18:02,259
+use
+
+482
+00:18:02,259 --> 00:18:02,660
+promote
+
+483
+00:18:02,660 --> 00:18:03,359
+all
+
+484
+00:18:03,359 --> 00:18:04,140
+options
+
+485
+00:18:04,140 --> 00:18:04,819
+and
+
+486
+00:18:04,819 --> 00:18:05,579
+students
+
+487
+00:18:05,579 --> 00:18:06,720
+in
+
+488
+00:18:06,720 --> 00:18:07,079
+bulk
+
+489
+00:18:07,079 --> 00:18:07,480
+time
+
+490
+00:18:07,480 --> 00:18:08,700
+in
+
+491
+00:18:08,700 --> 00:18:09,160
+upcoming
+
+492
+00:18:09,160 --> 00:18:09,579
+session.
+
+493
+00:18:11,329 --> 00:18:11,349
+Okay.
+
+494
+00:18:11,349 --> 00:18:12,069
+When
+
+495
+00:18:12,069 --> 00:18:12,869
+you click on
+
+496
+00:18:12,869 --> 00:18:13,049
+this
+
+497
+00:18:13,049 --> 00:18:14,150
+window will
+
+498
+00:18:14,150 --> 00:18:14,609
+open.
+
+499
+00:18:15,150 --> 00:18:15,589
+Then
+
+500
+00:18:15,589 --> 00:18:16,089
+you
+
+501
+00:18:16,089 --> 00:18:16,230
+have to
+
+502
+00:18:16,230 --> 00:18:16,390
+make a
+
+503
+00:18:16,390 --> 00:18:16,609
+config.
+
+504
+00:18:17,029 --> 00:18:17,089
+To
+
+505
+00:18:17,089 --> 00:18:17,950
+make a
+
+506
+00:18:17,950 --> 00:18:18,930
+new
+
+507
+00:18:18,930 --> 00:18:19,450
+student
+
+508
+00:18:19,450 --> 00:18:19,809
+session
+
+509
+00:18:19,809 --> 00:18:20,349
+management.
+
+510
+00:18:22,880 --> 00:18:23,220
+Now
+
+511
+00:18:23,220 --> 00:18:23,339
+have
+
+512
+00:18:23,339 --> 00:18:23,799
+different
+
+513
+00:18:23,799 --> 00:18:24,220
+options.
+
+514
+00:18:24,920 --> 00:18:25,380
+What
+
+515
+00:18:25,380 --> 00:18:25,420
+I
+
+516
+00:18:25,420 --> 00:18:25,839
+want to
+
+517
+00:18:25,839 --> 00:18:26,500
+is
+
+518
+00:18:26,500 --> 00:18:27,680
+promote
+
+519
+00:18:27,680 --> 00:18:28,099
+if
+
+520
+00:18:28,099 --> 00:18:28,380
+you
+
+521
+00:18:28,380 --> 00:18:28,680
+nursery
+
+522
+00:18:28,680 --> 00:18:29,180
+class
+
+523
+00:18:29,180 --> 00:18:29,980
+student
+
+524
+00:18:29,980 --> 00:18:30,960
+okay.
+
+525
+00:18:31,559 --> 00:18:32,559
+Nursery
+
+526
+00:18:33,359 --> 00:18:33,900
+batch
+
+527
+00:18:33,900 --> 00:18:34,500
+batch
+
+528
+00:18:34,500 --> 00:18:34,960
+is
+
+529
+00:18:34,960 --> 00:18:36,339
+any
+
+530
+00:18:38,430 --> 00:18:39,430
+category
+
+531
+00:18:40,130 --> 00:18:40,609
+category
+
+532
+00:18:40,609 --> 00:18:41,250
+general
+
+533
+00:18:41,250 --> 00:18:41,670
+RT
+
+534
+00:18:41,670 --> 00:18:43,369
+134A
+
+535
+00:18:43,369 --> 00:18:43,650
+old
+
+536
+00:18:43,650 --> 00:18:43,890
+new
+
+537
+00:18:43,890 --> 00:18:44,289
+any
+
+538
+00:18:44,289 --> 00:18:44,730
+student
+
+539
+00:18:44,730 --> 00:18:45,349
+in
+
+540
+00:18:45,349 --> 00:18:45,549
+this
+
+541
+00:18:45,549 --> 00:18:46,109
+session
+
+542
+00:18:46,109 --> 00:18:46,670
+24
+
+543
+00:18:46,670 --> 00:18:47,069
+25
+
+544
+00:18:47,069 --> 00:18:47,509
+whether
+
+545
+00:18:47,509 --> 00:18:47,609
+it
+
+546
+00:18:47,609 --> 00:18:47,710
+is
+
+547
+00:18:47,710 --> 00:18:48,150
+old
+
+548
+00:18:48,150 --> 00:18:48,890
+or
+
+549
+00:18:48,890 --> 00:18:49,369
+new
+
+550
+00:18:49,369 --> 00:18:49,529
+in
+
+551
+00:18:49,529 --> 00:18:49,890
+upcoming
+
+552
+00:18:49,890 --> 00:18:50,289
+session
+
+553
+00:18:50,289 --> 00:18:50,309
+will
+
+554
+00:18:50,309 --> 00:18:50,950
+be
+
+555
+00:18:50,950 --> 00:18:51,309
+old
+
+556
+00:18:51,309 --> 00:18:51,609
+or
+
+557
+00:18:51,609 --> 00:18:52,690
+new
+
+558
+00:19:01,680 --> 00:19:02,440
+in
+
+559
+00:19:02,440 --> 00:19:03,180
+session
+
+560
+00:19:08,799 --> 00:19:09,180
+will
+
+561
+00:19:09,559 --> 00:19:09,579
+be
+
+562
+00:19:09,579 --> 00:19:09,599
+old
+
+563
+00:19:09,599 --> 00:19:09,619
+or
+
+564
+00:19:09,619 --> 00:19:10,299
+new
+
+565
+00:19:10,299 --> 00:19:11,680
+in
+
+566
+00:19:13,539 --> 00:19:13,920
+upcoming
+
+567
+00:19:16,380 --> 00:19:17,140
+session
+
+568
+00:19:17,140 --> 00:19:17,160
+will
+
+569
+00:19:17,160 --> 00:19:17,180
+be
+
+570
+00:19:17,180 --> 00:19:17,200
+old
+
+571
+00:19:17,200 --> 00:19:17,220
+or
+
+572
+00:19:26,450 --> 00:19:27,130
+new
+
+573
+00:19:35,490 --> 00:19:36,170
+in
+
+574
+00:19:36,170 --> 00:19:36,490
+session
+
+575
+00:19:36,490 --> 00:19:36,890
+will
+
+576
+00:19:39,420 --> 00:19:40,099
+be
+
+577
+00:19:40,099 --> 00:19:41,440
+old
+
+578
+00:19:43,140 --> 00:19:43,160
+this
+
+579
+00:19:43,160 --> 00:19:43,500
+session
+
+580
+00:19:48,380 --> 00:19:49,059
+will
+
+581
+00:19:49,059 --> 00:19:49,220
+be
+
+582
+00:19:49,220 --> 00:19:49,359
+old
+
+583
+00:19:49,359 --> 00:19:50,000
+new
+
+584
+00:19:50,000 --> 00:19:50,140
+this
+
+585
+00:19:50,140 --> 00:19:50,420
+be
+
+586
+00:19:50,420 --> 00:19:50,759
+old
+
+587
+00:19:50,759 --> 00:19:56,210
+Yeah, same means, same categories.
+
+588
+00:19:58,519 --> 00:20:01,880
+Let's say I want to combine the A and B sections.
+
+589
+00:20:02,380 --> 00:20:03,960
+I want the A to be combined in LKG.
+
+590
+00:20:05,180 --> 00:20:07,160
+You mean you want to combine A and B?
+
+591
+00:20:07,980 --> 00:20:08,799
+Yes.
+
+592
+00:20:09,500 --> 00:20:11,559
+You know what happens?
+
+593
+00:20:12,000 --> 00:20:14,240
+You are saying that A and B should be combined.
+
+594
+00:20:14,940 --> 00:20:17,160
+Let's confirm this from the institute first.
+
+595
+00:20:17,579 --> 00:20:23,619
+In normal cases, A students go to A, B to B in the next class.
+
+596
+00:20:24,980 --> 00:20:27,180
+You can create a section in the institute.
+
+597
+00:20:27,619 --> 00:20:29,759
+If you don't do it, it will be compiled and come to A.
+
+598
+00:20:32,970 --> 00:20:36,250
+This will be compiled and come to A.
+
+599
+00:20:36,490 --> 00:20:38,130
+The main purpose is that while creating,
+
+600
+00:20:39,529 --> 00:20:42,269
+you have to make sure that the drop-down of your section
+
+601
+00:20:42,269 --> 00:20:44,730
+is checked once.
+
+602
+00:20:44,730 --> 00:20:48,690
+It should not be that there is one, two or three,
+
+603
+00:20:48,730 --> 00:20:51,349
+there is only one, there are four, there are three,
+
+604
+00:20:51,349 --> 00:20:52,490
+like this.
+
+605
+00:20:52,980 --> 00:20:55,279
+If there is no problem from their side,
+
+606
+00:20:55,599 --> 00:20:56,900
+then we can do it.
+
+607
+00:20:57,420 --> 00:20:59,460
+But let's keep this in the institute's confirmation.
+
+608
+00:21:02,789 --> 00:21:06,069
+After that, what will be here?
+
+609
+00:21:06,170 --> 00:21:07,009
+Your old will be here.
+
+610
+00:21:07,089 --> 00:21:08,309
+It will never be the same here.
+
+611
+00:21:11,019 --> 00:21:12,099
+It will always be old.
+
+612
+00:21:14,730 --> 00:21:16,829
+Because the student in your nursery,
+
+613
+00:21:16,829 --> 00:21:18,329
+whether it is old or new,
+
+614
+00:21:18,329 --> 00:21:19,950
+in the next session, it will always be old
+
+615
+00:21:19,950 --> 00:21:20,789
+that you will promote.
+
+616
+00:21:22,500 --> 00:21:24,240
+That's why here you will have
+
+617
+00:21:24,240 --> 00:21:26,880
+what you are promoting in the next class,
+
+618
+00:21:26,980 --> 00:21:27,539
+that is old.
+
+619
+00:21:27,960 --> 00:21:30,299
+Then same here is the promoted status,
+
+620
+00:21:30,559 --> 00:21:32,220
+that you have to promote the student,
+
+621
+00:21:32,960 --> 00:21:35,000
+that is with dues or without dues.
+
+622
+00:21:36,359 --> 00:21:38,220
+If I tell you, in normal cases,
+
+623
+00:21:38,619 --> 00:21:39,519
+which we have schools,
+
+624
+00:21:40,339 --> 00:21:41,119
+in the case of schools,
+
+625
+00:21:41,440 --> 00:21:43,160
+we use the option of the most promoted with dues.
+
+626
+00:21:43,160 --> 00:21:43,700
+We use the same option.
+
+627
+00:21:44,279 --> 00:21:45,259
+Because the school students,
+
+628
+00:21:45,539 --> 00:21:47,000
+if they have previous dues,
+
+629
+00:21:47,319 --> 00:21:48,319
+they take it in the upcoming session
+
+630
+00:21:48,319 --> 00:21:49,819
+as a previous due.
+
+631
+00:21:51,200 --> 00:21:52,680
+But in the case of colleges,
+
+632
+00:21:53,019 --> 00:21:54,160
+our simple promote is used.
+
+633
+00:21:55,920 --> 00:21:57,359
+For now, I am using simple promote.
+
+634
+00:21:58,440 --> 00:22:00,440
+If I add, then my config has been added.
+
+635
+00:22:02,369 --> 00:22:03,950
+In this way, we have to prepare
+
+636
+00:22:03,950 --> 00:22:05,009
+the config of all classes.
+
+637
+00:22:06,250 --> 00:22:07,210
+Like I made nursery,
+
+638
+00:22:07,970 --> 00:22:09,450
+like this I can make LKG, UKG,
+
+639
+00:22:09,470 --> 00:22:10,470
+in all classes.
+
+640
+00:22:10,470 --> 00:22:12,589
+For now, I am making only class 1.
+
+641
+00:22:14,269 --> 00:22:15,289
+Because in our class 1,
+
+642
+00:22:15,329 --> 00:22:16,109
+there were students.
+
+643
+00:22:20,880 --> 00:22:24,109
+Ma'am, like in class 1,
+
+644
+00:22:24,210 --> 00:22:25,089
+there are 30 students
+
+645
+00:22:25,089 --> 00:22:26,529
+in section A.
+
+646
+00:22:27,309 --> 00:22:28,089
+We have to promote
+
+647
+00:22:28,089 --> 00:22:29,789
+section 1, 5 students, section 2.
+
+648
+00:22:31,210 --> 00:22:32,950
+We have to promote in class 2.
+
+649
+00:22:33,490 --> 00:22:34,990
+Is it done manually
+
+650
+00:22:34,990 --> 00:22:37,089
+or is there something
+
+651
+00:22:37,089 --> 00:22:37,490
+for use?
+
+652
+00:22:38,109 --> 00:22:39,470
+You can do it with config.
+
+653
+00:22:39,829 --> 00:22:41,069
+Do you know what is the basic purpose?
+
+654
+00:22:41,069 --> 00:22:42,849
+So that your extra config
+
+655
+00:22:42,849 --> 00:22:44,710
+is not made in that case.
+
+656
+00:22:45,099 --> 00:22:45,480
+Like you have to promote
+
+657
+00:22:45,480 --> 00:22:46,380
+one section of class 1
+
+658
+00:22:46,380 --> 00:22:47,740
+in class 2.
+
+659
+00:22:48,859 --> 00:22:50,099
+Select that section and do it.
+
+660
+00:22:50,180 --> 00:22:51,900
+For example, there are 3-4 sections here.
+
+661
+00:22:52,519 --> 00:22:54,200
+Ma'am, out of 30 students,
+
+662
+00:22:54,700 --> 00:22:55,819
+we have to use some section of students.
+
+663
+00:22:56,200 --> 00:22:58,640
+Then you have to use the manual one.
+
+664
+00:23:00,220 --> 00:23:01,700
+You also have the option in manual.
+
+665
+00:23:01,859 --> 00:23:03,779
+You can filter it and select it together.
+
+666
+00:23:05,529 --> 00:23:06,710
+You can use the manual one.
+
+667
+00:23:07,309 --> 00:23:08,490
+This option will be used.
+
+668
+00:23:08,490 --> 00:23:10,170
+The class you are making config
+
+669
+00:23:10,170 --> 00:23:12,690
+will impact all the students of that class.
+
+670
+00:23:12,769 --> 00:23:13,529
+This is the bulk option.
+
+671
+00:23:17,890 --> 00:23:19,609
+I have made 2 classes for now.
+
+672
+00:23:20,089 --> 00:23:22,150
+In this way, all classes
+
+673
+00:23:22,150 --> 00:23:23,009
+will be created.
+
+674
+00:23:23,269 --> 00:23:24,390
+All the classes in the institute
+
+675
+00:23:25,170 --> 00:23:26,369
+will be created.
+
+676
+00:23:27,190 --> 00:23:29,029
+All classes config will be ready.
+
+677
+00:23:30,410 --> 00:23:32,410
+Then you will have
+
+678
+00:23:32,410 --> 00:23:34,490
+to promote all students
+
+679
+00:23:35,589 --> 00:23:36,309
+So that is the option.
+
+680
+00:23:36,309 --> 00:23:37,269
+Now I have student.
+
+681
+00:23:37,549 --> 00:23:39,829
+Student session management.
+
+682
+00:23:40,730 --> 00:23:42,109
+Then I have promote all.
+
+683
+00:23:42,490 --> 00:23:44,349
+The config I have made
+
+684
+00:23:44,349 --> 00:23:45,950
+always works on a config basis.
+
+685
+00:23:46,730 --> 00:23:47,289
+With your knowledge,
+
+686
+00:23:47,930 --> 00:23:49,769
+I have made config of 2 classes.
+
+687
+00:23:51,029 --> 00:23:52,390
+Nursery and
+
+688
+00:23:52,390 --> 00:23:53,609
+class 1.
+
+689
+00:23:54,599 --> 00:23:56,519
+Do you have any query?
+
+690
+00:23:59,319 --> 00:24:00,380
+No ma'am.
+
+691
+00:24:01,539 --> 00:24:02,619
+So here you will have
+
+692
+00:24:02,619 --> 00:24:03,480
+promote all.
+
+693
+00:24:03,759 --> 00:24:05,160
+As soon as you click on promote all,
+
+694
+00:24:05,160 --> 00:24:06,680
+a window will open.
+
+695
+00:24:06,880 --> 00:24:08,779
+In which session you are promoting students.
+
+696
+00:24:09,680 --> 00:24:10,539
+I have already selected
+
+697
+00:24:10,539 --> 00:24:12,279
+in 24-25.
+
+698
+00:24:12,700 --> 00:24:14,680
+So I have to promote in 25-26.
+
+699
+00:24:15,980 --> 00:24:16,980
+I will click on that.
+
+700
+00:24:17,039 --> 00:24:19,279
+Here you will get
+
+701
+00:24:19,279 --> 00:24:20,119
+confirmation.
+
+702
+00:24:21,119 --> 00:24:21,980
+You will click on OK.
+
+703
+00:24:22,990 --> 00:24:24,480
+After 2 minutes,
+
+704
+00:24:24,700 --> 00:24:25,779
+your report file will be ready.
+
+705
+00:24:26,220 --> 00:24:27,640
+Now you have promoted.
+
+706
+00:24:27,859 --> 00:24:29,920
+Now how will you know
+
+707
+00:24:29,920 --> 00:24:32,640
+if what you have promoted is right or not?
+
+708
+00:24:33,440 --> 00:24:34,579
+Right.
+
+709
+00:24:36,000 --> 00:24:36,019
+You will want to know
+
+710
+00:24:36,019 --> 00:24:38,440
+if what you have promoted is right
+
+711
+00:24:38,440 --> 00:24:39,339
+or not.
+
+712
+00:24:42,279 --> 00:24:43,019
+So for that
+
+713
+00:24:43,019 --> 00:24:45,380
+we have a report file downloaded.
+
+714
+00:24:46,059 --> 00:24:47,039
+That report file is
+
+715
+00:24:47,039 --> 00:24:48,000
+the option of bulk operation.
+
+716
+00:24:49,500 --> 00:24:51,619
+This is bulk operation.
+
+717
+00:24:51,779 --> 00:24:52,579
+In bulk operation,
+
+718
+00:24:53,079 --> 00:24:55,180
+the first option will be report file.
+
+719
+00:24:56,150 --> 00:24:57,829
+It came after 2 minutes.
+
+720
+00:24:59,009 --> 00:24:59,329
+So if
+
+721
+00:24:59,890 --> 00:25:01,470
+after 2 minutes, 5 minutes
+
+722
+00:25:03,630 --> 00:25:05,650
+It depends on strength.
+
+723
+00:25:06,230 --> 00:25:08,250
+How many students you are promoting at a time.
+
+724
+00:25:08,369 --> 00:25:08,750
+It is written
+
+725
+00:25:09,309 --> 00:25:11,069
+how long it will be generated.
+
+726
+00:25:11,569 --> 00:25:13,650
+You saw when I promoted.
+
+727
+00:25:13,690 --> 00:25:14,950
+It is estimated time.
+
+728
+00:25:15,569 --> 00:25:16,470
+It will not come here.
+
+729
+00:25:17,109 --> 00:25:18,009
+When you are promoting,
+
+730
+00:25:18,829 --> 00:25:20,450
+it will come when
+
+731
+00:25:20,450 --> 00:25:21,910
+you have promoted.
+
+732
+00:25:23,190 --> 00:25:24,809
+When you promote,
+
+733
+00:25:24,970 --> 00:25:27,049
+after promoting, the message of success comes.
+
+734
+00:25:27,430 --> 00:25:28,890
+In that only you get
+
+735
+00:25:28,890 --> 00:25:30,130
+the message that success is done.
+
+736
+00:25:30,450 --> 00:25:32,890
+You can check the report file after so much time.
+
+737
+00:25:35,089 --> 00:25:35,750
+Most of the time
+
+738
+00:25:35,750 --> 00:25:37,170
+in most of the cases,
+
+739
+00:25:37,230 --> 00:25:38,490
+it is generated before that.
+
+740
+00:25:40,450 --> 00:25:41,440
+It came after 2 minutes.
+
+741
+00:25:41,660 --> 00:25:42,539
+I did not have to wait for 2 minutes.
+
+742
+00:25:43,700 --> 00:25:45,000
+So the report was generated before that.
+
+743
+00:25:45,160 --> 00:25:46,339
+The strength of the student was less.
+
+744
+00:25:47,180 --> 00:25:49,480
+Now I want to see the report file
+
+745
+00:25:49,480 --> 00:25:50,140
+generated from here.
+
+746
+00:25:50,319 --> 00:25:51,680
+This is an excel file.
+
+747
+00:25:56,650 --> 00:25:58,630
+This is the excel file that you downloaded.
+
+748
+00:26:00,420 --> 00:26:01,849
+Now how will you know
+
+749
+00:26:01,849 --> 00:26:04,049
+whether you have promoted or not.
+
+750
+00:26:04,529 --> 00:26:05,710
+See what is coming in this.
+
+751
+00:26:05,809 --> 00:26:06,630
+Total count.
+
+752
+00:26:07,170 --> 00:26:09,230
+And this class is coming. Whose problem was it?
+
+753
+00:26:09,470 --> 00:26:10,970
+Total count, total counter.
+
+754
+00:26:11,089 --> 00:26:13,410
+How many were there? We made only 2 configs.
+
+755
+00:26:16,750 --> 00:26:17,430
+Yes ma'am.
+
+756
+00:26:18,069 --> 00:26:19,450
+There were 2 configs. One was nursery
+
+757
+00:26:19,450 --> 00:26:20,450
+and one was class 1.
+
+758
+00:26:20,829 --> 00:26:23,589
+Now added count. It means how many students
+
+759
+00:26:23,589 --> 00:26:25,470
+have been added in the next session.
+
+760
+00:26:27,059 --> 00:26:27,680
+32.
+
+761
+00:26:28,160 --> 00:26:29,240
+Updated count.
+
+762
+00:26:29,440 --> 00:26:30,900
+How many students have been updated.
+
+763
+00:26:30,900 --> 00:26:31,960
+There was something
+
+764
+00:26:32,779 --> 00:26:33,960
+that existed.
+
+765
+00:26:34,720 --> 00:26:35,980
+In this also it was updated.
+
+766
+00:26:37,430 --> 00:26:38,250
+Skipped count.
+
+767
+00:26:39,150 --> 00:26:40,269
+In case of any reason,
+
+768
+00:26:41,109 --> 00:26:42,829
+if my students were not promoted,
+
+769
+00:26:43,069 --> 00:26:44,029
+here it would have been skipped.
+
+770
+00:26:44,329 --> 00:26:46,630
+With that you would have known
+
+771
+00:26:46,630 --> 00:26:49,109
+that this student is pending
+
+772
+00:26:50,730 --> 00:26:51,750
+Here the reason comes.
+
+773
+00:26:51,930 --> 00:26:52,450
+Like there is a nursery.
+
+774
+00:26:53,309 --> 00:26:54,990
+He said that he did not promote the nursery.
+
+775
+00:26:55,170 --> 00:26:56,369
+Why? Because he did not have any students.
+
+776
+00:26:56,369 --> 00:26:59,279
+Ma'am, one thing.
+
+777
+00:26:59,900 --> 00:27:01,740
+There are 32 students in class 1.
+
+778
+00:27:02,819 --> 00:27:03,940
+There are 32 students in the therapy.
+
+779
+00:27:04,200 --> 00:27:05,839
+2 of them are inactive.
+
+780
+00:27:07,059 --> 00:27:11,000
+So will there be an error
+
+781
+00:27:11,000 --> 00:27:11,279
+to promote them?
+
+782
+00:27:11,700 --> 00:27:13,019
+Or will the count be skipped?
+
+783
+00:27:13,519 --> 00:27:14,740
+If there are 32 students,
+
+784
+00:27:15,240 --> 00:27:16,119
+here 32 are doing it.
+
+785
+00:27:16,500 --> 00:27:17,960
+So it means that 32
+
+786
+00:27:17,960 --> 00:27:19,220
+are showing an active student.
+
+787
+00:27:20,890 --> 00:27:21,250
+Ok?
+
+788
+00:27:21,789 --> 00:27:23,630
+He does not consider inactive.
+
+789
+00:27:24,309 --> 00:27:25,130
+Ok.
+
+790
+00:27:26,490 --> 00:27:27,420
+In case
+
+791
+00:27:27,730 --> 00:27:28,970
+I will tell you one more thing.
+
+792
+00:27:29,190 --> 00:27:30,029
+In case you want to check.
+
+793
+00:27:30,329 --> 00:27:32,269
+You still have a dilemma.
+
+794
+00:27:32,609 --> 00:27:34,369
+You have a doubt if you are promoted or not.
+
+795
+00:27:34,589 --> 00:27:35,569
+You can do one more thing.
+
+796
+00:27:36,829 --> 00:27:38,410
+I have exported
+
+797
+00:27:38,410 --> 00:27:38,569
+data.
+
+798
+00:27:39,190 --> 00:27:41,450
+Our student has exported data.
+
+799
+00:27:42,730 --> 00:27:43,650
+I think this has not happened.
+
+800
+00:27:45,170 --> 00:27:46,890
+Student list had student data.
+
+801
+00:27:48,779 --> 00:27:49,660
+You have to check
+
+802
+00:27:49,660 --> 00:27:50,859
+that the student data
+
+803
+00:27:50,859 --> 00:27:52,380
+is exported data.
+
+804
+00:27:52,380 --> 00:27:55,119
+You can fetch the data from here.
+
+805
+00:27:55,200 --> 00:27:56,720
+You can take it out in excel.
+
+806
+00:27:57,460 --> 00:27:57,700
+Ok.
+
+807
+00:27:57,700 --> 00:27:59,000
+Same filter is here.
+
+808
+00:27:59,380 --> 00:28:01,640
+I want to see how many students are in class 1.
+
+809
+00:28:01,839 --> 00:28:03,420
+I have promoted them or not.
+
+810
+00:28:04,059 --> 00:28:05,420
+I have selected class 1.
+
+811
+00:28:06,180 --> 00:28:07,759
+By default it is active.
+
+812
+00:28:09,960 --> 00:28:10,720
+I will go.
+
+813
+00:28:10,740 --> 00:28:11,720
+I will get strength.
+
+814
+00:28:12,140 --> 00:28:12,799
+33.
+
+815
+00:28:14,220 --> 00:28:15,900
+Let's see.
+
+816
+00:28:17,079 --> 00:28:19,940
+There are 33 students.
+
+817
+00:28:20,339 --> 00:28:21,359
+Why 33 are promoted?
+
+818
+00:28:21,359 --> 00:28:23,019
+Because we have already promoted one.
+
+819
+00:28:23,119 --> 00:28:23,940
+Do you remember?
+
+820
+00:28:25,589 --> 00:28:28,890
+That's why 32 students
+
+821
+00:28:28,890 --> 00:28:30,109
+are promoted from here.
+
+822
+00:28:31,259 --> 00:28:32,960
+You can verify
+
+823
+00:28:33,900 --> 00:28:34,039
+the data from here.
+
+824
+00:28:34,519 --> 00:28:36,900
+If you know the
+
+825
+00:28:36,900 --> 00:28:38,819
+use of VLOOKUP.
+
+826
+00:28:38,900 --> 00:28:40,460
+We match the data from it.
+
+827
+00:28:40,680 --> 00:28:43,059
+We have different options.
+
+828
+00:28:43,259 --> 00:28:44,579
+How to match the data.
+
+829
+00:28:44,900 --> 00:28:47,339
+For that you generate
+
+830
+00:28:47,539 --> 00:28:50,240
+You get an overall idea from the report file.
+
+831
+00:28:50,240 --> 00:28:53,779
+Your data is correct or not.
+
+832
+00:28:55,279 --> 00:28:55,400
+Ma'am,
+
+833
+00:28:56,039 --> 00:28:58,000
+this is also a case in which
+
+834
+00:28:58,559 --> 00:29:00,380
+some students are directly promoted
+
+835
+00:29:00,380 --> 00:29:02,220
+and some students are remote with views.
+
+836
+00:29:03,259 --> 00:29:04,279
+Some students
+
+837
+00:29:04,279 --> 00:29:06,440
+are without views and some are with views.
+
+838
+00:29:07,180 --> 00:29:07,579
+Yes.
+
+839
+00:29:07,940 --> 00:29:09,900
+Do they do it manually or in bulk?
+
+840
+00:29:11,059 --> 00:29:11,859
+Let's see.
+
+841
+00:29:12,059 --> 00:29:13,380
+It depends.
+
+842
+00:29:13,559 --> 00:29:15,220
+For example, my class 1
+
+843
+00:29:15,220 --> 00:29:17,039
+was without views.
+
+844
+00:29:17,039 --> 00:29:20,240
+They had class 2
+
+845
+00:29:20,240 --> 00:29:21,500
+with views.
+
+846
+00:29:22,099 --> 00:29:23,059
+I can configure it.
+
+847
+00:29:24,460 --> 00:29:25,519
+But if
+
+848
+00:29:25,519 --> 00:29:26,299
+it is in one class
+
+849
+00:29:27,039 --> 00:29:29,380
+and some students are with
+
+850
+00:29:29,380 --> 00:29:30,940
+views and some without views
+
+851
+00:29:30,940 --> 00:29:32,680
+then you will have to use it manually.
+
+852
+00:29:36,140 --> 00:29:37,559
+This does not happen in normal cases.
+
+853
+00:29:38,299 --> 00:29:39,339
+They follow one system.
+
+854
+00:29:39,940 --> 00:29:41,400
+They mismatch the report.
+
+855
+00:29:42,819 --> 00:29:44,299
+They mismatch the report.
+
+856
+00:29:45,079 --> 00:29:45,859
+They will not know
+
+857
+00:29:45,859 --> 00:29:47,799
+whether the student had views in the previous session
+
+858
+00:29:47,799 --> 00:29:49,380
+or in this session.
+
+859
+00:29:50,450 --> 00:29:52,410
+There is only one way to do it.
+
+860
+00:29:52,990 --> 00:29:54,950
+Either with views or without views.
+
+861
+00:29:55,089 --> 00:29:55,710
+It happens in rare cases.
+
+862
+00:29:57,519 --> 00:29:58,839
+In such a part
+
+863
+00:29:58,839 --> 00:29:59,579
+any query
+
+864
+00:29:59,579 --> 00:30:01,140
+how we promoted the student
+
+865
+00:30:01,140 --> 00:30:04,380
+student promote manually and student promote
+
+866
+00:30:04,380 --> 00:30:06,640
+in bulk, promote all.
+
+867
+00:30:08,099 --> 00:30:11,279
+Any query in config
+
+868
+00:30:11,279 --> 00:30:12,799
+if you have any doubt
+
+869
+00:30:12,799 --> 00:30:13,579
+then you can ask.
+
+870
+00:30:16,230 --> 00:30:18,170
+We will try to implement it
+
+871
+00:30:18,170 --> 00:30:19,210
+in real queries.
+
+872
+00:30:26,710 --> 00:30:28,950
+No issues.
+
+873
+00:30:29,930 --> 00:30:30,710
+Try it in your entities.
+
+874
+00:30:31,569 --> 00:30:32,170
+Set config.
+
+875
+00:30:34,049 --> 00:30:35,170
+Promote manually.
+
+876
+00:30:36,269 --> 00:30:37,289
+Promote in bulk.
+
+877
+00:30:37,809 --> 00:30:38,470
+You will get an idea.
+
+878
+00:30:38,930 --> 00:30:40,789
+Basically, you can do this
+
+879
+00:30:40,789 --> 00:30:42,869
+in an existing entity
+
+880
+00:30:42,869 --> 00:30:45,660
+like I showed you earlier.
+
+881
+00:30:45,660 --> 00:30:46,400
+Home Convent.
+
+882
+00:30:46,539 --> 00:30:47,660
+It has already been set up.
+
+883
+00:30:48,759 --> 00:30:51,220
+I have promoted only one session
+
+884
+00:30:51,220 --> 00:30:53,099
+and only one class.
+
+885
+00:30:54,579 --> 00:30:56,500
+You can try it this way.
+
+886
+00:30:57,279 --> 00:30:57,839
+It will be clear.
+

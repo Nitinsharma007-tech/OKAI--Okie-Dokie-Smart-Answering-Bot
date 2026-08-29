@@ -2547,7 +2547,7 @@ the other three councillors
 will not have any lead assigned.
 
 638
-00:26:56,099 --> 00:26:57,240
+00:26:56,079 --> 00:26:57,240
 But in the case of devise,
 
 639
@@ -2559,7 +2559,7 @@ on Monday,
 you worked for three councillors.
 
 641
-00:27:01,000 --> 00:27:02,400
+00:27:00,980 --> 00:27:02,400
 On Friday, you worked for three.
 
 642
@@ -2575,79 +2575,79 @@ On Sunday, you worked for three.
 On Monday, a new councillor was added to the system.
 
 645
-00:27:08,559 --> 00:27:10,299
+00:27:08,539 --> 00:27:10,299
 So, the system will not hold those three councillors.
 
 646
-00:27:11,539 --> 00:27:12,680
-The system will assign them as it is.
+00:27:11,539 --> 00:27:12,799
+The system will assign them in the same way.
 
 647
-00:27:13,400 --> 00:27:14,599
-Suppose, the first lead came,
+00:27:13,380 --> 00:27:14,599
+Suppose, the first lead comes,
 
 648
-00:27:14,700 --> 00:27:16,000
-it gave one, the second came,
+00:27:14,700 --> 00:27:16,740
+it gives one lead, the second one gives the third one,
 
 649
-00:27:16,000 --> 00:27:19,200
-the third came, the fourth came,
+00:27:16,900 --> 00:27:17,779
+the third one gives the third one,
 
 650
-00:27:19,319 --> 00:27:20,400
-the fourth came, the one who was added on Monday,
+00:27:18,420 --> 00:27:20,400
+the fourth one, the one added on Monday,
 
 651
-00:27:20,700 --> 00:27:21,099
-it gave him.
+00:27:20,799 --> 00:27:21,180
+it gives that one.
 
 652
-00:27:21,099 --> 00:27:22,599
-It will start the same again.
+00:27:21,180 --> 00:27:22,619
+It will start the same way again.
 
 653
-00:27:22,660 --> 00:27:24,940
+00:27:22,680 --> 00:27:24,960
 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4.
 
 654
-00:27:25,019 --> 00:27:26,500
+00:27:24,980 --> 00:27:26,519
 Is everything clear? Devise and all?
 
 655
-00:27:27,359 --> 00:27:27,680
+00:27:27,359 --> 00:27:27,700
 Yes.
 
 656
-00:27:29,299 --> 00:27:32,829
+00:27:29,220 --> 00:27:32,750
 Okay, this is all done.
 
 657
-00:27:33,990 --> 00:27:34,750
+00:27:33,990 --> 00:27:34,730
 Now, the point is
 
 658
-00:27:34,750 --> 00:27:35,750
+00:27:34,730 --> 00:27:35,750
 duplicate field master.
 
 659
-00:27:36,029 --> 00:27:36,970
+00:27:35,990 --> 00:27:36,990
 Duplicate field master,
 
 660
-00:27:37,190 --> 00:27:38,650
-I just showed you a pop-up show
+00:27:37,210 --> 00:27:38,789
+the pop-up that I showed you
 
 661
-00:27:38,650 --> 00:27:40,930
-with the same mobile number when I added the lead.
+00:27:38,789 --> 00:27:40,650
+when I added the lead from the same mobile number,
 
 662
-00:27:42,230 --> 00:27:44,950
-I had showed the respective pop-up
+00:27:42,029 --> 00:27:44,970
+it had showed the respective pop-up
 
 663
-00:27:44,950 --> 00:27:46,450
+00:27:44,970 --> 00:27:46,450
 that this lead already exists
 
 664
@@ -2655,7 +2655,7 @@ that this lead already exists
 within the system.
 
 665
-00:27:48,349 --> 00:27:50,130
+00:27:48,309 --> 00:27:50,130
 So, from here, you select the field
 
 666
@@ -2683,15 +2683,15 @@ remains the same.
 It is very rare in some cases
 
 672
-00:28:03,859 --> 00:28:05,799
+00:28:03,859 --> 00:28:05,779
 that your Aadhaar card is set,
 
 673
-00:28:07,519 --> 00:28:07,839
-your
+00:28:07,680 --> 00:28:08,940
+okay, your
 
 674
-00:28:08,160 --> 00:28:09,960
+00:28:08,940 --> 00:28:09,960
 I would say
 
 675
@@ -2699,27 +2699,27 @@ I would say
 10th class roll number is set,
 
 676
-00:28:11,859 --> 00:28:13,299
-12th class roll number is set.
+00:28:11,839 --> 00:28:13,299
+12th class roll number is set,
 
 677
-00:28:13,440 --> 00:28:14,779
-It remains in very rare cases.
+00:28:13,420 --> 00:28:14,799
+it remains in very rare cases.
 
 678
-00:28:15,119 --> 00:28:17,220
+00:28:15,140 --> 00:28:17,180
 Phone number remains mostly in cases.
 
 679
-00:28:18,400 --> 00:28:19,660
-So, on which field
+00:28:18,059 --> 00:28:19,660
+Okay, so on which field
 
 680
-00:28:19,660 --> 00:28:20,960
-will your pop-up depend?
+00:28:19,660 --> 00:28:21,440
+your pop-up will depend on?
 
 681
-00:28:21,359 --> 00:28:24,140
+00:28:21,440 --> 00:28:24,140
 It depends on this particular
 
 682
@@ -2727,11 +2727,11 @@ It depends on this particular
 phone number.
 
 683
-00:28:26,460 --> 00:28:26,599
-Clear?
+00:28:26,480 --> 00:28:27,480
+Clearance is?
 
 684
-00:28:28,480 --> 00:28:29,440
+00:28:28,519 --> 00:28:29,440
 Very good.
 
 685
@@ -2739,27 +2739,27 @@ Very good.
 Then we have my operator config,
 
 686
-00:28:35,700 --> 00:28:37,220
+00:28:35,700 --> 00:28:37,200
 IVR, area B,
 
 687
-00:28:37,539 --> 00:28:37,819
-explain.
+00:28:37,519 --> 00:28:39,119
+explain, we will do both of these later.
 
 688
-00:28:39,720 --> 00:28:41,680
+00:28:39,740 --> 00:28:41,680
 Let's move on to this particular
 
 689
-00:28:41,680 --> 00:28:42,859
+00:28:41,680 --> 00:28:42,839
 admission team.
 
 690
-00:28:44,430 --> 00:28:44,869
+00:28:44,430 --> 00:28:44,890
 Now, basically,
 
 691
-00:28:46,470 --> 00:28:47,509
+00:28:46,390 --> 00:28:47,509
 our universities
 
 692
@@ -2775,11 +2775,11 @@ there are very rare cases,
 where your outreach team is different,
 
 695
-00:28:54,250 --> 00:28:55,369
-your inside team is different
+00:28:54,250 --> 00:28:55,390
+inside team is different
 
 696
-00:28:55,369 --> 00:28:56,170
+00:28:55,390 --> 00:28:56,170
 for the admissions.
 
 697
@@ -2788,22 +2788,22 @@ So, both teams do not share
 
 698
 00:28:58,450 --> 00:28:59,470
-the data of the leads.
+the data of leads.
 
 699
-00:29:01,700 --> 00:29:02,940
-Let's take an example.
+00:29:01,059 --> 00:29:02,940
+Okay, let's take an example.
 
 700
-00:29:03,680 --> 00:29:05,119
-Here, there is a senior mode person.
+00:29:03,700 --> 00:29:05,099
+Here is a senior mode person.
 
 701
-00:29:06,000 --> 00:29:07,660
-After that, there are two sub-branches.
+00:29:06,039 --> 00:29:07,660
+After that, he has two sub-branches.
 
 702
-00:29:08,180 --> 00:29:09,799
+00:29:08,240 --> 00:29:09,799
 Can you see what I am drawing on my screen?
 
 703
@@ -2815,711 +2815,711 @@ Yes, sir.
 Yes, sir.
 
 705
-00:29:13,460 --> 00:29:15,380
-Let's take an example. Here, we have a person.
+00:29:13,160 --> 00:29:15,380
+Okay, take an example, here we have a person.
 
 706
-00:29:16,019 --> 00:29:17,680
-Below that, there are two teams in the branches.
+00:29:16,019 --> 00:29:16,980
+Under him, in the branches,
 
 707
-00:29:17,819 --> 00:29:19,160
-One here and one there.
+00:29:17,160 --> 00:29:19,140
+there are two teams, one here and one there.
 
 708
-00:29:20,400 --> 00:29:22,099
-The senior most person
+00:29:20,039 --> 00:29:20,680
+Okay.
 
 709
-00:29:22,099 --> 00:29:22,880
-can see the data of this team
+00:29:21,180 --> 00:29:22,400
+The senior most person can see
 
 710
-00:29:22,880 --> 00:29:24,519
-and that team.
+00:29:22,400 --> 00:29:24,440
+the data of this team and this team.
 
 711
-00:29:25,759 --> 00:29:26,680
+00:29:25,480 --> 00:29:26,660
 But these two people cannot see
 
 712
-00:29:26,680 --> 00:29:27,359
-their own data.
+00:29:26,660 --> 00:29:27,400
+the data of each other.
 
 713
-00:29:29,799 --> 00:29:30,920
-Let's take an example.
+00:29:29,359 --> 00:29:30,920
+Okay, but you take an example,
 
 714
-00:29:31,220 --> 00:29:32,619
-Below this team, there are branches.
+00:29:31,319 --> 00:29:32,579
+there will be branches under this team,
 
 715
-00:29:33,200 --> 00:29:34,619
-Below this team, there are branches.
+00:29:33,339 --> 00:29:34,539
+there will be branches under this team.
 
 716
-00:29:37,079 --> 00:29:38,319
-So, this person
+00:29:36,079 --> 00:29:36,500
+Right?
 
 717
-00:29:38,319 --> 00:29:39,599
-can see his team's data.
+00:29:37,500 --> 00:29:39,619
+So, this person can see the data of his team,
 
 718
-00:29:40,039 --> 00:29:41,680
-This person can see his team's data.
+00:29:40,039 --> 00:29:41,539
+and this person can see the data of his team.
 
 719
-00:29:42,059 --> 00:29:43,319
-But this senior most person
+00:29:41,960 --> 00:29:43,140
+But this senior most,
 
 720
-00:29:43,319 --> 00:29:45,359
-can see his team's data,
+00:29:43,299 --> 00:29:45,400
+he will see his data, his team's data,
 
 721
-00:29:45,920 --> 00:29:48,000
+00:29:45,920 --> 00:29:47,940
 this person's data, and his team's data.
 
 722
-00:29:48,000 --> 00:29:50,579
-But these two people cannot see
+00:29:47,940 --> 00:29:50,460
+But these two people cannot see each other.
 
 723
-00:29:51,140 --> 00:29:53,440
-Then, the people in the branches below
+00:29:51,200 --> 00:29:52,720
+After that, the people under the branches
 
 724
-00:29:53,440 --> 00:29:54,220
-cannot see their own data.
+00:29:52,720 --> 00:29:54,680
+cannot see each other's data.
 
 725
-00:29:56,549 --> 00:29:56,769
+00:29:56,569 --> 00:29:56,769
 Understood?
 
 726
-00:29:57,329 --> 00:29:59,410
-So, what we do is that there are
+00:29:57,329 --> 00:29:59,250
+So, what we do is,
 
 727
-00:29:59,410 --> 00:30:01,049
-very rare cases in which there is
+00:29:59,410 --> 00:30:00,930
+there are very rare cases in which
 
 728
-00:30:01,049 --> 00:30:02,809
-a team structure. Otherwise,
+00:30:00,930 --> 00:30:02,809
+there is a team structure. Otherwise,
 
 729
 00:30:03,230 --> 00:30:04,910
-there is only a single most senior person
+there is only a single most senior person,
 
 730
-00:30:04,910 --> 00:30:06,950
-and there are multiple counselors below him.
+00:30:05,190 --> 00:30:06,910
+and there are multiple counselors under him.
 
 731
-00:30:08,849 --> 00:30:10,029
-There are two types of clearages.
+00:30:08,849 --> 00:30:10,049
+Is it clear? There are two ways.
 
 732
-00:30:10,950 --> 00:30:12,210
-Either you are a senior most person
+00:30:10,789 --> 00:30:12,210
+Either you are a senior most person,
 
 733
-00:30:12,210 --> 00:30:13,230
-and there are two teams below him
+00:30:12,390 --> 00:30:13,190
+there are two teams under him,
 
 734
-00:30:13,230 --> 00:30:14,750
-and then they are divided into two teams.
+00:30:13,390 --> 00:30:14,349
+then they are divided into two teams,
 
 735
-00:30:14,750 --> 00:30:16,990
-Or you have a single senior
+00:30:15,450 --> 00:30:17,549
+or you have a single senior most person
 
 736
-00:30:16,990 --> 00:30:19,109
-most person with multiple counselors.
+00:30:17,549 --> 00:30:19,130
+under whom there are multiple counselors.
 
 737
-00:30:21,299 --> 00:30:22,700
+00:30:21,359 --> 00:30:22,700
 If there is a single person
 
 738
-00:30:22,700 --> 00:30:23,660
-and multiple counselors,
+00:30:22,700 --> 00:30:24,640
+and multiple counselors, then there is no need for a team.
 
 739
-00:30:23,859 --> 00:30:24,980
-then there is no need for a team.
+00:30:25,480 --> 00:30:27,000
+So, there is no need to follow the team structure,
 
 740
-00:30:25,519 --> 00:30:27,099
-So, there is no need to follow the team structure.
+00:30:27,440 --> 00:30:29,799
+there is no need to delete it and save it.
 
 741
-00:30:27,819 --> 00:30:30,279
-Just delete it and save it.
+00:30:31,440 --> 00:30:31,900
+Is it clear?
 
 742
-00:30:31,460 --> 00:30:32,059
-Clearages?
+00:30:33,140 --> 00:30:34,259
+Yes, sir.
 
 743
-00:30:33,259 --> 00:30:35,240
-Yes, sir. Perfect.
+00:30:34,839 --> 00:30:37,200
+Perfect. Now, taking an example,
 
 744
-00:30:35,579 --> 00:30:37,200
-Now, taking an example,
+00:30:37,460 --> 00:30:38,539
+if we have two teams,
 
 745
-00:30:37,460 --> 00:30:39,740
-if we have two teams, one is your domestic
+00:30:38,619 --> 00:30:39,700
+one is your domestic,
 
 746
-00:30:41,480 --> 00:30:42,539
-which we have set as
+00:30:41,559 --> 00:30:43,460
+whose team leader we have set,
 
 747
-00:30:42,539 --> 00:30:44,619
-team lead for Sumit Kumar.
+00:30:43,960 --> 00:30:44,579
+is Sumit Kumar.
 
 748
-00:30:45,829 --> 00:30:47,150
-Add the members
+00:30:45,710 --> 00:30:47,849
+Here, we have added the members under him.
 
 749
-00:30:47,150 --> 00:30:47,730
-of your team.
+00:30:49,579 --> 00:30:52,039
+We have made Himanshi, Shastri,
 
 750
-00:30:50,019 --> 00:30:52,180
-Himanshi, Shresti,
+00:30:52,980 --> 00:30:53,680
+we have covered Deepak,
 
 751
-00:30:52,980 --> 00:30:53,880
-Deepak Agar,
+00:30:54,799 --> 00:30:56,240
+and we have made Anaita.
 
 752
-00:30:54,819 --> 00:30:55,779
-and Anaita.
+00:30:56,380 --> 00:30:56,900
+We have saved.
 
 753
-00:30:56,440 --> 00:30:57,339
-Save it.
+00:30:57,480 --> 00:31:00,099
+We have added the other team for the external team.
 
 754
-00:30:57,539 --> 00:31:00,099
-Add the other team for the external team.
+00:31:01,759 --> 00:31:03,339
+Let's take the example of the external team,
 
 755
-00:31:02,660 --> 00:31:03,380
-Let's take an example
+00:31:05,039 --> 00:31:06,059
+that your Gaurav Sachan,
 
 756
-00:31:05,000 --> 00:31:06,880
-Your Gaurav Sachan
+00:31:06,980 --> 00:31:08,680
+he is the lead.
 
 757
-00:31:06,920 --> 00:31:08,759
-is the lead.
+00:31:10,059 --> 00:31:10,599
+The people under him,
 
 758
-00:31:09,599 --> 00:31:10,660
-The people in his team
-
-759
-00:31:10,660 --> 00:31:12,519
+00:31:11,759 --> 00:31:12,500
 for example,
 
-760
-00:31:13,759 --> 00:31:14,920
+759
+00:31:14,039 --> 00:31:14,880
 Mani,
 
-761
-00:31:15,900 --> 00:31:17,200
+760
+00:31:16,039 --> 00:31:16,880
 Pallavi,
 
-762
-00:31:18,410 --> 00:31:19,150
+761
+00:31:18,769 --> 00:31:19,130
 Sukhpeeth.
 
+762
+00:31:19,130 --> 00:31:21,009
+Now, basically, guys,
+
 763
-00:31:20,230 --> 00:31:20,970
-Now, basically guys,
+00:31:21,250 --> 00:31:21,549
+what will happen,
 
 764
-00:31:21,329 --> 00:31:24,130
-you have two senior
+00:31:22,509 --> 00:31:24,910
+you have two senior most persons,
 
 765
-00:31:24,130 --> 00:31:24,890
-most persons.
+00:31:25,269 --> 00:31:26,769
+one is this,
 
 766
-00:31:25,289 --> 00:31:28,109
-One is this, another one is this.
+00:31:26,869 --> 00:31:28,150
+another one is this.
 
 767
-00:31:28,829 --> 00:31:29,750
-In his team,
+00:31:28,829 --> 00:31:30,769
+In his team, there is one person,
 
 768
-00:31:30,309 --> 00:31:32,089
-one person, one person, one person, one person.
+00:31:30,829 --> 00:31:32,089
+one person, one person, one person.
 
 769
-00:31:32,789 --> 00:31:33,890
-This can see their data.
+00:31:32,769 --> 00:31:33,950
+He can see their data,
 
 770
-00:31:35,839 --> 00:31:37,140
-And the Gaurav
+00:31:35,500 --> 00:31:37,119
+and the Gaurav,
 
 771
-00:31:37,140 --> 00:31:37,940
-can see their data.
+00:31:37,259 --> 00:31:38,099
+he can see their data.
 
 772
-00:31:40,319 --> 00:31:41,799
-These counselors
+00:31:39,519 --> 00:31:40,740
+He can't see the data among themselves,
 
 773
-00:31:42,380 --> 00:31:45,000
-Same here, they can't see their data.
+00:31:41,380 --> 00:31:43,420
+counselors, same here,
 
 774
-00:31:48,099 --> 00:31:48,839
-And
+00:31:43,880 --> 00:31:44,940
+he can't see the data among themselves.
 
 775
-00:31:48,839 --> 00:31:49,940
-they can't see their team's data.
+00:31:46,160 --> 00:31:47,700
+And Sumit Gaurav
 
 776
-00:31:53,099 --> 00:31:53,339
-Is this clear?
+00:31:47,700 --> 00:31:49,160
+can't see the data of his team,
 
 777
-00:31:54,680 --> 00:31:56,420
-Team lead also can't see other's data.
+00:31:49,720 --> 00:31:50,099
+or can't see the data of his team.
 
 778
-00:31:57,460 --> 00:31:59,140
-Team lead also can't see other's data.
+00:31:52,980 --> 00:31:53,460
+Is this clear?
 
 779
-00:32:00,559 --> 00:32:01,880
-You can create multiple teams
+00:31:54,619 --> 00:31:56,519
+Team lead can't see the data of each other.
 
 780
-00:32:01,880 --> 00:32:03,099
-here.
+00:31:57,259 --> 00:31:59,140
+Team lead can't see the data of each other.
 
 781
-00:32:03,940 --> 00:32:04,900
-You can add multiple members.
+00:32:00,440 --> 00:32:02,420
+You can create multiple teams here.
 
 782
-00:32:05,759 --> 00:32:07,000
-One more point.
+00:32:03,900 --> 00:32:04,900
+You can add multiple members.
 
 783
-00:32:07,819 --> 00:32:09,160
-Taking an example, Anaita
+00:32:05,619 --> 00:32:07,019
+One more point,
 
 784
-00:32:09,160 --> 00:32:09,940
-is also in his team.
+00:32:07,700 --> 00:32:08,500
+taking an example,
 
 785
-00:32:11,099 --> 00:32:13,440
-And Anaita is also in his team.
+00:32:08,619 --> 00:32:09,940
+Anaita is also in his team,
 
 786
-00:32:14,990 --> 00:32:16,809
-Now, in this case,
+00:32:11,039 --> 00:32:13,380
+and Anaita is also in his team.
 
 787
-00:32:17,190 --> 00:32:17,690
-Gaurav can see
+00:32:14,990 --> 00:32:16,910
+Now, what will happen in this case,
 
 788
-00:32:18,390 --> 00:32:19,250
-Anaita's data.
+00:32:17,049 --> 00:32:18,809
+Gaurav can see the data of Anaita,
 
 789
-00:32:19,250 --> 00:32:20,410
-So,
+00:32:19,809 --> 00:32:22,390
+sorry, Sumit Gaurav
 
 790
-00:32:20,849 --> 00:32:22,210
-Sumit and Gaurav
+00:32:22,390 --> 00:32:23,910
+can see the data of Anaita.
 
 791
-00:32:22,210 --> 00:32:24,009
-can see Anaita's data.
+00:32:25,769 --> 00:32:27,410
+Now, the common data between them
 
 792
-00:32:25,829 --> 00:32:27,309
-Now, the common data
+00:32:27,410 --> 00:32:31,049
+is visible to both of them.
 
 793
-00:32:27,309 --> 00:32:28,730
-between them is visible to both.
+00:32:31,470 --> 00:32:32,430
+In general, this doesn't happen,
 
 794
-00:32:31,130 --> 00:32:32,470
-In general, this doesn't happen.
+00:32:32,650 --> 00:32:33,769
+but still, I told you with an example,
 
 795
-00:32:32,690 --> 00:32:33,769
-But still, I told you with an example,
+00:32:34,369 --> 00:32:35,190
+if a question comes up tomorrow,
 
 796
-00:32:34,390 --> 00:32:36,130
-if tomorrow a question comes up,
-
-797
-00:32:36,130 --> 00:32:37,990
+00:32:36,250 --> 00:32:37,990
 you will say, in that case,
 
-798
-00:32:38,069 --> 00:32:38,710
-you can see both their data.
+797
+00:32:38,150 --> 00:32:38,990
+you will show the data of both of them.
 
-799
-00:32:39,970 --> 00:32:43,289
+798
+00:32:39,849 --> 00:32:43,230
 But still, Sumit can't see Gaurav's data.
 
-800
-00:32:44,140 --> 00:32:45,299
+799
+00:32:44,240 --> 00:32:45,299
 Whose data are they seeing?
 
+800
+00:32:45,680 --> 00:32:46,579
+They can see the data of their
+
 801
-00:32:45,700 --> 00:32:47,960
-They can see their common team member's data.
+00:32:46,579 --> 00:32:47,660
+common team member.
 
 802
-00:32:50,539 --> 00:32:52,019
-They can see their common team member's data.
+00:32:49,660 --> 00:32:51,420
+It's not that if we merge
 
 803
-00:32:52,019 --> 00:32:52,940
-So, if they merge here,
+00:32:51,420 --> 00:32:52,400
+Anaita here,
 
 804
-00:32:54,140 --> 00:32:55,420
-Sumit can see Pallavi's data.
+00:32:53,700 --> 00:32:53,740
+then we can see Sumit's
 
 805
-00:32:55,980 --> 00:32:57,380
-Or Deepa can see Gaurav's data.
+00:32:53,740 --> 00:32:54,720
+Pallavi data,
 
 806
-00:32:57,460 --> 00:32:57,980
-This won't happen.
+00:32:55,960 --> 00:32:57,279
+or Gaurav can see Deepa's data.
 
 807
-00:32:58,660 --> 00:33:00,680
-Gaurav and Sumit can only see
+00:32:58,559 --> 00:33:00,059
+Gaurav and Sumit
 
 808
-00:33:00,680 --> 00:33:02,660
-Anaita's combined data.
+00:33:00,059 --> 00:33:01,859
+can only see Anaita's data,
 
 809
-00:33:06,490 --> 00:33:07,829
-Things are getting clear, guys.
+00:33:02,299 --> 00:33:04,019
+combined, whatever is common.
 
 810
-00:33:07,829 --> 00:33:08,470
-Or is it coming from above?
+00:33:06,650 --> 00:33:07,829
+Are things getting clear, guys?
 
 811
-00:33:09,529 --> 00:33:10,490
-No, sir. It's clear.
+00:33:07,829 --> 00:33:08,450
+Or is it coming from above?
 
 812
-00:33:11,170 --> 00:33:12,710
-They will be able to see the common data
+00:33:09,509 --> 00:33:10,569
+No, sir, it's clear.
 
 813
-00:33:12,710 --> 00:33:12,970
-between them.
+00:33:11,289 --> 00:33:11,970
+Both of them will be able to see
 
 814
-00:33:16,279 --> 00:33:16,700
-Okay.
+00:33:11,970 --> 00:33:14,390
+the common data of Anaita.
 
 815
-00:33:18,200 --> 00:33:19,299
-Team's part is also clear.
+00:33:16,039 --> 00:33:19,279
+Okay, the team part is also clear.
 
 816
-00:33:20,480 --> 00:33:21,799
-Now, from the team's part,
+00:33:19,279 --> 00:33:21,799
+Okay, now from the team part,
 
 817
-00:33:21,799 --> 00:33:24,240
-I had a point left in the filter.
+00:33:22,160 --> 00:33:23,420
+I had left a point in the filter.
 
 818
-00:33:24,420 --> 00:33:29,019
-I clicked on the filter.
+00:33:26,259 --> 00:33:29,039
+Okay, I clicked on the filter.
 
 819
-00:33:29,400 --> 00:33:31,099
+00:33:29,420 --> 00:33:31,059
 Here, the show member comes in detail.
 
 820
-00:33:31,950 --> 00:33:33,650
-Basically, what happens is
+00:33:31,890 --> 00:33:33,650
+Basically, what happens is,
 
 821
-00:33:33,650 --> 00:33:35,349
-you can filter from here
+00:33:33,890 --> 00:33:35,349
+you can filter from here,
 
 822
-00:33:35,349 --> 00:33:36,930
+00:33:35,529 --> 00:33:36,869
 which counselor's data you want.
 
 823
-00:33:37,960 --> 00:33:38,920
-If you want Deepa's data,
+00:33:37,859 --> 00:33:38,880
+Okay, if you want Deepa's data,
 
 824
 00:33:39,200 --> 00:33:41,220
-then you have Deepa's data 253.
+then Deepa's data is 253.
 
 825
-00:33:41,579 --> 00:33:43,599
-If you want someone else's counselor's data,
+00:33:41,380 --> 00:33:43,220
+Okay, you want someone else's counselor,
 
 826
-00:33:43,640 --> 00:33:44,500
-you put Savita's data,
+00:33:43,640 --> 00:33:45,720
+you put Savita, Savita's data comes to you.
 
 827
-00:33:44,500 --> 00:33:45,700
-then you have Savita's data.
+00:33:46,119 --> 00:33:47,099
+Okay, it's not there.
 
 828
-00:33:46,740 --> 00:33:49,339
+00:33:47,099 --> 00:33:49,420
 Now, the point is,
 
 829
-00:33:49,339 --> 00:33:50,619
-let's take an example.
+00:33:49,619 --> 00:33:50,619
+let's take an example,
 
 830
-00:33:50,980 --> 00:33:51,259
-Deepa,
+00:33:50,759 --> 00:33:52,460
+Deepa is, okay,
 
 831
-00:33:52,339 --> 00:33:54,680
-I clicked on that.
+00:33:53,740 --> 00:33:54,440
+I clicked on that,
 
 832
-00:33:54,980 --> 00:33:56,660
-I have 253 data.
+00:33:54,920 --> 00:33:56,640
+I got 253 data.
 
 833
-00:33:57,539 --> 00:33:59,900
+00:33:57,470 --> 00:33:59,880
 But Deepa was in Sumit's team.
 
 834
-00:34:01,079 --> 00:34:02,440
+00:34:01,000 --> 00:34:02,420
 How much data does Sumit have now?
 
 835
-00:34:02,960 --> 00:34:03,680
+00:34:02,880 --> 00:34:03,660
 725.
 
 836
-00:34:05,720 --> 00:34:06,980
-But if I
+00:34:05,460 --> 00:34:06,960
+Okay, but if I
 
 837
-00:34:06,980 --> 00:34:08,380
-turn on its show member detail,
+00:34:06,960 --> 00:34:08,750
+turn on its show member detail too,
 
 838
-00:34:09,699 --> 00:34:11,159
-then what will the show member detail do?
+00:34:09,739 --> 00:34:11,480
+then what will show member detail do?
 
 839
-00:34:11,960 --> 00:34:13,639
-The data of all the members
+00:34:12,179 --> 00:34:13,639
+All the members in his team
 
 840
-00:34:13,639 --> 00:34:15,460
-in his team will also be visible.
+00:34:13,639 --> 00:34:15,320
+will also get their data visible.
 
 841
-00:34:17,030 --> 00:34:17,389
-Is it done?
+00:34:16,989 --> 00:34:18,630
+Okay, 1389 something.
 
 842
-00:34:17,590 --> 00:34:18,670
-1389 something.
-
-843
-00:34:18,670 --> 00:34:21,800
+00:34:18,630 --> 00:34:21,780
 Do you understand the point?
 
-844
-00:34:22,239 --> 00:34:26,429
-What happened to the filter when we detailed it in the show?
+843
+00:34:22,260 --> 00:34:26,429
+What happened to the filter when we detailed the show?
 
-845
-00:34:26,429 --> 00:34:27,469
+844
+00:34:26,429 --> 00:34:27,449
 Yes, sir.
 
-846
-00:34:29,010 --> 00:34:31,250
+845
+00:34:28,989 --> 00:34:31,230
 When our toggle was off,
 
-847
-00:34:32,309 --> 00:34:33,250
+846
+00:34:32,369 --> 00:34:33,250
 in the case of off,
 
-848
-00:34:33,389 --> 00:34:35,690
+847
+00:34:33,690 --> 00:34:35,730
 only Sumit's data came to us.
 
+848
+00:34:36,019 --> 00:34:36,820
+Okay, but
+
 849
-00:34:36,000 --> 00:34:37,559
-But when we turned on
+00:34:36,820 --> 00:34:37,559
+when we turned on
 
 850
 00:34:37,559 --> 00:34:39,059
 the members' toggle,
 
 851
-00:34:40,579 --> 00:34:42,179
+00:34:40,460 --> 00:34:42,179
 then what did the system do in that case?
 
 852
-00:34:42,579 --> 00:34:44,260
+00:34:42,579 --> 00:34:44,239
 It showed all the leads of its members
 
 853
-00:34:44,260 --> 00:34:45,260
+00:34:44,239 --> 00:34:45,260
 together.
 
 854
-00:34:46,960 --> 00:34:48,300
+00:34:46,920 --> 00:34:48,300
 Because a counselor,
 
 855
-00:34:48,869 --> 00:34:50,920
-he is also working as a counselor,
+00:34:48,619 --> 00:34:50,559
+it's a simple thing, a counselor,
 
 856
-00:34:50,920 --> 00:34:52,159
-but he is also in his team,
+00:34:50,559 --> 00:34:52,840
+is also working, but there are people in his team too,
 
 857
-00:34:52,840 --> 00:34:53,719
+00:34:52,840 --> 00:34:53,619
 so how will he see the data of his team?
 
 858
-00:34:54,559 --> 00:34:55,599
+00:34:54,500 --> 00:34:55,599
 He will see the data from this filter.
 
 859
-00:34:58,059 --> 00:35:00,099
+00:34:58,039 --> 00:35:00,079
 This is your show member detail filter.
 
 860
-00:35:02,639 --> 00:35:02,940
-Is it clear?
+00:35:02,639 --> 00:35:02,780
+Clear?
 
 861
-00:35:04,360 --> 00:35:05,599
+00:35:04,260 --> 00:35:05,320
 Yes, sir.
 
 862
-00:35:05,760 --> 00:35:06,780
+00:35:05,760 --> 00:35:07,400
 Very nice.
 
 863
-00:35:08,940 --> 00:35:10,679
+00:35:09,659 --> 00:35:10,820
 Now comes the admission
 
 864
-00:35:11,199 --> 00:35:12,179
+00:35:10,820 --> 00:35:12,179
 follow-up page.
 
 865
-00:35:13,599 --> 00:35:14,000
-Basically,
+00:35:12,260 --> 00:35:13,239
+We will do the reports later.
 
 866
-00:35:15,119 --> 00:35:16,440
-you can add any follow-up.
+00:35:13,800 --> 00:35:15,860
+Basically, guys, you add any follow-up,
 
 867
-00:35:16,929 --> 00:35:17,860
-You can see it in the lead,
+00:35:16,619 --> 00:35:17,840
+you can see it inside the lead,
 
 868
-00:35:18,659 --> 00:35:19,940
-but you need the collective data
+00:35:18,440 --> 00:35:19,900
+but you need collective data
 
 869
-00:35:19,940 --> 00:35:21,300
+00:35:19,900 --> 00:35:21,260
 where all the follow-ups are added.
 
 870
-00:35:21,300 --> 00:35:23,300
-So you will come to the follow-up page.
+00:35:21,260 --> 00:35:23,360
+So you will come to the follow-up page,
 
 871
-00:35:24,019 --> 00:35:25,239
-Here you will get all the data.
+00:35:24,159 --> 00:35:25,360
+here you will get all the data.
 
 872
-00:35:25,820 --> 00:35:27,539
+00:35:25,840 --> 00:35:28,699
 There are 27,912
 
 873
-00:35:28,659 --> 00:35:29,940
+00:35:28,699 --> 00:35:29,960
 follow-ups in total.
 
 874
-00:35:30,480 --> 00:35:31,579
+00:35:30,500 --> 00:35:31,599
 One lead can have multiple
 
 875
-00:35:31,579 --> 00:35:32,079
+00:35:31,599 --> 00:35:32,079
 follow-ups.
 
 876
-00:35:33,300 --> 00:35:34,940
-The same lead can be seen again,
+00:35:33,280 --> 00:35:35,019
+You can see the same lead mark again,
 
 877
-00:35:35,019 --> 00:35:36,039
+00:35:35,079 --> 00:35:36,000
 like this one.
 
 878
-00:35:36,639 --> 00:35:38,519
+00:35:36,639 --> 00:35:38,539
 The lead is same, one follow-up is completed,
 
 879
-00:35:38,679 --> 00:35:39,519
+00:35:38,659 --> 00:35:39,519
 one follow-up pending.
 
 880
-00:35:40,039 --> 00:35:41,500
+00:35:40,019 --> 00:35:41,480
 Here you will see all follow-ups,
 
 881
-00:35:41,719 --> 00:35:42,719
+00:35:41,719 --> 00:35:42,840
 here you will see today's follow-up,
 
 882
@@ -3527,7 +3527,7 @@ here you will see today's follow-up,
 today's follow-ups.
 
 883
-00:35:45,480 --> 00:35:46,920
+00:35:45,519 --> 00:35:46,920
 Upcoming follow-ups are yours,
 
 884
@@ -3539,7 +3539,7 @@ which you have to complete in future.
 You are in the upcoming.
 
 886
-00:35:50,559 --> 00:35:52,380
+00:35:50,519 --> 00:35:52,380
 Overdue follow-ups are yours,
 
 887
@@ -3547,586 +3547,594 @@ Overdue follow-ups are yours,
 which are pending follow-ups.
 
 888
-00:35:55,500 --> 00:35:57,340
+00:35:55,460 --> 00:35:57,360
 Then you have the completed follow-ups
 
 889
-00:35:57,340 --> 00:35:58,179
-which are completed.
+00:35:57,360 --> 00:35:58,059
+which have been completed.
 
 890
-00:35:59,320 --> 00:36:00,239
-Here you can also check
+00:35:59,280 --> 00:36:00,920
+Here you can check counselor-wise
 
 891
-00:36:00,239 --> 00:36:02,039
-counselor-wise follow-ups by setting
+00:36:00,920 --> 00:36:03,139
+follow-ups by setting start date and end date.
 
 892
-00:36:02,039 --> 00:36:03,139
-start date and end date.
+00:36:03,500 --> 00:36:05,000
+You can check how many are completed,
 
 893
-00:36:03,500 --> 00:36:05,000
-You can check how many are completed
+00:36:05,099 --> 00:36:05,880
+how many are pending.
 
 894
-00:36:05,000 --> 00:36:05,880
-and how many are pending.
-
-895
-00:36:06,539 --> 00:36:08,679
+00:36:06,500 --> 00:36:08,619
 This is a report kind of.
 
-896
-00:36:08,940 --> 00:36:09,719
-Is there any doubt?
+895
+00:36:08,940 --> 00:36:09,699
+Any doubts?
 
-897
+896
 00:36:11,250 --> 00:36:12,210
 No, sir.
 
+897
+00:36:13,429 --> 00:36:15,230
+Now the admission lead log page.
+
 898
-00:36:12,210 --> 00:36:14,610
-Now you have admission leads
-
-899
-00:36:14,610 --> 00:36:15,409
-log page.
-
-900
-00:36:15,690 --> 00:36:16,329
+00:36:15,230 --> 00:36:16,389
 Isn't it too much?
 
-901
-00:36:21,110 --> 00:36:22,230
+899
+00:36:17,429 --> 00:36:19,050
+Or you can keep this much.
+
+900
+00:36:21,469 --> 00:36:22,250
 Tell me quickly.
 
+901
+00:36:22,949 --> 00:36:24,329
+Sir, it can be less.
+
 902
-00:36:23,070 --> 00:36:23,929
-Sir, it is not too much.
+00:36:24,630 --> 00:36:25,230
+Perfect.
 
 903
-00:36:24,670 --> 00:36:25,449
-Okay, perfect.
+00:36:26,440 --> 00:36:28,219
+Now we have this admission lead log page.
 
 904
-00:36:26,440 --> 00:36:28,239
-Now we have this admission leads log page.
-
-905
-00:36:28,619 --> 00:36:30,400
+00:36:28,579 --> 00:36:30,380
 Basically, guys, what happens is
 
-906
-00:36:30,400 --> 00:36:32,360
+905
+00:36:30,380 --> 00:36:32,340
 leads come to you from IVR.
 
+906
+00:36:33,179 --> 00:36:34,800
+Rest of the sources you can manage.
+
 907
-00:36:33,719 --> 00:36:34,820
-You can manage other sources,
+00:36:35,079 --> 00:36:36,219
+Website, landing page.
 
 908
-00:36:35,079 --> 00:36:36,239
-like website, landing page.
-
-909
-00:36:40,230 --> 00:36:40,969
+00:36:40,170 --> 00:36:41,070
 One minute, guys.
 
+909
+00:36:57,449 --> 00:36:58,429
+Basically, if you have leads
+
 910
-00:36:57,429 --> 00:36:58,530
-So basically, if you have
+00:36:58,429 --> 00:37:00,829
+from any exercise source,
 
 911
-00:36:58,530 --> 00:37:00,889
-leads coming from any exercise source,
-
-912
-00:37:00,889 --> 00:37:03,070
+00:37:01,570 --> 00:37:02,730
 you can manage them.
 
-913
-00:37:03,389 --> 00:37:04,369
+912
+00:37:02,730 --> 00:37:04,510
 But in the case of IVR,
 
-914
-00:37:04,929 --> 00:37:06,010
-you also need call data.
+913
+00:37:04,969 --> 00:37:06,469
+you need call data as well.
 
-915
-00:37:06,570 --> 00:37:08,590
+914
+00:37:06,590 --> 00:37:08,590
 When calls come, you convert
 
-916
+915
 00:37:08,590 --> 00:37:10,010
 those calls into logs in the lead.
 
-917
-00:37:10,909 --> 00:37:12,769
+916
+00:37:10,929 --> 00:37:12,769
 You are receiving the calls
 
-918
+917
 00:37:12,769 --> 00:37:14,369
 directly into this particular page
 
-919
-00:37:14,369 --> 00:37:16,550
+918
+00:37:14,369 --> 00:37:16,610
 and then you are converting them
 
-920
-00:37:16,550 --> 00:37:17,989
+919
+00:37:16,610 --> 00:37:18,030
 into a lead log.
 
-921
-00:37:19,269 --> 00:37:20,030
+920
+00:37:19,269 --> 00:37:20,010
 Logs are created.
 
-922
-00:37:20,369 --> 00:37:21,789
+921
+00:37:20,369 --> 00:37:21,769
 But how to add them in the lead,
 
-923
-00:37:21,929 --> 00:37:22,949
+922
+00:37:21,909 --> 00:37:22,769
 you will do it from here.
 
-924
-00:37:24,050 --> 00:37:25,309
+923
+00:37:23,989 --> 00:37:25,329
 Basically, what happens is
 
-925
-00:37:25,309 --> 00:37:26,590
+924
+00:37:25,329 --> 00:37:26,510
 we have to integrate IVR
 
-926
-00:37:26,590 --> 00:37:28,070
+925
+00:37:26,510 --> 00:37:27,989
 with the respective partner.
 
-927
-00:37:28,980 --> 00:37:31,300
-So the calls that come to the counselors
+926
+00:37:27,989 --> 00:37:31,219
+So, the calls that come to the counselors
 
-928
-00:37:31,300 --> 00:37:33,260
+927
+00:37:31,219 --> 00:37:33,179
 will automatically land on this page.
 
+928
+00:37:33,579 --> 00:37:34,599
+That is a received call,
+
 929
-00:37:33,559 --> 00:37:34,639
-It is a received call,
+00:37:34,760 --> 00:37:35,579
+that is a missed call.
 
 930
-00:37:34,760 --> 00:37:35,579
-it is a missed call.
+00:37:35,739 --> 00:37:37,139
+You can check which counselor
 
 931
-00:37:35,739 --> 00:37:37,159
-You can check which two counselors
-
-932
-00:37:37,159 --> 00:37:37,739
+00:37:37,139 --> 00:37:37,739
 you have picked.
 
+932
+00:37:39,380 --> 00:37:41,639
+By default, caller info and all these things
+
 933
-00:37:39,300 --> 00:37:42,099
-By default, caller info and all these things are blank.
+00:37:41,639 --> 00:37:43,860
+are blank because you don't know
 
 934
-00:37:42,460 --> 00:37:44,780
-Because you don't know whose phone it is on the phone.
+00:37:43,860 --> 00:37:44,760
+whose phone it is.
 
 935
-00:37:44,880 --> 00:37:45,639
-It comes from random numbers.
+00:37:45,900 --> 00:37:48,559
+So, when you call back
 
 936
-00:37:46,559 --> 00:37:49,059
-So when you call back the student,
+00:37:48,559 --> 00:37:50,159
+the student, then post
 
 937
-00:37:49,659 --> 00:37:51,320
-then post discussion with the student,
+00:37:50,159 --> 00:37:51,340
+discussion with the student,
 
 938
 00:37:51,500 --> 00:37:52,659
 you will add the name.
 
 939
-00:37:52,719 --> 00:37:54,099
-I have added one here.
+00:37:52,800 --> 00:37:56,360
+I have added the name.
 
 940
-00:37:54,099 --> 00:37:56,800
-I have added the date here.
+00:37:56,360 --> 00:37:57,920
+I have added which stream
 
 941
-00:37:57,059 --> 00:37:58,559
-Which stream is it in, I have added that.
+00:37:57,920 --> 00:37:58,260
+I am in.
 
 942
-00:37:58,639 --> 00:37:59,500
-That means my call is done.
+00:37:58,699 --> 00:38:01,679
+Now, the point is you can check
 
 943
-00:38:00,500 --> 00:38:01,679
-Now the point is, from here you can check
-
-944
-00:38:01,679 --> 00:38:03,619
+00:38:01,679 --> 00:38:04,019
 the recording of the call directly.
 
-945
-00:38:05,090 --> 00:38:06,409
+944
+00:38:05,170 --> 00:38:06,449
 You will have to log in.
 
+945
+00:38:12,219 --> 00:38:13,380
+So, from here,
+
 946
-00:38:11,840 --> 00:38:13,579
-So from here you can check
+00:38:13,599 --> 00:38:14,579
+you can check the calls.
 
 947
-00:38:13,579 --> 00:38:15,019
-the experts of the calls.
-
-948
-00:38:15,980 --> 00:38:16,780
+00:38:15,219 --> 00:38:17,099
 Is that clear, Rajesh?
 
-949
-00:38:21,190 --> 00:38:22,050
+948
+00:38:21,210 --> 00:38:22,090
 Yes, sir.
 
-950
-00:38:22,409 --> 00:38:23,550
+949
+00:38:22,449 --> 00:38:23,590
 Very good.
 
+950
+00:38:59,619 --> 00:38:59,860
+So,
+
 951
-00:38:59,260 --> 00:39:01,300
-So from here you can check
+00:39:00,559 --> 00:39:01,320
+from here, you can check
 
 952
-00:39:01,300 --> 00:39:02,699
-the respective records.
+00:39:01,320 --> 00:39:03,260
+the respective recordings.
 
 953
-00:39:03,340 --> 00:39:05,920
-From here you have to convert the log.
+00:39:03,659 --> 00:39:05,940
+From here, you have to convert the log.
 
 954
-00:39:06,139 --> 00:39:07,539
-So you can also convert from here.
+00:39:05,940 --> 00:39:07,519
+So, you can convert it from here.
 
 955
-00:39:08,059 --> 00:39:09,139
-From here you have to reject
+00:39:08,059 --> 00:39:09,239
+From here, you have to reject
 
 956
-00:39:09,139 --> 00:39:10,719
-that if the student is not interested,
+00:39:09,239 --> 00:39:10,719
+if the student is not interested.
 
 957
-00:39:10,900 --> 00:39:11,820
-then you can also reject it.
+00:39:12,760 --> 00:39:14,199
+If you have called
 
 958
-00:39:12,840 --> 00:39:15,079
-If you have called and the student
+00:39:14,199 --> 00:39:15,840
+and the student has not picked the call,
 
 959
-00:39:15,079 --> 00:39:16,380
-has not picked the call, then you can
+00:39:15,960 --> 00:39:16,460
+then you can accept the call.
 
 960
-00:39:16,380 --> 00:39:16,940
-call not mark.
+00:39:18,329 --> 00:39:20,190
+Here, you have multiple filters.
 
 961
-00:39:18,389 --> 00:39:20,150
-Here you have multiple filters.
+00:39:20,769 --> 00:39:22,010
+You can check the converted logs
 
 962
-00:39:20,750 --> 00:39:22,309
-The converted logs, you can check
-
-963
-00:39:22,309 --> 00:39:23,170
+00:39:22,010 --> 00:39:23,250
 from here.
 
+963
+00:39:24,969 --> 00:39:25,909
+So, you will know
+
 964
-00:39:24,849 --> 00:39:27,489
-So you will know how many we have converted from here.
+00:39:25,909 --> 00:39:27,210
+how many we have converted.
 
 965
-00:39:28,110 --> 00:39:29,050
-How many pending are there,
+00:39:27,889 --> 00:39:28,949
+You can check the pending.
 
 966
-00:39:29,130 --> 00:39:30,230
-you can check that.
+00:39:30,469 --> 00:39:32,010
+Check the call status,
 
 967
-00:39:30,230 --> 00:39:32,369
-Check the status of the call,
+00:39:32,510 --> 00:39:33,510
+how many received calls you have.
 
 968
-00:39:32,550 --> 00:39:33,929
-how many received calls you have,
+00:39:33,510 --> 00:39:35,469
+You can also check the received calls.
 
 969
-00:39:33,929 --> 00:39:35,449
-you can check the received calls.
+00:39:36,550 --> 00:39:37,550
+If you want specific
 
 970
-00:39:36,630 --> 00:39:38,309
-If you want specific counselor
+00:39:37,550 --> 00:39:38,969
+counselor data,
 
 971
-00:39:38,309 --> 00:39:40,150
-data, then you can also do that.
+00:39:39,230 --> 00:39:40,150
+you can also do that.
 
 972
-00:39:42,380 --> 00:39:44,099
+00:39:42,340 --> 00:39:44,079
 Sir, what is this source?
 
 973
-00:39:45,530 --> 00:39:46,349
+00:39:45,489 --> 00:39:46,349
 What is this source?
 
 974
-00:39:46,730 --> 00:39:47,550
-Basically the source,
+00:39:46,710 --> 00:39:48,750
+Basically, the source, the MyOperator
 
 975
-00:39:47,869 --> 00:39:49,449
-the MyOperator here, is your
+00:39:48,750 --> 00:39:50,170
+is your IBR partner.
 
 976
-00:39:49,449 --> 00:39:50,170
-IBR partner.
+00:39:51,289 --> 00:39:53,030
+So, we keep the source here
 
 977
-00:39:51,349 --> 00:39:53,050
-So that is why we keep the source here,
+00:39:53,030 --> 00:39:54,230
+that which source leads to which log.
 
 978
-00:39:53,130 --> 00:39:54,329
-which source leads to you.
+00:39:55,050 --> 00:39:56,690
+So, the source is MyOperator.
 
 979
-00:39:55,050 --> 00:39:56,869
-The source MyOperator.
+00:39:58,730 --> 00:40:02,489
+So, we set
 
 980
-00:39:59,690 --> 00:40:01,769
-So we set the config
+00:40:02,489 --> 00:40:03,769
+in the admission setup.
 
 981
-00:40:05,670 --> 00:40:06,710
-MyOperator config,
+00:40:05,570 --> 00:40:06,469
+MyOperator config.
 
 982
-00:40:07,050 --> 00:40:08,309
-here the secret token goes,
+00:40:07,070 --> 00:40:08,269
+Here, the secret token goes,
 
 983
 00:40:08,389 --> 00:40:10,070
-company ID goes, IBR ID goes,
+company ID goes, IBR ID goes
 
 984
-00:40:10,250 --> 00:40:11,230
+00:40:10,070 --> 00:40:11,150
 and its KPI goes.
 
 985
-00:40:13,030 --> 00:40:14,090
-Okay, we are not doing much today.
+00:40:12,989 --> 00:40:13,989
+We are not doing much today.
 
 986
-00:40:14,210 --> 00:40:14,869
-Otherwise it will be very confusing.
+00:40:14,150 --> 00:40:14,869
+Otherwise, it will be very confusing.
 
 987
-00:40:17,090 --> 00:40:18,250
+00:40:17,150 --> 00:40:18,289
 As much as you have done, it is clear.
 
 988
-00:40:20,820 --> 00:40:21,559
-Yes sir.
+00:40:20,820 --> 00:40:21,639
+Yes, sir.
 
 989
-00:40:21,659 --> 00:40:22,719
-Yes sir, it is clear.
+00:40:23,369 --> 00:40:27,579
+Sir, what is the purpose
 
 990
-00:40:25,840 --> 00:40:27,219
-Yes sir, it is clear.
+00:40:29,300 --> 00:40:31,440
+of MyOperator?
 
 991
-00:40:29,500 --> 00:40:29,940
-Sir, what is the purpose of
+00:40:31,900 --> 00:40:33,440
+What does it mean exactly?
 
 992
-00:40:30,920 --> 00:40:33,440
-MyOperator? What does it mean exactly?
+00:40:35,039 --> 00:40:36,599
+Your MyOperator is an IBR.
 
 993
-00:40:35,000 --> 00:40:36,000
-Your MyOperator is
+00:40:36,599 --> 00:40:39,119
+So, the calls
 
 994
-00:40:36,000 --> 00:40:36,599
-an IBR.
+00:40:39,119 --> 00:40:40,760
+that come to your counselors or
 
 995
-00:40:38,280 --> 00:40:39,940
-So the calls that come to your
+00:40:40,760 --> 00:40:42,260
+your admission team,
 
 996
-00:40:39,940 --> 00:40:42,239
-counselors or your admission team,
+00:40:42,280 --> 00:40:44,420
+they are directly linked to an app.
 
 997
-00:40:42,280 --> 00:40:44,039
-they land directly on an app.
+00:40:44,659 --> 00:40:46,719
+If you have called for an admission,
 
 998
-00:40:44,679 --> 00:40:46,059
-So if you have called
+00:40:47,420 --> 00:40:48,960
+then the call goes to an IBR number.
 
 999
-00:40:46,059 --> 00:40:47,739
-for an admission, then
+00:40:49,300 --> 00:40:50,500
+Then that call connects to your counselor.
 
 1000
-00:40:47,739 --> 00:40:49,519
-the call goes to an IBR number, then
+00:40:52,239 --> 00:40:52,820
+So,
 
 1001
-00:40:49,519 --> 00:40:50,500
-that call connects to your counselor.
+00:40:53,480 --> 00:40:54,920
+MyOperator is a mediator.
 
 1002
-00:40:52,940 --> 00:40:54,059
-So MyOperator
+00:40:55,199 --> 00:40:56,360
+I would say the IBR,
 
 1003
-00:40:54,059 --> 00:40:55,980
-is a mediator, and I would say the
+00:40:56,639 --> 00:40:58,380
+the student who has called,
 
 1004
-00:40:55,980 --> 00:40:57,860
-IBR, the student
+00:40:58,579 --> 00:41:00,039
+first the call goes to the IBR.
 
 1005
-00:40:57,860 --> 00:41:00,039
-who called first, goes to the IBR.
+00:41:00,699 --> 00:41:02,880
+The IBR checks which counselor
 
 1006
-00:41:00,719 --> 00:41:01,920
-The IBR checks
+00:41:02,880 --> 00:41:03,940
+is free at that time.
 
 1007
-00:41:01,920 --> 00:41:03,980
-which counselor is free at that time.
+00:41:03,940 --> 00:41:05,960
+So, that call is transferred
 
 1008
-00:41:03,980 --> 00:41:05,960
-So that call is transferred
+00:41:05,960 --> 00:41:08,000
+to the counselor from there.
 
 1009
-00:41:05,960 --> 00:41:06,460
-to that counselor.
+00:41:09,460 --> 00:41:10,639
+So, when the call
 
 1010
-00:41:08,179 --> 00:41:08,820
-Okay, okay.
+00:41:10,639 --> 00:41:11,239
+is transferred to the counselor
 
 1011
-00:41:09,139 --> 00:41:11,280
-So when the call is transferred to the counselor
+00:41:11,239 --> 00:41:12,920
+and the student creates it,
 
 1012
-00:41:11,280 --> 00:41:14,159
-and the student creates it, then the IBR mediator
+00:41:13,199 --> 00:41:14,920
+then the IBR mediator,
 
 1013
-00:41:14,780 --> 00:41:15,460
-that comes in the middle, it has
+00:41:14,920 --> 00:41:17,199
+it keeps getting logs that
 
 1014
-00:41:15,460 --> 00:41:18,199
-laws that this call was hit,
+00:41:17,199 --> 00:41:19,539
+this call was hit, this call was reverted,
 
 1015
-00:41:18,599 --> 00:41:20,239
-this call was reverted, this response
+00:41:19,760 --> 00:41:20,920
+this response came that it was picked,
 
 1016
-00:41:20,239 --> 00:41:22,059
-was picked, missed, how much time
+00:41:21,079 --> 00:41:22,400
+missed, how much time was talked,
 
 1017
-00:41:22,059 --> 00:41:24,119
-was talked, then that data is pushed
+00:41:22,619 --> 00:41:24,119
+then that data is pushed to us.
 
 1018
-00:41:24,119 --> 00:41:25,760
-to us. Okay.
+00:41:26,179 --> 00:41:27,300
+So, the IBR,
 
 1019
-00:41:26,260 --> 00:41:28,159
-So IBR, this MyOperator,
+00:41:27,400 --> 00:41:29,059
+this is an IBR,
 
 1020
-00:41:28,219 --> 00:41:30,320
-this is an IBR, which is
+00:41:29,159 --> 00:41:32,260
+which is able to
 
 1021
-00:41:33,000 --> 00:41:34,280
-able to
+00:41:32,260 --> 00:41:34,260
+get the records of those particular calls.
 
 1022
-00:41:34,280 --> 00:41:35,019
-connect to the counselor.
+00:41:34,599 --> 00:41:35,980
+After that, the records of the calls
 
 1023
-00:41:35,400 --> 00:41:38,239
-Then it hits back to us.
+00:41:35,980 --> 00:41:38,219
+come to this, then it hits back to us.
 
 1024
-00:41:41,769 --> 00:41:43,610
-In the advanced one, I guess
+00:41:42,289 --> 00:41:43,110
+In the advance one,
 
 1025
-00:41:43,610 --> 00:41:45,690
-a lot is completed.
+00:41:43,289 --> 00:41:45,710
+I guess a lot has been completed.
 
 1026
-00:41:46,489 --> 00:41:48,449
-You guys are left with the
+00:41:46,429 --> 00:41:47,449
+You guys are left
 
 1027
-00:41:48,449 --> 00:41:50,130
-report sections only.
+00:41:47,449 --> 00:41:49,170
+with the report sections
 
 1028
-00:41:56,150 --> 00:41:56,610
-Okay.
+00:41:49,170 --> 00:41:50,190
+only.
 
 1029
-00:41:57,989 --> 00:41:58,789
-Any doubts
+00:41:52,869 --> 00:41:54,110
+I will tell you this.
 
 1030
-00:41:59,780 --> 00:42:01,360
-in this part?
+00:41:57,449 --> 00:41:58,809
+Any doubts
 
 1031
-00:42:02,489 --> 00:42:03,210
-Do the Q&A session
+00:41:59,800 --> 00:42:01,360
+in this part?
 
 1032
-00:42:03,210 --> 00:42:06,570
-again, because it's already 6.22.
+00:42:02,449 --> 00:42:03,170
+Do the Q&A session
 
 1033
-00:42:06,659 --> 00:42:08,199
-I'll piss out.
+00:42:04,570 --> 00:42:05,789
+because it is already
+
+1034
+00:42:05,789 --> 00:42:06,670
+6.22.
+
+1035
+00:42:07,500 --> 00:42:07,980
+Okay, sir.
 

@@ -1,0 +1,49 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Source Groups",
+    "summary": "Admission Source Groups allow users to categorize multiple individual admission sources (e.g., website, social media, third-party vendors) into broader logical groups. This consolidation simplifies reporting and provides a combined view of lead data from related sources.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Source Group"
+    ],
+    "steps": [
+        "1. Navigate to Admission Setup > Admission Master > Source Group.",
+        "2. Click 'Add New Details'.",
+        "3. Enter a name for the source group (e.g., 'Organic Sources', 'Inorganic Sources', 'Third Party Vendors').",
+        "4. Select the individual admission sources that belong to this group from the available list.",
+        "5. Click 'Save'."
+    ],
+    "business_rules": [
+        "Source groups enable consolidated reporting, allowing users to view combined data for all sources within a group."
+    ],
+    "important_notes": [
+        "This feature is particularly useful for organizations with a large number of diverse admission sources that need to be analyzed collectively."
+    ],
+    "questions": [
+        "How do I create a new admission source group?",
+        "What is the purpose of grouping admission sources?",
+        "Can I include multiple individual sources in one source group?",
+        "How do source groups impact admission reports?",
+        "What are examples of common source groups?"
+    ],
+    "keywords": [
+        "Admission source group",
+        "Source categorization",
+        "Organic sources",
+        "Inorganic sources",
+        "Third-party vendors",
+        "Source-wise report",
+        "Lead source management"
+    ],
+    "related_topics": [
+        "Admission Sources",
+        "Reports"
+    ],
+    "id": "admissions_admission_source_groups",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Trigger Logic and Defaulting",
+    "summary": "This topic explains the critical concept that the ERP system prints a template based on the trigger (the action initiated by the user, e.g., 'Print Fee Receipt'), not necessarily the name or code assigned to the template itself. It also covers how to activate/deactivate templates using the default toggle.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "When configuring a template, locate the 'Default' toggle.",
+        "Turn the 'Default' toggle ON to activate the template for printing.",
+        "Turn the 'Default' toggle OFF to deactivate the template."
+    ],
+    "business_rules": [
+        "The template associated with a specific trigger (e.g., 'Print Fee Receipt' button) will be printed, regardless of the template's name or internal code, if that trigger is hard-linked to a specific template.",
+        "If multiple templates are defaulted ON for the same trigger/context, the system will print the first one in the series (based on internal code logic).",
+        "If a template is defaulted ON, it will be printed. If it's defaulted OFF, the previously active template will be printed. If no template is defaulted ON, a backend default template will be used."
+    ],
+    "important_notes": [
+        "Always verify the code and the trigger association to ensure the correct template is printed.",
+        "A common mistake is selecting a 'Fee Receipt' template type but linking it to a 'Bonafide Certificate' code, resulting in a bonafide certificate printing when a fee receipt is requested.",
+        "The 'Set Default' button activates or inactivates a template.",
+        "For some specific cases (e.g., ID cards for different schools), multiple defaults might be allowed."
+    ],
+    "questions": [
+        "Why is the wrong certificate printing when I click 'Print Fee Receipt'?",
+        "How do I make a specific template the default one?",
+        "What happens if I have multiple default templates for the same item?",
+        "What is the purpose of the 'Set Default' button?"
+    ],
+    "keywords": [
+        "template trigger",
+        "default template",
+        "print logic",
+        "template activation",
+        "template inactivation",
+        "set default",
+        "bonafide certificate",
+        "fee receipt",
+        "printing error"
+    ],
+    "related_topics": [
+        "PDF Template Configuration",
+        "PDF Template Customization and Variables",
+        "Debugging PDF Template Variables"
+    ],
+    "id": "institute_setup_pdf_template_trigger_logic_and_defaulting",
+    "source": {
+        "file": "9. 720p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

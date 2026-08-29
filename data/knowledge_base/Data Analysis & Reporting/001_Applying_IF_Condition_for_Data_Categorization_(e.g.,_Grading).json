@@ -1,0 +1,63 @@
+{
+    "module": "Data Analysis & Reporting",
+    "topic": "Applying IF Condition for Data Categorization (e.g., Grading)",
+    "summary": "This topic explains how to use the IF condition, including nested IF statements, to categorize data based on numerical thresholds. The example demonstrates assigning grades (A, B, Fail) to students based on their total marks.",
+    "navigation": [],
+    "steps": [
+        "Identify the data field to be evaluated (e.g., 'Total' marks).",
+        "Define the conditions and corresponding outcomes (e.g., >=90 for 'A', >=80 for 'B', otherwise 'Fail').",
+        "Start the formula with '=IF(' in the desired output cell.",
+        "Enter the first logical test: 'Total >= 90'.",
+        "Specify the value if the first test is true: '\"A\"'.",
+        "For the value if the first test is false, nest another IF statement: 'IF('.",
+        "Enter the second logical test: 'Total >= 80'.",
+        "Specify the value if the second test is true: '\"B\"'.",
+        "Specify the value if the second test is false (meaning neither of the above conditions are met): '\"Fail\"'.",
+        "Close all open brackets: '))'.",
+        "The complete formula will be: '=IF(Total >= 90, \"A\", IF(Total >= 80, \"B\", \"Fail\"))'."
+    ],
+    "business_rules": [
+        "If a student's total marks are 90 or greater, the assigned grade is 'A'.",
+        "If a student's total marks are 80 or greater (and less than 90), the assigned grade is 'B'.",
+        "If a student's total marks are less than 80, the assigned grade is 'Fail'."
+    ],
+    "important_notes": [
+        "The formula uses nested IF statements to handle multiple categorization conditions.",
+        "The order of conditions in nested IF statements is crucial; typically, start with the highest threshold.",
+        "The last 'Value if False' in a nested IF acts as the default outcome if no preceding conditions are met."
+    ],
+    "questions": [
+        "How do I use the IF condition to assign grades based on student marks?",
+        "Can I use nested IF statements to apply multiple grading criteria in a report?",
+        "What is the formula for categorizing data into 'A', 'B', or 'Fail' based on a score?",
+        "How can I set up conditional logic for performance tiers in an ERP custom report or calculated field?",
+        "Explain the structure of an IF formula with multiple conditions."
+    ],
+    "keywords": [
+        "IF condition",
+        "nested IF",
+        "data categorization",
+        "grading logic",
+        "conditional logic",
+        "student marks",
+        "grade calculation",
+        "logical test",
+        "data analysis",
+        "reporting formula"
+    ],
+    "related_topics": [
+        "VLOOKUP Function",
+        "CONCATENATE Function",
+        "TRIM Function",
+        "TRANSPOSE Function",
+        "COUNTIF Function",
+        "Custom Fields and Formulas",
+        "Report Design"
+    ],
+    "id": "data_analysis_reporting_applying_if_condition_for_data_categorization_e_g_grading",
+    "source": {
+        "file": "8. Okie Dokie Rahul - 20260708 1630 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

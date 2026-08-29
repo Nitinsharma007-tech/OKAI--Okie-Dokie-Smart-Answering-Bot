@@ -1,0 +1,269 @@
+Okay.
+Basically, I said module means
+Basically, I said module means student module to the student
+student module to the student information module.
+student information system.
+student list.
+basic topics.
+student module.
+first login.
+student module.
+student module.
+student.
+student.
+student.
+student.
+student list.
+student.
+student.
+student.
+All students present in our
+All students present in our list.
+student list.
+student list.
+student.
+student.
+student.
+student list.
+student.
+number of students.
+number of students.
+institute.
+screen.
+2525 students.
+student.
+filter.
+filter.
+filter.
+that means
+specific category.
+134.
+134.
+134.
+134.
+134.
+134.
+134.
+134.
+student.
+student.
+student.
+student.
+student.
+new student.
+new student.
+student.
+I'm going to put it on the screen.
+in case.
+Action. Action.
+student.
+student.
+profile picture.
+same option.
+there after.
+basic details.
+for example.
+student.
+default.
+default.
+for example.
+display name.
+for example.
+personal.
+student.
+option.
+change.
+number.
+save.
+student.
+details.
+details.
+details.
+student.
+details.
+transport.
+assign.
+for example.
+assign.
+system.
+system.
+select.
+by default.
+assignment.
+assignment.
+student.
+subject.
+complete details.
+subject.
+student.
+this.
+student.
+student.
+student.
+details.
+student.
+change.
+edit.
+edit.
+save.
+documents.
+student.
+for example.
+for example.
+student.
+student.
+for example.
+for example.
+for example.
+for example.
+document.
+student.
+both number series is auto-generated. Then admission number is our primary,
+on which we can search the student. Thereafter, there is a roll number field,
+you have to assign a roll number separately, you can see that here.
+ID, student name, I am adding a student for myself. Basic date of birth, whenever you add,
+while adding, if your pink line field is required, it means you have to add those details mid-day.
+For example, if you have not added father qualification, mother qualification,
+then you can also add students without any information.
+For example, father name or mother.
+The student that I have added is the one with the name of the tummy, 123456.
+Apart from this, you have excel upload. You can also use excel upload in bulk.
+First option is add student. From here, you can add students in bulk.
+There is a sample file for this, sample means sample excel.
+By downloading this sample excel and adding data to it, your student gets added.
+If you have not filled the data before, then the student does not get added, it shows you the error.
+You can add from excel, you can try it on your own.
+You have to fill the same basic details in this as well.
+Then we have after the student list, we have student list course wise as well.
+Student list course wise. Now the student list that you have seen,
+it has all the complete data.
+Student list course wise.
+For example, a teacher who is only a class 1 teacher, he has only class 1 data.
+The main purpose was that if there is a class teacher, he only has to show his class to his students.
+For that, we have student list course wise.
+If you have any query, you can add a new student from here.
+You have to export this data in excel. You can also export this data in excel by clicking on this.
+Then we have the student certificates.
+Student certificates basically in the institute, you can print the student's character certificate.
+You can print his ID card, library card.
+You can print all these certificates from here.
+You have the option to search for a single student.
+You can search by name.
+You can search by name.
+By default, you can print all the certificates.
+You can also use the same filter.
+You can also use the same filter.
+You can also give this certificate by entering the details.
+By default, you have to enter the details.
+You have to enter the details.
+If you save from here, you can print it.
+Then you have the option to print and inactive.
+the student really were all right top it's a don't be auctioneers to print
+that case at the strength of inactive bird for example massive popcorn print
+that get the father to get yeah yeah yeah mara print this cop set that's up
+there all right chicken is the rest of our DC certificate print that's a clear
+yes from us a institute to have a certificate print that's a certificate
+certificate student ledger has student ledger to get tuition fee certificate
+we have coffee can you take a certificate up about that college
+because we basically use with a student ID card admit card appreciation
+certificate I did I did you just sit up with students gosh is there is a different
+certificates rent a printer to get your student ID card at Institute student
+certificate any option for bulk print let's say key case are they and would
+you say I'm gonna get bit card one other guy let's look okay I think about they
+go for example much enough bulk printer that many students selected a ginger
+printer for example you just student Anna meeting student and in come on
+bulk print bulk print up ID card because of the bulk map the cap renting
+they go bulk makes a top ID card printer and you'll sit there in a bulk may admin
+cut rate turn you'll sit there to go Sarah that yeah pass bulk me ID card
+okay many team student select here the way bus three students going to get
+selected okay yeah print option a new bulk print set table after I'm just a
+character certificate have a sub-a put on a balcony then you'll take a CD a
+mission teacher this year right so how many of the basic setup for the student
+feedback to get enough quick entity because you can then I'm a student
+feedback already set up a student feedback and then I'm a good basic set up
+kind of this like you go to a student feedback after enable or check again to
+Institute set up can't help it you can't pass that they have a student master
+set up to get this kind of care out there up for a student feedback set up
+a student feedback type or student feedback category to get to student
+feedback type is there a couple student co-feedback dinner either positive
+feedback or something negative feedback or something neutral or something to get
+your drop-down Institute like a gate cry it's a positive feedback or something
+negative or neutral ticket feedback that I thereafter feedbacking category
+you will kiss category got feedback in a chart that's it back else at the
+academy performance was up here and a sports host of that co-curricular
+rose up there was a little bit more to do something for example they said that
+we sports key academy key co-curricular use the level of yeah okay categories
+was at the head drop student feedback within a clip and I said they're behavior
+class behavior came in or I'm lucky just say behavior was up there I will
+understand that to get three up the categories would have a basic set up
+just that feedback set up a little bit to student feedback type or feedback
+category you go to set up a feedback they guess is a teacher those capacity a
+student can the fourth option of the student feedback to get this go Jesse
+up open click karo game filter page on a poor chicken by default up a sorry
+classes for data for example class monkey teacher co-student got feedback
+this is student car feedback section and yeah has a feedback this up to date to
+get feedback cut I tell yeah I'm poor title open up open the clear private
+open private means go there for example you do feedback there you know man
+student car many were open use key at the means other teachers will be a
+student car feedback show feedback report of tears me to get all student
+private means to the teacher data here or just the student is open private
+coming yes yeah I'm a master when I am a student got feedback negative then I
+had neutral then I have positive then I'm oh then poncy category got feedback
+there you may look at mix key they know to get or manage if good feedback
+description and attachment fine attachment up here so what that's good
+to get then a person a kiss and notification that before it's coming in
+get out there come on a password a student app I'm gonna take you yeah
+just means to me happens we have just map operate cut to the except up not
+data they accept you know up me free deposit because this is a gap with the
+institute so student up me at pay up enough feedback they suck it to get to
+notification
+or a job feedback add to the student time when we show them up to pass
+student list up a student list me just be sure and got feedback I don't know
+what's the student key timelines except there's many student click yeah it's a
+student time line up here to get this particular okay it's major job major
+population here you go you have to ask them up here so they suck the up major
+use the feedback at the update to get the feedback in the area student feedback
+access at the answer so that's gonna be sick up the set up for them to get it
+may in char options may actually be queries no matter you can't then how
+scholar ID of the scholar I need to be a my pasta a can't eat a he is making a
+student go home news keys caller ID said yeah that's all that an admission
+number to go up a scholar ID system into actor up there to get to a mighty
+scholar idea to get scholar ID update got a student under a classic option that
+updates caller ID come here to get this papo click on it
+student car data yeah just for example which is a student is caller I didn't
+really update Karni a mess pick a movie at it yeah up a job you just kept
+change Karni a more take a safer to me to a change of a chicken please ma'am
+repeat come nice a query they will scholar ID out there student gonna
+admission number up about our home student quite easy unique numbers a
+actor there for example class one I was missing name give what sort of student
+edit I didn't click on okay yeah I say I'll update go to a job you have to
+then I say for the little data say go to a student and then you have to make a
+update smaller I think it was scale our student got high to rate update gonna
+will be happy I submit because of those simple I basically just a teacher I
+you know teacher can't get that teachers roll numbers we update got the upper
+butter over her a class can the teacher of me roll number update because of the
+answer get up now height or weight students go update because of the
+update height we have to click here up we asked me class like to turn here this
+class kiss wouldn't have a bit when such a class fun yeah my section yeah section
+naked look at okay so class a gap key yeah yeah data upload where we get my
+bones a class kiss student around the details are here up move your job date
+kind of skin you have to get another label select gonna keep music update
+kind of height yeah wait for example move your weight update kind of many bits
+student key details are we then we should update gather their music height update
+can you student key to get here already updated is smell up in key so they go
+it's no question you're a chip that many added details pick me I did pick
+yeah three editable oh yeah check it update yeah or yeah ha ha pass bottom me
+jessie up or they will a be up in a sara enter got a time to get then update
+serial numbers in a select kind of a specific option I'll tell you update
+obviously click on any update or drive up a successful message I'll get you up
+make it a student stop date yeah yeah yeah hi to the great students he gets
+them take the same in the data up go fetch kind of topics back so the best
+speakers up to give us came back next time I pass that enrollment number or
+rule number German student course I'm gonna be there yeah because a classman
+under 50 students have those kids student you go roll over to me and tell
+me to get the whole same class left curry class money can you give me a class
+money can you pass list of it right after that editable new got that my edit
+roll number pick me up as reset option that I for example which is class
+clear a point same option excel
+student list student list course wise certificates feedback or the which
+updations admission number height weight roll number yes

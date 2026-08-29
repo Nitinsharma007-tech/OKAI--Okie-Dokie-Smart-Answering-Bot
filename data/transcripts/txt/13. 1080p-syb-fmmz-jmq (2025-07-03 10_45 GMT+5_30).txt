@@ -1,0 +1,402 @@
+First login, the first screen that is visible, we have to make it a dashboard.
+So the first section will be student module, SAS module.
+On the left side, you have student.
+As soon as you click on it, all the reports and information related to the student will be shown to you.
+So the first one is student list.
+What do you think of student list?
+List of all students present in our list.
+Can we export the data from here?
+Any guesses?
+You can speak.
+Interactive session will be clear to you.
+Now tell me whatever you think.
+Student list is basically the data of the student.
+We can see the student in our institute, class list, etc.
+As soon as we click on the student list, the data of all the students present in the institute will be shown.
+You can scroll down and see the total number of students present in the institute in this session.
+Then here, item bar page.
+The more you increase it, the more data you will show on the screen.
+If I increase it to 25, then I will have 25 students' data on the screen.
+So this is your screen where the data of the student is shown.
+Now you have the option of filter.
+This filter option is available to you most of the time.
+Filter means you have to search the data according to yourself.
+For example, I want to see the data of a particular class.
+For example, I want to see the data of a nursery class.
+I want to see the data of only one section of the nursery class.
+If I don't want to use all these categories, then I can unselect them and filter them.
+If I filter, then all the students of the nursery class have been shown.
+Now what I have to do in this, if I have a specific category in the filter, general 134A, then our fee category is there.
+You must have seen that in the case of schools, there are students who are in the general category.
+Have you ever heard of RTE 134A?
+Have you ever heard of RTE 134A category?
+Not me, I haven't.
+In the case of schools, some students are given specific comments for which fees are not paid.
+So these categories are made.
+So this is the fee category.
+Its impact is on the fees.
+What fees are going to be paid?
+We have old and new for the students.
+So you must understand that the students are the new students for this session or the old students.
+For example, I want the data of only one old student in the A section of the nursery class.
+So if I filter like this, then there are no old students here.
+If I filter like this, then there are no new students here.
+Now you have a list of all the students on the screen.
+In case you want to view the details of the student, then how can I do that?
+There is an action here.
+In the action, click view.
+As soon as you click view, the detail of the student will be opened.
+My first student is opened.
+The name of the student.
+If I want, I can also update the profile picture.
+I have the same option to update.
+Thereafter, here are the details of the student.
+If I want to change something, here are some other details.
+Here are the basic details of the student.
+For example, his personal details.
+This is the student field.
+Do you remember the fields that you were adding in the entity setup?
+The default fields that you are setting are these default fields.
+From there, for example, there is a gender field.
+Instead of gender, you have to put some other name here.
+You can change the display name from there.
+Those fields are all coming here.
+Some of them are blank.
+For example, you have to put personal details of the student.
+In every option, there is an edit option.
+If I want to change something in this section, I will edit it here.
+Then here is the number that I want to put.
+I will save it and it will be saved.
+In this way, you can edit any detail.
+His phone number, his parent details, anything.
+These were the personal details of the student.
+His parent details.
+Then there is the wickle details.
+Wickle details means which wickle is assigned to the student.
+Here are the wickle details.
+For example, there is a student.
+He can be transported to the institute.
+How can we assign the transport to the student?
+That is your wickle details.
+For example,
+I want to assign a transport.
+I click on assign route.
+A pop-up window opens.
+Whatever you have imported in the system, wickle, routes,
+you will select from here.
+Whatever amount you have put by default,
+you have to put it in this installment.
+You have to put the amount in April, May, June.
+You can assign it from here.
+Basically, wickle details of the student are there.
+Then if the student wants to get a hostel,
+then the hostel details will be there.
+The subject details will be there.
+The subject assigned will be there.
+So this is the UI.
+This is your page.
+The complete details of the student will be there.
+Whether it is your fee,
+or the subject details.
+Ma'am, basically, this whole display is called SIS.
+Yes.
+Actually, there is a lot more in SIS.
+It is not just SIS.
+This is not student list.
+This is all in SIS.
+This is the complete.
+It has all the reports.
+Student list means,
+how can you see the student,
+how can you edit the student's details.
+What is the fee, what is the subject,
+what is the concession,
+how much has changed,
+you can see all that from here.
+If you want to edit something,
+you have to click on edit,
+so that it gets enabled to edit.
+and then save it.
+Other than that, you have documents.
+You can have student's documents.
+For example, his Aadhaar card,
+his admit card,
+his father, mother's pictures, photographs,
+anything.
+You have documents.
+Here you have the option,
+you can also upload student's documents.
+You can view them.
+For example, the student I opened,
+his photo is already uploaded in his document.
+You can view it from here.
+The same is uploaded by his father and mother.
+You can view that.
+In case you want to replace it,
+here you have the option to upload again.
+You can upload the information
+that you don't have from here.
+These were your documents.
+In the same way,
+if you go back to student list,
+you will go back to student list.
+Then we have an option,
+active inactive.
+What do you think will happen with active inactive?
+What does it mean?
+The student will be here for 2-3 months.
+After that, he is not there.
+It happens many times in this case.
+At the institute.
+He did not pay the fee.
+Now, his admission is cancelled.
+There is no reason, but he is not present in the institute.
+So in that case,
+the student is inactive.
+In this session,
+the student exists.
+So he is active.
+If not, then he will be inactive.
+to get that admission number primary that's a student who searched there after a roll
+number filled up with roll number or like a sign gonna be set up a ideas to get student
+name map.
+Can you tell me student that the real basic date of birth, you know, to get out of the
+time.
+I got up to pink line filled required.
+It means more details.
+For example, father qualification, mother qualification.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Okay.
+Yeah.
+Yeah.
+Okay.
+So, yeah.
+you have to be open to give it up for the transfer to sign connect we hostile we concession
+to scale it up. They have to be correct. If you don't want to do anything, you can close
+the way. I'm going to search here. The one I added to the student. The one I added to
+the student is the one with the name one, two, three, four, five, six.
+Apart from this, you have Excel upload. You can also use the bulk of the Excel upload.
+The first option is add student.
+Here you can add a student in bulk.
+Sample Excel.
+You can download this sample Excel and add data to it.
+I'll show you sample Excel.
+Yeah, please.
+Basically important.
+Name, father name, mother name.
+Sample Excel.
+Mandatory data.
+If you haven't filled this one, you can add it.
+But if you haven't filled this one, you can add it.
+You can add it from Excel.
+You have to fill the same basic details.
+Then we have after the student list.
+Student list course wise.
+Student list course wise.
+Student list.
+Student list course wise.
+For example,
+class one teacher.
+Right.
+Student list.
+Class teacher.
+Student.
+Student list course wise.
+No more.
+New student.
+Excel.
+To PDF.
+Then we have student certificates.
+ID card.
+You can search by option.
+Suppose you have to search for a single student.
+You can search by name.
+Search by name.
+By default.
+You can use the same filter.
+You can use the same filter.
+By default.
+You can use the same filter.
+You can use the same filter.
+By default.
+you can give this certificate to the student by entering the details.
+By default, you have to enter the details.
+You have to enter the details and save it from here.
+You can print it. The data is saved.
+Then you have the option to print and inactive.
+When the student is being released, you can use both options at the same time.
+Print and inactive the student.
+For example, I will just print it and show you.
+This is our print. You can set it.
+Alright.
+This is how our DC certificate is printed.
+Keep it here.
+From here, the institute can print the certificate.
+We have a DC certificate and a student ledger.
+This is for fee.
+The tuition fee certificate is also for fee.
+You will know the character certificate.
+This is basically used in college cases.
+Student ID card, admit card, appreciation certificate.
+I will show you the ID card.
+You can print different certificates from here.
+This is the student ID card of the institute.
+Student certificate.
+Is there any option for bulk print?
+For example, I have to print bulk.
+I have selected many students to print bulk.
+For example, I have to print bulk.
+You can print bulk ID card.
+You can print bulk ID card.
+You can print bulk ID card.
+You can print bulk ID card.
+I have selected 3 students.
+This is the option for bulk print.
+This is the character certificate.
+This is the appreciation certificate.
+This is the single student ID card.
+Student feedback.
+student master setup.
+Student feedback type or student feedback category.
+Student feedback type.
+Positive feedback.
+Institute.
+Positive.
+positive.
+positive.
+positive.
+behavior.
+behavior.
+basic.
+Setup.
+Student feedback type or feedback.
+Student feedback.
+Open click.
+For example.
+Student feedback.
+Student feedback.
+Student feedback.
+Open.
+Open.
+For example.
+Other teachers.
+Open.
+Student.
+Open.
+Yes.
+Student.
+Then.
+Then.
+Good.
+Attachment.
+notification.
+student.
+Student.
+data.
+student.
+notification.
+Disable.
+feedback.
+feedback.
+feedback.
+Student.
+Student.
+Student.
+Student.
+Student.
+Student.
+Feedback.
+Student.
+options.
+queries.
+No matter.
+scholar ID.
+scholar ID.
+student.
+admission.
+scholar ID.
+student.
+scholar ID.
+scholar ID.
+student.
+scholar ID.
+change.
+change.
+repeat.
+student.
+for example.
+student.
+admission.
+scholar ID.
+scholar ID.
+change.
+manually.
+student.
+edit.
+save.
+student.
+student.
+teacher.
+teacher.
+student.
+update.
+class.
+section.
+data.
+data.
+update.
+for example.
+column.
+edit.
+edit.
+when.
+registration.
+admission.
+updated.
+student.
+student.
+update.
+Okay.
+update.
+update.
+update.
+student.
+student.
+edit.
+update.
+update.
+update.
+student.
+student.
+enrollment.
+student.
+student.
+student.
+class.
+class.
+edit.
+for example.
+for example.
+student.
+student.
+student.
+student.
+student.
+student.
+student.
+query.
+student.
+student.
+student.
+basically.

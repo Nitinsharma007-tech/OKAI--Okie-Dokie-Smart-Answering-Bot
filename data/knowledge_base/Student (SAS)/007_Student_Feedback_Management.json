@@ -1,0 +1,61 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Student Feedback Management",
+    "summary": "Describes how to set up different types (e.g., Positive, Negative) and categories (e.g., Behavior) for student feedback in the master setup. It also covers the process of recording feedback for a student, including selecting the feedback type and category, adding detailed comments, attaching files, and sending notifications.",
+    "navigation": [
+        "Student Master Setup -> Student Feedback Type",
+        "Student Master Setup -> Student Feedback Category",
+        "Student -> Student Feedback"
+    ],
+    "steps": [
+        "To set up feedback types and categories:",
+        "Navigate to 'Student Master Setup'.",
+        "Define 'Student Feedback Type' (e.g., Positive, Negative).",
+        "Define 'Student Feedback Category' (e.g., Behavior, Academic Performance).",
+        "To record student feedback:",
+        "Navigate to 'Student Feedback'.",
+        "Select the specific student for whom feedback is being recorded.",
+        "Choose the appropriate 'Feedback Type' (e.g., Positive).",
+        "Select the relevant 'Feedback Category' (e.g., Behavior).",
+        "Add detailed comments in the feedback description field.",
+        "Optionally, attach any relevant files or documents.",
+        "Optionally, send a notification to the student regarding the feedback."
+    ],
+    "business_rules": [
+        "Feedback types and categories must be configured in the master setup before they can be used for recording feedback.",
+        "Notifications for student feedback can be enabled or disabled as needed."
+    ],
+    "important_notes": [
+        "Feedback can be recorded by teachers or other authorized staff members.",
+        "The system allows for attachments to be included with feedback records."
+    ],
+    "questions": [
+        "How do I set up different types of student feedback (e.g., positive, negative)?",
+        "Where can I define categories for student feedback, such as 'Behavior' or 'Academic'?",
+        "What is the process for recording feedback for a specific student?",
+        "Can I attach documents or files to student feedback entries?",
+        "Is it possible to notify students about the feedback they receive?"
+    ],
+    "keywords": [
+        "Student Feedback",
+        "Feedback Type",
+        "Feedback Category",
+        "Positive Feedback",
+        "Negative Feedback",
+        "Behavior Feedback",
+        "Student Master Setup",
+        "Record Feedback",
+        "Feedback Notification",
+        "Student Performance"
+    ],
+    "related_topics": [
+        "Student Details View and Edit",
+        "Teacher Module (implied)"
+    ],
+    "id": "student_sas_student_feedback_management",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "module": "Finance",
+    "topic": "Other Income Heads Configuration",
+    "summary": "Other income refers to revenue sources for the school/college that are not directly related to student fees (e.g., canteen rent, scrap sales). These are distinct from student-related fees and are recorded separately.",
+    "navigation": [
+        "Other Income Head"
+    ],
+    "steps": [
+        "Create masters for various other income heads in the system (e.g., 'Sale of Scrap', 'Canteen Contract', 'Other Income Resource').",
+        "Collect money directly against these created masters and generate receipts."
+    ],
+    "business_rules": [
+        "These are income sources for the institution, not directly from students for their education.",
+        "Examples include rent received from a canteen contractor, revenue from the sale of waste/scrap materials.",
+        "Receipts are generated for these income sources, often in the name of the payer (e.g., canteen contractor)."
+    ],
+    "important_notes": [
+        "The school/client will provide the list of specific other income sources to be configured.",
+        "This helps in categorizing and tracking all non-fee revenue for the institution."
+    ],
+    "questions": [
+        "How do I record non-student related income in the ERP system?",
+        "Can I create different categories for other income sources like 'Canteen Rent' or 'Scrap Sales'?",
+        "How do I generate a receipt for other income received from external parties?",
+        "What types of income are classified as 'other income' in the system?"
+    ],
+    "keywords": [
+        "Other income",
+        "non-fee income",
+        "school income",
+        "college income",
+        "canteen contract",
+        "sale of scrap",
+        "revenue sources"
+    ],
+    "related_topics": [
+        "Fee Collection",
+        "Miscellaneous Charges",
+        "Other Income Amount Mapper"
+    ],
+    "id": "finance_other_income_heads_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

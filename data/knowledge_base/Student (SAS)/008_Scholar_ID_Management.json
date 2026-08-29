@@ -1,0 +1,52 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Scholar ID Management",
+    "summary": "Explains that the Scholar ID is a unique identifier assigned to students, typically during admission. This ID can be manually changed or updated in the system if necessary, for example, to correct errors or meet specific administrative requirements.",
+    "navigation": [
+        "Student",
+        "Student List",
+        "Action (for a specific student)",
+        "View",
+        "Edit (Scholar ID field)"
+    ],
+    "steps": [
+        "Locate the student whose Scholar ID needs to be managed.",
+        "Access the student's detailed profile by selecting 'View' from the 'Action' options.",
+        "Locate the 'Scholar ID' field within the student's profile.",
+        "If the field is editable, manually change the Scholar ID to the new value.",
+        "Save the changes to update the student's record."
+    ],
+    "business_rules": [
+        "The Scholar ID is typically assigned during the student admission process.",
+        "It can be manually updated if required."
+    ],
+    "important_notes": [
+        "The Scholar ID serves as a primary unique identifier for each student.",
+        "Care should be taken when changing Scholar IDs to prevent duplication or data integrity issues."
+    ],
+    "questions": [
+        "What is a Scholar ID and its purpose?",
+        "When is the Scholar ID assigned to a student?",
+        "Can I manually change a student's Scholar ID?",
+        "How do I update a student's Scholar ID in the system?"
+    ],
+    "keywords": [
+        "Scholar ID",
+        "Student ID",
+        "Admission Number",
+        "Unique Identifier",
+        "Change Scholar ID",
+        "Update Scholar ID",
+        "Student Identification"
+    ],
+    "related_topics": [
+        "Student Details View and Edit",
+        "Student List Management"
+    ],
+    "id": "student_sas_scholar_id_management",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

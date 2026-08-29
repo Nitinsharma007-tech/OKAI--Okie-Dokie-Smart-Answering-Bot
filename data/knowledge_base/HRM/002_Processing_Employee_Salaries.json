@@ -1,46 +1,44 @@
 {
     "module": "HRM",
     "topic": "Processing Employee Salaries",
-    "summary": "This topic outlines the steps required to process monthly salaries for employees after their paydays have been accurately set in the system.",
+    "summary": "This process calculates and generates the monthly salary for selected employees based on their assigned salary templates and payable days.",
     "navigation": [
         "HRM",
         "Computer Attendance"
     ],
     "steps": [
-        "Navigate to HRM > Computer Attendance.",
-        "Select the desired 'Month' and 'Year' for which you want to process salaries.",
-        "Click 'Go'.",
-        "A list of all employees will appear. You can use the search function to find a single employee if needed.",
-        "Select the employee(s) for whom you wish to process salary by ticking the checkbox.",
-        "Click 'Process Salary'."
+        "Ensure \"Pay Birthdays\" (payable days) are set for the employees.",
+        "Navigate to \"HRM\" > \"Computer Attendance\".",
+        "Select the desired \"Month\" and \"Year\" for which salary needs to be processed.",
+        "Click \"Go\". A list of employees will appear.",
+        "Search for a specific employee or select multiple employees from the list.",
+        "Click \"Process Salary\"."
     ],
     "business_rules": [
-        "Employee paydays must be set for the respective month before their salaries can be processed."
+        "Salary processing relies on the assigned salary template and the number of \"Payable Days\" (attendance/working days) for the month."
     ],
     "important_notes": [
-        "The 'Process Salary' action creates the salary record in the system; it does not initiate the actual payment disbursement.",
-        "After successful processing, the system will display 'Added' next to the employee's record, indicating their salary has been created."
+        "A confirmation message like \"Added\" indicates that the salary has been successfully created for the selected employees."
     ],
     "questions": [
-        "How do I process salaries for all employees for a specific month?",
+        "How do I process salaries for my employees for a specific month?",
         "What are the prerequisites for processing employee salaries?",
-        "Where can I confirm if an employee's salary has been successfully processed?",
-        "Can I process salary for a single employee instead of all?"
+        "Where can I find the option to process monthly salaries?"
     ],
     "keywords": [
-        "Process salary",
-        "Monthly salary",
-        "Computer attendance",
-        "Generate payroll",
-        "Run payroll"
+        "process salary",
+        "monthly salary",
+        "computer attendance",
+        "generate payroll",
+        "HRM salary processing"
     ],
     "related_topics": [
-        "Setting Paydays",
+        "Assigning Salary Templates (Contracts) to Employees",
         "Viewing and Editing Processed Salaries"
     ],
     "id": "hrm_processing_employee_salaries",
     "source": {
-        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "file": "4. 1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

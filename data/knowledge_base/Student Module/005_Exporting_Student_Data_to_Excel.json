@@ -1,0 +1,41 @@
+{
+    "module": "Student Module",
+    "topic": "Exporting Student Data to Excel",
+    "summary": "Allows users to download student data from the system into an Excel file for external use or reporting.",
+    "navigation": [
+        "Student Module",
+        "Student List",
+        "Export to Excel"
+    ],
+    "steps": [
+        "Navigate to either 'Student List' or 'Student List Course Wise'.",
+        "Click on the 'Export to Excel' button (usually found on the page).",
+        "The student data will be downloaded as an Excel file to your device."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "This option is available from both the general 'Student List' and the 'Student List Course Wise' views."
+    ],
+    "questions": [
+        "How do I export student data to an Excel file?",
+        "Can I download the 'Student List Course Wise' data as an Excel sheet?",
+        "What is the process to get a student list in Excel format?"
+    ],
+    "keywords": [
+        "Export student data",
+        "download student list",
+        "student excel",
+        "export to excel",
+        "student data download"
+    ],
+    "related_topics": [
+        "Student List Overview",
+        "Student List Course Wise"
+    ],
+    "id": "student_module_exporting_student_data_to_excel",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

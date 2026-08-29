@@ -643,13 +643,13 @@ On Saturday, you worked for three.
 On Sunday, you worked for three.
 On Monday, a new councillor was added to the system.
 So, the system will not hold those three councillors.
-The system will assign them as it is.
-Suppose, the first lead came,
-it gave one, the second came,
-the third came, the fourth came,
-the fourth came, the one who was added on Monday,
-it gave him.
-It will start the same again.
+The system will assign them in the same way.
+Suppose, the first lead comes,
+it gives one lead, the second one gives the third one,
+the third one gives the third one,
+the fourth one, the one added on Monday,
+it gives that one.
+It will start the same way again.
 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4.
 Is everything clear? Devise and all?
 .
@@ -657,9 +657,9 @@ Is everything clear? Devise and all?
 Now, the point is
 duplicate field master.
 Duplicate field master,
-I just showed you a pop-up show
-with the same mobile number when I added the lead.
-I had showed the respective pop-up
+the pop-up that I showed you
+when I added the lead from the same mobile number,
+it had showed the respective pop-up
 that this lead already exists
 within the system.
 So, from here, you select the field
@@ -670,21 +670,21 @@ In general, our phone number
 remains the same.
 It is very rare in some cases
 that your Aadhaar card is set,
-your
+, your
 I would say
 10th class roll number is set,
-12th class roll number is set.
-It remains in very rare cases.
+12th class roll number is set,
+it remains in very rare cases.
 Phone number remains mostly in cases.
-So, on which field
-will your pop-up depend?
+, so on which field
+your pop-up will depend on?
 It depends on this particular
 phone number.
-Clear?
+Clearance is?
 Very good.
 Then we have my operator config,
 IVR, area B,
-explain.
+explain, we will do both of these later.
 Let's move on to this particular
 admission team.
 Now, ,
@@ -692,188 +692,188 @@ our universities
 and colleges, in their case,
 there are very rare cases,
 where your outreach team is different,
-your inside team is different
+inside team is different
 for the admissions.
 So, both teams do not share
-the data of the leads.
-Let's take an example.
-Here, there is a senior mode person.
-After that, there are two sub-branches.
+the data of leads.
+, let's take an example.
+Here is a senior mode person.
+After that, he has two sub-branches.
 Can you see what I am drawing on my screen?
 , .
 , .
-Let's take an example. Here, we have a person.
-Below that, there are two teams in the branches.
-One here and one there.
-The senior most person
-can see the data of this team
-and that team.
+, take an example, here we have a person.
+Under him, in the branches,
+there are two teams, one here and one there.
+.
+The senior most person can see
+the data of this team and this team.
 But these two people cannot see
-their own data.
-Let's take an example.
-Below this team, there are branches.
-Below this team, there are branches.
-So, this person
-can see his team's data.
-This person can see his team's data.
-But this senior most person
-can see his team's data,
+the data of each other.
+, but you take an example,
+there will be branches under this team,
+there will be branches under this team.
+?
+So, this person can see the data of his team,
+and this person can see the data of his team.
+But this senior most,
+he will see his data, his team's data,
 this person's data, and his team's data.
-But these two people cannot see
-Then, the people in the branches below
-cannot see their own data.
+But these two people cannot see each other.
+After that, the people under the branches
+cannot see each other's data.
 Understood?
-So, what we do is that there are
-very rare cases in which there is
-a team structure. Otherwise,
-there is only a single most senior person
-and there are multiple counselors below him.
-There are two types of clearages.
-Either you are a senior most person
-and there are two teams below him
-and then they are divided into two teams.
-Or you have a single senior
-most person with multiple counselors.
+So, what we do is,
+there are very rare cases in which
+there is a team structure. Otherwise,
+there is only a single most senior person,
+and there are multiple counselors under him.
+Is it clear? There are two ways.
+Either you are a senior most person,
+there are two teams under him,
+then they are divided into two teams,
+or you have a single senior most person
+under whom there are multiple counselors.
 If there is a single person
-and multiple counselors,
-then there is no need for a team.
-So, there is no need to follow the team structure.
-Just delete it and save it.
-Clearages?
-, . Perfect.
-Now, taking an example,
-if we have two teams, one is your domestic
-which we have set as
-team lead for Sumit Kumar.
-Add the members
-of your team.
-Himanshi, Shresti,
-Deepak Agar,
-and Anaita.
-Save it.
-Add the other team for the external team.
-Let's take an example
-Your Gaurav Sachan
-is the lead.
-The people in his team
+and multiple counselors, then there is no need for a team.
+So, there is no need to follow the team structure,
+there is no need to delete it and save it.
+Is it clear?
+, .
+Perfect. Now, taking an example,
+if we have two teams,
+one is your domestic,
+whose team leader we have set,
+is Sumit Kumar.
+Here, we have added the members under him.
+We have made Himanshi, Shastri,
+we have covered Deepak,
+and we have made Anaita.
+We have saved.
+We have added the other team for the external team.
+Let's take the example of the external team,
+that your Gaurav Sachan,
+he is the lead.
+The people under him,
 for example,
 Mani,
 Pallavi,
 Sukhpeeth.
-Now, guys,
-you have two senior
-most persons.
-One is this, another one is this.
-In his team,
-one person, one person, one person, one person.
-This can see their data.
-And the Gaurav
-can see their data.
-These counselors
-Same here, they can't see their data.
-And
-they can't see their team's data.
+Now, , guys,
+what will happen,
+you have two senior most persons,
+one is this,
+another one is this.
+In his team, there is one person,
+one person, one person, one person.
+He can see their data,
+and the Gaurav,
+he can see their data.
+He can't see the data among themselves,
+counselors, same here,
+he can't see the data among themselves.
+And Sumit Gaurav
+can't see the data of his team,
+or can't see the data of his team.
 Is this clear?
-Team lead also can't see other's data.
-Team lead also can't see other's data.
-You can create multiple teams
-here.
+Team lead can't see the data of each other.
+Team lead can't see the data of each other.
+You can create multiple teams here.
 You can add multiple members.
-One more point.
-Taking an example, Anaita
-is also in his team.
-And Anaita is also in his team.
-Now, in this case,
-Gaurav can see
-Anaita's data.
-So,
-Sumit and Gaurav
-can see Anaita's data.
-Now, the common data
-between them is visible to both.
-In general, this doesn't happen.
-But still, I told you with an example,
-if tomorrow a question comes up,
+One more point,
+taking an example,
+Anaita is also in his team,
+and Anaita is also in his team.
+Now, what will happen in this case,
+Gaurav can see the data of Anaita,
+sorry, Sumit Gaurav
+can see the data of Anaita.
+Now, the common data between them
+is visible to both of them.
+In general, this doesn't happen,
+but still, I told you with an example,
+if a question comes up tomorrow,
 you will say, in that case,
-you can see both their data.
+you will show the data of both of them.
 But still, Sumit can't see Gaurav's data.
 Whose data are they seeing?
-They can see their common team member's data.
-They can see their common team member's data.
-So, if they merge here,
-Sumit can see Pallavi's data.
-Or Deepa can see Gaurav's data.
-This won't happen.
-Gaurav and Sumit can only see
-Anaita's combined data.
-Things are getting clear, guys.
+They can see the data of their
+common team member.
+It's not that if we merge
+Anaita here,
+then we can see Sumit's
+Pallavi data,
+or Gaurav can see Deepa's data.
+Gaurav and Sumit
+can only see Anaita's data,
+combined, whatever is common.
+Are things getting clear, guys?
 Or is it coming from above?
-No, . It's clear.
-They will be able to see the common data
-between them.
-.
-Team's part is also clear.
-Now, from the team's part,
-I had a point left in the filter.
-I clicked on the filter.
+No, , it's clear.
+Both of them will be able to see
+the common data of Anaita.
+, the team part is also clear.
+, now from the team part,
+I had left a point in the filter.
+, I clicked on the filter.
 Here, the show member comes in detail.
-, what happens is
-you can filter from here
+, what happens is,
+you can filter from here,
 which counselor's data you want.
-If you want Deepa's data,
-then you have Deepa's data 253.
-If you want someone else's counselor's data,
-you put Savita's data,
-then you have Savita's data.
+, if you want Deepa's data,
+then Deepa's data is 253.
+, you want someone else's counselor,
+you put Savita, Savita's data comes to you.
+, it's not there.
 Now, the point is,
-let's take an example.
-Deepa,
-I clicked on that.
-I have 253 data.
+let's take an example,
+Deepa is, ,
+I clicked on that,
+I got 253 data.
 But Deepa was in Sumit's team.
 How much data does Sumit have now?
 725.
-But if I
-turn on its show member detail,
-then what will the show member detail do?
-The data of all the members
-in his team will also be visible.
-Is it done?
-1389 something.
+, but if I
+turn on its show member detail too,
+then what will show member detail do?
+All the members in his team
+will also get their data visible.
+, 1389 something.
 Do you understand the point?
-What happened to the filter when we detailed it in the show?
+What happened to the filter when we detailed the show?
 , .
 When our toggle was off,
 in the case of off,
 only Sumit's data came to us.
-But when we turned on
+, but
+when we turned on
 the members' toggle,
 then what did the system do in that case?
 It showed all the leads of its members
 together.
 Because a counselor,
-he is also working as a counselor,
-but he is also in his team,
+it's a simple thing, a counselor,
+is also working, but there are people in his team too,
 so how will he see the data of his team?
 He will see the data from this filter.
 This is your show member detail filter.
-Is it clear?
+Clear?
 , .
 Very nice.
 Now comes the admission
 follow-up page.
-,
-you can add any follow-up.
-You can see it in the lead,
-but you need the collective data
+We will do the reports later.
+, guys, you add any follow-up,
+you can see it inside the lead,
+but you need collective data
 where all the follow-ups are added.
-So you will come to the follow-up page.
-Here you will get all the data.
+So you will come to the follow-up page,
+here you will get all the data.
 There are 27,912
 follow-ups in total.
 One lead can have multiple
 follow-ups.
-The same lead can be seen again,
+You can see the same lead mark again,
 like this one.
 The lead is same, one follow-up is completed,
 one follow-up pending.
@@ -886,32 +886,31 @@ You are in the upcoming.
 Overdue follow-ups are yours,
 which are pending follow-ups.
 Then you have the completed follow-ups
-which are completed.
-Here you can also check
-counselor-wise follow-ups by setting
-start date and end date.
-You can check how many are completed
-and how many are pending.
+which have been completed.
+Here you can check counselor-wise
+follow-ups by setting start date and end date.
+You can check how many are completed,
+how many are pending.
 This is a report kind of.
-Is there any doubt?
+Any doubts?
 No, .
-Now you have admission leads
-log page.
+Now the admission lead log page.
 Isn't it too much?
+Or you can keep this much.
 Tell me quickly.
-, it is not too much.
-, perfect.
-Now we have this admission leads log page.
+, it can be less.
+Perfect.
+Now we have this admission lead log page.
 , guys, what happens is
 leads come to you from IVR.
-You can manage other sources,
-like website, landing page.
+Rest of the sources you can manage.
+Website, landing page.
 One minute, guys.
-So , if you have
-leads coming from any exercise source,
+, if you have leads
+from any exercise source,
 you can manage them.
 But in the case of IVR,
-you also need call data.
+you need call data as well.
 When calls come, you convert
 those calls into logs in the lead.
 You are receiving the calls
@@ -924,110 +923,113 @@ you will do it from here.
 , what happens is
 we have to integrate IVR
 with the respective partner.
-So the calls that come to the counselors
+So, the calls that come to the counselors
 will automatically land on this page.
-It is a received call,
-it is a missed call.
-You can check which two counselors
+That is a received call,
+that is a missed call.
+You can check which counselor
 you have picked.
-By default, caller info and all these things are blank.
-Because you don't know whose phone it is on the phone.
-It comes from random numbers.
-So when you call back the student,
-then post discussion with the student,
+By default, caller info and all these things
+are blank because you don't know
+whose phone it is.
+So, when you call back
+the student, then post
+discussion with the student,
 you will add the name.
-I have added one here.
-I have added the date here.
-Which stream is it in, I have added that.
-That means my call is done.
-Now the point is, from here you can check
+I have added the name.
+I have added which stream
+I am in.
+Now, the point is you can check
 the recording of the call directly.
 You will have to log in.
-So from here you can check
-the experts of the calls.
+So, from here,
+you can check the calls.
 Is that clear, Rajesh?
 , .
 Very good.
-So from here you can check
-the respective records.
-From here you have to convert the log.
-So you can also convert from here.
-From here you have to reject
-that if the student is not interested,
-then you can also reject it.
-If you have called and the student
-has not picked the call, then you can
-call not mark.
-Here you have multiple filters.
-The converted logs, you can check
+So,
+from here, you can check
+the respective recordings.
+From here, you have to convert the log.
+So, you can convert it from here.
+From here, you have to reject
+if the student is not interested.
+If you have called
+and the student has not picked the call,
+then you can accept the call.
+Here, you have multiple filters.
+You can check the converted logs
 from here.
-So you will know how many we have converted from here.
-How many pending are there,
-you can check that.
-Check the status of the call,
-how many received calls you have,
-you can check the received calls.
-If you want specific counselor
-data, then you can also do that.
+So, you will know
+how many we have converted.
+You can check the pending.
+Check the call status,
+how many received calls you have.
+You can also check the received calls.
+If you want specific
+counselor data,
+you can also do that.
 , what is this source?
 What is this source?
- the source,
-the MyOperator here, is your
-IBR partner.
-So that is why we keep the source here,
-which source leads to you.
-The source MyOperator.
-So we set the config
-MyOperator config,
-here the secret token goes,
-company ID goes, IBR ID goes,
+, the source, the MyOperator
+is your IBR partner.
+So, we keep the source here
+that which source leads to which log.
+So, the source is MyOperator.
+So, we set
+in the admission setup.
+MyOperator config.
+Here, the secret token goes,
+company ID goes, IBR ID goes
 and its KPI goes.
-, we are not doing much today.
-Otherwise it will be very confusing.
+We are not doing much today.
+Otherwise, it will be very confusing.
 As much as you have done, it is clear.
- .
- , it is clear.
- , it is clear.
-, what is the purpose of
-MyOperator? What does it mean exactly?
-Your MyOperator is
-an IBR.
-So the calls that come to your
-counselors or your admission team,
-they land directly on an app.
-So if you have called
-for an admission, then
-the call goes to an IBR number, then
-that call connects to your counselor.
-So MyOperator
-is a mediator, and I would say the
-IBR, the student
-who called first, goes to the IBR.
-The IBR checks
-which counselor is free at that time.
-So that call is transferred
-to that counselor.
 , .
-So when the call is transferred to the counselor
-and the student creates it, then the IBR mediator
-that comes in the middle, it has
-laws that this call was hit,
-this call was reverted, this response
-was picked, missed, how much time
-was talked, then that data is pushed
-to us. .
-So IBR, this MyOperator,
-this is an IBR, which is
-able to
-connect to the counselor.
-Then it hits back to us.
-In the advanced one, I guess
-a lot is completed.
-You guys are left with the
-report sections only.
-.
+, what is the purpose
+of MyOperator?
+What does it mean exactly?
+Your MyOperator is an IBR.
+So, the calls
+that come to your counselors or
+your admission team,
+they are directly linked to an app.
+If you have called for an admission,
+then the call goes to an IBR number.
+Then that call connects to your counselor.
+So,
+MyOperator is a mediator.
+I would say the IBR,
+the student who has called,
+first the call goes to the IBR.
+The IBR checks which counselor
+is free at that time.
+So, that call is transferred
+to the counselor from there.
+So, when the call
+is transferred to the counselor
+and the student creates it,
+then the IBR mediator,
+it keeps getting logs that
+this call was hit, this call was reverted,
+this response came that it was picked,
+missed, how much time was talked,
+then that data is pushed to us.
+So, the IBR,
+this is an IBR,
+which is able to
+get the records of those particular calls.
+After that, the records of the calls
+come to this, then it hits back to us.
+In the advance one,
+I guess a lot has been completed.
+You guys are left
+with the report sections
+only.
+I will tell you this.
 Any doubts
 in this part?
 Do the Q&A session
-again, because it's already 6.22.
-I'll piss out.
+because it is already
+6.22.
+, .

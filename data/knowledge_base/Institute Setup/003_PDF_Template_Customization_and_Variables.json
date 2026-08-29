@@ -1,0 +1,54 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Customization and Variables",
+    "summary": "This topic describes how to customize PDF templates by modifying their code and using specific variables to dynamically display data from the ERP system. It covers basic code changes and understanding common variable structures.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "Load an existing template or select a default one.",
+        "Modify the template's code (e.g., HTML, CSS) to change its appearance or content.",
+        "To display dynamic data, use variables with the 'DisplayData.' prefix.",
+        "Apply styling (e.g., 'uppercase' for text) directly in the code using CSS (e.g., 'text-transform: uppercase;')."
+    ],
+    "business_rules": [
+        "Most default templates require minor code changes to fit specific requirements.",
+        "Variables must be correctly spelled and prefixed with 'DisplayData.' to fetch data."
+    ],
+    "important_notes": [
+        "Common variables include: DisplayData.EntityName (Institute name), DisplayData.EntityAddress (Institute address), DisplayData.EntityState (Institute state), DisplayData.EntityCountry (Institute country), DisplayData.EntityPinCode (Institute pin code), DisplayData.StudentName (Student's name), DisplayData.FatherName (Student's father's name), DisplayData.Gender (Student's gender), DisplayData.logo (Institute logo), DisplayData.session (Academic session).",
+        "Report cards often use default templates for basic schools, but advanced schools may require custom changes."
+    ],
+    "questions": [
+        "How do I add the institute's name to a certificate?",
+        "What are the common variables used in PDF templates?",
+        "How can I make text appear in uppercase on a certificate?",
+        "Where can I find the code for a loaded template?"
+    ],
+    "keywords": [
+        "template customization",
+        "template code",
+        "variables",
+        "DisplayData",
+        "entity name",
+        "student name",
+        "styling",
+        "uppercase",
+        "HTML",
+        "CSS"
+    ],
+    "related_topics": [
+        "PDF Template Configuration",
+        "Debugging PDF Template Variables",
+        "PDF Template Trigger Logic and Defaulting"
+    ],
+    "id": "institute_setup_pdf_template_customization_and_variables",
+    "source": {
+        "file": "9. 720p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "module": "Fees",
+    "topic": "Online Fee Collection via Payment Gateway",
+    "summary": "Explains how to collect fees online through an integrated payment gateway, allowing parents to pay using various modes like UPI, net banking, or credit card, often via a dynamic QR code.",
+    "navigation": [
+        "Fee > collect fee > (select student) > Collect Online Fees (button)"
+    ],
+    "steps": [
+        "Ensure the payment gateway is integrated.",
+        "On the \"collect fee\" page, after selecting the student, click on the \"Collect Online Fees\" option.",
+        "The system will present payment options (UPI, Net Banking, Credit Card).",
+        "Select a payment mode (e.g., UPI) to generate a dynamic QR code.",
+        "Parents can scan the QR code using payment apps (e.g., Paytm, Google Pay) to complete the payment within the specified time limit."
+    ],
+    "business_rules": [
+        "Payment gateway integration is required for this feature.",
+        "Dynamic QR codes have a time validity."
+    ],
+    "important_notes": [
+        "The system can generate dynamic QR codes for UPI payments."
+    ],
+    "questions": [
+        "How can parents pay fees online?",
+        "What payment methods are available for online fee collection?",
+        "How does the dynamic QR code payment work?",
+        "What is required to enable online fee collection?"
+    ],
+    "keywords": [
+        "online fee",
+        "payment gateway",
+        "UPI",
+        "net banking",
+        "credit card",
+        "QR code",
+        "dynamic QR",
+        "online payment",
+        "collect online fees"
+    ],
+    "related_topics": [
+        "Fee Setup",
+        "Student Fee Collection"
+    ],
+    "id": "fees_online_fee_collection_via_payment_gateway",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

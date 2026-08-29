@@ -1,0 +1,48 @@
+{
+    "module": "Integration",
+    "topic": "Configure Vendor API Response (Response Config)",
+    "summary": "Response Config defines how the ERP system should parse and interpret the data received from a vendor's tracking API. This involves specifying the path to the list of tracking data within the JSON response, as well as the unique keys for matching vehicles, latitude, longitude, and speed.",
+    "navigation": [],
+    "steps": [
+        "**List Path Key:** Identify the JSON path where the list (array) of tracking data is located in the vendor's API response (e.g., `data.list`). Use dot notation to access nested arrays.",
+        "**Match Key:** Specify the unique key within each item of the response list that identifies a specific vehicle (e.g., `wickle key`). This key is used to match the response data to the correct vehicle in the ERP system.",
+        "**Latitude Key:** Enter the key from the vendor's response that contains the latitude value.",
+        "**Longitude Key:** Enter the key from the vendor's response that contains the longitude value.",
+        "**Speed Key:** Enter the key from the vendor's response that contains the speed value."
+    ],
+    "business_rules": [
+        "The `Match Key` in Response Config is the key within the vendor's response that uniquely identifies a vehicle, which may be different from the `GPS ID Key` used in Track Config to send the ID.",
+        "The `List Path Key` helps the system navigate the JSON response to find the relevant array of tracking data."
+    ],
+    "important_notes": [
+        "The vendor's API response structure (which keys to use) will be provided in documentation or determined by inspecting the response via tools like Postman.",
+        "If the 'Test Connection' feature in Track Config is not working on the portal, the API response should first be verified using Postman to determine the correct keys for Response Config."
+    ],
+    "questions": [
+        "How do I configure the ERP system to understand a vendor's API response?",
+        "What is the 'List Path Key' and how do I find it?",
+        "What is the 'Match Key' in Response Config and how does it differ from the GPS ID Key?",
+        "Where do I specify the keys for latitude, longitude, and speed from the API response?"
+    ],
+    "keywords": [
+        "Response Config",
+        "API response parsing",
+        "JSON path",
+        "List Path Key",
+        "Match Key",
+        "Latitude Key",
+        "Longitude Key",
+        "Speed Key",
+        "Vendor API response"
+    ],
+    "related_topics": [
+        "Configure Vendor API (Track Config)",
+        "Assigning Vendor GPS ID to Vehicles"
+    ],
+    "id": "integration_configure_vendor_api_response_response_config",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

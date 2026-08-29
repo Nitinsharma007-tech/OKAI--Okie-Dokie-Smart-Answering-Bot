@@ -1,0 +1,52 @@
+{
+    "module": "HRM",
+    "topic": "Creating Earning and Deduction Heads",
+    "summary": "This functionality allows users to define new earning or deduction categories that can be used in salary templates and during salary processing.",
+    "navigation": [
+        "Settings",
+        "HRM Setup",
+        "Payroll Master"
+    ],
+    "steps": [
+        "Navigate to \"Settings\" > \"HRM Setup\" > \"Payroll Master\".",
+        "To create an Earning Head:",
+        "  - Click on \"Earning Heads\".",
+        "  - Select an existing head by ticking it if available, then click \"Save\".",
+        "  - If the head is not listed, click \"Add New\", enter the \"Name\" of the earning head (e.g., Conveyance Allowance), and click \"Save\".",
+        "To create a Deduction Head:",
+        "  - Click on \"Deduction Heads\".",
+        "  - Select an existing head by ticking it if available, then click \"Save\".",
+        "  - If the head is not listed, click \"Add New\", enter the \"Name\" of the deduction head, and click \"Save\"."
+    ],
+    "business_rules": [
+        "All new earning and deduction heads must be saved after creation."
+    ],
+    "important_notes": [
+        "These heads become available for selection when assigning salary templates or editing processed salaries."
+    ],
+    "questions": [
+        "How do I add a new type of earning to the system?",
+        "Where can I create a custom deduction head for payroll?",
+        "What is the process for adding a new allowance type?",
+        "Can I use existing heads or do I always have to create new ones?"
+    ],
+    "keywords": [
+        "earning head",
+        "deduction head",
+        "payroll master",
+        "HRM setup",
+        "create allowance",
+        "create deduction",
+        "salary components"
+    ],
+    "related_topics": [
+        "Assigning Salary Templates (Contracts) to Employees",
+        "Viewing and Editing Processed Salaries"
+    ],
+    "id": "hrm_creating_earning_and_deduction_heads",
+    "source": {
+        "file": "4. 1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,2881 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>OD ERP Systems — Data Upload</title>
+
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            min-height: 100%;
+            font-family:
+                Inter,
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                sans-serif;
+            color: #182033;
+        }
+
+
+        body {
+
+            min-height: 100vh;
+
+            background:
+                radial-gradient(
+                    circle at 15% 15%,
+                    rgba(255, 190, 145, 0.38),
+                    transparent 30%
+                ),
+                radial-gradient(
+                    circle at 85% 85%,
+                    rgba(255, 220, 190, 0.30),
+                    transparent 32%
+                ),
+                #fff7f0;
+
+            padding: 28px 18px 60px;
+
+            overflow-y: auto;
+        }
+
+
+        /* =================================================
+           MAIN CONTAINER
+        ================================================= */
+
+        .page {
+
+            width: min(
+                1180px,
+                100%
+            );
+
+            margin: 0 auto;
+        }
+
+
+        /* =================================================
+           HEADER
+        ================================================= */
+
+        .topbar {
+
+            min-height: 88px;
+
+            background:
+                rgba(255, 255, 255, 0.88);
+
+            border:
+                1px solid #ffdccc;
+
+            border-radius: 20px;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: space-between;
+
+            padding:
+                18px 24px;
+
+            box-shadow:
+                0 8px 30px
+                rgba(104, 58, 31, 0.07);
+
+            margin-bottom: 26px;
+        }
+
+
+        .brand {
+
+            display: flex;
+
+            align-items: center;
+
+            gap: 14px;
+        }
+
+
+        .brand-icon {
+
+            width: 54px;
+
+            height: 54px;
+
+            border-radius: 16px;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #ff7138,
+                    #ff9b52
+                );
+
+            color: white;
+
+            font-size: 28px;
+
+            box-shadow:
+                0 8px 20px
+                rgba(255, 113, 56, 0.22);
+        }
+
+
+        .brand-name {
+
+            font-size: 20px;
+
+            font-weight: 800;
+
+            letter-spacing: -0.4px;
+        }
+
+
+        .brand-subtitle {
+
+            margin-top: 3px;
+
+            color: #e55316;
+
+            font-size: 13px;
+
+            font-weight: 600;
+        }
+
+
+        .back-button {
+
+            border:
+                1px solid #ffd7c4;
+
+            background: white;
+
+            color: #4e596b;
+
+            padding:
+                11px 18px;
+
+            border-radius: 999px;
+
+            cursor: pointer;
+
+            font-size: 14px;
+
+            font-weight: 600;
+
+            transition:
+                0.2s ease;
+        }
+
+
+        .back-button:hover {
+
+            background: #fff4ed;
+
+            border-color: #ffb58f;
+
+            transform:
+                translateY(-1px);
+        }
+
+
+        /* =================================================
+           HERO
+        ================================================= */
+
+        .hero {
+
+            background:
+                rgba(255, 255, 255, 0.88);
+
+            border:
+                1px solid #ffdccc;
+
+            border-radius: 2px;
+
+            padding:
+                38px 40px;
+
+            text-align: center;
+
+            margin-bottom: 24px;
+
+            box-shadow:
+                0 8px 30px
+                rgba(104, 58, 31, 0.05);
+        }
+
+
+        .badge {
+
+            display: inline-flex;
+
+            padding:
+                7px 15px;
+
+            border-radius: 999px;
+
+            background:
+                #fff0e7;
+
+            color:
+                #c95318;
+
+            font-size: 12px;
+
+            font-weight: 800;
+
+            letter-spacing: 1.4px;
+
+            text-transform: uppercase;
+        }
+
+
+        .hero h1 {
+
+            margin:
+                18px 0 12px;
+
+            font-size:
+                clamp(32px, 5vw, 44px);
+
+            letter-spacing:
+                -1.5px;
+        }
+
+
+        .hero p {
+
+            max-width: 760px;
+
+            margin: auto;
+
+            color: #596477;
+
+            line-height: 1.65;
+
+            font-size: 15px;
+        }
+
+
+        /* =================================================
+           CARD
+        ================================================= */
+
+        .card {
+
+            background:
+                rgba(255, 255, 255, 0.93);
+
+            border:
+                1px solid #ffdccc;
+
+            border-radius: 2px;
+
+            padding:
+                32px;
+
+            box-shadow:
+                0 12px 40px
+                rgba(104, 58, 31, 0.07);
+        }
+
+
+        /* =================================================
+           LOGIN
+        ================================================= */
+
+        #login-section {
+
+            max-width: 650px;
+
+            margin:
+                30px auto;
+        }
+
+
+        .section-icon {
+
+            width: 62px;
+
+            height: 62px;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            border-radius: 18px;
+
+            background:
+                #fff0e7;
+
+            border:
+                1px solid #ffd1bb;
+
+            color:
+                #d85b1c;
+
+            font-size: 30px;
+
+            margin-bottom: 22px;
+        }
+
+
+        .section-title {
+
+            font-size: 30px;
+
+            margin:
+                0 0 10px;
+
+            letter-spacing:
+                -0.8px;
+        }
+
+
+        .section-description {
+
+            margin:
+                0 0 30px;
+
+            color:
+                #647084;
+
+            line-height:
+                1.6;
+        }
+
+
+        .field {
+
+            margin-bottom: 22px;
+        }
+
+
+        .field label {
+
+            display: block;
+
+            margin-bottom: 8px;
+
+            font-size: 14px;
+
+            font-weight: 700;
+        }
+
+
+        .field input {
+
+            width: 100%;
+
+            height: 54px;
+
+            padding:
+                0 16px;
+
+            border:
+                1px solid #ffd5c1;
+
+            border-radius: 13px;
+
+            background:
+                #fffdfb;
+
+            color:
+                #182033;
+
+            font-size: 15px;
+
+            outline: none;
+
+            transition:
+                0.2s ease;
+        }
+
+
+        .field input:focus {
+
+            border-color:
+                #ff854b;
+
+            box-shadow:
+                0 0 0 4px
+                rgba(255, 133, 75, 0.10);
+        }
+
+
+        .primary-button {
+
+            width: 100%;
+
+            height: 54px;
+
+            border: none;
+
+            border-radius: 13px;
+
+            background:
+                linear-gradient(
+                    90deg,
+                    #ff7438,
+                    #ffac64
+                );
+
+            color: white;
+
+            font-size: 15px;
+
+            font-weight: 800;
+
+            cursor: pointer;
+
+            box-shadow:
+                0 10px 25px
+                rgba(255, 116, 56, 0.18);
+
+            transition:
+                0.2s ease;
+        }
+
+
+        .primary-button:hover:not(:disabled) {
+
+            transform:
+                translateY(-1px);
+
+            box-shadow:
+                0 13px 28px
+                rgba(255, 116, 56, 0.24);
+        }
+
+
+        .primary-button:disabled {
+
+            opacity:
+                0.55;
+
+            cursor:
+                not-allowed;
+        }
+
+
+        .error-box {
+
+            display: none;
+
+            padding:
+                13px 15px;
+
+            margin:
+                0 0 20px;
+
+            border:
+                1px solid #ffc6c6;
+
+            background:
+                #fff1f1;
+
+            color:
+                #c62828;
+
+            border-radius:
+                11px;
+
+            font-size:
+                14px;
+        }
+
+
+        .error-box.show {
+
+            display: block;
+        }
+
+        .success-box {
+
+            display: none;
+
+            padding: 13px 15px;
+
+            margin: 0 0 20px;
+
+            border: 1px solid #b7e7c6;
+
+            background: #edfdf3;
+
+            color: #1e7a42;
+
+            border-radius: 11px;
+
+            font-size: 14px;
+
+            font-weight: 600;
+        }
+
+        .success-box.show {
+
+            display: block;
+        }
+
+
+        .back-link {
+
+            display: block;
+
+            text-align: center;
+
+            margin-top: 20px;
+
+            color:
+                #596477;
+
+            font-size:
+                14px;
+
+            cursor:
+                pointer;
+        }
+
+
+        .back-link:hover {
+
+            color:
+                #e35b1c;
+        }
+
+
+        /* =================================================
+           UPLOAD SECTION
+        ================================================= */
+
+        #upload-section {
+
+            display: none;
+        }
+
+
+        .upload-heading {
+
+            display: flex;
+
+            justify-content: space-between;
+
+            align-items: flex-start;
+
+            gap: 20px;
+
+            margin-bottom: 26px;
+        }
+
+
+        .upload-heading h2 {
+
+            margin:
+                0 0 7px;
+
+            font-size:
+                28px;
+        }
+
+
+        .upload-heading p {
+
+            margin: 0;
+
+            color:
+                #687387;
+        }
+
+
+        .authenticated {
+
+            padding:
+                7px 13px;
+
+            border-radius:
+                999px;
+
+            background:
+                #ecfff5;
+
+            color:
+                #168653;
+
+            font-size:
+                12px;
+
+            font-weight:
+                800;
+
+            white-space:
+                nowrap;
+        }
+
+
+        /* =================================================
+           DROP ZONE
+        ================================================= */
+
+        .drop-zone {
+
+            min-height:
+                260px;
+
+            border:
+                2px dashed #ffc9ae;
+
+            border-radius:
+                18px;
+
+            background:
+                #fffaf7;
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                center;
+
+            text-align:
+                center;
+
+            cursor:
+                pointer;
+
+            transition:
+                0.2s ease;
+
+            padding:
+                30px;
+        }
+
+
+        .drop-zone:hover,
+        .drop-zone.drag-over {
+
+            background:
+                #fff2e9;
+
+            border-color:
+                #ff8246;
+        }
+
+
+        .upload-icon {
+
+            width:
+                68px;
+
+            height:
+                68px;
+
+            border-radius:
+                18px;
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                center;
+
+            background:
+                #fff0e7;
+
+            color:
+                #e45b1c;
+
+            font-size:
+                34px;
+
+            margin:
+                0 auto 16px;
+        }
+
+
+        .drop-zone h3 {
+
+            margin:
+                0 0 8px;
+
+            font-size:
+                18px;
+        }
+
+
+        .drop-zone p {
+
+            margin:
+                0 0 8px;
+
+            color:
+                #687387;
+        }
+
+
+        .file-types {
+
+            color:
+                #9a6d57;
+
+            font-size:
+                12px;
+        }
+
+
+        #data-file-input {
+
+            display:
+                none;
+        }
+
+
+        /* =================================================
+           SELECTED FILES
+        ================================================= */
+
+        .files-header {
+
+            display:
+                flex;
+
+            justify-content:
+                space-between;
+
+            align-items:
+                center;
+
+            margin:
+                26px 0 12px;
+        }
+
+
+        .files-header strong {
+
+            font-size:
+                14px;
+        }
+
+
+        .file-count {
+
+            color:
+                #7a8494;
+
+            font-size:
+                13px;
+        }
+
+
+        .data-file-list {
+
+            display:
+                flex;
+
+            flex-direction:
+                column;
+
+            gap:
+                10px;
+
+            margin-bottom:
+                24px;
+        }
+
+
+        .data-file-item {
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                space-between;
+
+            gap:
+                15px;
+
+            padding:
+                14px 16px;
+
+            border:
+                1px solid #ffe0d0;
+
+            border-radius:
+                13px;
+
+            background:
+                #fffdfb;
+        }
+
+
+        .data-file-info {
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            gap:
+                12px;
+
+            min-width:
+                0;
+        }
+
+
+        .data-file-icon {
+
+            width:
+                40px;
+
+            height:
+                40px;
+
+            flex-shrink:
+                0;
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                center;
+
+            background:
+                #fff1e9;
+
+            border-radius:
+                10px;
+
+            font-size:
+                18px;
+        }
+
+
+        .data-file-text {
+
+            min-width:
+                0;
+        }
+
+
+        .data-file-name {
+
+            display:
+                block;
+
+            font-size:
+                14px;
+
+            font-weight:
+                700;
+
+            overflow:
+                hidden;
+
+            text-overflow:
+                ellipsis;
+
+            white-space:
+                nowrap;
+        }
+
+
+        .data-file-size {
+
+            display:
+                block;
+
+            margin-top:
+                3px;
+
+            color:
+                #9299a5;
+
+            font-size:
+                12px;
+        }
+
+
+        .remove-file {
+
+            border:
+                none;
+
+            background:
+                transparent;
+
+            color:
+                #7b8492;
+
+            font-size:
+                23px;
+
+            cursor:
+                pointer;
+
+            padding:
+                4px 8px;
+        }
+
+
+        .remove-file:hover {
+
+            color:
+                #df4d26;
+        }
+
+
+        /* =================================================
+           PROGRESS
+        ================================================= */
+
+        .pipeline {
+
+            margin-top:
+                28px;
+
+            padding-top:
+                28px;
+
+            border-top:
+                1px solid #ffe1d1;
+        }
+
+
+        .pipeline-top {
+
+            display:
+                flex;
+
+            justify-content:
+                space-between;
+
+            align-items:
+                center;
+
+            margin-bottom:
+                12px;
+        }
+
+
+        .pipeline-top strong {
+
+            font-size:
+                17px;
+        }
+
+
+        .progress-percent {
+
+            color:
+                #d8581a;
+
+            font-size:
+                20px;
+
+            font-weight:
+                800;
+        }
+
+
+        .progress-bar {
+
+            width:
+                100%;
+
+            height:
+                9px;
+
+            background:
+                #fff0e8;
+
+            border-radius:
+                999px;
+
+            overflow:
+                hidden;
+
+            margin-bottom:
+                10px;
+        }
+
+
+        .progress-fill {
+
+            width:
+                0%;
+
+            height:
+                100%;
+
+            background:
+                linear-gradient(
+                    90deg,
+                    #ff7438,
+                    #ffad6a
+                );
+
+            border-radius:
+                inherit;
+
+            transition:
+                width 0.4s ease;
+        }
+
+
+        .progress-message {
+
+            color:
+                #6b7586;
+
+            font-size:
+                13px;
+
+            margin-bottom:
+                20px;
+        }
+
+
+        /* =================================================
+           PIPELINE STEPS
+        ================================================= */
+
+        .pipeline-steps {
+
+            display:
+                flex;
+
+            flex-direction:
+                column;
+
+            gap:
+                10px;
+        }
+
+
+        .pipeline-step {
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            gap:
+                13px;
+
+            padding:
+                14px;
+
+            border:
+                1px solid #ffe0d1;
+
+            border-radius:
+                12px;
+
+            background:
+                #fffdfb;
+        }
+
+
+        .pipeline-step-icon {
+
+            width:
+                38px;
+
+            height:
+                38px;
+
+            flex-shrink:
+                0;
+
+            border-radius:
+                10px;
+
+            background:
+                #fff3eb;
+
+            display:
+                flex;
+
+            align-items:
+                center;
+
+            justify-content:
+                center;
+
+            color:
+                #d46a32;
+
+            font-size:
+                17px;
+        }
+
+
+        .pipeline-step.running
+        .pipeline-step-icon {
+
+            background:
+                #fff1e4;
+
+            color:
+                #e76820;
+        }
+
+
+        .pipeline-step.done
+        .pipeline-step-icon {
+
+            background:
+                #ecfff4;
+
+            color:
+                #15915b;
+        }
+
+
+        .pipeline-step.failed
+        .pipeline-step-icon {
+
+            background:
+                #fff0f0;
+
+            color:
+                #d52c2c;
+        }
+
+
+        .pipeline-step-content {
+
+            flex:
+                1;
+        }
+
+
+        .pipeline-step-name {
+
+            display:
+                block;
+
+            font-size:
+                14px;
+
+            font-weight:
+                750;
+        }
+
+
+        .pipeline-step-message {
+
+            display:
+                block;
+
+            margin-top:
+                3px;
+
+            color:
+                #969eaa;
+
+            font-size:
+                12px;
+        }
+
+
+        /* =================================================
+           RESPONSIVE
+        ================================================= */
+
+        @media (max-width: 700px) {
+
+            body {
+                padding:
+                    14px;
+            }
+
+
+            .topbar {
+
+                padding:
+                    15px;
+
+            }
+
+
+            .brand-name {
+
+                font-size:
+                    17px;
+            }
+
+
+            .back-button {
+
+                padding:
+                    9px 12px;
+
+                font-size:
+                    12px;
+            }
+
+
+            .hero {
+
+                padding:
+                    28px 20px;
+            }
+
+
+            .card {
+
+                padding:
+                    22px 18px;
+            }
+
+
+            .upload-heading {
+
+                flex-direction:
+                    column;
+            }
+
+
+            .drop-zone {
+
+                min-height:
+                    220px;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<div class="page">
+
+
+    <!-- =================================================
+         HEADER
+    ================================================= -->
+
+    <header class="topbar">
+
+        <div class="brand">
+
+            <div class="brand-icon">
+                ▱
+            </div>
+
+            <div>
+
+                <div class="brand-name">
+                    OD ERP Systems
+                </div>
+
+                <div class="brand-subtitle">
+                    AI Knowledge Assistant
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <button
+            id="back-to-help"
+            class="back-button"
+            type="button"
+        >
+            ← Back to Help Centre
+        </button>
+
+    </header>
+
+
+    <!-- =================================================
+         HERO
+    ================================================= -->
+
+    <section class="hero">
+
+        <span class="badge">
+            Enterprise Data Ingestion
+        </span>
+
+
+        <h1>
+            Data Upload Portal
+        </h1>
+
+
+        <p>
+            Upload videos, presentations, documents and notes
+            to add new information to the OD ERP knowledge base.
+        </p>
+
+    </section>
+
+
+    <!-- =================================================
+         LOGIN SCREEN
+    ================================================= -->
+
+    <section
+        id="login-section"
+        class="card"
+    >
+
+        <div class="section-icon">
+            🔐
+        </div>
+
+
+        <span class="badge">
+            Restricted Operation
+        </span>
+
+
+        <h2 class="section-title">
+            Data Upload Login
+        </h2>
+
+
+        <p class="section-description">
+            Authenticate to access the enterprise
+            data ingestion portal.
+        </p>
+
+
+        <div
+            id="login-error"
+            class="error-box"
+        ></div>
+
+
+        <form id="login-form">
+
+
+            <div class="field">
+
+                <label for="username">
+                    Username
+                </label>
+
+                <input
+                    id="username"
+                    name="username"
+                    type="text"
+                    placeholder="Enter username"
+                    autocomplete="username"
+                    required
+                >
+
+            </div>
+
+
+            <div class="field">
+
+                <label for="password">
+                    Password
+                </label>
+
+                <input
+                    id="password"
+                    name="password"
+                    type="password"
+                    placeholder="Enter password"
+                    autocomplete="current-password"
+                    required
+                >
+
+            </div>
+
+
+            <button
+                id="login-button"
+                class="primary-button"
+                type="submit"
+            >
+                Authenticate & Continue
+            </button>
+
+
+        </form>
+
+
+        <div
+            id="login-back"
+            class="back-link"
+        >
+            ← Back to Help Centre
+        </div>
+
+    </section>
+
+
+    <!-- =================================================
+         UPLOAD SCREEN
+    ================================================= -->
+
+    <section
+        id="upload-section"
+        class="card"
+    >
+
+
+        <div class="upload-heading">
+
+            <div>
+
+                <span class="badge">
+                    Authenticated
+                </span>
+
+                <h2>
+                    Load Enterprise Data
+                </h2>
+
+                <p>
+                    Upload ERP source documents.
+                    The system will extract, structure,
+                    embed and update the knowledge base.
+                </p>
+
+            </div>
+
+
+            <div class="authenticated">
+                ● Secure Access
+            </div>
+
+        </div>
+
+
+        <!-- ERROR -->
+
+        <div
+            id="upload-error"
+            class="error-box"
+        ></div>
+
+        <div
+            id="upload-success"
+            class="success-box"
+        ></div>
+
+
+        <!-- DROP ZONE -->
+
+        <input
+            id="data-file-input"
+            type="file"
+            multiple
+            accept="
+                .pdf,
+                .pptx,
+                .docx,
+                .txt,
+                .mp4,
+                .mkv,
+                .avi,
+                .mov
+            "
+        >
+
+
+        <div
+            id="data-drop-zone"
+            class="drop-zone"
+        >
+
+            <div>
+
+                <div class="upload-icon">
+                    ↑
+                </div>
+
+
+                <h3>
+                    Drop your files here
+                </h3>
+
+
+                <p>
+                    or click to browse from your computer
+                </p>
+
+
+                <div class="file-types">
+                    PDF · PPTX · DOCX · TXT
+                    · MP4 · MKV · AVI · MOV
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- SELECTED FILES -->
+
+        <div class="files-header">
+
+            <strong>
+                Selected Files
+            </strong>
+
+            <span
+                id="file-count"
+                class="file-count"
+            >
+                0 files
+            </span>
+
+        </div>
+
+
+        <div
+            id="data-file-list"
+            class="data-file-list"
+        ></div>
+
+
+        <!-- START BUTTON -->
+
+        <button
+            id="start-data-upload"
+            class="primary-button"
+            type="button"
+            disabled
+        >
+            Start Data Loading
+        </button>
+
+
+        <!-- PIPELINE -->
+
+        <div
+            id="pipeline"
+            class="pipeline"
+            style="display:none;"
+        >
+
+            <div class="pipeline-top">
+
+                <strong>
+                    Knowledge Pipeline
+                </strong>
+
+                <span
+                    id="data-progress-percent"
+                    class="progress-percent"
+                >
+                    0%
+                </span>
+
+            </div>
+
+
+            <div class="progress-bar">
+
+                <div
+                    id="data-progress-fill"
+                    class="progress-fill"
+                ></div>
+
+            </div>
+
+
+            <div
+                id="data-progress-message"
+                class="progress-message"
+            >
+                Waiting for upload...
+            </div>
+
+
+            <div
+                id="data-pipeline-steps"
+                class="pipeline-steps"
+            ></div>
+
+        </div>
+
+
+    </section>
+
+
+</div>
+
+
+
+<script>
+
+/* =========================================================
+   CONFIGURATION
+========================================================= */
+
+const API_BASE = "";
+
+
+/* =========================================================
+   ELEMENTS
+========================================================= */
+
+const loginSection =
+    document.getElementById(
+        "login-section"
+    );
+
+const uploadSection =
+    document.getElementById(
+        "upload-section"
+    );
+
+const loginForm =
+    document.getElementById(
+        "login-form"
+    );
+
+const loginButton =
+    document.getElementById(
+        "login-button"
+    );
+
+const loginError =
+    document.getElementById(
+        "login-error"
+    );
+
+const usernameInput =
+    document.getElementById(
+        "username"
+    );
+
+const passwordInput =
+    document.getElementById(
+        "password"
+    );
+
+const backToHelp =
+    document.getElementById(
+        "back-to-help"
+    );
+
+const loginBack =
+    document.getElementById(
+        "login-back"
+    );
+
+const fileInput =
+    document.getElementById(
+        "data-file-input"
+    );
+
+const dropZone =
+    document.getElementById(
+        "data-drop-zone"
+    );
+
+const fileList =
+    document.getElementById(
+        "data-file-list"
+    );
+
+const fileCount =
+    document.getElementById(
+        "file-count"
+    );
+
+const startButton =
+    document.getElementById(
+        "start-data-upload"
+    );
+
+const pipeline =
+    document.getElementById(
+        "pipeline"
+    );
+
+const progressFill =
+    document.getElementById(
+        "data-progress-fill"
+    );
+
+const progressPercent =
+    document.getElementById(
+        "data-progress-percent"
+    );
+
+const progressMessage =
+    document.getElementById(
+        "data-progress-message"
+    );
+
+const pipelineSteps =
+    document.getElementById(
+        "data-pipeline-steps"
+    );
+
+const uploadError =
+    document.getElementById(
+        "upload-error"
+    );
+
+const uploadSuccess = document.getElementById("upload-success");
+
+/* =========================================================
+   BACK TO HELP CENTRE
+========================================================= */
+
+backToHelp.addEventListener(
+    "click",
+    function () {
+
+        window.location.href = "/";
+
+    }
+);
+
+
+loginBack.addEventListener(
+    "click",
+    function () {
+
+        window.location.href = "/";
+
+    }
+);
+
+
+/* =========================================================
+   REQUIRE LOGIN FOR EACH PAGE LOAD
+========================================================= */
+
+// Keep the authenticated state across browser refreshes and browser restarts,
+// so a logged-in user stays on the upload page instead of being bounced back
+// to the login form after reloads or revisits.
+const existingUploadToken = localStorage.getItem("data_upload_token");
+
+if (existingUploadToken) {
+
+    showUploadPage();
+
+} else {
+
+    loginSection.style.display = "block";
+    uploadSection.style.display = "none";
+
+}
+
+
+/* =========================================================
+   LOGIN
+========================================================= */
+
+loginForm.addEventListener(
+    "submit",
+    async function (event) {
+
+        event.preventDefault();
+
+
+        hideError(
+            loginError
+        );
+
+
+        const username =
+            usernameInput.value.trim();
+
+
+        const password =
+            passwordInput.value;
+
+
+        if (!username || !password) {
+
+            showError(
+                loginError,
+                "Please enter username and password."
+            );
+
+            return;
+
+        }
+
+
+        loginButton.disabled = true;
+
+        loginButton.textContent =
+            "Authenticating...";
+
+
+        try {
+
+            const response =
+                await fetch(
+                    API_BASE +
+                    "/api/data-login",
+                    {
+
+                        method:
+                            "POST",
+
+                        headers: {
+
+                            "Content-Type":
+                                "application/json"
+
+                        },
+
+                        body:
+                            JSON.stringify({
+
+                                username:
+                                    username,
+
+                                password:
+                                    password
+
+                            })
+
+                    }
+                );
+
+
+            let result = {};
+
+
+            try {
+
+                result =
+                    await response.json();
+
+            } catch {
+
+                result = {};
+
+            }
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    result.detail ||
+                    "Invalid username or password."
+                );
+
+            }
+
+
+            /*
+                Backend may return:
+
+                {
+                    "token": "..."
+                }
+
+                OR
+
+                {
+                    "access_token": "..."
+                }
+
+                OR
+
+                {
+                    "authenticated": true
+                }
+            */
+
+
+            const token =
+                result.token ||
+                result.access_token ||
+                result.session_token ||
+                "data-upload-authenticated";
+
+
+            localStorage.setItem(
+                "data_upload_token",
+                token
+            );
+
+
+            showUploadPage();
+
+
+        } catch (error) {
+
+            console.error(
+                "Login error:",
+                error
+            );
+
+
+            showError(
+                loginError,
+                error.message ||
+                "Authentication failed."
+            );
+
+
+        } finally {
+
+            loginButton.disabled =
+                false;
+
+            loginButton.textContent =
+                "Authenticate & Continue";
+
+        }
+
+    }
+);
+
+
+/* =========================================================
+   SHOW UPLOAD PAGE
+========================================================= */
+
+function showUploadPage() {
+
+    loginSection.style.display =
+        "none";
+
+
+    uploadSection.style.display =
+        "block";
+
+
+    window.scrollTo(
+        {
+            top: 0,
+            behavior: "smooth"
+        }
+    );
+
+}
+
+
+/* =========================================================
+   FILE INPUT
+========================================================= */
+
+fileInput.addEventListener(
+    "change",
+    function () {
+
+        selectedFiles =
+            Array.from(
+                fileInput.files || []
+            );
+
+
+        renderFiles();
+
+    }
+);
+
+
+/* =========================================================
+   DROP ZONE
+========================================================= */
+
+dropZone.addEventListener(
+    "dragover",
+    function (event) {
+
+        event.preventDefault();
+
+        dropZone.classList.add(
+            "drag-over"
+        );
+
+    }
+);
+
+
+dropZone.addEventListener(
+    "dragleave",
+    function () {
+
+        dropZone.classList.remove(
+            "drag-over"
+        );
+
+    }
+);
+
+
+dropZone.addEventListener(
+    "drop",
+    function (event) {
+
+        event.preventDefault();
+
+        dropZone.classList.remove(
+            "drag-over"
+        );
+
+
+        selectedFiles =
+            Array.from(
+                event.dataTransfer.files || []
+            );
+
+
+        renderFiles();
+
+    }
+);
+
+
+dropZone.addEventListener(
+    "click",
+    function () {
+
+        fileInput.click();
+
+    }
+);
+
+
+/* =========================================================
+   RENDER FILES
+========================================================= */
+
+function renderFiles() {
+
+    fileList.innerHTML =
+        "";
+
+
+    fileCount.textContent =
+        selectedFiles.length +
+        (
+            selectedFiles.length === 1
+                ? " file"
+                : " files"
+        );
+
+
+    startButton.disabled =
+        selectedFiles.length === 0;
+
+
+    selectedFiles.forEach(
+        function (file, index) {
+
+            const item =
+                document.createElement(
+                    "div"
+                );
+
+
+            item.className =
+                "data-file-item";
+
+
+            item.innerHTML = `
+
+                <div class="data-file-info">
+
+                    <span class="data-file-icon">
+                        ${getFileIcon(file.name)}
+                    </span>
+
+                    <div class="data-file-text">
+
+                        <span class="data-file-name">
+                            ${escapeHtml(file.name)}
+                        </span>
+
+                        <span class="data-file-size">
+                            ${formatFileSize(file.size)}
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <button
+                    type="button"
+                    class="remove-file"
+                    data-index="${index}"
+                >
+                    ×
+                </button>
+
+            `;
+
+
+            fileList.appendChild(
+                item
+            );
+
+        }
+    );
+
+
+    document
+        .querySelectorAll(
+            ".remove-file"
+        )
+        .forEach(
+            function (button) {
+
+                button.addEventListener(
+                    "click",
+                    function () {
+
+                        const index =
+                            Number(
+                                button.dataset.index
+                            );
+
+
+                        selectedFiles.splice(
+                            index,
+                            1
+                        );
+
+
+                        renderFiles();
+
+                    }
+                );
+
+            }
+        );
+
+}
+
+
+/* =========================================================
+   START DATA LOADING
+========================================================= */
+
+startButton.addEventListener(
+    "click",
+    async function () {
+
+        const token =
+            localStorage.getItem(
+                "data_upload_token"
+            );
+
+
+        if (!token) {
+
+            window.location.reload();
+
+            return;
+
+        }
+
+
+        if (
+            selectedFiles.length === 0
+        ) {
+
+            showError(
+                uploadError,
+                "Please select at least one file."
+            );
+
+            return;
+
+        }
+
+
+        hideError(
+            uploadError
+        );
+
+
+        startButton.disabled =
+            true;
+
+        startButton.textContent =
+            "Uploading Files...";
+
+
+        pipeline.style.display =
+            "block";
+
+
+        updateProgress(
+            5,
+            "Uploading files..."
+        );
+
+
+        const formData =
+            new FormData();
+
+
+        selectedFiles.forEach(
+            function (file) {
+
+                formData.append(
+                    "files",
+                    file
+                );
+
+            }
+        );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    API_BASE +
+                    "/api/data-upload",
+                    {
+
+                        method:
+                            "POST",
+
+                        headers: {
+
+                            "Authorization":
+                                "Bearer " +
+                                token
+
+                        },
+
+                        body:
+                            formData
+
+                    }
+                );
+
+
+            let result = {};
+
+
+            try {
+
+                result =
+                    await response.json();
+
+            } catch {
+
+                result = {};
+
+            }
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    result.detail ||
+                    "File upload failed."
+                );
+
+            }
+
+
+            console.log(
+                "Upload response:",
+                result
+            );
+
+
+            updateProgress(
+                10,
+                result.message ||
+                "Files uploaded. Pipeline started..."
+            );
+
+
+            /*
+                Start checking pipeline status.
+            */
+
+            monitorPipeline(
+                token
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                "Upload error:",
+                error
+            );
+
+
+            showError(
+                uploadError,
+                error.message ||
+                "Unable to upload files."
+            );
+
+
+            updateProgress(
+                0,
+                "Upload failed."
+            );
+
+
+            startButton.disabled =
+                false;
+
+            startButton.textContent =
+                "Start Data Loading";
+
+        }
+
+    }
+);
+
+
+/* =========================================================
+   MONITOR PIPELINE
+========================================================= */
+
+async function monitorPipeline(
+    token
+) {
+
+    try {
+
+        const response =
+            await fetch(
+                API_BASE +
+                "/api/data-status",
+                {
+
+                    method:
+                        "GET",
+
+                    headers: {
+
+                        "Authorization":
+                            "Bearer " +
+                            token
+
+                    }
+
+                }
+            );
+
+
+        let result = {};
+
+
+        try {
+
+            result =
+                await response.json();
+
+        } catch {
+
+            result = {};
+
+        }
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                result.detail ||
+                "Unable to read pipeline status."
+            );
+
+        }
+
+
+        console.log(
+            "Pipeline status:",
+            result
+        );
+
+
+        updateProgress(
+            result.progress || 0,
+            result.message ||
+            "Processing..."
+        );
+
+
+        renderPipelineSteps(
+            result.steps || []
+        );
+
+
+        /* ==========================================
+           COMPLETED
+        ========================================== */
+
+        if (
+            result.status === "completed" ||
+            result.status === "done"
+        ) {
+
+            updateProgress(
+                100,
+                result.message ||
+                "Knowledge base updated successfully."
+            );
+
+            hideError(uploadError);
+            uploadSuccess.textContent = "Upload complete. Returning to the main dashboard...";
+            uploadSuccess.classList.add("show");
+
+            startButton.disabled =
+                false;
+
+
+            startButton.textContent =
+                "Data Loaded Successfully";
+
+
+            setTimeout(
+                function () {
+                    window.location.href = "/";
+                },
+                1400
+            );
+
+
+            return;
+
+        }
+
+
+        /* ==========================================
+           FAILED
+        ========================================== */
+
+        if (
+            result.status === "failed" ||
+            result.status === "error"
+        ) {
+
+            throw new Error(
+                result.message ||
+                "Pipeline failed."
+            );
+
+        }
+
+
+        /* ==========================================
+           CONTINUE POLLING
+        ========================================== */
+
+        pollingTimer =
+            setTimeout(
+                function () {
+
+                    monitorPipeline(
+                        token
+                    );
+
+                },
+                1500
+            );
+
+
+    } catch (error) {
+
+        console.error(
+            "Pipeline monitoring error:",
+            error
+        );
+
+
+        showError(
+            uploadError,
+            error.message ||
+            "Pipeline monitoring failed."
+        );
+
+
+        startButton.disabled =
+            false;
+
+
+        startButton.textContent =
+            "Start Data Loading";
+
+    }
+
+}
+
+
+/* =========================================================
+   UPDATE PROGRESS
+========================================================= */
+
+function updateProgress(
+    progress,
+    message
+) {
+
+    const value =
+        Math.max(
+            0,
+            Math.min(
+                100,
+                Number(progress) || 0
+            )
+        );
+
+
+    progressFill.style.width =
+        value + "%";
+
+
+    progressPercent.textContent =
+        Math.round(value) + "%";
+
+
+    progressMessage.textContent =
+        message;
+
+}
+
+
+/* =========================================================
+   PIPELINE STEPS
+========================================================= */
+
+function renderPipelineSteps(
+    steps
+) {
+
+    pipelineSteps.innerHTML =
+        "";
+
+
+    steps.forEach(
+        function (step) {
+
+            const element =
+                document.createElement(
+                    "div"
+                );
+
+
+            const state =
+                step.state ||
+                "waiting";
+
+
+            element.className =
+                "pipeline-step " +
+                state;
+
+
+            let icon =
+                "○";
+
+
+            if (
+                state === "running"
+            ) {
+
+                icon =
+                    "⟳";
+
+            }
+
+
+            if (
+                state === "done" ||
+                state === "completed"
+            ) {
+
+                icon =
+                    "✓";
+
+            }
+
+
+            if (
+                state === "failed" ||
+                state === "error"
+            ) {
+
+                icon =
+                    "✕";
+
+            }
+
+
+            element.innerHTML = `
+
+                <div class="pipeline-step-icon">
+                    ${icon}
+                </div>
+
+                <div class="pipeline-step-content">
+
+                    <span class="pipeline-step-name">
+                        ${escapeHtml(
+                            step.name || ""
+                        )}
+                    </span>
+
+                    <span class="pipeline-step-message">
+                        ${escapeHtml(
+                            step.message || ""
+                        )}
+                    </span>
+
+                </div>
+
+            `;
+
+
+            pipelineSteps.appendChild(
+                element
+            );
+
+        }
+    );
+
+}
+
+
+/* =========================================================
+   FILE ICON
+========================================================= */
+
+function getFileIcon(
+    filename
+) {
+
+    const extension =
+        filename
+            .split(".")
+            .pop()
+            .toLowerCase();
+
+
+    if (
+        extension === "mp4" ||
+        extension === "mkv" ||
+        extension === "avi" ||
+        extension === "mov"
+    ) {
+
+        return "🎬";
+
+    }
+
+
+    if (
+        extension === "ppt" ||
+        extension === "pptx"
+    ) {
+
+        return "📊";
+
+    }
+
+
+    if (
+        extension === "pdf"
+    ) {
+
+        return "📕";
+
+    }
+
+
+    if (
+        extension === "doc" ||
+        extension === "docx"
+    ) {
+
+        return "📘";
+
+    }
+
+
+    if (
+        extension === "txt"
+    ) {
+
+        return "📝";
+
+    }
+
+
+    return "📄";
+
+}
+
+
+/* =========================================================
+   FILE SIZE
+========================================================= */
+
+function formatFileSize(
+    bytes
+) {
+
+    if (
+        !bytes ||
+        bytes <= 0
+    ) {
+
+        return "0 Bytes";
+
+    }
+
+
+    const units = [
+        "Bytes",
+        "KB",
+        "MB",
+        "GB"
+    ];
+
+
+    const index =
+        Math.floor(
+            Math.log(bytes) /
+            Math.log(1024)
+        );
+
+
+    const safeIndex =
+        Math.min(
+            index,
+            units.length - 1
+        );
+
+
+    return (
+        (
+            bytes /
+            Math.pow(
+                1024,
+                safeIndex
+            )
+        ).toFixed(1)
+        +
+        " "
+        +
+        units[safeIndex]
+    );
+
+}
+
+
+/* =========================================================
+   ESCAPE HTML
+========================================================= */
+
+function escapeHtml(
+    value
+) {
+
+    const div =
+        document.createElement(
+            "div"
+        );
+
+
+    div.textContent =
+        value;
+
+
+    return div.innerHTML;
+
+}
+
+
+/* =========================================================
+   ERROR HELPERS
+========================================================= */
+
+function showError(
+    element,
+    message
+) {
+
+    element.textContent =
+        message;
+
+
+    element.classList.add(
+        "show"
+    );
+
+}
+
+
+function hideError(
+    element
+) {
+
+    element.textContent =
+        "";
+
+
+    element.classList.remove(
+        "show"
+    );
+
+}
+
+</script>
+
+
+</body>
+
+</html>

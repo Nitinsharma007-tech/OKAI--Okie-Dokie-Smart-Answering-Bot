@@ -1,0 +1,50 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Follow-up Page",
+    "summary": "The Admission Follow-up page provides a centralized view of all follow-up activities across the system. Users can see total follow-ups and filter them by status (today's, upcoming, overdue, completed) or by counselor and date range, acting as a comprehensive follow-up report.",
+    "navigation": [
+        "Admission Follow-up"
+    ],
+    "steps": [
+        "1. Navigate to the 'Admission Follow-up' page.",
+        "2. View the 'Total Follow-ups' count.",
+        "3. Use the quick filters to view 'Today's Follow-ups', 'Upcoming Follow-ups', 'Overdue Follow-ups', or 'Completed Follow-ups'.",
+        "4. To check counselor-wise follow-ups, set a 'Start Date' and 'End Date' and select the desired counselor.",
+        "5. Review the details of each follow-up, including lead information and status."
+    ],
+    "business_rules": [
+        "A single lead can have multiple follow-up entries."
+    ],
+    "important_notes": [
+        "This page is essential for counselors and managers to track and manage all scheduled and completed follow-up activities efficiently.",
+        "Overdue follow-ups highlight pending tasks that require immediate attention."
+    ],
+    "questions": [
+        "Where can I see a consolidated list of all admission follow-ups?",
+        "How do I check which follow-ups are overdue?",
+        "Can I filter follow-ups by a specific counselor and date range?",
+        "What is the difference between 'Upcoming' and 'Overdue' follow-ups?",
+        "How many follow-ups can a single lead have?"
+    ],
+    "keywords": [
+        "Admission follow-up page",
+        "Total follow-ups",
+        "Today's follow-ups",
+        "Upcoming follow-ups",
+        "Overdue follow-ups",
+        "Completed follow-ups",
+        "Follow-up report",
+        "Counselor follow-ups"
+    ],
+    "related_topics": [
+        "Admission Leads Page: Actions (Follow-up, Visit, Notes, WhatsApp, Timeline)",
+        "Admission Tags: Creation and Usage",
+        "Lead Management"
+    ],
+    "id": "admissions_admission_follow_up_page",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

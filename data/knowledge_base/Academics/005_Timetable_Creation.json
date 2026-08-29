@@ -1,0 +1,69 @@
+{
+    "module": "Academics",
+    "topic": "Timetable Creation",
+    "summary": "This topic outlines the process of creating a daily timetable for a class, including defining lecture numbers, start and end times, assigning subjects, and mapping teachers. It also covers how to incorporate breaks into the schedule.",
+    "navigation": [
+        "Settings icon",
+        "Academics",
+        "Timetable",
+        "Add New Timetable"
+    ],
+    "steps": [
+        "Click on the 'Settings' icon.",
+        "Select 'Academics' from the options.",
+        "Choose 'Timetable'.",
+        "Click on 'Add New Timetable'.",
+        "Select the 'Class' for which the timetable is being created.",
+        "Click 'Add New Schedule'.",
+        "For each lecture/period:",
+        "Enter the 'Lecture Number' (e.g., 1).",
+        "Enter the 'Start Time' (e.g., 8:00 AM).",
+        "Enter the 'End Time' (e.g., 8:45 AM).",
+        "Optionally, select the 'Subject' from the dropdown list (subjects must be mapped to the class).",
+        "Optionally, select the 'Employee' (teacher) from the list (teachers must be mapped as subject teachers for that class/subject).",
+        "To define a break, click on the schedule entry and toggle the 'Break' option on.",
+        "Click 'Push' to add the subject/teacher to the schedule for that slot.",
+        "Repeat for all lectures and breaks for the day.",
+        "Click 'Save Schedule' after defining all entries for the day.",
+        "Repeat the process for other days of the week (Monday, Tuesday, Wednesday, etc.)."
+    ],
+    "business_rules": [
+        "Lectures are numbered sequentially.",
+        "Start and end times define the duration of each period.",
+        "Teachers assigned to lecture slots must be mapped as subject teachers for the respective subject and class.",
+        "Breaks can be defined within the schedule by toggling the 'Break' option."
+    ],
+    "important_notes": [
+        "The system often auto-suggests the start time for the next lecture based on the previous one's end time.",
+        "It is possible to schedule multiple subjects concurrently if needed (e.g., for different sections or activities)."
+    ],
+    "questions": [
+        "How do I create a new timetable for a class?",
+        "How do I add lecture timings to the timetable?",
+        "Can I define breaks within the class timetable?",
+        "How do I assign a subject and a teacher to a specific lecture slot?",
+        "What happens if I need to schedule two subjects at the same time?",
+        "How do I save the daily schedule?"
+    ],
+    "keywords": [
+        "Timetable",
+        "Create timetable",
+        "Lecture schedule",
+        "Class schedule",
+        "Add schedule",
+        "Break in timetable",
+        "Assign subject to timetable",
+        "Assign teacher to timetable",
+        "Schedule lectures"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Teacher Mapping"
+    ],
+    "id": "academics_timetable_creation",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

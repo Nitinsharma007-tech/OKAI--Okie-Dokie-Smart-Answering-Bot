@@ -1,0 +1,60 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Generating and Printing Student Certificates and ID Cards",
+    "summary": "Explains how to generate and print various student certificates (e.g., DC Certificate, Tuition Fee Certificate, Character Certificate, Appreciation Certificate) and ID cards. It covers searching for individual students, entering specific details for certificates, saving, printing, and also provides an option for bulk printing.",
+    "navigation": [
+        "Student",
+        "Student Certificates"
+    ],
+    "steps": [
+        "Navigate to 'Student Certificates'.",
+        "Select the desired certificate type (e.g., DC Certificate, Tuition Fee Certificate, Character Certificate, Student ID Card, Admit Card, Appreciation Certificate).",
+        "For a single student, search by name or use the available filter options.",
+        "Enter any required details specific to the certificate being generated.",
+        "Click 'Save' to store the certificate data.",
+        "Click 'Print' to generate a physical copy of the certificate.",
+        "For bulk printing, select multiple students from the list.",
+        "Choose the 'Bulk Print' option for the desired certificate type (e.g., ID cards, character certificates, appreciation certificates)."
+    ],
+    "business_rules": [
+        "The 'Print and Inactive' option can be used when a student is being released, allowing for simultaneous certificate printing and status change.",
+        "DC Certificates are typically used for student release.",
+        "Student Ledger and Tuition Fee Certificates are related to financial records.",
+        "Character Certificates are often required for college admissions or transfers."
+    ],
+    "important_notes": [
+        "The system supports both single and bulk printing of various certificates and ID cards.",
+        "The layout and content of printed certificates (e.g., DC certificate) can be configured."
+    ],
+    "questions": [
+        "How do I print a student's Transfer Certificate (TC)?",
+        "Can I print ID cards for multiple students at once?",
+        "Where can I find and print a student's character certificate?",
+        "What types of certificates can be generated from the system?",
+        "How do I print a student's ID card?",
+        "Is there an option to print a certificate and mark a student as inactive simultaneously?"
+    ],
+    "keywords": [
+        "Student Certificates",
+        "ID Card",
+        "Bulk Print",
+        "TC Certificate",
+        "DC Certificate",
+        "Tuition Fee Certificate",
+        "Character Certificate",
+        "Admit Card",
+        "Appreciation Certificate",
+        "Print Student Data",
+        "Certificate Generation"
+    ],
+    "related_topics": [
+        "Student Status Management (Active/Inactive)",
+        "Student List Management"
+    ],
+    "id": "student_sas_generating_and_printing_student_certificates_and_id_cards",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

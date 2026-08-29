@@ -1,0 +1,46 @@
+{
+    "module": "General ERP",
+    "topic": "Initial Dashboard and Module Access",
+    "summary": "Describes the initial login screen, which serves as a dashboard, and how to access specific modules like the Student module (also referred to as SAS module) from the left-hand navigation panel.",
+    "navigation": [
+        "Login",
+        "Dashboard",
+        "Left Navigation",
+        "Student"
+    ],
+    "steps": [
+        "Log in to the ERP system.",
+        "The first screen displayed after login is the dashboard.",
+        "Locate the 'Student' (SAS) module on the left navigation panel.",
+        "Click on 'Student' to view reports and information related to students."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "The first screen after login is always a dashboard.",
+        "The 'Student' module is also known as the 'SAS module'.",
+        "Clicking 'Student' in the left navigation displays all student-related reports and information."
+    ],
+    "questions": [
+        "How do I access the Student module after logging in?",
+        "What is the initial screen displayed upon logging into the ERP system?",
+        "Where can I find student-related reports and information?"
+    ],
+    "keywords": [
+        "Dashboard",
+        "Module Navigation",
+        "Student Module",
+        "SAS Module",
+        "First Screen",
+        "Login"
+    ],
+    "related_topics": [
+        "Student List Management",
+        "ERP System Overview"
+    ],
+    "id": "general_erp_initial_dashboard_and_module_access",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

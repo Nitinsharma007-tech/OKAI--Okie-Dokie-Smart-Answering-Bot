@@ -1,0 +1,2260 @@
+1
+00:00:00,560 --> 00:00:05,799
+Okay, so basically ma'am, apka jo abhi login url hai, right, jo usse log in karte hai,
+
+2
+00:00:05,879 --> 00:00:10,019
+uspe HRM ki apas complete permissions hai, apne check kar liye hogi.
+
+3
+00:00:10,199 --> 00:00:15,500
+Tke, to abhi tak aapne kya kya, masters wajhara create kiye the, assign kiye the, then uske
+
+4
+00:00:15,500 --> 00:00:17,719
+bhaad apne kuch contracts bhi laga liye hogi employees.
+
+5
+00:00:18,399 --> 00:00:18,879
+Anji.
+
+6
+00:00:18,980 --> 00:00:19,719
+Ji, tke.
+
+7
+00:00:19,920 --> 00:00:24,100
+Ab jo aapne ma'am contracts laga liye usme kuch funding jo the ho gayi the complete matlab
+
+8
+00:00:24,100 --> 00:00:24,940
+laga liye the apne.
+
+9
+00:00:25,440 --> 00:00:26,679
+Anji ma'am.
+
+10
+00:00:26,920 --> 00:00:27,559
+Tke ma'am.
+
+11
+00:00:27,559 --> 00:00:31,219
+To ma'am, ho cover karna hai part to bara se, ya ho clear aap uske aage kare.
+
+12
+00:00:31,239 --> 00:00:34,780
+Ma'am, sara starting se bata do merko, mere mind me re to raha ho raha ho raha ho raha
+
+13
+00:00:34,780 --> 00:00:36,259
+Okay, okay ma'am, okay.
+
+14
+00:00:36,380 --> 00:00:41,719
+Ma'am, agar aapko contract kisi bhi employee ko hme lagaana hota hai, to aap basi ye assign
+
+15
+00:00:41,719 --> 00:00:43,960
+salary template ka option rahega, basically.
+
+16
+00:00:44,140 --> 00:00:44,460
+Anji.
+
+17
+00:00:44,460 --> 00:00:47,960
+Tke, assign means, jais aji se aapko create karna hoga.
+
+18
+00:00:48,560 --> 00:00:53,100
+Tke, jo bhi employee ke liye, assign salary template mein, jabbi hum assign karte hai
+
+19
+00:00:53,100 --> 00:00:56,340
+Ab ho, aapko contract ko, apne is terse ek option open hoga.
+
+20
+00:00:56,679 --> 00:00:56,700
+Ye.
+
+21
+00:00:57,179 --> 00:00:57,659
+Right.
+
+22
+00:00:57,659 --> 00:01:01,140
+Yaha se apke paas employees aage ho jimko aapko assign karna hai.
+
+23
+00:01:01,280 --> 00:01:04,980
+Basically, jitna bhi aappas total number of employees ho gye, wo sare aapki aapne aate
+
+24
+00:01:04,980 --> 00:01:05,079
+hai.
+
+25
+00:01:05,400 --> 00:01:05,879
+Anji.
+
+26
+00:01:06,019 --> 00:01:10,099
+Tke, apko aap search kar sakto ho, either the employee ID or the name.
+
+27
+00:01:10,359 --> 00:01:10,640
+Right.
+
+28
+00:01:10,840 --> 00:01:13,560
+Jis bhi employee ko aapko lagaana hoga, apne search kiya.
+
+29
+00:01:13,739 --> 00:01:17,780
+For example, mujhe is employee ko lagaana hai, ma search karoogi name se, ho aage hain.
+
+30
+00:01:17,859 --> 00:01:21,040
+Then yaha select box se aapko select karna hai.
+
+31
+00:01:21,040 --> 00:01:25,599
+Right, select karne ke baad aappas bottom ek button aayega, assign template ka.
+
+32
+00:01:25,859 --> 00:01:29,140
+Means, aap isko contract laga rahe ho aapki ke liye mein.
+
+33
+00:01:29,840 --> 00:01:36,620
+Tke, assign karoogi, assign karne ke liye aappas option hai, copy from salary template, import
+
+34
+00:01:36,620 --> 00:01:37,159
+from salary.
+
+35
+00:01:37,180 --> 00:01:41,579
+Dua option kya rahe the hai, ek to aapne contract template create kare rahe hai.
+
+36
+00:01:43,000 --> 00:01:47,379
+Jo aapne salary template create kiya ho, chaar tarah ke standard created hai.
+
+37
+00:01:47,760 --> 00:01:49,840
+With PF, without PF, without DSIPF.
+
+38
+00:01:50,560 --> 00:01:50,680
+Right.
+
+39
+00:01:50,680 --> 00:01:55,260
+Yaha phir aappas dosa option kya ho uskta hai, ki jo aapne previously employee ko lagaaya
+
+40
+00:01:55,260 --> 00:01:55,459
+hain.
+
+41
+00:01:55,519 --> 00:01:57,519
+Ye humne already employee ko lagaaya hain tha.
+
+42
+00:01:57,519 --> 00:02:00,140
+First date aari hain, humne 31 December tak laga diya tha.
+
+43
+00:02:00,640 --> 00:02:05,519
+Tke, aage ke liye aap isko hi continue karna chaate ho, December ke baad.
+
+44
+00:02:06,590 --> 00:02:13,229
+Tke, to aap isko hi as it is copy karoogi, isme jo bhi aapko amount me changes, ya koi
+
+45
+00:02:13,229 --> 00:02:14,210
+head me changes.
+
+46
+00:02:14,530 --> 00:02:17,030
+Right, jo bhi karne hoge, wo aap kar sakte ho.
+
+47
+00:02:17,030 --> 00:02:22,990
+In case, for example, aapko further ke liye hi koi reduction head aage contract ke liye
+
+48
+00:02:22,990 --> 00:02:26,509
+assign karna hai, to aap yaha se head bhi add kar sakte ho.
+
+49
+00:02:27,439 --> 00:02:32,979
+Tke, aap contract me change kar sakte ho, upcoming ke liye, 31 December ke baad ki contracts
+
+50
+00:02:32,979 --> 00:02:33,479
+me.
+
+51
+00:02:34,639 --> 00:02:34,919
+Tke.
+
+52
+00:02:36,340 --> 00:02:40,680
+Calculate karte hai hum, to humare pas amount aajata hai, jo bhi contract ke according amount
+
+53
+00:02:40,680 --> 00:02:41,419
+create ho raha hoga.
+
+54
+00:02:41,800 --> 00:02:46,319
+Then aap next karoge, to aap se date maangega, ki kap tak ke liye aapko usse assign karna
+
+55
+00:02:46,319 --> 00:02:46,360
+hai.
+
+56
+00:02:46,360 --> 00:02:51,719
+Tke, pehle wala jo contract hai, wo aapko already 31 December tak assigned hai.
+
+57
+00:02:53,120 --> 00:02:58,199
+Tke, to aap jo aap aage assign kar sakte ho, December ke baad kar hi assign kar sakte ho.
+
+58
+00:02:58,340 --> 00:03:01,979
+Right, ek January se lagega, start date aap dekh rahe ho ki aap freeze aariye January
+
+59
+00:03:01,979 --> 00:03:02,800
+2026.
+
+60
+00:03:03,419 --> 00:03:05,060
+Agar mujhe November ka banana hai.
+
+61
+00:03:05,520 --> 00:03:10,099
+Ha, aapko, man dekho kar November ka banana hai, to phir jo previous contract hai wo aapko
+
+62
+00:03:10,099 --> 00:03:11,120
+remove karne padege.
+
+63
+00:03:11,199 --> 00:03:14,259
+Kyuki aapne I think December se banane ke liye bho raha tha na.
+
+64
+00:03:14,449 --> 00:03:17,569
+Ha na, to wo phir previous contract.
+
+65
+00:03:17,830 --> 00:03:21,349
+Ja saar mein trial kari ho, to wo to mein November se karungi na.
+
+66
+00:03:21,569 --> 00:03:25,250
+Agar aap chahe ho November se bhi create kar sakte ho, phir usme agar aapko head mein
+
+67
+00:03:25,250 --> 00:03:27,650
+koi changes hai na, wo create karne ke baad bhi ho jate hai.
+
+68
+00:03:27,889 --> 00:03:31,650
+Ye toh mein se contract create karne ka bata hote hai, agar aapko contract ki change karna
+
+69
+00:03:31,650 --> 00:03:32,349
+hai.
+
+70
+00:03:32,919 --> 00:03:37,219
+Tke, aap aap jesse batari ho na, aapko November ki for example salary banane hai, wo aap banane
+
+71
+00:03:37,219 --> 00:03:37,659
+sakte ho.
+
+72
+00:03:38,159 --> 00:03:42,340
+Uske liye aapko pati salary summary month wise ka use karke, aap pehle dates set kar lo
+
+73
+00:03:42,340 --> 00:03:46,120
+ki employee ki, kisi ek ki banane lete hai, jesse aapki hi kar lete hai.
+
+74
+00:03:47,900 --> 00:03:52,479
+Tke, ye salary summary month aapne dekha hoga, humne December ki create ki thi.
+
+75
+00:03:53,340 --> 00:03:57,259
+Tke, for example ye aapki November ki hoti, isi toh aap November ki bhi banane liye jega.
+
+76
+00:03:57,379 --> 00:04:01,599
+Wahi aapas jo ye hai, mark attendance month wise, November ki poore month ki karke hai.
+
+77
+00:04:01,599 --> 00:04:04,960
+Asana aap mujhe hi bata ho, jesse maine na driver ki banane lete hai.
+
+78
+00:04:05,699 --> 00:04:06,139
+Hmm.
+
+79
+00:04:06,620 --> 00:04:09,939
+Tke, to wo maine shahe contract nahi lagaye tha usme.
+
+80
+00:04:10,639 --> 00:04:11,080
+Okay.
+
+81
+00:04:11,080 --> 00:04:11,500
+Hmm.
+
+82
+00:04:16,360 --> 00:04:17,779
+Ye hai employee?
+
+83
+00:04:18,019 --> 00:04:18,040
+Ye.
+
+84
+00:04:19,100 --> 00:04:19,300
+Tke.
+
+85
+00:04:19,860 --> 00:04:23,980
+Aapne isse view kiya, aapko ye doubt hai, isko contract lagaya hai na, yaha pe na salary
+
+86
+00:04:23,980 --> 00:04:25,040
+template rehta hai ye.
+
+87
+00:04:25,459 --> 00:04:25,920
+Okay.
+
+88
+00:04:25,920 --> 00:04:30,000
+Agar contract laga ho, toh yaha wo show karega, yaha wo show nahi kara, means yaha pe contract
+
+89
+00:04:30,000 --> 00:04:30,620
+nahi laga ho.
+
+90
+00:04:30,620 --> 00:04:31,339
+Nahi laga ho.
+
+91
+00:04:31,519 --> 00:04:31,899
+Hmm.
+
+92
+00:04:32,259 --> 00:04:35,759
+Wahi aapko contract lagana hai iska, yaha se sign salary template se.
+
+93
+00:04:37,850 --> 00:04:38,370
+Laga do main?
+
+94
+00:04:39,250 --> 00:04:39,769
+Anji.
+
+95
+00:04:40,610 --> 00:04:40,889
+Okay.
+
+96
+00:04:40,889 --> 00:04:45,730
+Aapko click, yaha pe click karna hai, select karoge assign template, then dekho yaha pe
+
+97
+00:04:45,730 --> 00:04:48,470
+koi nahi aara hai, it means isko previous koi laga hi nahi hua.
+
+98
+00:04:48,930 --> 00:04:51,850
+Tke, toh aapko yaha se assign karna hai isse.
+
+99
+00:04:52,089 --> 00:04:52,389
+Okay.
+
+100
+00:04:52,389 --> 00:04:54,610
+Kya hai, aapko iska, wahi 10,000 wala system?
+
+101
+00:04:54,649 --> 00:04:55,810
+Nahi, with hai, with, with.
+
+102
+00:04:56,850 --> 00:04:57,470
+With laga hai?
+
+103
+00:04:57,990 --> 00:04:58,350
+Anji.
+
+104
+00:05:00,050 --> 00:05:01,110
+P, F, E, S, I both?
+
+105
+00:05:02,769 --> 00:05:03,290
+Anji.
+
+106
+00:05:03,529 --> 00:05:05,029
+Aur Labour Welfare Fund bhi lagayega.
+
+107
+00:05:06,209 --> 00:05:08,930
+Toh a basic itna rakhna hai aapko amount matata jaye.
+
+108
+00:05:08,949 --> 00:05:11,730
+Basic rakhna hai, aapne 14,390.
+
+109
+00:05:14,009 --> 00:05:14,889
+14,390.
+
+110
+00:05:15,050 --> 00:05:16,689
+Is tarah se aap basic amount enter karna.
+
+111
+00:05:16,930 --> 00:05:20,790
+Incase koi D.A. hai, grade pe toh wo enter jasut pe nahi hai, toh aap iske skip kar dena,
+
+112
+00:05:20,949 --> 00:05:21,610
+zero heat.
+
+113
+00:05:21,810 --> 00:05:22,149
+Okay.
+
+114
+00:05:22,149 --> 00:05:22,509
+Chiken.
+
+115
+00:05:22,730 --> 00:05:26,750
+Ab deduction mein, waise toh ho E, S, P, F, I wo automatically calculate terega, jo
+
+116
+00:05:26,750 --> 00:05:27,230
+aapne click diya tha.
+
+117
+00:05:27,449 --> 00:05:31,649
+Aapne ye dekho, ye automatic mein aara hai aapka ye 158.
+
+118
+00:05:31,810 --> 00:05:34,189
+Jee, 158 na up to amount hai.
+
+119
+00:05:34,589 --> 00:05:34,970
+Anji.
+
+120
+00:05:35,069 --> 00:05:38,509
+Jo salary, even up to amount hota hai, dekho jo salary.
+
+121
+00:05:39,230 --> 00:05:42,009
+Abhi humare paas E, S, I iska 101 hai.
+
+122
+00:05:42,610 --> 00:05:43,089
+Okay.
+
+123
+00:05:43,810 --> 00:05:44,129
+Hmm.
+
+124
+00:05:44,389 --> 00:05:44,949
+Toh utna hi rahega.
+
+125
+00:05:45,990 --> 00:05:48,629
+Dekho ma'am kya hota hai, ye iska amount hai.
+
+126
+00:05:48,829 --> 00:05:49,069
+Chiken.
+
+127
+00:05:49,629 --> 00:05:53,310
+14,390 ka 0.75%.
+
+128
+00:05:53,310 --> 00:05:54,209
+Anji.
+
+129
+00:05:54,490 --> 00:05:55,269
+Wo iska aayega.
+
+130
+00:05:55,610 --> 00:05:56,370
+E, S, I basically.
+
+131
+00:05:56,430 --> 00:05:57,350
+Ye up to amount hai.
+
+132
+00:05:57,370 --> 00:05:59,730
+Up to amount ho bata bote maximum kaha tak jasut te.
+
+133
+00:06:00,029 --> 00:06:04,009
+Abhi meri jo salary sheet mein iska amount hai 101.
+
+134
+00:06:04,810 --> 00:06:05,290
+Okay.
+
+135
+00:06:05,310 --> 00:06:06,069
+E, S, I.
+
+136
+00:06:06,209 --> 00:06:07,589
+Abhi me isko change kar sakte ho na.
+
+137
+00:06:07,589 --> 00:06:10,050
+Ma'am up to amount kyu change karna hai.
+
+138
+00:06:10,129 --> 00:06:11,410
+I think 101 hi banega.
+
+139
+00:06:11,490 --> 00:06:14,009
+Ek min main calculate bhi kar lete ho saath saath hai.
+
+140
+00:06:14,149 --> 00:06:17,209
+Aapkar hum dekhe humara hai 14,390.
+
+141
+00:06:17,430 --> 00:06:22,699
+14,390 ka aap kya rahe ho 0.75%.
+
+142
+00:06:38,629 --> 00:06:43,189
+Ye baithega aapka 107 kuch baithega.
+
+143
+00:06:43,209 --> 00:06:43,910
+Aapka kitna hai?
+
+144
+00:06:44,829 --> 00:06:47,470
+Ye mere paas 101 hai, ye iska amount iska.
+
+145
+00:06:47,850 --> 00:06:49,089
+Haan, toh itna hi baithega.
+
+146
+00:06:49,189 --> 00:06:50,389
+I think iski salary ke according.
+
+147
+00:06:51,069 --> 00:06:53,209
+Aapko fix karna hai 101, aap ye kya rahe ho.
+
+148
+00:06:53,209 --> 00:06:56,230
+Ma'am ye 101 hi jara hi iska ameesha se.
+
+149
+00:06:56,329 --> 00:06:58,569
+Mere peechi salary sheets dekhi hai.
+
+150
+00:06:59,569 --> 00:06:59,889
+Hmm.
+
+151
+00:06:59,889 --> 00:07:01,410
+Itna hi hai, jaise ye fix hi ho gaya ho.
+
+152
+00:07:02,310 --> 00:07:04,350
+Agar dekho fix rakhna hai wo bhi kar se toh.
+
+153
+00:07:04,509 --> 00:07:07,310
+Wo ma'am 14,000 rupay pe laga rakhna ho anon ne.
+
+154
+00:07:07,470 --> 00:07:09,230
+Jo aapka PFASI karte hai na.
+
+155
+00:07:09,410 --> 00:07:10,509
+Jo peechi aap CSI karte hai.
+
+156
+00:07:10,589 --> 00:07:12,269
+Wo 14 ke upar basic pe laga raha ho.
+
+157
+00:07:12,750 --> 00:07:13,149
+Okay.
+
+158
+00:07:13,649 --> 00:07:15,769
+390 upar upar, 7 rupay aur upar raha rahe ho.
+
+159
+00:07:16,129 --> 00:07:16,529
+Hmm.
+
+160
+00:07:17,410 --> 00:07:19,870
+Toh ye na, dekho up to amount ka koi ye nahi hai.
+
+161
+00:07:19,910 --> 00:07:21,709
+Ki aap sochho ki 150, 80 aayega ho.
+
+162
+00:07:21,709 --> 00:07:21,970
+Hmm.
+
+163
+00:07:22,350 --> 00:07:23,509
+Up to amount matlab ye nahi hota.
+
+164
+00:07:23,589 --> 00:07:25,850
+Wo percentage ke saapse calculate karega.
+
+165
+00:07:26,050 --> 00:07:29,350
+Jitna banega, agar 158 se zyada ban raha hoga na.
+
+166
+00:07:29,490 --> 00:07:31,269
+Toh wo 158 tak rakhega.
+
+167
+00:07:31,370 --> 00:07:32,649
+Iska matlab ye hota hai.
+
+168
+00:07:32,709 --> 00:07:33,470
+Take care.
+
+169
+00:07:33,589 --> 00:07:35,610
+So abhi ma'am, abhi merko ye bata ho ki,
+
+170
+00:07:35,649 --> 00:07:37,490
+agar mujhe apni salary sheet se match karna hai.
+
+171
+00:07:37,610 --> 00:07:39,230
+Toh ma'am isko 101 kar sakti ho na.
+
+172
+00:07:39,750 --> 00:07:42,110
+Dekho, agar aapko karna hai, toh fir aap simple hai.
+
+173
+00:07:42,250 --> 00:07:44,189
+Hum isko ister aise nahi rakhege.
+
+174
+00:07:44,269 --> 00:07:46,110
+Hum isko normal wala rakhege.
+
+175
+00:07:46,209 --> 00:07:47,129
+Add karoge.
+
+176
+00:07:47,329 --> 00:07:47,529
+Okay.
+
+177
+00:07:47,670 --> 00:07:50,970
+Isko aapko rakhna hai ESI Employee Contribution.
+
+178
+00:07:50,970 --> 00:07:53,069
+Isko aap rakhoge fixed.
+
+179
+00:07:53,649 --> 00:07:54,029
+Hai na.
+
+180
+00:07:54,329 --> 00:07:56,310
+Kittni value rakhni hai, hu aap rakte na.
+
+181
+00:07:56,810 --> 00:07:58,629
+Kittna badari ho jo na 101,
+
+182
+00:07:58,790 --> 00:08:00,389
+agar aapko usi ke according banane hai.
+
+183
+00:08:00,649 --> 00:08:02,850
+Aap ma'am, ispe laga ho ek baar 101.
+
+184
+00:08:03,629 --> 00:08:05,449
+101 karna hai ki kaise aayega.
+
+185
+00:08:05,870 --> 00:08:07,490
+Haan, koi nahi 101 karna hai.
+
+186
+00:08:07,670 --> 00:08:09,730
+Isko percentage hi aayega, PF ko?
+
+187
+00:08:09,870 --> 00:08:11,189
+PF mein aayega.
+
+188
+00:08:13,120 --> 00:08:13,720
+1612.
+
+189
+00:08:14,100 --> 00:08:15,100
+1000, 500, 12.
+
+190
+00:08:15,439 --> 00:08:17,379
+12% iska dekh lukte hai.
+
+191
+00:08:20,990 --> 00:08:22,110
+14, 399.
+
+192
+00:08:29,000 --> 00:08:29,560
+1726.
+
+193
+00:08:31,180 --> 00:08:31,740
+1726.
+
+194
+00:08:33,759 --> 00:08:34,659
+Aapka kittne hai?
+
+195
+00:08:36,289 --> 00:08:36,850
+1612.
+
+196
+00:08:37,429 --> 00:08:39,149
+Haan, toh fir ye bhi aap usse isaab se karlo.
+
+197
+00:08:39,269 --> 00:08:41,529
+Ye bhi matlab basically aapko apne according rakna hai.
+
+198
+00:08:42,330 --> 00:08:43,110
+Delete karoge.
+
+199
+00:08:43,909 --> 00:08:45,429
+Yaha pe PF hai aapka.
+
+200
+00:08:45,509 --> 00:08:47,009
+Isko bhi aap fixed kar sakte ho.
+
+201
+00:08:47,450 --> 00:08:48,730
+Like fir ye fixed rahega.
+
+202
+00:08:48,830 --> 00:08:51,009
+Matlab ikla hi rahega har salary contract.
+
+203
+00:08:51,009 --> 00:08:54,090
+Jabbi aap salary process karoge na, upta hi amount rahega hai.
+
+204
+00:08:54,210 --> 00:08:56,490
+And agar next month ye change ho jaye toh?
+
+205
+00:08:56,509 --> 00:08:57,830
+Toh fir aap change kar sakte ho.
+
+206
+00:08:57,870 --> 00:09:00,330
+Mai aapko woi bata dugi, aap salary mein bhi change kar sakte ho.
+
+207
+00:09:00,389 --> 00:09:01,629
+Kitna rakko ma'am amount bata na?
+
+208
+00:09:02,990 --> 00:09:03,470
+1612.
+
+209
+00:09:07,399 --> 00:09:07,879
+1612.
+
+210
+00:09:09,259 --> 00:09:12,259
+Uske alawa employer contribution bhi hai kuch?
+
+211
+00:09:13,100 --> 00:09:15,980
+Ma'am, ye labor welfare fund hai.
+
+212
+00:09:16,500 --> 00:09:17,980
+Bhi ho deduction bhi aayega.
+
+213
+00:09:18,659 --> 00:09:20,440
+Ye toh hata do na, employer contribution.
+
+214
+00:09:20,940 --> 00:09:22,159
+Haan ji.
+
+215
+00:09:22,840 --> 00:09:24,000
+Yahaan se delete ho jayega.
+
+216
+00:09:24,279 --> 00:09:27,539
+Ab ik dosra aap kair rahe ho labor welfare fund.
+
+217
+00:09:27,759 --> 00:09:28,200
+Ye hai.
+
+218
+00:09:28,299 --> 00:09:32,070
+Ye ma'am 27 rupees.
+
+219
+00:09:33,419 --> 00:09:33,940
+27.
+
+220
+00:09:34,240 --> 00:09:35,940
+Ye aap contract mein laga rahe ho ma'am.
+
+221
+00:09:35,940 --> 00:09:37,799
+It means jabbi aap salary process karoge,
+
+222
+00:09:37,840 --> 00:09:40,240
+toh automatically ye deduction mein hi dekhayega.
+
+223
+00:09:40,960 --> 00:09:42,159
+Mai aapko bhi bata dugi,
+
+224
+00:09:42,299 --> 00:09:44,740
+agar aapko contract change karna ho, salary process ke baat karna ho,
+
+225
+00:09:44,740 --> 00:09:45,779
+toh wo bhi aap kar sakte ho.
+
+226
+00:09:46,340 --> 00:09:48,440
+Ye kiya, then aap calculate karoge,
+
+227
+00:09:48,460 --> 00:09:50,919
+wo salary dekhadega ki gross salary itni banti hai.
+
+228
+00:09:50,919 --> 00:09:53,419
+Deduction aapki 1740 bani
+
+229
+00:09:53,419 --> 00:09:55,919
+and paid salary ki 12,650 bani.
+
+230
+00:09:56,299 --> 00:09:58,600
+Aur Manu, aap maine ispe se advance cut karna hai.
+
+231
+00:09:59,159 --> 00:10:00,059
+Okay fine.
+
+232
+00:10:00,440 --> 00:10:02,860
+Ab advance ka bhi aapka deduction rahe toh.
+
+233
+00:10:03,240 --> 00:10:04,299
+Advance recovery.
+
+234
+00:10:04,620 --> 00:10:05,980
+Aapko kitna karna advance?
+
+235
+00:10:06,159 --> 00:10:07,419
+Ye laga lo 11000.
+
+236
+00:10:08,200 --> 00:10:10,539
+Toh ye aapko is month ka hi karna hoga na.
+
+237
+00:10:10,659 --> 00:10:11,620
+Har month mein toh,
+
+238
+00:10:11,779 --> 00:10:13,639
+toh waise toh zero banega abhi ke liye.
+
+239
+00:10:15,169 --> 00:10:16,909
+Matab ek toh contract mein toh zero hai.
+
+240
+00:10:16,970 --> 00:10:18,950
+Har month ki salary ke hi saab se hai.
+
+241
+00:10:19,029 --> 00:10:19,529
+Ye toh aapka.
+
+242
+00:10:21,129 --> 00:10:22,549
+Abhi ke liye hi zero karke
+
+243
+00:10:22,549 --> 00:10:24,090
+we calculate karke assign karege.
+
+244
+00:10:24,429 --> 00:10:25,950
+Jab aapki salary process ho jaayegi
+
+245
+00:10:25,950 --> 00:10:28,129
+toh mein waha pe bataa doon ki aap kaise edit kar sakte hai.
+
+246
+00:10:28,710 --> 00:10:29,990
+Abhi aap mujhe ye batao ki
+
+247
+00:10:29,990 --> 00:10:32,470
+agar hum yahi par isko salary bana rahe hain.
+
+248
+00:10:33,830 --> 00:10:35,149
+Abhi contract laga rahe ho,
+
+249
+00:10:35,210 --> 00:10:36,149
+salary nahi bana rahe ho.
+
+250
+00:10:37,470 --> 00:10:39,049
+Ye aapko contract laga rahe hain.
+
+251
+00:10:39,070 --> 00:10:40,230
+Contract ho gaya means
+
+252
+00:10:40,230 --> 00:10:41,509
+a salary structure hota hai na.
+
+253
+00:10:41,690 --> 00:10:44,289
+Jaise ki aapko ye salary pattern hai aapka.
+
+254
+00:10:45,049 --> 00:10:46,669
+6 mine ke liye, 7 mine ke liye,
+
+255
+00:10:46,730 --> 00:10:47,350
+12 mine ke liye.
+
+256
+00:10:47,350 --> 00:10:49,110
+Toh wo ek salary pattern assign kar rahe hain.
+
+257
+00:10:51,149 --> 00:10:53,149
+Har mene ki aapki kam jaga
+
+258
+00:10:53,149 --> 00:10:55,129
+wo hum banane ke baat patte hain.
+
+259
+00:10:56,289 --> 00:10:57,570
+Bas maine head selected kar liye.
+
+260
+00:10:57,750 --> 00:10:59,950
+Incase hoga toh aap amount waha pe enter kar sakte ho.
+
+261
+00:11:00,110 --> 00:11:00,570
+Jo bhi rahega.
+
+262
+00:11:01,470 --> 00:11:03,429
+Then aap calculate karoge.
+
+263
+00:11:04,149 --> 00:11:05,009
+Next, next rahega.
+
+264
+00:11:05,269 --> 00:11:07,950
+Next karne ke baad aapko dates pe le jayega.
+
+265
+00:11:08,169 --> 00:11:09,929
+Aapki ma'am isme aapne sign nahi kari thi kya?
+
+266
+00:11:10,190 --> 00:11:10,870
+Usko joining date?
+
+267
+00:11:12,049 --> 00:11:14,129
+Joining date, shahid mere
+
+268
+00:11:14,129 --> 00:11:15,830
+Sukhmeet sir ko bola doon aapka.
+
+269
+00:11:16,610 --> 00:11:17,929
+Implore ki joining getne lagi ho hai.
+
+270
+00:11:18,029 --> 00:11:19,090
+But koi baat nahi hum na.
+
+271
+00:11:19,269 --> 00:11:20,549
+Kap se laga ho maa contract bata hoon.
+
+272
+00:11:20,570 --> 00:11:22,029
+Kap se laga ho isse.
+
+273
+00:11:23,070 --> 00:11:24,250
+Agaste laga hoon.
+
+274
+00:11:26,090 --> 00:11:27,549
+Agaste pehle toh banaoge bhi nahi aap.
+
+275
+00:11:27,649 --> 00:11:29,870
+Agaste lege kap tak ke liye ye contract
+
+276
+00:11:29,870 --> 00:11:31,389
+hume future mein assign karna hai.
+
+277
+00:11:31,450 --> 00:11:33,690
+Wo hoti hain aapki end date contract ki.
+
+278
+00:11:34,950 --> 00:11:36,970
+Toh kap tak ke liye assign karna hai aapko ye?
+
+279
+00:11:37,429 --> 00:11:39,009
+26 tak toh gardo ma'am.
+
+280
+00:11:41,919 --> 00:11:43,600
+March, April kaha tak karo?
+
+281
+00:11:45,009 --> 00:11:46,610
+Mai tak gardo ma'am.
+
+282
+00:11:47,000 --> 00:11:49,340
+Ye 31 mahi tak ho gaya.
+
+283
+00:11:49,379 --> 00:11:51,500
+Means 1 June se
+
+284
+00:11:52,240 --> 00:11:53,600
+new contract lagaana padega.
+
+285
+00:11:53,740 --> 00:11:55,419
+Ya isi ko aap extend kar skte hoon.
+
+286
+00:11:56,340 --> 00:11:57,860
+Aap assign karoge toh ye
+
+287
+00:11:57,860 --> 00:11:59,539
+contract employee ko assign ho jayega.
+
+288
+00:12:00,460 --> 00:12:01,580
+Added count 1 means
+
+289
+00:12:01,580 --> 00:12:03,360
+contract assigned kya is employee ko.
+
+290
+00:12:03,720 --> 00:12:05,279
+Abhi aapne ye contract lagaaya hai.
+
+291
+00:12:05,720 --> 00:12:07,460
+Aap iski salary banata hoon.
+
+292
+00:12:07,639 --> 00:12:08,700
+Toh ek cheez hai,
+
+293
+00:12:08,820 --> 00:12:10,419
+sabse pehle salary banane se pehle
+
+294
+00:12:10,419 --> 00:12:12,179
+uske pay birthdays aapko jise
+
+295
+00:12:12,179 --> 00:12:12,899
+maine bataya tha na.
+
+296
+00:12:12,980 --> 00:12:14,700
+Ye maine laga diyate ma'am iske.
+
+297
+00:12:14,700 --> 00:12:15,779
+Laga diyate.
+
+298
+00:12:16,960 --> 00:12:18,379
+Aap pay birthdays lagaay te
+
+299
+00:12:18,379 --> 00:12:20,240
+then uske baad aap us computer
+
+300
+00:12:20,240 --> 00:12:22,259
+attendance rata hai jahaan se aap salary banane hoon.
+
+301
+00:12:23,500 --> 00:12:25,159
+HRM ke andar computer
+
+302
+00:12:25,159 --> 00:12:25,799
+attendance.
+
+303
+00:12:26,799 --> 00:12:28,679
+Jis month ki salary banane hai
+
+304
+00:12:28,679 --> 00:12:30,240
+aapko month select karna hai.
+
+305
+00:12:31,259 --> 00:12:32,840
+November ki November.
+
+306
+00:12:33,759 --> 00:12:35,259
+Aap go karoge simple
+
+307
+00:12:35,259 --> 00:12:36,960
+toh aap saari employees ke list
+
+308
+00:12:36,960 --> 00:12:38,139
+aajayegi aapne.
+
+309
+00:12:38,919 --> 00:12:41,039
+Aap search kar sakto single employee
+
+310
+00:12:41,710 --> 00:12:43,210
+iski karne hai.
+
+311
+00:12:43,210 --> 00:12:45,549
+Aapne iski pay birthdays 28 banaye hai?
+
+312
+00:12:45,789 --> 00:12:46,149
+20.
+
+313
+00:12:47,000 --> 00:12:49,519
+Toh 28 days ki salary banane hai basically
+
+314
+00:12:49,519 --> 00:12:50,460
+aapko iski.
+
+315
+00:12:52,029 --> 00:12:53,850
+Aapne click ki aapne select
+
+316
+00:12:53,850 --> 00:12:56,029
+kiya. Select karne ke baad aap process
+
+317
+00:12:56,029 --> 00:12:58,190
+salary karoge toh ye iske aajayega
+
+318
+00:12:58,190 --> 00:12:58,909
+added.
+
+319
+00:12:59,649 --> 00:13:01,549
+Means iski salary ban chuki hai.
+
+320
+00:13:01,669 --> 00:13:04,070
+Ab jo salary bani hai hume wo dekhni hai
+
+321
+00:13:04,070 --> 00:13:05,909
+toh uske liye aap pass option hai
+
+322
+00:13:05,909 --> 00:13:07,350
+salary summary month wise.
+
+323
+00:13:09,100 --> 00:13:09,620
+Right.
+
+324
+00:13:09,620 --> 00:13:12,139
+Yaha pe aap select karoge 2025
+
+325
+00:13:12,139 --> 00:13:13,779
+November month ki salary dekhni hai.
+
+326
+00:13:13,940 --> 00:13:15,679
+Ab hiyaan se kuch bhi select nahi karoge toh
+
+327
+00:13:15,679 --> 00:13:17,320
+by default sabhi employees ka data aega
+
+328
+00:13:17,320 --> 00:13:18,480
+jo aapne banaya waoga.
+
+329
+00:13:19,690 --> 00:13:21,529
+November ki aapne process kari hoge
+
+330
+00:13:21,529 --> 00:13:23,929
+ye kuch aur bhi employees hai.
+
+331
+00:13:24,470 --> 00:13:26,750
+Toh aap jaisi ye employee hai.
+
+332
+00:13:26,950 --> 00:13:28,710
+Is employee ka deduction ye hai
+
+333
+00:13:28,710 --> 00:13:30,789
+amount ye, is accordingly iske salary ban rahi hai.
+
+334
+00:13:31,370 --> 00:13:32,690
+Ab aapki paas ye toh
+
+335
+00:13:32,690 --> 00:13:34,070
+upar se aa rahi hai, overall aari hai
+
+336
+00:13:34,070 --> 00:13:35,250
+jo system ne banake liye.
+
+337
+00:13:35,909 --> 00:13:38,330
+Isne aapko jo bhi changes karne ho de
+
+338
+00:13:38,330 --> 00:13:40,850
+aap pass ye view ka option hai.
+
+339
+00:13:41,330 --> 00:13:43,210
+Ab view karoge, iska
+
+340
+00:13:43,210 --> 00:13:44,549
+one minute dena.
+
+341
+00:13:45,759 --> 00:13:46,279
+Hello.
+
+342
+00:14:20,779 --> 00:14:21,139
+Hello.
+
+343
+00:14:22,059 --> 00:14:23,059
+Haji ma'am kare continue.
+
+344
+00:14:24,950 --> 00:14:25,990
+Okay, so
+
+345
+00:14:26,509 --> 00:14:28,470
+view hota hai, ye toh aapki salary create
+
+346
+00:14:28,470 --> 00:14:30,350
+ho gayi, ab us employee ki
+
+347
+00:14:30,350 --> 00:14:32,289
+particular employee ki salary mein aapko
+
+348
+00:14:32,289 --> 00:14:34,330
+jo bhi changes karne hai, aap view kare ge
+
+349
+00:14:34,330 --> 00:14:36,409
+usko corresponding structure kura
+
+350
+00:14:36,409 --> 00:14:38,570
+view karte hi aap pass hi uska open ho jayega
+
+351
+00:14:38,570 --> 00:14:40,370
+structure. Ma'am ye view kaha se
+
+352
+00:14:40,370 --> 00:14:41,789
+kar rahi the hai. Okay,
+
+353
+00:14:41,789 --> 00:14:43,429
+I will tell you from the starting.
+
+354
+00:14:43,629 --> 00:14:45,769
+HRM ke andar yaha se apne salary
+
+355
+00:14:45,769 --> 00:14:46,470
+process ki.
+
+356
+00:14:47,649 --> 00:14:49,570
+Process hone ke baad success
+
+357
+00:14:49,570 --> 00:14:51,429
+aagaya means uske salary create ho gayi.
+
+358
+00:14:51,610 --> 00:14:53,649
+Isi ka next option hai, salary
+
+359
+00:14:53,649 --> 00:14:55,690
+summary month wise. Naam se kya
+
+360
+00:14:55,690 --> 00:14:57,990
+clear hota hai ki aap a particular month
+
+361
+00:14:57,990 --> 00:14:59,470
+ki salary dekh rahi ho employee ki.
+
+362
+00:15:00,830 --> 00:15:02,070
+Toh aapko simple
+
+363
+00:15:02,070 --> 00:15:03,669
+month, month and year select
+
+364
+00:15:03,669 --> 00:15:05,870
+karke go kar dena, aap us us month
+
+365
+00:15:05,870 --> 00:15:07,909
+mein jitne bhi employees ki salary bani
+
+366
+00:15:07,909 --> 00:15:08,710
+ho gayi ho aajayi.
+
+367
+00:15:08,710 --> 00:15:09,830
+Right.
+
+368
+00:15:10,389 --> 00:15:12,690
+Ab isme se agar aapko kisi
+
+369
+00:15:12,690 --> 00:15:14,629
+aapne dekh liya, yaha pe kya raha hai
+
+370
+00:15:14,629 --> 00:15:16,730
+employee ki IDs, unka name
+
+371
+00:15:16,730 --> 00:15:18,669
+corresponding department designation
+
+372
+00:15:18,669 --> 00:15:20,529
+jis month ki aap salary dekh rahi ho
+
+373
+00:15:20,529 --> 00:15:22,710
+November month, kitne payable days
+
+374
+00:15:22,710 --> 00:15:24,769
+aapne banaye hai, kuch ke 30, kuch ke
+
+375
+00:15:24,769 --> 00:15:26,690
+zero, kuch ke 20. Right
+
+376
+00:15:26,690 --> 00:15:28,710
+unki kya gross salary hai, kya
+
+377
+00:15:28,710 --> 00:15:30,690
+deduction amount hai, then gross minus
+
+378
+00:15:30,690 --> 00:15:32,730
+deduction karke jo employee ki paid salary
+
+379
+00:15:32,730 --> 00:15:33,529
+bachti hai ho.
+
+380
+00:15:35,009 --> 00:15:36,710
+Ab aapko iske
+
+381
+00:15:36,710 --> 00:15:38,710
+amount mein kuch bhi changes karne hai
+
+382
+00:15:38,710 --> 00:15:40,789
+basically kisi bhi, toh aap pass iske
+
+383
+00:15:40,789 --> 00:15:42,769
+corresponding view rehta hai.
+
+384
+00:15:43,279 --> 00:15:43,460
+Right.
+
+385
+00:15:44,639 --> 00:15:47,200
+Ab view karoge, view karne
+
+386
+00:15:47,200 --> 00:15:49,019
+ke baad, us employee ka
+
+387
+00:15:49,019 --> 00:15:51,279
+aap matlab pura complete salary ka
+
+388
+00:15:51,279 --> 00:15:53,240
+platform, aapka structure uska open jayega.
+
+389
+00:15:53,440 --> 00:15:54,259
+Ab aapki jaise bhi
+
+390
+00:15:54,879 --> 00:15:57,059
+iska advance deduct karna hoga
+
+391
+00:15:57,059 --> 00:15:59,179
+aap isme
+
+392
+00:15:59,179 --> 00:16:00,820
+amount mein bhi changes, for example
+
+393
+00:16:00,820 --> 00:16:02,960
+aapko basic increase karna hai, kam karna hai, aap
+
+394
+00:16:02,960 --> 00:16:04,460
+wo bhi kar sakte ho. Right.
+
+395
+00:16:05,019 --> 00:16:06,500
+Ab aapko iske advance recovery, ye deduction
+
+396
+00:16:06,500 --> 00:16:08,539
+rahega, jisme, jo deduction ki head
+
+397
+00:16:08,539 --> 00:16:10,480
+hai, wo yahaan se hoyegi, jo aapko
+
+398
+00:16:10,480 --> 00:16:12,500
+uske increase karna hai, matlab pay scale increase
+
+399
+00:16:12,500 --> 00:16:14,440
+karne ke liye head ho, earning heads wo yahaan se
+
+400
+00:16:14,440 --> 00:16:15,440
+rahegi aapki. Right.
+
+401
+00:16:16,159 --> 00:16:18,059
+Ab aapko advance dalne hai,
+
+402
+00:16:18,100 --> 00:16:20,360
+aapkar pata ho, itna dalne hai. 11,000
+
+403
+00:16:20,360 --> 00:16:23,190
+dalne hai. 11,000
+
+404
+00:16:23,190 --> 00:16:25,389
+aapne advance dalne hai, aap jaisi 11,000
+
+405
+00:16:25,389 --> 00:16:27,009
+dalogue, aap dekhogue, yahaan pe
+
+406
+00:16:27,009 --> 00:16:28,950
+istera se pop up aayega aur ye structure
+
+407
+00:16:28,950 --> 00:16:30,769
+change karega, wo gross salary deduction
+
+408
+00:16:30,769 --> 00:16:33,279
+aur paid. Right.
+
+409
+00:16:33,279 --> 00:16:35,159
+Ye isse sabse baith raha hai, aapke
+
+410
+00:16:35,159 --> 00:16:37,539
+according ye okay hai, matlab itni gross salary
+
+411
+00:16:37,539 --> 00:16:39,659
+ban rahe di, 12,740
+
+412
+00:16:39,659 --> 00:16:40,940
+deduction aur paid uska
+
+413
+00:16:40,940 --> 00:16:42,179
+691 baith raha hai. Right.
+
+414
+00:16:43,419 --> 00:16:45,000
+691 year? Right.
+
+415
+00:16:45,860 --> 00:16:47,100
+Okay, basic bhi okay hai.
+
+416
+00:16:47,480 --> 00:16:49,460
+So, ab uske baad, aap
+
+417
+00:16:49,460 --> 00:16:51,220
+paas yaha pe, ab dikho ye to save
+
+418
+00:16:51,220 --> 00:16:53,039
+hua, yaha pe save hua hai, but
+
+419
+00:16:53,039 --> 00:16:55,159
+ye tab tak reflect nahi karega bottom me
+
+420
+00:16:55,159 --> 00:16:57,519
+jab tak aap uske remarks dalke save nahi karege.
+
+421
+00:16:58,559 --> 00:16:59,600
+Means aap koi bhi
+
+422
+00:16:59,600 --> 00:17:01,419
+change karo, jab tak aap remarks
+
+423
+00:17:01,419 --> 00:17:03,759
+dalke save nahi karege, to wo actual
+
+424
+00:17:03,759 --> 00:17:04,599
+save nahi hoga.
+
+425
+00:17:06,069 --> 00:17:07,630
+Aapne remarks center karne ki
+
+426
+00:17:07,630 --> 00:17:09,269
+jo aapne change kiya hai, wo kya kiya hai.
+
+427
+00:17:09,329 --> 00:17:12,029
+For example, maine advance recovery ka change kiya hai.
+
+428
+00:17:12,069 --> 00:17:13,430
+To maine istera se remark
+
+429
+00:17:13,430 --> 00:17:15,430
+usne enter kiya, save karo ki
+
+430
+00:17:15,430 --> 00:17:17,369
+to aap us pop up aayega ki ye save
+
+431
+00:17:17,369 --> 00:17:18,569
+ho gaya hai.
+
+432
+00:17:20,470 --> 00:17:22,930
+Ye save ho gaya hai, ab then aap isko
+
+433
+00:17:24,529 --> 00:17:25,970
+view karoge, to iski
+
+434
+00:17:25,970 --> 00:17:27,710
+ye bhi change ho gaye aapka.
+
+435
+00:17:31,049 --> 00:17:32,349
+Okay ma'am.
+
+436
+00:17:32,470 --> 00:17:33,470
+Okay ma'am, matlab aap
+
+437
+00:17:33,470 --> 00:17:35,309
+basically view karke koi bhi change kar
+
+438
+00:17:35,309 --> 00:17:37,349
+skte hai. Ab agar aapko
+
+439
+00:17:37,349 --> 00:17:39,109
+kisi aur employee me bhi in case aapko
+
+440
+00:17:39,109 --> 00:17:41,250
+lagta hai, kisi aur employee me bhi aapko deduction
+
+441
+00:17:41,250 --> 00:17:43,390
+aur ho sab head karna hai. For example, ye employee
+
+442
+00:17:43,390 --> 00:17:44,890
+hai, koi bhi hum le lete hai.
+
+443
+00:17:45,690 --> 00:17:47,650
+Iski salary jo process hui hai, isme aapko
+
+444
+00:17:47,650 --> 00:17:49,170
+deduction head bhi dalna hai.
+
+445
+00:17:49,990 --> 00:17:51,410
+To aap yahan se add ghar hoge,
+
+446
+00:17:51,849 --> 00:17:53,529
+kaunsa deduction head hai, aap direct
+
+447
+00:17:53,529 --> 00:17:55,410
+select karke, amount karke bhi
+
+448
+00:17:55,410 --> 00:17:57,009
+save kar sakte ho remarks dalke.
+
+449
+00:17:57,490 --> 00:17:58,789
+Okay ma'am.
+
+450
+00:18:00,069 --> 00:18:01,710
+Aur ek cheech ho raha hai, in case
+
+451
+00:18:01,710 --> 00:18:03,829
+aapko koi aisa head chahiye, jo yahan pe nahi aara.
+
+452
+00:18:03,910 --> 00:18:05,650
+Aisa ho sakta aapko, earning head me bhi koi
+
+453
+00:18:05,650 --> 00:18:07,710
+aisa head chahiye, jo matlab koi bhi
+
+454
+00:18:08,269 --> 00:18:09,630
+koi bhi head ka name, jo bhi
+
+455
+00:18:09,630 --> 00:18:11,789
+aapko lage hai, koi head aapko chahiye aisa.
+
+456
+00:18:12,109 --> 00:18:14,210
+To head aap create kahan se kar sakte ho,
+
+457
+00:18:14,309 --> 00:18:15,789
+yahan pe settings me HRM
+
+458
+00:18:15,789 --> 00:18:17,150
+setup milega aapko.
+
+459
+00:18:18,190 --> 00:18:19,869
+Right, kahan pe payroll master hai.
+
+460
+00:18:19,950 --> 00:18:21,670
+Basically salary ka jitna bhi hota hai, wo
+
+461
+00:18:21,670 --> 00:18:23,650
+humara payroll master ke andar aata hai.
+
+462
+00:18:25,079 --> 00:18:27,680
+Aap ispe click karoge, ye earning heads
+
+463
+00:18:27,680 --> 00:18:29,640
+hai, in case aapko koi earning head
+
+464
+00:18:29,640 --> 00:18:31,700
+additional chahiye aur basic aapko
+
+465
+00:18:31,700 --> 00:18:33,400
+lagta koi conveyance allowance dena ya
+
+466
+00:18:33,400 --> 00:18:35,519
+kuch bhi, koi bhi name ka head chahiye.
+
+467
+00:18:35,700 --> 00:18:37,779
+Ispe click karoge, kuch to head aapko
+
+468
+00:18:37,779 --> 00:18:39,700
+upar mile jayege, like HRA Medical
+
+469
+00:18:39,700 --> 00:18:41,339
+Law and Special Enforcement. To aap direct
+
+470
+00:18:41,339 --> 00:18:43,359
+yahan se tick kar ke bhi save kar sakte ho, in case
+
+471
+00:18:43,359 --> 00:18:44,799
+agar upar hai aapko wo head.
+
+472
+00:18:45,160 --> 00:18:47,640
+Okay ma'am. Okay. Aur in case agar inme se
+
+473
+00:18:47,640 --> 00:18:49,579
+koi nahi hai, to aap add new
+
+474
+00:18:49,579 --> 00:18:51,559
+karoge, apni sabse yahan pe name enter
+
+475
+00:18:51,559 --> 00:18:53,000
+karoge, jo bhi hai head ka.
+
+476
+00:18:53,539 --> 00:18:55,660
+Save kar doge to wo head create ho jayega.
+
+477
+00:18:57,359 --> 00:18:58,640
+Okay ma'am.
+
+478
+00:18:59,380 --> 00:19:00,839
+Karke save zarur karna hota hai.
+
+479
+00:19:02,160 --> 00:19:03,920
+Same earning head ki liye hai, same
+
+480
+00:19:03,920 --> 00:19:05,099
+aapka deduction head ki liye,
+
+481
+00:19:05,160 --> 00:19:06,559
+agar aapko in case koi deduction head
+
+482
+00:19:06,559 --> 00:19:08,640
+add karna ho. Okay ma'am.
+
+483
+00:19:08,740 --> 00:19:10,740
+And ma'am, ek cheech aur salary template
+
+484
+00:19:10,740 --> 00:19:12,539
+me koi change nahi ho payega, in case
+
+485
+00:19:12,539 --> 00:19:14,539
+agar wo template kisi bhi employee ko assign
+
+486
+00:19:14,539 --> 00:19:16,319
+hota hai. Okay ma'am.
+
+487
+00:19:16,460 --> 00:19:18,480
+Agar aapko change karna hoga na, fir wahi ye salary
+
+488
+00:19:18,480 --> 00:19:20,519
+je se hum process karte hain, aap wahan se change
+
+489
+00:19:20,519 --> 00:19:22,539
+kar sakte ho. Jo aapne salary bhi dekhne, salary
+
+490
+00:19:22,539 --> 00:19:24,720
+summary month price mein, aap yahan se
+
+491
+00:19:24,720 --> 00:19:26,680
+kar sakte ho, nahi to contract bhi
+
+492
+00:19:26,680 --> 00:19:28,480
+sign kar sakte ho, future ke liye.
+
+493
+00:19:28,960 --> 00:19:30,000
+Okay ma'am.
+
+494
+00:19:30,960 --> 00:19:33,099
+Aur baaki aapko contract view karna ho
+
+495
+00:19:33,099 --> 00:19:34,960
+kisi employee ka, to apas employee ke
+
+496
+00:19:34,960 --> 00:19:36,819
+andar hi option hai, jaise abhi isi
+
+497
+00:19:36,819 --> 00:19:38,480
+ka hi dekh lete hai, jo ek employee hai, abhi
+
+498
+00:19:38,480 --> 00:19:39,460
+humne jis ko sign kiya.
+
+499
+00:19:57,519 --> 00:19:59,539
+Yahan se aap employee view karoge, to wo salary
+
+500
+00:19:59,539 --> 00:20:01,460
+template aara tha nahi, wahi se hi aap dekh
+
+501
+00:20:01,460 --> 00:20:01,940
+sakte ho.
+
+502
+00:21:31,099 --> 00:21:32,819
+Is tarah se main jo employee hota
+
+503
+00:21:32,819 --> 00:21:34,799
+hain, humare pas, apas employee ki list
+
+504
+00:21:34,799 --> 00:21:35,200
+hain jo.
+
+505
+00:21:36,519 --> 00:21:39,000
+Yahan se aap
+
+506
+00:21:39,000 --> 00:21:41,380
+search karoge, jis to employee ko karna
+
+507
+00:21:41,380 --> 00:21:43,380
+hai, aap employee search kiya.
+
+508
+00:21:43,640 --> 00:21:45,400
+Is abhi employee ko humne assign kiya.
+
+509
+00:21:45,920 --> 00:21:47,339
+Ab ispe click karoge, yahan
+
+510
+00:21:47,339 --> 00:21:49,500
+pe apas bottom mein rehta hai salary template.
+
+511
+00:21:50,039 --> 00:21:50,480
+Anji.
+
+512
+00:21:50,819 --> 00:21:53,099
+Ispe click karke, jo bhi template
+
+513
+00:21:53,099 --> 00:21:54,539
+assign hai, usko dekh sakte ho.
+
+514
+00:21:55,599 --> 00:21:57,140
+Yahan se bhi, yahan se bhi new ad hota,
+
+515
+00:21:57,200 --> 00:21:58,980
+but wahi se zyada preferable rehta hai, kiki
+
+516
+00:21:58,980 --> 00:22:01,180
+wahan se aapko calculation amount dekh jaata hai.
+
+517
+00:22:01,539 --> 00:22:03,140
+Ma'am, agar main koi aap accounts
+
+518
+00:22:03,140 --> 00:22:04,700
+number darli hain.
+
+519
+00:22:04,829 --> 00:22:06,470
+Okay, wo bank details basically.
+
+520
+00:22:06,470 --> 00:22:09,140
+Okay, salary details.
+
+521
+00:22:09,140 --> 00:22:10,599
+Wo salary details ka section hain.
+
+522
+00:22:11,579 --> 00:22:13,579
+Jaise kuch logon ke chek bante hain,
+
+523
+00:22:13,619 --> 00:22:15,220
+toh kaise merko aisa kuch show
+
+524
+00:22:15,220 --> 00:22:16,980
+hoga ki inke chek bane ge, kuch
+
+525
+00:22:16,980 --> 00:22:17,859
+aisa ho sakte hain.
+
+526
+00:22:18,930 --> 00:22:20,569
+Malha, aap ispe se keh rahe ho ki
+
+527
+00:22:20,569 --> 00:22:22,049
+salary via chek de rahe hain jo.
+
+528
+00:22:24,359 --> 00:22:26,339
+Abhi jinke bank account number toh
+
+529
+00:22:26,339 --> 00:22:27,779
+honge, wo toh main add kar doon.
+
+530
+00:22:29,700 --> 00:22:30,339
+Abhi yahan
+
+531
+00:22:30,339 --> 00:22:32,299
+payment mention kar sakte ho via chek kar
+
+532
+00:22:32,299 --> 00:22:32,559
+ke.
+
+533
+00:22:35,759 --> 00:22:37,279
+Abhi kuch pop up
+
+534
+00:22:37,279 --> 00:22:39,599
+saarega ki ye via chek bane ge.
+
+535
+00:22:40,680 --> 00:22:42,019
+Okay, matlab aap uspe pop up
+
+536
+00:22:42,019 --> 00:22:42,480
+chah rahe ho.
+
+537
+00:22:44,380 --> 00:22:45,720
+Remarks main daal sakte ho, ma'am,
+
+538
+00:22:45,799 --> 00:22:47,039
+agar aap chah ho toh fir wo.
+
+539
+00:22:49,009 --> 00:22:50,369
+Jo remark ki details rahe the hain,
+
+540
+00:22:50,390 --> 00:22:51,930
+aap usme enter kar sakte ho.
+
+541
+00:22:55,869 --> 00:22:56,730
+Itna hi part hai, ma'am.
+
+542
+00:22:56,849 --> 00:22:58,190
+Asi salary process ka saara.
+
+543
+00:22:58,430 --> 00:22:59,369
+Koi doubt ho kuch.
+
+544
+00:22:59,390 --> 00:23:01,710
+Waise ye bhi theek hai, aap payment mode me likho,
+
+545
+00:23:01,829 --> 00:23:03,650
+RTGS, jiski jaari hain.
+
+546
+00:23:03,710 --> 00:23:05,670
+Aur yahan pe likho chek. Aapko pada rahega.
+
+547
+00:23:06,269 --> 00:23:08,250
+Ye chek se jayegi, ye RTGS se jayegi.
+
+548
+00:23:08,250 --> 00:23:08,430
+Okay.
+
+549
+00:23:11,750 --> 00:23:13,250
+Abhi yahan likh doon ke toh, ma'am, yahan pe
+
+550
+00:23:13,250 --> 00:23:14,970
+fayda ye ki, ko ek hi bari aapne kar,
+
+551
+00:23:15,369 --> 00:23:17,109
+matlab save kar diya, Harman Thapu karne ki
+
+552
+00:23:17,109 --> 00:23:17,930
+zarat nahi hai.
+
+553
+00:23:18,930 --> 00:23:21,269
+Matlab mereko ye tha ki, agar me salary slip nikal lo
+
+554
+00:23:21,269 --> 00:23:22,690
+isme do, fir merko ye.
+
+555
+00:23:24,119 --> 00:23:25,819
+Haan, jo aap yahan enter karoge na, ye
+
+556
+00:23:25,819 --> 00:23:27,779
+paanch details hai, bank name, branch name,
+
+557
+00:23:27,859 --> 00:23:30,000
+aapki salary slip pe reflect
+
+558
+00:23:30,000 --> 00:23:30,559
+toh diye.
+
+559
+00:23:35,970 --> 00:23:37,309
+Koi doubt, koi query,
+
+560
+00:23:37,470 --> 00:23:37,630
+ma'am.
+
+561
+00:23:37,829 --> 00:23:39,589
+Abhi kuch query tab aayegi na.
+
+562
+00:23:45,210 --> 00:23:46,089
+Okay.
+
+563
+00:23:46,430 --> 00:23:47,130
+Okay.
+
+564
+00:23:47,130 --> 00:23:47,289
+Thank you.
+
+565
+00:23:47,730 --> 00:23:48,569
+Okay.
+

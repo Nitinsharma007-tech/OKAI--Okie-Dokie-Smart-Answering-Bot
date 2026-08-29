@@ -1,0 +1,54 @@
+{
+    "module": "Student Management",
+    "topic": "Customizing Student Fields",
+    "summary": "This topic explains how to configure student fields, including applying default fields, adding custom fields, and defining their properties such as display name, visibility, group, and data type. It also mentions the capability for bulk import and delete of student data.",
+    "navigation": [
+        "Student fields"
+    ],
+    "steps": [
+        "Navigate to 'Student fields'.",
+        "Click 'Click here to apply default' to automatically add standard student fields.",
+        "To add a new custom field, click 'Add new fields'.",
+        "Define the 'Display Name' for the custom field (e.g., 'Sport Certificate Count').",
+        "Choose whether to 'Hide' the field if it's for internal use only and should not be visible to all users.",
+        "Assign the field to a 'Group' (e.g., 'Personal Details') for better organization within the student profile.",
+        "Select the appropriate 'Field Type' (e.g., Text, Drop-down, File).",
+        "Save the changes to apply the new field configuration."
+    ],
+    "business_rules": [
+        "Student fields are compulsory for entering and storing student data within the ERP."
+    ],
+    "important_notes": [
+        "Custom fields allow institutes to capture specific student information not covered by the default fields.",
+        "The 'Hide' option is useful for fields that are for administrative purposes and should not be publicly displayed.",
+        "All student data, including custom field data, can be imported or deleted in bulk using Excel formats, eliminating the need for manual entry of large datasets."
+    ],
+    "questions": [
+        "How do I add custom fields to a student's profile?",
+        "What are the default student fields, and how do I apply them?",
+        "Can I hide certain student fields from view?",
+        "How can I import student data in bulk?",
+        "Where can I see how the configured student fields appear in the student profile?"
+    ],
+    "keywords": [
+        "Student fields",
+        "custom fields",
+        "display name",
+        "hide field",
+        "field type",
+        "student profile",
+        "bulk import",
+        "bulk delete",
+        "data entry"
+    ],
+    "related_topics": [
+        "Student Admissions",
+        "Institute Profile Configuration"
+    ],
+    "id": "student_management_customizing_student_fields",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

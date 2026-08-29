@@ -158,6 +158,20 @@ OKAI/
 
 ## ⚙ Installation
 
+### Data Upload Authentication
+
+Set these environment variables in the deployment environment or a local `.env` file:
+
+```env
+DATA_UPLOAD_USERNAME=your_username
+DATA_UPLOAD_PASSWORD=your_password
+DATA_UPLOAD_SECRET=long_random_signing_secret
+```
+
+Do not commit `.env` or these values to Git.
+
+For video uploads, the local default uses Whisper `small` on CPU. Set `WHISPER_MODEL=medium` in `.env` when higher transcription accuracy is more important than processing speed.
+
 Clone the repository
 
 ```bash

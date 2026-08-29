@@ -1,0 +1,50 @@
+{
+    "module": "Student Module",
+    "topic": "Print Student Certificates",
+    "summary": "Enables printing various types of certificates for individual students, such as character certificates, ID cards, library cards, and more.",
+    "navigation": [
+        "Student Module",
+        "Student Certificates"
+    ],
+    "steps": [
+        "Navigate to 'Student Certificates'.",
+        "Search for a specific student using their name or other available filters.",
+        "Select the desired certificate type from the available options (e.g., Character Certificate, ID Card, Library Card, Admit Card, Appreciation Certificate, Tuition Fee Certificate, Student Ledger).",
+        "Enter any required specific details for the certificate.",
+        "Click 'Save' to generate or preview the certificate, then click 'Print' to send it to a printer."
+    ],
+    "business_rules": [
+        "Specific details must be entered for each certificate type before it can be printed."
+    ],
+    "important_notes": [
+        "The system allows searching for individual students to print their certificates.",
+        "Filters can be used to narrow down the student search results."
+    ],
+    "questions": [
+        "How do I print a student's character certificate?",
+        "Where can I print a student's ID card or library card?",
+        "What types of certificates are available for printing for students?",
+        "How do I search for a specific student to print their certificate?",
+        "What information is required to print a student certificate?"
+    ],
+    "keywords": [
+        "Student certificates",
+        "print certificate",
+        "character certificate",
+        "ID card",
+        "library card",
+        "admit card",
+        "tuition fee certificate",
+        "student ledger",
+        "appreciation certificate"
+    ],
+    "related_topics": [
+        "Bulk Print Certificates"
+    ],
+    "id": "student_module_print_student_certificates",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

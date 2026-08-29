@@ -1,0 +1,50 @@
+{
+    "module": "Student Module",
+    "topic": "Bulk Upload Students via Excel",
+    "summary": "Allows adding multiple students to the system simultaneously by uploading a pre-filled Excel file.",
+    "navigation": [
+        "Student Module",
+        "Student List",
+        "Excel Upload"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Locate and click on the 'excel upload' option.",
+        "Download the provided 'sample file' (sample excel template).",
+        "Fill in the student data into the downloaded sample Excel file, ensuring all basic details are correctly entered.",
+        "Upload the completed Excel file back into the system."
+    ],
+    "business_rules": [
+        "The system requires the use of the provided sample Excel file for bulk uploads.",
+        "If required data is not filled in the Excel file, the student will not be added, and an error message will be displayed.",
+        "The same basic details as for individual student addition must be provided in the Excel file."
+    ],
+    "important_notes": [
+        "Always use the official sample Excel file to ensure correct data formatting and successful upload.",
+        "Review error messages carefully if students are not added, as they indicate missing or incorrect data."
+    ],
+    "questions": [
+        "How can I add multiple students to the system at once?",
+        "Where can I find the sample Excel file for bulk student upload?",
+        "What happens if I miss required fields in the bulk upload Excel sheet?",
+        "Can I use my own custom Excel format for uploading student data in bulk?"
+    ],
+    "keywords": [
+        "Bulk upload",
+        "excel upload",
+        "add multiple students",
+        "student import",
+        "sample file",
+        "mass student entry"
+    ],
+    "related_topics": [
+        "Add New Student (Individual)",
+        "Student List Overview"
+    ],
+    "id": "student_module_bulk_upload_students_via_excel",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

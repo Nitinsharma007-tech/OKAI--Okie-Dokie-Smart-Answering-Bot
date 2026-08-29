@@ -1,0 +1,49 @@
+{
+    "module": "HRM",
+    "topic": "Manage Employee Bank Details and Payment Modes",
+    "summary": "This feature allows users to enter and manage employee bank account details and specify their preferred payment mode for salary. These details will reflect on salary slips.",
+    "navigation": [
+        "Employee",
+        "View Employee",
+        "Salary Details"
+    ],
+    "steps": [
+        "Navigate to \"Employee\".",
+        "Search for the desired employee.",
+        "Click on the employee's name or ID to \"View\" their details.",
+        "Locate the \"Salary Details\" section.",
+        "Enter or update the \"Bank Name\", \"Branch Name\", and \"Account Number\".",
+        "In the \"Payment Mode\" field, specify how the salary is paid (e.g., \"RTGS\", \"Cheque\").",
+        "Save the changes."
+    ],
+    "business_rules": [
+        "Bank details and payment mode entered here will be reflected on the employee's salary slip."
+    ],
+    "important_notes": [
+        "Once saved, these details are permanently stored and do not need to be re-entered monthly.",
+        "Remarks can be used if specific pop-ups are desired for payment modes, but direct entry in the payment mode field is sufficient for record-keeping."
+    ],
+    "questions": [
+        "How do I add or update an employee's bank account details?",
+        "Where can I specify if an employee's salary is paid via cheque or RTGS?",
+        "Will the bank details appear on the salary slip?",
+        "Do I need to enter payment mode details every month?"
+    ],
+    "keywords": [
+        "employee bank details",
+        "salary payment mode",
+        "RTGS",
+        "cheque payment",
+        "salary slip details",
+        "HRM salary details"
+    ],
+    "related_topics": [
+        "Viewing and Editing Processed Salaries"
+    ],
+    "id": "hrm_manage_employee_bank_details_and_payment_modes",
+    "source": {
+        "file": "4. 1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

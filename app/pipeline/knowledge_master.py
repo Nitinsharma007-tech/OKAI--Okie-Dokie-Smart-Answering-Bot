@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
@@ -63,7 +64,8 @@ class KnowledgeMasterBuilder:
 
             "source"
 
-        ]    # ==================================================
+        ]   
+    # ==================================================
     # Load Every JSON
     # ==================================================
 
@@ -122,7 +124,7 @@ class KnowledgeMasterBuilder:
         print("=" * 60)
         print(f"Total JSON Loaded : {total}")
         print("=" * 60)
-            # ==================================================
+    # ==================================================
     # Validate JSON
     # ==================================================
 
@@ -160,7 +162,7 @@ class KnowledgeMasterBuilder:
         print(
             f"Invalid Topics : {self.invalid_topics}"
         )
-            # ==================================================
+    # ==================================================
     # Normalize Module Names
     # ==================================================
 
@@ -201,7 +203,30 @@ class KnowledgeMasterBuilder:
             topic["module"] = normalized
 
         print("Module normalization completed.")
-            # ==================================================
+
+    def remove_duplicate_questions(self):
+
+        print("\nRemoving Duplicate Questions...\n")
+
+        seen_questions = set()
+        removed = 0
+
+        for topic in self.cleaned_topics:
+            unique_questions = []
+
+            for question in topic.get("questions", []):
+                normalized = re.sub(r"\s+", " ", str(question)).strip().lower()
+                if not normalized or normalized in seen_questions:
+                    removed += 1
+                    continue
+                seen_questions.add(normalized)
+                unique_questions.append(question)
+
+            topic["questions"] = unique_questions
+
+        print(f"Duplicate Questions Removed : {removed}")
+
+    # ==================================================
     # Remove Duplicate Topics
     # ==================================================
 
@@ -240,7 +265,8 @@ class KnowledgeMasterBuilder:
         print(
             f"Remaining Topics : {len(self.cleaned_topics)}"
         )
-            # ==================================================
+
+    # ==================================================
     # Sort Topics
     # ==================================================
 
@@ -261,7 +287,8 @@ class KnowledgeMasterBuilder:
         )
 
         print("Topics sorted.")
-            # ==================================================
+
+    # ==================================================
     # Generate Statistics
     # ==================================================
 
@@ -294,7 +321,8 @@ class KnowledgeMasterBuilder:
         print(
             f"Topics : {self.statistics['total_topics']}"
         )
-            # ==================================================
+
+    # ==================================================
     # Create Master JSON
     # ==================================================
 
@@ -341,7 +369,8 @@ class KnowledgeMasterBuilder:
         }
 
         return master
-        # ==================================================
+
+    # ==================================================
     # Save Master JSON
     # ==================================================
 
@@ -379,7 +408,8 @@ class KnowledgeMasterBuilder:
         print("Knowledge Master Saved Successfully.")
 
         print(f"\nLocation : {self.output_file}")
-            # ==================================================
+
+    # ==================================================
     # Display Summary
     # ==================================================
 
@@ -408,7 +438,8 @@ class KnowledgeMasterBuilder:
         )
 
         print("=" * 60)
-            # ==================================================
+
+    # ==================================================
     # Build Knowledge Master
     # ==================================================
 
@@ -429,15 +460,18 @@ class KnowledgeMasterBuilder:
         self.remove_duplicates()
 
         # Step 5
-        self.sort_topics()
+        self.remove_duplicate_questions()
 
         # Step 6
-        self.generate_statistics()
+        self.sort_topics()
 
         # Step 7
-        master = self.create_master()
+        self.generate_statistics()
 
         # Step 8
+        master = self.create_master()
+
+        # Step 9
         self.save_master(master)
 
         # Step 9

@@ -1,0 +1,44 @@
+{
+    "module": "Fees",
+    "topic": "Due Fee Report",
+    "summary": "Displays outstanding fee dues for active students, allowing filtering by class, month, and fee head. It can also show head-wise due amounts.",
+    "navigation": [
+        "Fees > Fee Reports > Due Fee Report"
+    ],
+    "steps": [
+        "Navigate to \"Due Fee Report\".",
+        "Select the desired class (e.g., Class 5).",
+        "Select the specific month for which to check dues (e.g., April).",
+        "Ensure \"active students\" filter is applied.",
+        "To view head-wise dues, select the \"head wise due\" option.",
+        "The report will show total due and individual fee head dues for each student."
+    ],
+    "business_rules": [
+        "Can filter by active students only."
+    ],
+    "important_notes": [
+        "This report can be used by teachers if given access to check dues for their own courses."
+    ],
+    "questions": [
+        "How can I check outstanding fee dues for students?",
+        "Can I see head-wise due amounts in the due fee report?",
+        "How do I filter the due fee report by class and month?"
+    ],
+    "keywords": [
+        "due fee report",
+        "outstanding fees",
+        "pending dues",
+        "head-wise due",
+        "active students"
+    ],
+    "related_topics": [
+        "Student Fee Collection",
+        "Multi-Session Due Fee Report"
+    ],
+    "id": "fees_due_fee_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

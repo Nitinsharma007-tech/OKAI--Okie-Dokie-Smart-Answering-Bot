@@ -1,0 +1,58 @@
+{
+    "module": "System Configuration",
+    "topic": "Automation and Alert Settings",
+    "summary": "This topic describes various automation features and alert configurations, including automating vouchers, payroll, and analytics, enabling OTP verification for gate passes, and setting up automated alerts for due fees and library matters.",
+    "navigation": [
+        "Institute Preferences",
+        "Automate feature"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences' > 'Automate feature'.",
+        "**Automate Voucher:** Enable this option to automatically transfer receipts to the accounting system on a daily basis.",
+        "**Automate Payroll:** Enable this to automate payroll processes, linking them directly to employee salaries.",
+        "**Automate Analytics:** Enable this to automate the transfer of alerts and data for analytical purposes.",
+        "**Gate Pass OTP Verification:** Turn this option on to require OTP verification for the issuance of gate passes.",
+        "**Due Fee Alert:** Configure timely alerts (e.g., on the 10th of every month) to automatically send messages to students regarding pending fees.",
+        "**Library Alert:** Set up automated alerts for library-related issues and specify the number of days for the alert trigger."
+    ],
+    "business_rules": [
+        "Automated features are designed to streamline daily operations and minimize manual intervention across various modules."
+    ],
+    "important_notes": [
+        "Users should have a foundational understanding of the underlying modules (voucher, payroll, analytics) to fully comprehend the impact and benefits of these automation settings.",
+        "Automated alerts are effective tools for timely communication with students and staff regarding important deadlines and issues."
+    ],
+    "questions": [
+        "How can I automate the transfer of receipts to accounts?",
+        "Where do I enable OTP verification for gate passes?",
+        "How can I set up automatic alerts for pending fees?",
+        "What are the benefits of automating payroll processes?",
+        "Can I configure alerts for overdue library books?",
+        "What is the purpose of automating analytics?"
+    ],
+    "keywords": [
+        "Automate",
+        "automation",
+        "voucher",
+        "payroll",
+        "analytics",
+        "gate pass",
+        "OTP verification",
+        "due fee alert",
+        "library alert",
+        "system configuration",
+        "alerts"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "HRM",
+        "Library Management",
+        "Reporting"
+    ],
+    "id": "system_configuration_automation_and_alert_settings",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

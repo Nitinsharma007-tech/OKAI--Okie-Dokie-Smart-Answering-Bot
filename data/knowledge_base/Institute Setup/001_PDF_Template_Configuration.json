@@ -1,0 +1,59 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Configuration",
+    "summary": "This topic explains how to set up and configure various PDF templates like ID cards, certificates, and receipts within the ERP system, including naming, layout options, and class-specific templates.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "Template Preferences",
+        "PDF Template"
+    ],
+    "steps": [
+        "Navigate to Institute Setup > Template Reference > Template Preferences.",
+        "Select PDF Template.",
+        "Click to add a new template or select an existing one.",
+        "Choose the template type (e.g., Fee Receipt, ID Card, Bonafide Certificate).",
+        "Give the template a name.",
+        "Select print count/layout options (Single, Two Horizontal, Two Vertical, Four).",
+        "Optionally, select specific courses/classes if the template is class-specific.",
+        "Select a default template from available backend options or load an existing one.",
+        "Use the preview option to check the design."
+    ],
+    "business_rules": [
+        "Certificates can be different for respective classes (e.g., Class 1 vs. Class 2)."
+    ],
+    "important_notes": [
+        "The system allows adding multiple templates for the same type (e.g., multiple fee receipts).",
+        "Default templates are available at the backend.",
+        "Preview helps check alignment and design but is not the final print."
+    ],
+    "questions": [
+        "How do I create a new fee receipt template?",
+        "Where can I find the PDF template settings?",
+        "Can I have different ID card templates for different classes?",
+        "What are the layout options for printing templates?"
+    ],
+    "keywords": [
+        "PDF template",
+        "template setup",
+        "fee receipt",
+        "ID card",
+        "certificate",
+        "admission receipt",
+        "template preferences",
+        "layout options",
+        "print count",
+        "class-specific templates"
+    ],
+    "related_topics": [
+        "PDF Template Trigger Logic and Defaulting",
+        "PDF Template Customization and Variables",
+        "Debugging PDF Template Variables"
+    ],
+    "id": "institute_setup_pdf_template_configuration",
+    "source": {
+        "file": "9. 720p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

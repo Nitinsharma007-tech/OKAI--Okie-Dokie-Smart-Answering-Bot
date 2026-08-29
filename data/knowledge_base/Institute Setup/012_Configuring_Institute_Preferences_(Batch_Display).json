@@ -1,0 +1,42 @@
+{
+    "module": "Institute Setup",
+    "topic": "Configuring Institute Preferences (Batch Display)",
+    "summary": "Explains how to remove the \"Batch\" field from being displayed in the system, particularly relevant for schools that don't use batches.",
+    "navigation": [
+        "Institute Setup > Institute Preferences > Display"
+    ],
+    "steps": [
+        "Navigate to \"Institute Preferences\".",
+        "Go to the \"Display\" section.",
+        "Un-tick the \"Include Batch\" box.",
+        "Remove \"Batch\" from the display name settings.",
+        "Save the changes."
+    ],
+    "business_rules": [
+        "This configuration affects the display of the \"Batch\" field across the system."
+    ],
+    "important_notes": [
+        "This is typically done for schools or institutes that do not operate with a batch system (e.g., colleges/universities might use it)."
+    ],
+    "questions": [
+        "How do I remove the \"Batch\" field from the system display?",
+        "Where can I configure institute display preferences?",
+        "Why would I remove the batch display?"
+    ],
+    "keywords": [
+        "institute preferences",
+        "batch display",
+        "remove batch",
+        "display settings",
+        "configuration"
+    ],
+    "related_topics": [
+        "Institute Setup"
+    ],
+    "id": "institute_setup_configuring_institute_preferences_batch_display",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

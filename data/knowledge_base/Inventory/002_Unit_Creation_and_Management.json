@@ -1,0 +1,46 @@
+{
+    "module": "Inventory",
+    "topic": "Unit Creation and Management",
+    "summary": "This topic explains the process of defining and managing units of measurement for various inventory items. Proper unit definition ensures accurate stock tracking and reporting.",
+    "navigation": [
+        "Inventory",
+        "Masters",
+        "Units"
+    ],
+    "steps": [
+        "Navigate to Inventory > Masters > Units (Assumed based on context).",
+        "Click 'Create' to add a new unit.",
+        "Enter the Unit Name (e.g., Liters, Pieces, Numbers).",
+        "Save the new unit."
+    ],
+    "business_rules": [
+        "All inventory items must be associated with a defined unit of measurement."
+    ],
+    "important_notes": [
+        "Examples of units include 'Liters' for chemicals, 'Pieces' for erasers, and 'Numbers' for furniture."
+    ],
+    "questions": [
+        "How do I create a new unit of measurement for inventory?",
+        "Where can I find the option to manage inventory units?",
+        "What types of units can be defined in the system?",
+        "Why is it important to define units for items?"
+    ],
+    "keywords": [
+        "Unit creation",
+        "Unit of measurement",
+        "Inventory units",
+        "Liters",
+        "Pieces",
+        "Numbers",
+        "Masters"
+    ],
+    "related_topics": [
+        "Item Creation and Management"
+    ],
+    "id": "inventory_unit_creation_and_management",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

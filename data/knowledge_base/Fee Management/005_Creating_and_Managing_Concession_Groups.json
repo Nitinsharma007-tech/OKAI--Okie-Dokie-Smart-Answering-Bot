@@ -1,0 +1,65 @@
+{
+    "module": "Fee Management",
+    "topic": "Creating and Managing Concession Groups",
+    "summary": "This topic describes how to set up various concession groups (e.g., sibling, staff, third child) in the ERP system. It covers defining concessions by name, applicable fee heads, and concession type (percentage or flat amount).",
+    "navigation": [
+        "Settings icon",
+        "Institute Setup",
+        "Fee Setup",
+        "Concession"
+    ],
+    "steps": [
+        "Navigate to the 'Concession' option (typically under Fee Setup).",
+        "To copy concessions from a previous session (if available):",
+        "Click 'Copy from Session'.",
+        "Select the desired previous session.",
+        "To add a new concession group:",
+        "Click 'Add New Concession Group'.",
+        "Enter the 'Name' of the concession (e.g., Staff Concession, Sibling Concession).",
+        "Select the 'Fee Head' to which the concession applies (e.g., Annual Fee, Tuition Fee, or 'All Fee Heads').",
+        "Choose the 'Concession Type':",
+        "If 'Percentage', enter the percentage value (e.g., 50 for 50%).",
+        "If 'Flat', enter the flat amount (e.g., 5000).",
+        "Save the concession group."
+    ],
+    "business_rules": [
+        "Concessions are session-dependent, meaning they may vary from session to session.",
+        "Concessions are applied according to installments, mirroring the fee structure."
+    ],
+    "important_notes": [
+        "Concessions can be applied to specific fee heads or all fee heads.",
+        "The system supports both percentage-based and flat-amount concessions.",
+        "The names of concession groups are user-defined."
+    ],
+    "questions": [
+        "How do I create a new concession group in the ERP?",
+        "What types of concessions can be defined (percentage/flat)?",
+        "Can a concession apply to all fee heads or specific ones?",
+        "Are concession groups session-dependent?",
+        "How do I copy concessions from a previous academic session?"
+    ],
+    "keywords": [
+        "Concession group",
+        "fee concession",
+        "sibling concession",
+        "staff concession",
+        "third child concession",
+        "percentage concession",
+        "flat concession",
+        "fee head concession",
+        "session dependent concession"
+    ],
+    "related_topics": [
+        "Fee Heads",
+        "Term Group",
+        "Fee Group",
+        "Manual Concessions",
+        "Fee Management"
+    ],
+    "id": "fee_management_creating_and_managing_concession_groups",
+    "source": {
+        "file": "1. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

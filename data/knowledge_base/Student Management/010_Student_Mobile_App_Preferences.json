@@ -1,0 +1,58 @@
+{
+    "module": "Student Management",
+    "topic": "Student Mobile App Preferences",
+    "summary": "This topic details how to configure the student mobile app, controlling which modules (profile, diary, attendance, fees, library, etc.) are visible, and setting up fee payment options, including term selection, fee head visibility, partial payments, and minimum payment percentages.",
+    "navigation": [
+        "Institute Preferences",
+        "Student app preferences"
+    ],
+    "steps": [
+        "Navigate to 'Institute Preferences' > 'Student app preferences'.",
+        "**Module Visibility:** Toggle options to control which modules (e.g., Profile, School Diary, Attendance, Fee, Examination, Library) are visible and accessible on the student mobile app.",
+        "**Mapping of Transactions:** This setting is automatically configured for app payments and typically does not require manual intervention.",
+        "**Fee Setting for App:** Configure how students can pay fees via the mobile app:",
+        "  - 'Select a term': Allow students to choose the specific academic session for which they are making fee payments (current or previous).",
+        "  - 'Show fee head': Enable this to display individual fee heads during the payment process.",
+        "  - 'Pay full amount or partial': Determine if students are allowed to make partial payments or if they must pay the full outstanding amount.",
+        "  - 'Select specific fee heads': Allow students to pay for particular fee heads only (e.g., transport fees only).",
+        "  - 'Flexible module (Minimum Percentage)': Set a minimum percentage of the total fee that a student must pay via the app (e.g., 10% of a 10,000 INR fee). If set to 0, even a nominal amount like 1 INR can be submitted."
+    ],
+    "business_rules": [
+        "The 'Flexible module' allows institutes to enforce a minimum payment threshold for app-based fee transactions."
+    ],
+    "important_notes": [
+        "Carefully configure module visibility to ensure that students only have access to relevant information and functionalities.",
+        "The fee payment settings directly impact the student's experience and flexibility when making fee payments through the mobile app."
+    ],
+    "questions": [
+        "How do I control which modules are visible on the student mobile app?",
+        "Can students pay partial fees through the app?",
+        "Where can I set a minimum payment percentage for app-based fee payments?",
+        "How do I allow students to select specific fee heads for payment on the app?",
+        "What is the 'Flexible module' in student app preferences?",
+        "Can students pay fees for previous sessions using the app?"
+    ],
+    "keywords": [
+        "Student app",
+        "app preferences",
+        "module visibility",
+        "fee payment",
+        "partial payment",
+        "minimum percentage",
+        "flexible module",
+        "select term",
+        "fee head",
+        "mobile app configuration"
+    ],
+    "related_topics": [
+        "Fee Management",
+        "Student Management",
+        "Institute Preferences"
+    ],
+    "id": "student_management_student_mobile_app_preferences",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

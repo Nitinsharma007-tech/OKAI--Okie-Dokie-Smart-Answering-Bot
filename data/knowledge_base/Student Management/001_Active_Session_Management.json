@@ -1,0 +1,46 @@
+{
+    "module": "Student Management",
+    "topic": "Active Session Management",
+    "summary": "Explains how to set and understand the active session in the ERP, which determines the default academic year displayed upon logging in or switching entities.",
+    "navigation": [
+        "Institute Setup",
+        "Session Setup"
+    ],
+    "steps": [
+        "Navigate to \"Institute Setup\".",
+        "Go to \"Session Setup\".",
+        "Locate the desired session in the list.",
+        "Click the star icon (labeled \"Active Session\") next to the session in the 'Action' column.",
+        "Save the changes."
+    ],
+    "business_rules": [
+        "The active session is the default session that opens when you log in or switch to a specific entity.",
+        "Only one session can be marked as active at a time for an entity."
+    ],
+    "important_notes": [
+        "Even if multiple sessions exist, only the active one will open by default.",
+        "Users can manually switch to other sessions if needed, but the active session is the system's default."
+    ],
+    "questions": [
+        "What is an active session in the ERP?",
+        "How do I set the default academic session for my institution?",
+        "Where can I see which session is currently active?"
+    ],
+    "keywords": [
+        "Active Session",
+        "Default Session",
+        "Session Setup",
+        "Current Session",
+        "Academic Year"
+    ],
+    "related_topics": [
+        "Session Creation",
+        "Student Session Management"
+    ],
+    "id": "student_management_active_session_management",
+    "source": {
+        "file": "14. 1080p-syb-fmmz-jmq (2025-07-04 16_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

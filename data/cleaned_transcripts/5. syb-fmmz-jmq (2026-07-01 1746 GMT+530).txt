@@ -475,39 +475,40 @@ Then what happens is,
 I will show you one thing.
 Every application,
 every field comes in a group.
-You get some things in personal details,
-you get some things in document upload,
-you get some things in address.
-So how do we do this grouping?
-So we have the option of group by.
-What I did was, I selected 4-5 fields
-and put them in transport detail.
-So what will happen is, if you put them separately in hosted data,
+For example, in personal details,
+you have some things.
+In document upload, you have some things.
+In address, you have some things.
+So how do you group?
+So here we have the option of group by.
+I have taken 4-5 fields and put them in transport details.
+So what will happen is,
+if you put them separately in hosted data,
 then these two will come separately.
 So what will the system do?
-It will show it according to that group on this page.
+It will show it according to the same group on this page.
 Then you put the sequence number.
-So there was no sequencing before this.
+There was no sequencing before this.
 So what will the system do?
-According to that sequence,
-it goes to 1, 2, 3 or 4.
-Before that, it was on 1,
-this will go to 0, then on 1.
-Then this sequencing will go.
+According to the same sequence,
+this is on 1, this is on 2, this is on 3, this is on 4.
+Before that, this was on 1.
+This will go on 0 and then on 1.
+Then this sequencing will go on.
 So sequencing means that
 it will be visible in the sequence you want to keep.
 If I set it up now,
 let's make it fresh.
 I came to this.
 Add field.
-Suppose you don't have any stage,
-then you will click on add multiple field.
-Because you don't have enough time
+If you don't have any stage,
+then you click here
+because you don't have enough time
 to add one field from here and then another.
 You don't have enough time.
-Select multiple fields.
-What do you want? Student's name, student's date, student's gender.
-Student's phone number, email, address.
+Select multiple fields,
+student name, student date, student gender,
+student phone number, email, address.
 That's it.
 It will depend on your requirement.
 Now I am telling you the basics.
@@ -518,50 +519,53 @@ all the fields will be added to you.
 You can give them sequence numbers.
 1, 2, 4.
 You can give them any sequence number.
-You can give sequence numbers to the field you want to show.
-Next,
-I will tell you the transaction one tomorrow.
-Save it.
+You can give the sequence number
+to the field you want to show.
+Next, I will tell you about the transaction
+and save it.
 After saving, refresh it.
-Then your stage will be added.
+Once you check, your stage will be added.
 Your testing stage will be added.
 Is it clear, guys?
 , .
-, tell me the difference between lead and application.
+, please tell us the difference between lead
+and application.
 What happens in the case of lead?
 In general,
 I will tell you in advance.
 I have two pages.
-One is application data and one is admission leads.
+One is application data, and the other is
+admission leads.
 If you want to show any application
 on the leads page,
 then you need to tag it as lead.
 In general, the lead is
 that nothing has been done on it.
 It is fresh.
-No data has been added.
-No document request has been filled.
+No data has been added,
+no document request has been filled.
 To keep it on that stage,
-you have to set that stage as a lead stage.
-In general,
-your first stage,
+you need to set that stage
+as a lead stage.
+, .
+In general, the first stage,
 the very first stage,
 is the lead stage.
-You have to set all the other applications.
-Because you are taking only the data.
-You have to do the work first.
-Is it clear?
-I will not go into too much detail.
-Tell me the doubts in this.
+You need to set all the other applications.
+Because you are only taking
+the data.
+It is clear.
+I won't go into much detail.
+Now tell me your doubts.
 Is there any doubt,
-any question?
-We have just done the stage part.
+any question,
+about the stage?
+We have only done the stage part.
 Amit , any doubt?
+No, . It is clear.
+Abhay, do you have any doubt?
 No, .
-Clear.
-Parvathan, any doubt?
-Clear, .
-Can I close, ?
+Can I close?
 .
- for your time.
+, guys. for your time.
 Have a nice day.

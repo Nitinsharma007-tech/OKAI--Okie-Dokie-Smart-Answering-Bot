@@ -1,0 +1,58 @@
+{
+    "module": "HRM",
+    "topic": "View and Edit Processed Monthly Salary",
+    "summary": "This process details how to view the processed salaries for a specific month and make necessary adjustments to individual employee salaries, such as adding advance recovery or changing earning/deduction amounts.",
+    "navigation": [
+        "HRM",
+        "Salary Summary Month Wise"
+    ],
+    "steps": [
+        "Go to HRM > Salary Summary Month Wise.",
+        "Select the \"Year\" and \"Month\" for which you want to view salaries (e.g., 2025, November).",
+        "Click \"Go\" (leaving other fields blank will show all employees).",
+        "Review the list of employees with their processed salaries, including Employee ID, Name, Department, Designation, Payable Days, Gross Salary, Deduction Amount, and Paid Salary.",
+        "To make changes for a specific employee, click the \"View\" button corresponding to their record.",
+        "The employee's complete salary structure will open.",
+        "To add \"Advance Recovery\": Locate the \"Advance Recovery\" deduction head. Enter the desired amount (e.g., 11,000). The system will automatically recalculate Gross Salary, Deduction, and Paid Salary.",
+        "To change other amounts (e.g., Basic, other deductions/earnings), edit the respective fields.",
+        "Enter \"Remarks\" explaining the changes made (e.g., \"Advance recovery added\").",
+        "Click \"Save\". A pop-up will confirm the save.",
+        "To add a new deduction or earning head that is not present: Click \"Add\" under the respective section (Earning or Deduction). Select the head from the dropdown. Enter the amount. Enter remarks and save."
+    ],
+    "business_rules": [
+        "Any changes made to an employee's salary structure must be saved with remarks to reflect in the system."
+    ],
+    "important_notes": [
+        "This section allows for month-specific adjustments to salary, overriding the contract for that particular month without changing the underlying contract template.",
+        "If a required head is not available in the dropdown, it needs to be created first in HRM Setup > Payroll Master."
+    ],
+    "questions": [
+        "How can I view the salaries processed for a specific month?",
+        "Where do I go to edit an employee's salary after it has been processed?",
+        "How do I add an advance recovery deduction to an employee's monthly salary?",
+        "What is the purpose of adding remarks when saving salary changes?",
+        "Can I change an employee's basic salary for a specific month without altering their contract?"
+    ],
+    "keywords": [
+        "Salary Summary Month Wise",
+        "Edit Salary",
+        "Advance Recovery",
+        "Deduction",
+        "Earning",
+        "Processed Salary",
+        "Monthly Salary Adjustment",
+        "Remarks",
+        "View Salary"
+    ],
+    "related_topics": [
+        "Process Monthly Salary",
+        "Create Earning/Deduction Heads",
+        "Assign Salary Template"
+    ],
+    "id": "hrm_view_and_edit_processed_monthly_salary",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

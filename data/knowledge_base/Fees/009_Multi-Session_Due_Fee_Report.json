@@ -1,0 +1,43 @@
+{
+    "module": "Fees",
+    "topic": "Multi-Session Due Fee Report",
+    "summary": "Allows users to view outstanding fee dues across multiple academic sessions and filter by a minimum due amount or percentage.",
+    "navigation": [
+        "Fees > Fee Reports > Multi-Session Due Fee Report"
+    ],
+    "steps": [
+        "Navigate to \"Multi-Session Due Fee Report\".",
+        "Select the desired academic sessions.",
+        "Enter a minimum amount or percentage to filter dues (e.g., show dues greater than Rs. 10,000 or a certain percentage).",
+        "Click \"Go\" to display the filtered results."
+    ],
+    "business_rules": [
+        "Can filter by minimum due amount or percentage."
+    ],
+    "important_notes": [
+        "Useful for identifying students with significant outstanding dues for targeted communication (e.g., WhatsApp messages)."
+    ],
+    "questions": [
+        "How do I check outstanding dues across multiple academic sessions?",
+        "Can I filter the due fee report by a minimum due amount or percentage?",
+        "How can I identify students with high outstanding dues?"
+    ],
+    "keywords": [
+        "multi-session due",
+        "due fee report",
+        "multiple sessions",
+        "filter dues",
+        "due percentage",
+        "due amount"
+    ],
+    "related_topics": [
+        "Due Fee Report",
+        "Student Fee Collection"
+    ],
+    "id": "fees_multi_session_due_fee_report",
+    "source": {
+        "file": "20. suk-hmee-t od - 20260618 1736 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

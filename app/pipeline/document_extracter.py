@@ -5,8 +5,10 @@ import subprocess
 import time
 from pathlib import Path
 
+import numpy as np
 from dotenv import load_dotenv
 from pptx import Presentation
+from sentence_transformers import SentenceTransformer
 
 from app.gemini_agent import GeminiAgent
 
@@ -65,6 +67,7 @@ class DocumentIngestor:
         self.processed_folder.mkdir(parents=True, exist_ok=True)
 
         self.gemini = GeminiAgent()
+        self.semantic_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
         self.master_data = {}
         self.topics = []
@@ -263,15 +266,72 @@ Rules:
     def add_topics(self, new_topics):
 
         existing_ids = {t["id"] for t in self.topics}
+        existing_questions = {
+            " ".join(str(question).split()).lower()
+            for topic in self.topics
+            for question in topic.get("questions", [])
+        }
+        existing_topic_texts = []
+        for topic in self.topics:
+            chunks = [
+                topic.get("module", ""),
+                topic.get("topic", ""),
+                topic.get("summary", ""),
+                *topic.get("questions", []),
+            ]
+            combined = " ".join(str(part).strip() for part in chunks if str(part).strip())
+            if combined:
+                existing_topic_texts.append(combined)
+
         added = 0
 
         for topic in new_topics:
+
+            topic_chunks = [
+                topic.get("module", ""),
+                topic.get("topic", ""),
+                topic.get("summary", ""),
+                *topic.get("questions", []),
+            ]
+            topic_text = " ".join(str(part).strip() for part in topic_chunks if str(part).strip())
+
+            duplicate_by_semantics = False
+            if topic_text:
+                topic_embedding = self.semantic_model.encode(
+                    topic_text,
+                    convert_to_numpy=True,
+                    normalize_embeddings=True,
+                )
+                for candidate_text in existing_topic_texts:
+                    candidate_embedding = self.semantic_model.encode(
+                        candidate_text,
+                        convert_to_numpy=True,
+                        normalize_embeddings=True,
+                    )
+                    score = float(np.dot(topic_embedding, candidate_embedding))
+                    if score >= 0.92:
+                        duplicate_by_semantics = True
+                        break
 
             if topic["id"] in existing_ids:
                 print(f"  ⚠ Skipping duplicate id: {topic['id']}")
                 continue
 
+            if duplicate_by_semantics:
+                print(f"  ⚠ Skipping semantically duplicate topic: {topic.get('topic', 'Unknown')}")
+                continue
+
+            unique_questions = []
+            for question in topic.get("questions", []):
+                normalized = " ".join(str(question).split()).lower()
+                if normalized and normalized not in existing_questions:
+                    existing_questions.add(normalized)
+                    unique_questions.append(question)
+            topic["questions"] = unique_questions
+
             self.topics.append(topic)
+            if topic_text:
+                existing_topic_texts.append(topic_text)
             existing_ids.add(topic["id"])
             added += 1
 

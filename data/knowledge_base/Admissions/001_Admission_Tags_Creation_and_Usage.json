@@ -1,0 +1,62 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Tags: Creation and Usage",
+    "summary": "Admission tags are used by counselors to categorize leads based on student interactions (e.g., interested, not interested, campus visit). These tags can be configured to automatically prompt for a follow-up (positive tags) or a remark (negative tags).",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Admission Tags"
+    ],
+    "steps": [
+        "To create a new tag:",
+        "1. Navigate to Admission Setup > Admission Master > Admission Tags.",
+        "2. Click 'Add New Details'.",
+        "3. Enter the desired tag name (e.g., 'Interested', 'Not Interested').",
+        "4. Choose a color combination for the tag.",
+        "5. Select 'Positive' if the tag should prompt for a follow-up, or 'Negative' if it should prompt for a remark.",
+        "6. Click 'Save'.",
+        "To use a tag on a lead:",
+        "1. On the Admission Leads page, select a lead.",
+        "2. Based on the conversation with the student, select the appropriate tag.",
+        "3. If a positive tag is selected, the system will prompt to add a follow-up (date, time, remark).",
+        "4. If a negative tag is selected, the system will prompt to add a negative remark.",
+        "5. Update the lead."
+    ],
+    "business_rules": [
+        "Positive tags will prompt the system to ask for a follow-up (date, time, remark).",
+        "Negative tags will prompt the system to ask for a negative remark."
+    ],
+    "important_notes": [
+        "Leads with no activity are marked with red ribbons and are referred to as 'not engaged' leads.",
+        "Engaged leads (with completed or pending follow-ups) do not display red ribbons."
+    ],
+    "questions": [
+        "How do I create new admission tags?",
+        "What is the difference between positive and negative admission tags?",
+        "How do I apply an admission tag to a lead?",
+        "What does a red ribbon on a lead signify?",
+        "Can I customize the colors of my admission tags?"
+    ],
+    "keywords": [
+        "Admission tags",
+        "Lead tags",
+        "Create tag",
+        "Positive tag",
+        "Negative tag",
+        "Follow-up prompt",
+        "Remark prompt",
+        "Not engaged leads",
+        "Red ribbon"
+    ],
+    "related_topics": [
+        "Admission Leads Page: Filters and Global Search",
+        "Admission Follow-up Page",
+        "Lead Management"
+    ],
+    "id": "admissions_admission_tags_creation_and_usage",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

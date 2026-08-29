@@ -1,0 +1,46 @@
+{
+    "module": "Fees",
+    "topic": "Refundable Heads Configuration",
+    "summary": "Refundable heads are used for amounts that, when refunded, automatically reduce the original demand amount, ensuring that the demand and received amounts remain balanced without creating an outstanding balance.",
+    "navigation": [
+        "Refundable Heads"
+    ],
+    "steps": [
+        "Mark specific fee heads as 'refundable heads' during their setup."
+    ],
+    "business_rules": [
+        "When money from a refundable head is refunded, the original demand amount for that specific head is automatically reduced by the refunded amount.",
+        "This ensures that the student's balance remains zero if the received amount matches the adjusted demand, preventing an artificial outstanding balance.",
+        "Differs from liability heads where the demand is not reduced, but the balance also doesn't increase."
+    ],
+    "important_notes": [
+        "Helps maintain accurate demand vs. received reconciliation after refunds, especially for fees that might be partially refunded.",
+        "Ensures that the system's financial records accurately reflect the net demand after refunds."
+    ],
+    "questions": [
+        "What is a refundable head in the ERP system?",
+        "How does a refundable head affect the student's demand after a refund?",
+        "What is the key difference between a liability head and a refundable head?",
+        "When should I use a refundable head for fee components?",
+        "How does the system adjust demand when a refundable head is processed?"
+    ],
+    "keywords": [
+        "Refundable head",
+        "fee refund",
+        "demand adjustment",
+        "student balance",
+        "fee reconciliation",
+        "demand reduction"
+    ],
+    "related_topics": [
+        "Liability Heads",
+        "Fee Head",
+        "Fee Collection"
+    ],
+    "id": "fees_refundable_heads_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

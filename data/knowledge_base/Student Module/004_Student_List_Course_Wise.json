@@ -1,0 +1,43 @@
+{
+    "module": "Student Module",
+    "topic": "Student List Course Wise",
+    "summary": "Provides a filtered list of students specific to a particular course or class, primarily designed for class teachers to view only their assigned students.",
+    "navigation": [
+        "Student Module",
+        "Student List Course Wise"
+    ],
+    "steps": [
+        "Navigate to 'Student List Course Wise'.",
+        "The system will automatically display students relevant to the user's assigned course or class."
+    ],
+    "business_rules": [
+        "A class teacher will only have access to view students from their assigned class or course."
+    ],
+    "important_notes": [
+        "This feature is intended to provide restricted data visibility, ensuring that teachers only see students relevant to their responsibilities.",
+        "The 'Student List' (general) contains complete data for all students, whereas 'Student List Course Wise' is filtered."
+    ],
+    "questions": [
+        "How can a class teacher view only the students in their class?",
+        "What is the main purpose of the 'Student List Course Wise' feature?",
+        "Does 'Student List Course Wise' show all student data or only specific data?",
+        "Where can I find a list of students for a particular course?"
+    ],
+    "keywords": [
+        "Course wise student list",
+        "class teacher view",
+        "filtered student list",
+        "class specific students",
+        "teacher student list"
+    ],
+    "related_topics": [
+        "Student List Overview",
+        "Exporting Student Data to Excel"
+    ],
+    "id": "student_module_student_list_course_wise",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

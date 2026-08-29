@@ -1,0 +1,63 @@
+{
+    "module": "System Configuration",
+    "topic": "Customizing Display Names",
+    "summary": "This topic explains how to customize the display names of various fields and modules within the ERP to better suit the institute's specific terminology (e.g., changing 'Course' to 'Class' for schools, or 'Concession' to 'Discount'). This feature only alters the visible name, not the underlying system logic or functionality.",
+    "navigation": [
+        "Institute Preferences",
+        "Display Name Customization (implied section)"
+    ],
+    "steps": [
+        "Navigate to the section for display name customization within 'Institute Preferences'.",
+        "Locate the field or module whose display name you wish to change (e.g., Reg Number, Roll Number, Course, Batch, Concession, School Diary, Appreciation Certificate).",
+        "Enter the desired new 'Display Name' (e.g., 'Class' for Course, 'Year' for Batch, 'Discount' for Concession, 'College Communication' for School Diary, 'Transfer Certificate' for Appreciation Certificate).",
+        "Click the 'Save' button, typically located at the top of the screen, to apply the changes."
+    ],
+    "business_rules": [
+        "Only items explicitly listed in the customization section can have their display names changed.",
+        "Changing a display name does not alter the underlying system code, functionality, or data structure; it only affects what users see on the interface."
+    ],
+    "important_notes": [
+        "This feature allows the ERP system to adapt to an institute's specific terminology, making it more intuitive for users.",
+        "Ensure that the new display names are clear, consistent, and align with the institute's internal language and branding.",
+        "For templates and certificates (e.g., Appreciation Certificate), changing the display name allows the client to use the same underlying template for different purposes (e.g., Transfer Certificate) without requiring new code."
+    ],
+    "questions": [
+        "How can I change the display name of a field like 'Reg Number'?",
+        "Where do I customize 'Course' to 'Class' for a school's interface?",
+        "Can I rename 'Concession' to 'Discount' in the system?",
+        "How do I change the name of 'School Diary' to 'College Communication'?",
+        "Does changing a display name affect the system's functionality or data?",
+        "Which fields and modules can have their display names customized?"
+    ],
+    "keywords": [
+        "Display name",
+        "customize",
+        "rename",
+        "Reg Number",
+        "Roll Number",
+        "Course",
+        "Class",
+        "Batch",
+        "Year",
+        "Concession",
+        "Discount",
+        "School Diary",
+        "College Communication",
+        "Transfer Certificate",
+        "templates",
+        "certificates",
+        "system configuration",
+        "UI customization"
+    ],
+    "related_topics": [
+        "Institute Profile Configuration",
+        "Student Management",
+        "Fee Management"
+    ],
+    "id": "system_configuration_customizing_display_names",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

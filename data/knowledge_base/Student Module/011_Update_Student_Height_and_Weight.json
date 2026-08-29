@@ -1,0 +1,49 @@
+{
+    "module": "Student Module",
+    "topic": "Update Student Height and Weight",
+    "summary": "Allows teachers or authorized personnel to update the height and weight records for students, typically on a class-wise basis.",
+    "navigation": [
+        "Student Module",
+        "Update Height/Weight"
+    ],
+    "steps": [
+        "Navigate to 'Update Height/Weight'.",
+        "Select the 'Class' and 'Section' (if applicable) for which the updates are needed.",
+        "Choose whether to update 'Height' or 'Weight' from the available options.",
+        "The system will fetch the student details for the selected class/section.",
+        "Enter the new height or weight values for the respective students in the editable fields.",
+        "Click 'Update' (or 'Save') to apply the changes.",
+        "A successful message will confirm the update."
+    ],
+    "business_rules": [
+        "Teachers are typically responsible for updating the height and weight records for students in their assigned classes."
+    ],
+    "important_notes": [
+        "Users can choose to update either height or weight, or both, but the selection is made before fetching data.",
+        "The data displayed is specific to the selected class and section."
+    ],
+    "questions": [
+        "How do I update a student's height in the system?",
+        "Where can I record student weight updates?",
+        "Can I update height and weight for an entire class at once?",
+        "Who is authorized to update student height and weight records?",
+        "What is the process for updating physical attributes of students?"
+    ],
+    "keywords": [
+        "Update height",
+        "update weight",
+        "student health records",
+        "physical attributes",
+        "teacher update",
+        "student measurements"
+    ],
+    "related_topics": [
+        "Student Profile Management"
+    ],
+    "id": "student_module_update_student_height_and_weight",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

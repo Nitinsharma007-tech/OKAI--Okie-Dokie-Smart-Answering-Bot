@@ -1,0 +1,51 @@
+{
+    "module": "Institute Setup",
+    "topic": "Configure Student Feedback",
+    "summary": "Setting up the types and categories for student feedback within the system, which are used by teachers when providing feedback.",
+    "navigation": [
+        "Institute Setup",
+        "Student Master Setup",
+        "Student Feedback Setup",
+        "Student Feedback Type / Student Feedback Category"
+    ],
+    "steps": [
+        "Navigate to 'Institute Setup'.",
+        "Go to 'Student Master Setup'.",
+        "Select 'Student Feedback Setup'.",
+        "Define 'Student Feedback Type' options (e.g., Positive, Negative, Neutral) which will appear as a dropdown for teachers.",
+        "Define 'Student Feedback Category' options (e.g., Academic Performance, Sports, Co-curricular, Behavior) which will also appear as a dropdown."
+    ],
+    "business_rules": [
+        "Feedback types and categories are configured at the institute level and apply system-wide.",
+        "These configurations are a prerequisite for teachers to be able to give structured student feedback."
+    ],
+    "important_notes": [
+        "Proper setup of feedback types and categories ensures consistent and organized feedback collection.",
+        "These settings directly impact the options available to teachers when they provide feedback."
+    ],
+    "questions": [
+        "How do I set up student feedback types in the ERP system?",
+        "Where can I define student feedback categories?",
+        "What are the available options for configuring student feedback?",
+        "Can I customize the feedback categories for students?",
+        "What is 'Student Master Setup' used for?"
+    ],
+    "keywords": [
+        "Student feedback setup",
+        "feedback type",
+        "feedback category",
+        "institute setup",
+        "master setup",
+        "configure feedback",
+        "feedback configuration"
+    ],
+    "related_topics": [
+        "Giving Student Feedback"
+    ],
+    "id": "institute_setup_configure_student_feedback",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

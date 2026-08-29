@@ -1,0 +1,52 @@
+{
+    "module": "Fees",
+    "topic": "Receipt Numbering Configuration",
+    "summary": "This configuration defines how receipt numbers are generated for fee collections and refunds, including options for prefixes, suffixes, and class-wise numbering. It allows for customization of receipt sequences.",
+    "navigation": [],
+    "steps": [
+        "Select all classes or specific classes for separate counters.",
+        "Define a prefix (e.g., 'TAS-') for the receipt number.",
+        "Define a suffix (e.g., '-25-26' for the academic session) for the receipt number.",
+        "For refund receipts, configure a separate prefix (e.g., 'R-')."
+    ],
+    "business_rules": [
+        "Receipt numbers can be configured with prefixes and suffixes.",
+        "Counters can be separated based on class for unique numbering sequences.",
+        "In 90-95% of cases, direct numbers (without prefix/suffix) are used.",
+        "Refund receipts have their own numbering setup, distinct from regular fee receipts.",
+        "The system automatically increments the receipt counter for both fee and refund receipts."
+    ],
+    "important_notes": [
+        "Prefixes and suffixes help identify the type or session of the receipt.",
+        "Class-wise separation allows for unique numbering sequences per class, useful for different school sections.",
+        "The system automatically updates the counter, ensuring unique receipt numbers."
+    ],
+    "questions": [
+        "How do I configure automatic receipt numbering in the ERP system?",
+        "Can I add a prefix or suffix to my fee receipt numbers?",
+        "Is it possible to have different receipt number sequences for different classes?",
+        "How are refund receipt numbers generated and configured?",
+        "Where can I set up the starting number for fee receipts?"
+    ],
+    "keywords": [
+        "Receipt numbering",
+        "receipt setup",
+        "fee receipt",
+        "refund receipt",
+        "receipt prefix",
+        "receipt suffix",
+        "automatic numbering",
+        "class-wise receipt"
+    ],
+    "related_topics": [
+        "Refund Receipt",
+        "Fee Collection",
+        "Fee Group"
+    ],
+    "id": "fees_receipt_numbering_configuration",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

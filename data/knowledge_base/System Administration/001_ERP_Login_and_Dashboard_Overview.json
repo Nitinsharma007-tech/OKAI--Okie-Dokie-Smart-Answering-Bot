@@ -1,45 +1,43 @@
 {
     "module": "System Administration",
     "topic": "ERP Login and Dashboard Overview",
-    "summary": "This topic covers the login process for the ERP system using a phone number and OTP, and provides an overview of the dashboard interface, including company/entity name display, user ID, session information, and the permission-based menu structure.",
-    "navigation": [
-        "campus.audipay.org"
-    ],
+    "summary": "Provides details on how to log in to the ERP system, the dashboard interface, user-specific views, and session management.",
+    "navigation": [],
     "steps": [
-        "Go to the URL: campus.audipay.org.",
-        "Log in using your registered phone number and the One-Time Password (OTP) received.",
-        "Optionally, you can set a password for future logins.",
-        "Upon successful login, the dashboard will appear, displaying your company/entity name, user ID, and current session details."
+        "Go to campus.audipay.org.",
+        "Log in using your phone number and OTP.",
+        "Optionally, set a password for future logins."
     ],
     "business_rules": [
         "Login is primarily via phone number and OTP.",
-        "Menu options displayed are based on user permissions."
+        "The dashboard displays your company/entity name and user ID.",
+        "The interface is permission-based, showing options relevant to your role (e.g., fee options for a fee clerk).",
+        "The system supports multiple user sessions."
     ],
     "important_notes": [
-        "The URL (campus.audipay.org) can be saved or attached to your homescreen for easy access.",
-        "The dashboard interface is personalized, showing your institute's name and your user ID.",
-        "The system supports multiple sessions, which can be searched."
+        "The ERP URL is campus.audipay.org.",
+        "Users can attach the URL to their homescreen for quick access."
     ],
     "questions": [
         "How do I log in to the ERP system?",
-        "What is the web address for the ERP login?",
-        "Can I set a password for my ERP account?",
-        "What information is visible on the ERP dashboard after logging in?",
-        "Why do I see different menu options compared to other users?"
+        "What is the URL for ERP login?",
+        "How can I set a password for my ERP account?",
+        "What information is displayed on the ERP dashboard?",
+        "Is the ERP interface customized based on user roles?"
     ],
     "keywords": [
         "ERP login",
         "dashboard",
-        "campus.audipay.org",
+        "user interface",
         "OTP login",
         "password setup",
-        "user interface",
+        "campus.audipay.org",
         "permissions",
         "session management"
     ],
     "related_topics": [
         "User Management",
-        "Security Settings"
+        "Role-Based Access Control"
     ],
     "id": "system_administration_erp_login_and_dashboard_overview",
     "source": {

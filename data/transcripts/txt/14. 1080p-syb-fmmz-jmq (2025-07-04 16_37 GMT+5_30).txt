@@ -1,0 +1,886 @@
+In this session, if anyone has a query, okay, there is no query, everything is clear, by the way, there was nothing like that yesterday, what you had was to update the details, right, Kunal, you were saying something, is there any query?
+No, no, no.
+Okay, okay, basically, we will add students tomorrow, the overview of the SAS module, okay, how your details are updated, for example, can anyone tell me which details we saw to update yesterday, tell me any detail, does anyone remember?
+For example, basic details, for example, height, weight, address and transportation.
+Okay, right, so today our session will be about promoting students, how can we do student session management, I will share the screen with you, is the screen visible?
+Yes, it is.
+Okay, so what is the topic of student session management today?
+Okay, student session management means, right now you have learned how to make a session, right, in the case of school, you must have made these sessions, right, in this way, more sessions are made, you know how to switch the sessions, there are different sessions, right.
+Now, the students that we add, suppose if I have added a student in this session, right, then it will be in this session, do you understand a little?
+Now, the students that I have added in this session, it will be in this session, right.
+Now, upcoming, for example, what is going on right now, it is going on 25-26, right, suppose if it is going on 24-25 right now, can anyone tell us when our school session starts?
+1st April to 31st March.
+1st April to 31st March, right, so in the case of school, we have a session like this, for example, if your session is going on 24-25, then it means it will be from 1st April to 31st March to 2025.
+Right, now the next session that you will start, suppose if your session ends, then the next session that you will start is from 25-26, when will it start?
+From 1st April to 2025, right, from 1st April to 2025, when you switch the session, then you have a student, so you were in this session in 24-25, do you understand a little?
+Session dependent, what I mean to say is that if we add a student, then our session is dependent, means the session in which we are doing it, it will exist in that session.
+Right, so now if in 24-25 your student exists, for example, today is 31st March to 2025, for example, from tomorrow 1st April to 2025, means your next session is starting, 25-26.
+Okay, now if the next session starts, you have made active session 25-26, do you know the meaning of active session?
+You must have told you in the session, what is active session?
+The session that your current is running, suppose you log in, right, you log in and open your ERP, right, you opened your entity, so by default, which session is opening as soon as you open it?
+See, like what I did, I switched some entity, in the case of school, like for example, this is school, okay, I switched the entity, by default, the session that is opening with me, which session is that?
+The one that is running right now is active session, okay, by default, which session is your open, we call it active session.
+You may have a lot of sessions, in this case there are a lot of sessions, but by default, which is your open, it is active session, so you know how to mark active session, what are you saying?
+You don't know this, right, okay, see, what is active session?
+The session that is running, the sessions that you make, in the institute setup, you set up the session, right, from here, okay, so here you have a star mark with the action, what is written on this?
+Active session, as soon as I click on this, active session, this happens that by default, which session are you activating?
+Means, whenever you open this entity, then by default, which session will open, so we call it active, like in this, we have marked 24-25 as active session,
+if I do this active session and save it, see, I am saying save it, so now I have this active session, means 25-26 by default, whenever I switch the entity, then this session will open, okay, is that clear?
+Okay, so now what were we talking about the student, you have added the student in 24-25, okay, now what happened?
+Sorry to disturb you, when I was exploring, first I tried to upload the sample list, then I tried to upload that list,
+so that list is not being uploaded, they share an error report, PDF, in which errors come, set of errors, after this, can you hear me ma'am?
+Yes, yes, I can hear you.
+Hello.
+Hello, can't you hear my voice? Can you hear anyone?
+I can't hear you.
+Sorry, sorry, sorry.
+Hello.
+Yes, yes, govind.
+So ma'am, when I was doing that, when I tried to add manually, so when they were adding manually, there were some fields, when I was adding, it was not dropping down, it was being considered compulsory, that it has to be filled.
+Yes, so you must be getting the fields compulsory, some compulsory fields you will have to do.
+But ma'am, it was not dropping down, those fields were not open able.
+Which entity did you try?
+Ma'am, I tried a new entity, ma'am, this was an entity in the IU's testing.
+Okay, in IU's testing, you were adding, maybe there could be fee groups, did you make a separate session?
+Yes ma'am, I made a separate session.
+Okay, so you made a separate session, so the fee will not be set up. Actually, what happens is, the student is always added when the entire fee of the course has been set up.
+Okay, now when your fee training will be done, then all of this will remain.
+Okay, then in which component should I try all these things?
+You can do it in OM Convent, do you have OM Convent?
+OM Convent, let me check ma'am. No ma'am, right now I have Ram Prasad DAV, Springdale.
+Yes, you can do it in Springdale, you must be doing it on local testing, you have a QA server, right?
+Yes ma'am.
+Yes, so you can do it in Springdale, there is no issue.
+If there is a current session, 24-25, or the previous session, 23-24, you can do it in that, it will be done.
+Okay.
+Basically, the fee is set up, now it will come slowly, so your fee will be set up.
+If I set up a new session in Springdale, then the fee will not be set up.
+If you set up a session, then the fee will not be set up.
+The fee set up can be different in every session.
+Okay ma'am.
+So if you see in the previous session, you will already get the fee set up, it will be there from the beginning,
+so you can add the student and see.
+Okay ma'am.
+So what is the student session management?
+In the current session, students exist.
+Okay, now what you have to do, for example,
+from tomorrow your next session is going to start, 1st April, 2025 is starting.
+So it will be a 25-26 session.
+Now in this, your students are not the ones who existed in the previous session.
+You need these in the next session too.
+For example, if a student is in class 1, then in the next session, which class will he go to?
+He will go to class 2.
+So this is in the student session management.
+How can you promote the student from one session to another session?
+Basically, this will be your training point today.
+So is the student session management clear?
+Any doubts, any queries?
+It will continue until he passes out in class 12,
+meanwhile he doesn't leave his session in between,
+so he will be promoted in every session.
+So what happens with us, we are given the option to promote.
+So we have an option to promote all,
+and one is to manually promote.
+So I will discuss both the options.
+What we have to do, students have to be promoted from one session to another session.
+That will be here with us.
+Basically, promoted will always be active students.
+In case if someone doesn't have to do it in the next session,
+or he has been relieved in between,
+then that student will be automatically inactive,
+so he will not be promoted.
+So in student session management,
+first of all we are discussing the first point,
+how we can manually promote students.
+So in student, we have an option, student session management.
+In this, we have an option, filter.
+What happens in the filter,
+with the filter, which class of students you want to promote.
+First, you select the class.
+For example, I have selected nursery class students.
+I have selected section A,
+all my students will come here.
+I will select class 1.
+As class 1, I have got the student.
+Here, this is the detail of the student.
+What is the promoted status here?
+Nothing.
+It means that this student has not been promoted in the upcoming session.
+If it has been promoted, then its status would be here.
+What I have to do,
+I have to manually promote the student.
+So what will I do?
+I have selected a student.
+For example, this is a student.
+This student is in class 1A right now.
+So in next session,
+in class 2,
+I have selected.
+After selecting,
+I have an option below,
+add selected student to session.
+Means I am promoting it in the session.
+So what happened here?
+Now a pop-up window has opened.
+Now the student you have selected,
+here its details are coming.
+What did you do?
+In which session?
+See, it is 24-25 disabled.
+It means you are promoting it from 24-25.
+In which session do you want to send the student?
+I want to send it in 25-26.
+Which class do I want to send it in?
+Now it is in class 1.
+So I have to send it in class 2.
+Class 2, stream the class 2 section.
+This is its A.
+Category.
+Which category is your category?
+All are coming for now
+because I have not filtered the category.
+In general category,
+old or new, it is a natural thing.
+There is an old student in class 1.
+So what will be next?
+It will be new next.
+Sorry, it will be old.
+In next session,
+in upcoming session,
+old.
+Now see, what is this?
+Promoted status.
+It means the student you want to promote,
+how to do it?
+These are the two options.
+It impacts your fees.
+Simple promote means
+in this session,
+all the dues of the student,
+they will remain till this session.
+They will not go in next session.
+Promoted with dues means
+if in this session,
+any dues of the student is pending,
+then in the upcoming session,
+in which you are promoting it,
+those dues will go away.
+If there are any queries in these two points,
+then you can ask.
+Do you want to repeat?
+Can I repeat?
+No, ma'am.
+Okay.
+It is very simple.
+No, ma'am.
+Okay.
+So, you have to promote a student like me.
+It means,
+if in this session,
+any dues are pending,
+which he has not paid,
+then they will remain till this session.
+They will not go in next.
+Okay.
+This will always
+be confirmed by the client.
+It means,
+the entity that you have,
+it will confirm you,
+whether you have to get them
+promoted or not.
+We do all this by confirming.
+Okay.
+Just like in our
+the height and weight,
+as we were doing yesterday,
+if we do not have height and weight
+registered in this,
+then we cannot assign it.
+No.
+height and weight is not your job
+to assign it.
+That was just a reason.
+It is always the teachers
+of the institute
+who do the update.
+You should know the option
+from which it is done.
+It means,
+we have the option
+if we...
+Yes.
+It means,
+you can do it if you want,
+but it is not your job.
+You just
+should know
+what is happening
+from where
+so that you can
+guide the person
+of the institute.
+So,
+if the student is promoted
+then this student
+will come to you
+with a message
+that the student
+that I selected
+has been updated.
+Skip Re-updated
+is zero.
+Skip means
+it will not update.
+Okay.
+This can be a way
+of skipping.
+What can be the reason
+In case
+the class in which
+you are promoting
+the student,
+its fee structure
+is not ready.
+So, it will skip.
+Now,
+as I promoted,
+here the promoted
+status came
+that the student
+has been promoted.
+This is our
+way to manually
+promote.
+Okay.
+Rest,
+we have bulk.
+We can also
+give this to the institute.
+It depends.
+The institute
+promotes at its end
+or you have to
+promote once
+and use the option.
+Any query
+Ma'am,
+can you tell
+the meaning
+of the word
+skip?
+What should I tell?
+What should I tell?
+Skip.
+Okay.
+When you are promoting,
+okay.
+You promoted.
+In the promote,
+you had one success.
+It was promoted.
+Skip means
+it skipped.
+It did not promote.
+Okay.
+So,
+it will give you
+an error file
+or a reason
+generated.
+Like now,
+Govind told
+that he was adding
+So,
+it will give you
+an error
+when you are
+In the case
+of skip.
+What can be
+It will say
+fee group note found.
+It means
+the class
+in which
+you are promoting
+the student
+does not have
+a fee structure.
+The session
+in which
+you are promoting
+for example,
+this student
+in class 2.
+I did not
+in class 2.
+So,
+the student
+be promoted.
+This can be
+of your skip.
+Okay.
+Okay.
+Apart from that,
+there was an updated.
+Updated means
+for example,
+I have promoted
+it before.
+Okay.
+I am changing it.
+I am promoting
+It will show you
+updated.
+Okay.
+On the existing record,
+if we do
+any rework again,
+it will be updated.
+Okay.
+Similarly,
+I can also
+do
+promotion.
+So,
+this was
+the way
+to promote
+in the student
+session.
+Like we
+promoted
+in the next
+session
+in 25-26.
+And
+due to any case
+the school
+left.
+Okay.
+Okay.
+So,
+in 25-26,
+inactive
+or
+how?
+Yes.
+Inactive
+it can be
+the case
+that
+the institute
+found out
+it.
+Like
+April 25,
+the institute
+found out
+before
+So,
+if
+it was inactive,
+it will not
+promote
+If
+is inactive
+in 25-26,
+then it will not
+Okay.
+And then
+second case
+till then
+it was
+available.
+Then
+they found out
+in 25-26,
+after promoting
+the child
+became inactive.
+Okay.
+Then you can
+inactive it
+in 25-26.
+Okay.
+In short,
+if
+a student
+is inactive
+then it cannot
+promote
+in 25-26.
+It will
+say that
+the student
+is inactive
+in 25-26.
+Okay.
+This was
+your
+manual
+promotion.
+Any other
+query?
+Okay.
+Let's go ahead.
+Now
+we have
+bulk
+promote.
+The most
+useable
+is
+bulk
+promote.
+Because
+hardly
+you
+5-10
+minutes
+if
+your
+config
+ready.
+Okay.
+your time
+is consumed.
+So
+the major
+useable
+bulk
+promote.
+Okay.
+To
+bulk
+promote
+your
+option
+is
+used.
+But
+before
+we
+have
+a
+config
+of
+student
+session
+management.
+Here
+your
+student
+session
+management
+config
+is
+So
+you can
+use
+promote
+all
+options
+and
+students
+in
+bulk
+time
+in
+upcoming
+session.
+Okay.
+When
+you click on
+this
+window will
+open.
+Then
+you
+have to
+make a
+config.
+To
+make a
+new
+student
+session
+management.
+Now
+have
+different
+options.
+What
+I
+want to
+is
+promote
+if
+you
+nursery
+class
+student
+okay.
+Nursery
+batch
+batch
+is
+any
+category
+category
+general
+RT
+134A
+old
+new
+any
+student
+in
+this
+session
+24
+25
+whether
+it
+is
+old
+or
+new
+in
+upcoming
+session
+will
+be
+old
+or
+new
+in
+session
+will
+be
+old
+or
+new
+in
+upcoming
+session
+will
+be
+old
+or
+new
+in
+session
+will
+be
+old
+this
+session
+will
+be
+old
+new
+this
+be
+old
+Yeah, same means, same categories.
+Let's say I want to combine the A and B sections.
+I want the A to be combined in LKG.
+You mean you want to combine A and B?
+Yes.
+You know what happens?
+You are saying that A and B should be combined.
+Let's confirm this from the institute first.
+In normal cases, A students go to A, B to B in the next class.
+You can create a section in the institute.
+If you don't do it, it will be compiled and come to A.
+This will be compiled and come to A.
+The main purpose is that while creating,
+you have to make sure that the drop-down of your section
+is checked once.
+It should not be that there is one, two or three,
+there is only one, there are four, there are three,
+like this.
+If there is no problem from their side,
+then we can do it.
+But let's keep this in the institute's confirmation.
+After that, what will be here?
+Your old will be here.
+It will never be the same here.
+It will always be old.
+Because the student in your nursery,
+whether it is old or new,
+in the next session, it will always be old
+that you will promote.
+That's why here you will have
+what you are promoting in the next class,
+that is old.
+Then same here is the promoted status,
+that you have to promote the student,
+that is with dues or without dues.
+If I tell you, in normal cases,
+which we have schools,
+in the case of schools,
+we use the option of the most promoted with dues.
+We use the same option.
+Because the school students,
+if they have previous dues,
+they take it in the upcoming session
+as a previous due.
+But in the case of colleges,
+our simple promote is used.
+For now, I am using simple promote.
+If I add, then my config has been added.
+In this way, we have to prepare
+the config of all classes.
+Like I made nursery,
+like this I can make LKG, UKG,
+in all classes.
+For now, I am making only class 1.
+Because in our class 1,
+there were students.
+Ma'am, like in class 1,
+there are 30 students
+in section A.
+We have to promote
+section 1, 5 students, section 2.
+We have to promote in class 2.
+Is it done manually
+or is there something
+for use?
+You can do it with config.
+Do you know what is the basic purpose?
+So that your extra config
+is not made in that case.
+Like you have to promote
+one section of class 1
+in class 2.
+Select that section and do it.
+For example, there are 3-4 sections here.
+Ma'am, out of 30 students,
+we have to use some section of students.
+Then you have to use the manual one.
+You also have the option in manual.
+You can filter it and select it together.
+You can use the manual one.
+This option will be used.
+The class you are making config
+will impact all the students of that class.
+This is the bulk option.
+I have made 2 classes for now.
+In this way, all classes
+will be created.
+All the classes in the institute
+will be created.
+All classes config will be ready.
+Then you will have
+to promote all students
+So that is the option.
+Now I have student.
+Student session management.
+Then I have promote all.
+The config I have made
+always works on a config basis.
+With your knowledge,
+I have made config of 2 classes.
+Nursery and
+class 1.
+Do you have any query?
+No ma'am.
+So here you will have
+promote all.
+As soon as you click on promote all,
+a window will open.
+In which session you are promoting students.
+I have already selected
+in 24-25.
+So I have to promote in 25-26.
+I will click on that.
+Here you will get
+confirmation.
+You will click on OK.
+After 2 minutes,
+your report file will be ready.
+Now you have promoted.
+Now how will you know
+if what you have promoted is right or not?
+Right.
+You will want to know
+if what you have promoted is right
+or not.
+So for that
+we have a report file downloaded.
+That report file is
+the option of bulk operation.
+This is bulk operation.
+In bulk operation,
+the first option will be report file.
+It came after 2 minutes.
+So if
+after 2 minutes, 5 minutes
+It depends on strength.
+How many students you are promoting at a time.
+It is written
+how long it will be generated.
+You saw when I promoted.
+It is estimated time.
+It will not come here.
+When you are promoting,
+it will come when
+you have promoted.
+When you promote,
+after promoting, the message of success comes.
+In that only you get
+the message that success is done.
+You can check the report file after so much time.
+Most of the time
+in most of the cases,
+it is generated before that.
+It came after 2 minutes.
+I did not have to wait for 2 minutes.
+So the report was generated before that.
+The strength of the student was less.
+Now I want to see the report file
+generated from here.
+This is an excel file.
+This is the excel file that you downloaded.
+Now how will you know
+whether you have promoted or not.
+See what is coming in this.
+Total count.
+And this class is coming. Whose problem was it?
+Total count, total counter.
+How many were there? We made only 2 configs.
+Yes ma'am.
+There were 2 configs. One was nursery
+and one was class 1.
+Now added count. It means how many students
+have been added in the next session.
+32.
+Updated count.
+How many students have been updated.
+There was something
+that existed.
+In this also it was updated.
+Skipped count.
+In case of any reason,
+if my students were not promoted,
+here it would have been skipped.
+With that you would have known
+that this student is pending
+Here the reason comes.
+Like there is a nursery.
+He said that he did not promote the nursery.
+Why? Because he did not have any students.
+Ma'am, one thing.
+There are 32 students in class 1.
+There are 32 students in the therapy.
+2 of them are inactive.
+So will there be an error
+to promote them?
+Or will the count be skipped?
+If there are 32 students,
+here 32 are doing it.
+So it means that 32
+are showing an active student.
+Ok?
+He does not consider inactive.
+Ok.
+In case
+I will tell you one more thing.
+In case you want to check.
+You still have a dilemma.
+You have a doubt if you are promoted or not.
+You can do one more thing.
+I have exported
+data.
+Our student has exported data.
+I think this has not happened.
+Student list had student data.
+You have to check
+that the student data
+is exported data.
+You can fetch the data from here.
+You can take it out in excel.
+Ok.
+Same filter is here.
+I want to see how many students are in class 1.
+I have promoted them or not.
+I have selected class 1.
+By default it is active.
+I will go.
+I will get strength.
+33.
+Let's see.
+There are 33 students.
+Why 33 are promoted?
+Because we have already promoted one.
+Do you remember?
+That's why 32 students
+are promoted from here.
+You can verify
+the data from here.
+If you know the
+use of VLOOKUP.
+We match the data from it.
+We have different options.
+How to match the data.
+For that you generate
+You get an overall idea from the report file.
+Your data is correct or not.
+Ma'am,
+this is also a case in which
+some students are directly promoted
+and some students are remote with views.
+Some students
+are without views and some are with views.
+Yes.
+Do they do it manually or in bulk?
+Let's see.
+It depends.
+For example, my class 1
+was without views.
+They had class 2
+with views.
+I can configure it.
+But if
+it is in one class
+and some students are with
+views and some without views
+then you will have to use it manually.
+This does not happen in normal cases.
+They follow one system.
+They mismatch the report.
+They mismatch the report.
+They will not know
+whether the student had views in the previous session
+or in this session.
+There is only one way to do it.
+Either with views or without views.
+It happens in rare cases.
+In such a part
+any query
+how we promoted the student
+student promote manually and student promote
+in bulk, promote all.
+Any query in config
+if you have any doubt
+then you can ask.
+We will try to implement it
+in real queries.
+No issues.
+Try it in your entities.
+Set config.
+Promote manually.
+Promote in bulk.
+You will get an idea.
+Basically, you can do this
+in an existing entity
+like I showed you earlier.
+Home Convent.
+It has already been set up.
+I have promoted only one session
+and only one class.
+You can try it this way.
+It will be clear.

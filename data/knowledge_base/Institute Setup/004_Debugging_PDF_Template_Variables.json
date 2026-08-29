@@ -1,0 +1,54 @@
+{
+    "module": "Institute Setup",
+    "topic": "Debugging PDF Template Variables",
+    "summary": "This topic provides a method for troubleshooting when variables are not printing correctly on a PDF template by using the browser's developer console to inspect the available data object and identify the correct variable names.",
+    "navigation": [
+        "During template preview or printing: Right-click on the page > Inspect > Console tab"
+    ],
+    "steps": [
+        "Generate a preview or print the template that has missing variable data.",
+        "Right-click on the page and select 'Inspect' (or 'Inspect Element').",
+        "Navigate to the 'Console' tab in the developer tools.",
+        "Look for the object that contains the data (often named 'DisplayData' or similar).",
+        "Expand the object to view all available variables and their exact names (e.g., 'Category' vs. 'StudentCategory' vs. 'Student's category').",
+        "Compare the variable name found in the console with the variable name used in your template code.",
+        "Correct any discrepancies in the template code (e.g., change 'DisplayData.Student's category' to 'DisplayData.Category').",
+        "Reprint or preview the template to verify the fix."
+    ],
+    "business_rules": [
+        "Variables must exactly match the names provided in the data object found in the console.",
+        "The 'DisplayData.' prefix is mandatory for calling values from the data array."
+    ],
+    "important_notes": [
+        "A common issue is using a slightly different variable name in the template code than what is actually available in the data object.",
+        "The console will show all data passed to the template, including student details, fee information, institute details, etc.",
+        "Arrays within objects (e.g., for fee heads, installments) require loops to display, which is a more advanced topic."
+    ],
+    "questions": [
+        "My student's category is not printing on the certificate, how do I fix it?",
+        "How can I find the correct variable name for a field?",
+        "What is the 'Inspect' tool used for in template debugging?",
+        "Why is 'DisplayData.' important for variables?"
+    ],
+    "keywords": [
+        "debugging",
+        "template variables",
+        "inspect element",
+        "browser console",
+        "DisplayData",
+        "missing data",
+        "variable name",
+        "troubleshooting",
+        "data object"
+    ],
+    "related_topics": [
+        "PDF Template Customization and Variables",
+        "PDF Template Trigger Logic and Defaulting"
+    ],
+    "id": "institute_setup_debugging_pdf_template_variables",
+    "source": {
+        "file": "9. 720p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "module": "Admissions",
+    "topic": "Counselor Mapping: Round Robin Lead Assignment",
+    "summary": "Counselor Mapping allows for the automatic assignment of incoming leads to counselors based on specific courses or sources. The system uses a 'Round Robin' method, which can be configured in two ways: 'All' (for load balancing) or 'Devise' (for sequential assignment).",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Counselor Mapper"
+    ],
+    "steps": [
+        "1. Navigate to Admission Setup > Admission Master > Counselor Mapper.",
+        "2. Select the specific courses or sources for which leads should be automatically assigned.",
+        "3. Select the counselors who will receive these leads.",
+        "4. Choose the desired Round Robin method: 'All' or 'Devise'.",
+        "5. Click 'Save'."
+    ],
+    "business_rules": [
+        "Leads from the selected courses/sources will be automatically assigned to the chosen counselors.",
+        "Round Robin 'All' method: If a new counselor joins, the system will first assign leads to them until their lead count balances with existing counselors. Once balanced, leads are assigned one-by-one to all counselors.",
+        "Round Robin 'Devise' method: Leads are assigned strictly one-by-one in a sequential order to all counselors, regardless of their current lead load or when they joined the system."
+    ],
+    "important_notes": [
+        "Counselor mapping eliminates the need for manual lead assignment, ensuring efficient distribution.",
+        "The 'All' method is ideal for ensuring an equitable distribution of leads over time.",
+        "The 'Devise' method ensures a strict rotational assignment."
+    ],
+    "questions": [
+        "How do I set up automatic lead assignment to counselors?",
+        "What is the 'Round Robin' method for lead distribution?",
+        "Explain the difference between 'All' and 'Devise' Round Robin assignment.",
+        "Can I map counselors to specific courses or lead sources?",
+        "How does the system handle new counselors joining with the 'All' Round Robin method?"
+    ],
+    "keywords": [
+        "Counselor mapping",
+        "Lead assignment",
+        "Round Robin",
+        "Automatic lead assignment",
+        "All Round Robin",
+        "Devise Round Robin",
+        "Course-wise mapping",
+        "Source-wise mapping",
+        "Lead distribution"
+    ],
+    "related_topics": [
+        "Lead Management",
+        "Admission Leads"
+    ],
+    "id": "admissions_counselor_mapping_round_robin_lead_assignment",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

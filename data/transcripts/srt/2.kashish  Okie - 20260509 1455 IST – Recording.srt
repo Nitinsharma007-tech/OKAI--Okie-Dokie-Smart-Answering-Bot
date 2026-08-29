@@ -159,23 +159,23 @@ This is how you have two or three different options.
 You can also collect from the collect fee online option.
 
 41
-00:02:33,740 --> 00:02:35,159
-You can also add this to many sessions.
+00:02:33,740 --> 00:02:34,979
+You can also add it to your session.
 
 42
-00:02:36,719 --> 00:02:38,900
-We have added a student by testing it.
+00:02:36,759 --> 00:02:38,939
+We have added a student after testing.
 
 43
-00:02:40,080 --> 00:02:42,360
-You can search for the student's name.
+00:02:40,219 --> 00:02:42,419
+You can search for the student by its name.
 
 44
-00:02:43,460 --> 00:02:44,840
+00:02:43,580 --> 00:02:44,840
 You can also search for the student's registration number.
 
 45
-00:02:46,460 --> 00:02:49,979
+00:02:46,460 --> 00:02:50,000
 You can also search for the student's father's name, phone number.
 
 46
@@ -183,27 +183,27 @@ You can also search for the student's father's name, phone number.
 You can search for the student from various options.
 
 47
-00:02:54,680 --> 00:02:57,719
-You can search for the student and the student will appear.
+00:02:54,819 --> 00:02:57,780
+You will search for the student and the student will appear.
 
 48
-00:02:58,680 --> 00:03:01,979
+00:02:58,729 --> 00:03:01,919
 Some details will be shown on the interface.
 
 49
-00:03:02,120 --> 00:03:03,780
-It will verify the student.
+00:03:02,139 --> 00:03:03,800
+You can verify the student.
 
 50
-00:03:04,400 --> 00:03:05,580
+00:03:04,379 --> 00:03:05,639
 You will click on this.
 
 51
-00:03:05,759 --> 00:03:08,319
+00:03:05,740 --> 00:03:08,319
 From here, the student's fee collection section will be opened.
 
 52
-00:03:08,699 --> 00:03:10,460
+00:03:08,680 --> 00:03:10,460
 Here, the student's personal details are there.
 
 53
@@ -211,119 +211,119 @@ Here, the student's personal details are there.
 Then, what is the fee demand?
 
 54
-00:03:13,379 --> 00:03:16,479
+00:03:13,360 --> 00:03:16,500
 I have added the student to Paytech Civil.
 
 55
-00:03:17,979 --> 00:03:20,919
-We have added the total fee to the student in the first year.
+00:03:17,979 --> 00:03:21,180
+We have added the total fee of the student in the first year.
 
 56
 00:03:21,300 --> 00:03:22,400
 We have added a fresh application.
 
 57
-00:03:22,900 --> 00:03:25,280
-They have taken a fresh one for a literal entry.
+00:03:22,919 --> 00:03:25,400
+They have taken a fresh application for a literal entry.
 
 58
-00:03:25,280 --> 00:03:27,080
+00:03:25,400 --> 00:03:27,080
 There is a goal.
 
 59
-00:03:27,460 --> 00:03:30,439
-If the student is in the second year or third year, you will have only one student.
+00:03:27,439 --> 00:03:30,439
+If the student is in the second year or third year, then you are the only student.
 
 60
-00:03:32,250 --> 00:03:34,169
-We have added a fresh one and a literal entry.
+00:03:32,210 --> 00:03:34,210
+We have added a fresh application and a literal entry.
 
 61
-00:03:35,759 --> 00:03:37,860
-Then, the total fees are coming.
+00:03:36,139 --> 00:03:37,800
+Here, the total fee is coming.
 
 62
-00:03:38,039 --> 00:03:40,840
-If the student has a concession, they will get two concessions.
+00:03:37,979 --> 00:03:40,919
+If you ask the student for concession, then concession comes.
 
 63
-00:03:41,039 --> 00:03:45,400
-After concessionless, the student's payable amount will come to you.
+00:03:41,039 --> 00:03:45,759
+After concession, the fee will come to you.
 
 64
-00:03:46,560 --> 00:03:50,560
-The student has received it and its balance is according to the work.
+00:03:46,680 --> 00:03:48,419
+The fee will be received by the student.
 
 65
-00:03:50,560 --> 00:03:55,520
-From here, they can redirect the student to concession.
+00:03:48,759 --> 00:03:50,960
+Then the balance of the fee will come.
 
 66
+00:03:51,000 --> 00:03:55,520
+From here, they can redirect the student to concession.
+
+67
 00:03:55,979 --> 00:03:58,580
 You can click on this and make a concession.
 
-67
-00:04:00,939 --> 00:04:02,680
+68
+00:04:00,879 --> 00:04:02,699
 We have not made a concession group yet.
 
-68
-00:04:03,300 --> 00:04:05,139
-Please share your concession groups.
-
 69
-00:04:06,699 --> 00:04:08,340
-50% of the criteria is concession.
+00:04:03,300 --> 00:04:05,159
+Share your concession groups.
 
 70
-00:04:08,879 --> 00:04:11,120
-Staff and staff are also your concession groups.
+00:04:06,639 --> 00:04:08,340
+50% of the criteria is concession.
 
 71
-00:04:11,340 --> 00:04:11,919
-Okay.
+00:04:08,979 --> 00:04:10,099
+You can also make a movie like this.
 
 72
-00:04:13,180 --> 00:04:14,539
+00:04:13,300 --> 00:04:14,539
 Send me a criteria.
 
 73
-00:04:15,240 --> 00:04:16,019
-Send me your fee structure.
+00:04:15,219 --> 00:04:16,019
+Send me the fee structure.
 
 74
-00:04:16,019 --> 00:04:19,759
-We will add a concession criteria in the setup.
+00:04:16,019 --> 00:04:16,060
+Send me the fee structure.
 
 75
-00:04:20,220 --> 00:04:23,360
-If the student has made a concession, then it will be imported.
+00:04:16,779 --> 00:04:19,720
+We will add a criteria for concession.
 
 76
-00:04:24,439 --> 00:04:27,199
-If you want to make a new one, I will tell you.
+00:04:20,259 --> 00:04:23,279
+According to the student, if there is a concession, then it will be imported.
 
 77
-00:04:27,319 --> 00:04:27,800
-We will add a copy.
+00:04:24,339 --> 00:04:27,180
+If you want to add a new one, I will tell you.
 
 78
-00:04:28,920 --> 00:04:30,319
-Anjali, add a man-to-man concession.
+00:04:28,699 --> 00:04:30,319
+Anju, add a man-to-concession.
 
 79
-00:04:34,060 --> 00:04:34,259
-Okay.
+00:04:33,959 --> 00:04:34,259
+Ok.
 
 80
-00:04:37,639 --> 00:04:39,819
-We have made a due demand.
+00:04:37,180 --> 00:04:39,800
+First of all, we have put a due demand.
 
 81
-00:04:39,980 --> 00:04:41,620
-There is an installment here.
+00:04:39,980 --> 00:04:41,180
+Here you have an installment.
 
 82
-00:04:41,699 --> 00:04:42,500
+00:04:41,680 --> 00:04:42,500
 There are four installments.
 
 83
@@ -332,66 +332,66 @@ By default, your first installment will come.
 
 84
 00:04:44,699 --> 00:04:49,040
-The date that you have given will be automatically selected according to the date.
+The date you have given will be automatically selected according to the date.
 
 85
-00:04:49,540 --> 00:04:52,879
-If the due date is the second installment, it will be automatically selected in the second installment.
+00:04:49,500 --> 00:04:52,899
+If the due date is the second installment, then it will be automatically selected in the second installment.
 
 86
-00:04:54,240 --> 00:04:57,000
+00:04:54,240 --> 00:04:56,980
 If you select all, then all the installments will be selected.
 
 87
-00:04:57,379 --> 00:04:58,459
-We have selected all.
-
-88
-00:04:59,160 --> 00:05:01,779
+00:04:58,920 --> 00:05:01,759
 The student's total pay is all.
 
-89
-00:05:02,160 --> 00:05:03,000
+88
+00:05:02,180 --> 00:05:03,000
 This is the overall fee.
 
+89
+00:05:03,920 --> 00:05:05,220
+According to the case installment fee.
+
 90
-00:05:03,899 --> 00:05:05,240
-We have made this according to the case installment fee.
+00:05:05,639 --> 00:05:06,519
+We have made this now.
 
 91
-00:05:06,600 --> 00:05:10,040
+00:05:06,660 --> 00:05:10,040
 If you think there will be any changes, then this will be the case.
 
 92
-00:05:10,040 --> 00:05:15,060
-Ma'am, it is possible that our amount will change.
+00:05:11,259 --> 00:05:15,379
+Because ma'am, it is possible that our amount will change now.
 
 93
-00:05:16,709 --> 00:05:18,470
-That is possible, ma'am.
+00:05:16,730 --> 00:05:17,970
+Yes, that is possible.
 
 94
-00:05:18,529 --> 00:05:19,529
+00:05:18,329 --> 00:05:19,529
 I meant the interface.
 
 95
 00:05:19,750 --> 00:05:23,310
-You have made it that we will take this much in August, then in November, then in February.
+You made it that we will take this much in August, then in November, then in February.
 
 96
-00:05:24,470 --> 00:05:25,069
-Okay.
+00:05:24,449 --> 00:05:25,069
+Ok.
 
 97
 00:05:26,470 --> 00:05:27,050
-This is okay.
+This is ok.
 
 98
-00:05:27,230 --> 00:05:31,829
-You take it like this in August, November, February and May.
+00:05:27,209 --> 00:05:31,589
+You take it like this in August, November, May.
 
 99
-00:05:32,790 --> 00:05:34,430
+00:05:32,730 --> 00:05:34,410
 There is one more option in this.
 
 100
@@ -403,4610 +403,5102 @@ It is possible that the student's fee is this.
 I will select all the installments.
 
 102
-00:05:48,420 --> 00:05:53,379
-For example, you have to take one installment, but the student does not pay so much now.
+00:05:48,420 --> 00:05:50,939
+For example, you have to take one installment.
 
 103
-00:05:53,920 --> 00:05:56,000
-You have to enter the amount according to yourself.
+00:05:51,420 --> 00:05:53,180
+But the student does not pay so much now.
 
 104
-00:05:56,139 --> 00:05:58,339
-There is one option, you can enter the amount directly here.
+00:05:53,819 --> 00:05:56,000
+You have to enter the amount according to yourself.
 
 105
-00:05:58,540 --> 00:06:00,779
-For example, the student is paying 10,000 now.
+00:05:56,139 --> 00:05:56,639
+There is one option.
 
 106
-00:06:01,519 --> 00:06:02,980
-You will enter according to yourself.
+00:05:57,040 --> 00:05:58,259
+You can enter the amount directly here.
 
 107
-00:06:04,139 --> 00:06:06,680
-The first fee head will get the 10,000.
+00:05:58,540 --> 00:06:00,740
+For example, the student is paying 10,000 now.
 
 108
-00:06:06,720 --> 00:06:08,480
-The first fee head will get the 10,000.
+00:06:01,540 --> 00:06:02,980
+You will enter according to yourself.
 
 109
-00:06:08,519 --> 00:06:09,420
-He will take all the fees.
+00:06:03,220 --> 00:06:03,660
+10,000.
 
 110
-00:06:11,350 --> 00:06:16,790
-In case you feel that you have to enter according to yourself, you can do that too.
+00:06:04,339 --> 00:06:08,480
+The first fee head will get the first fee head.
 
 111
-00:06:16,990 --> 00:06:18,089
-Your cycle is here.
+00:06:08,480 --> 00:06:10,410
+He will take all the fees from that.
 
 112
-00:06:18,329 --> 00:06:19,529
-You can enter according to yourself.
+00:06:11,350 --> 00:06:16,750
+In case you feel that you have to pay according to yourself, you can do that too.
 
 113
-00:06:20,370 --> 00:06:21,930
-You have to take 2,000 in this.
+00:06:17,009 --> 00:06:18,129
+You have a cycle here.
 
 114
-00:06:21,970 --> 00:06:23,569
-You have to take 1,000 in this.
+00:06:18,370 --> 00:06:19,189
+You can do according to yourself.
 
 115
-00:06:24,269 --> 00:06:25,569
-You are entering according to yourself.
+00:06:20,290 --> 00:06:21,930
+You have to take 2,000 in this.
 
 116
-00:06:26,649 --> 00:06:28,269
-Ma'am, excuse me.
+00:06:22,029 --> 00:06:23,930
+You have to take 1,000 in this.
 
 117
-00:06:29,069 --> 00:06:33,189
-By default, you are saying that the fees in the tuition fee, what will the tuition fee catch first?
+00:06:24,310 --> 00:06:25,550
+You are paying according to yourself.
 
 118
-00:06:33,189 --> 00:06:34,889
-Will the tuition fee catch first or something else?
+00:06:26,709 --> 00:06:28,509
+Ma'am, excuse me ma'am.
 
 119
-00:06:34,910 --> 00:06:36,689
-This is the sequence of the head.
+00:06:29,269 --> 00:06:33,149
+By default, you are saying that the fees in the tuition fee, what will the tuition fee get first?
 
 120
-00:06:36,689 --> 00:06:38,629
-This is the first tuition fee.
+00:06:33,149 --> 00:06:34,870
+Will the tuition fee get first or something else?
 
 121
-00:06:38,790 --> 00:06:40,970
-You can do the head sequence according to yourself.
+00:06:34,889 --> 00:06:36,430
+This is the head sequence.
 
 122
-00:06:41,509 --> 00:06:42,050
-Okay, okay.
+00:06:36,430 --> 00:06:38,829
+You have the first tuition fee here.
 
 123
-00:06:43,889 --> 00:06:46,269
-Because we also have the tuition fee in this.
+00:06:38,829 --> 00:06:40,370
+You can get the head sequence according to yourself.
 
 124
-00:06:46,269 --> 00:06:48,930
-So, first the tuition fee, security, then the tuition fee.
+00:06:43,810 --> 00:06:46,250
+Because we also have tuition fee in this.
 
 125
-00:06:49,389 --> 00:06:50,350
-How does this work?
+00:06:46,250 --> 00:06:48,930
+So, first the tuition fee, then the security, then the tuition fee.
 
 126
-00:06:50,689 --> 00:06:53,209
-First, tell me the head sequence.
+00:06:49,730 --> 00:06:50,550
+This should be done like this.
 
 127
-00:06:53,370 --> 00:06:54,629
-I will note it down.
+00:06:50,730 --> 00:06:53,209
+First, tell me the head sequence.
 
 128
-00:06:58,370 --> 00:07:02,089
-First, security, then tuition fee.
+00:06:53,329 --> 00:06:54,110
+I will note it down.
 
 129
-00:07:02,269 --> 00:07:03,550
-Then transport and also.
+00:06:57,790 --> 00:07:02,089
+First comes the security, then the tuition fee.
 
 130
-00:07:06,649 --> 00:07:09,649
-First, security, then tuition fee.
+00:07:02,329 --> 00:07:03,569
+Then the transport and also.
 
 131
-00:07:11,459 --> 00:07:13,360
-Then transport and hostel.
+00:07:06,649 --> 00:07:09,629
+First, there will be security, then the tuition fee.
 
 132
-00:07:15,100 --> 00:07:17,000
-Now, all these will remain after that?
+00:07:11,560 --> 00:07:13,360
+Then transport and hostel.
 
 133
-00:07:17,759 --> 00:07:20,019
-Yes, yes, yes.
+00:07:20,980 --> 00:07:22,579
+Transport and hostel.
 
 134
-00:07:21,519 --> 00:07:22,560
-Transport and hostel.
+00:07:24,689 --> 00:07:28,149
+If someone has both transport and hostel, then there will be transport and hostel.
 
 135
-00:07:25,009 --> 00:07:28,149
-If someone has both transport and hostel, then transport and hostel.
-
-136
-00:07:28,170 --> 00:07:30,069
-No, no. Transport and hostel cannot be both.
-
-137
-00:07:30,949 --> 00:07:31,750
-Okay, both.
-
-138
-00:07:34,250 --> 00:07:36,029
+00:07:34,189 --> 00:07:36,089
 Transport and hostel.
 
+136
+00:07:38,420 --> 00:07:41,660
+Ma'am, after that, I think...
+
+137
+00:07:42,660 --> 00:07:47,000
+All the fines and recharges should be done after this.
+
+138
+00:07:48,560 --> 00:07:52,839
+Before the fines, there should be all the fees like student fund, corpus fund, etc.
+
 139
-00:07:38,240 --> 00:07:42,480
-After that, I think, Narsimh.
+00:07:53,199 --> 00:07:54,300
+Fine should be done at the end.
 
 140
-00:07:43,389 --> 00:07:47,259
-All fines and recharges should not be there after this.
+00:07:54,800 --> 00:07:59,410
+Ma'am, we can also calculate the fines according to the date.
 
 141
-00:07:48,519 --> 00:07:50,720
-Before fines, all fees should be there.
-
-142
-00:07:50,899 --> 00:07:52,959
-Student fund, corpus fund, other things.
-
-143
-00:07:53,199 --> 00:07:53,959
-Fine should be there.
-
-144
-00:07:56,230 --> 00:07:59,410
-Fine can also be calculated according to the date.
-
-145
-00:07:59,829 --> 00:08:00,689
+00:07:59,829 --> 00:08:00,670
 I will tell you that too.
 
-146
-00:08:02,029 --> 00:08:05,569
-After this, the student development fund will come.
+142
+00:08:01,990 --> 00:08:05,589
+Ma'am, after this, the student development fund will come.
 
-147
-00:08:07,050 --> 00:08:09,529
+143
+00:08:07,050 --> 00:08:10,100
 Student fund, then development fund.
 
+144
+00:08:10,100 --> 00:08:13,579
+First is the development fund, then the student fund.
+
+145
+00:08:14,439 --> 00:08:14,779
+Whatever you have written.
+
+146
+00:08:16,500 --> 00:08:19,660
+First is the development fund, then the student fund.
+
+147
+00:08:21,879 --> 00:08:23,500
+This is the sequence and contribution.
+
 148
-00:08:10,579 --> 00:08:12,860
-First there is the development fund, then the student fund.
+00:08:23,779 --> 00:08:24,959
+There will be a sequence according to that.
 
 149
-00:08:12,860 --> 00:08:12,959
-What you have written.
+00:08:25,220 --> 00:08:27,920
+When you do the collect, you have to show here.
 
 150
-00:08:16,399 --> 00:08:19,779
-First there is the development fund, then the student fund.
+00:08:28,060 --> 00:08:31,019
+In case if we are taking it by editing, then it will show here.
 
 151
-00:08:21,879 --> 00:08:23,180
-Then the student fund.
+00:08:31,139 --> 00:08:33,440
+How much was the pay and how much you are taking from it.
 
 152
-00:08:23,680 --> 00:08:24,600
-So, according to the sequence.
+00:08:34,259 --> 00:08:35,720
+This is also known to you.
 
 153
-00:08:25,220 --> 00:08:27,939
-When you collect, then you have to show here.
+00:08:36,320 --> 00:08:38,740
+I will show you a transition of one rupees.
 
 154
-00:08:28,060 --> 00:08:31,019
-In case, if we edit the coding, then it will show here.
+00:08:38,740 --> 00:08:40,460
+Just to test.
 
 155
-00:08:31,139 --> 00:08:33,019
-How much was paid and how much you are taking.
+00:08:41,720 --> 00:08:42,220
+You will be like this.
 
 156
-00:08:33,659 --> 00:08:35,600
-So, you know this too.
-
-157
-00:08:36,259 --> 00:08:38,700
-I will show you a transaction of one rupees.
-
-158
-00:08:39,779 --> 00:08:40,340
-For testing.
-
-159
-00:08:40,340 --> 00:08:42,500
-You will stay like this.
-
-160
-00:08:42,919 --> 00:08:44,159
+00:08:42,940 --> 00:08:44,120
 Then you have to proceed.
 
-161
-00:08:44,620 --> 00:08:47,159
-After proceeding, you will show here.
+157
+00:08:44,820 --> 00:08:48,139
+After proceeding, it will show you how much you are taking from it.
 
-162
-00:08:47,539 --> 00:08:47,960
-How much you are taking.
-
-163
-00:08:49,179 --> 00:08:50,659
+158
+00:08:49,279 --> 00:08:50,659
 You have the payment mode.
 
-164
-00:08:50,940 --> 00:08:52,179
-You are getting cash and cheque.
+159
+00:08:50,919 --> 00:08:52,519
+You are getting cash, cheque, etc.
 
-165
-00:08:52,679 --> 00:08:53,980
+160
+00:08:52,700 --> 00:08:53,980
 By default, cash is selected.
 
+161
+00:08:54,259 --> 00:08:55,700
+Now you have to check according to your payment.
+
+162
+00:08:56,980 --> 00:08:58,200
+Now it is a payment gate.
+
+163
+00:08:58,379 --> 00:09:00,259
+We have integrated the razor picker in it.
+
+164
+00:09:00,299 --> 00:09:02,019
+Should we do the razor picker in this too?
+
+165
+00:09:03,220 --> 00:09:04,820
+Ma'am, is it different in this?
+
 166
-00:08:54,340 --> 00:08:55,740
-Now, according to your cheque and payment.
-
-167
-00:08:57,000 --> 00:08:58,220
-Now, it is a payment gate.
-
-168
-00:08:58,379 --> 00:08:59,240
-We have integrated Razorpay.
-
-169
-00:09:00,259 --> 00:09:01,740
-So, shall we do Razorpay on this too?
-
-170
-00:09:02,279 --> 00:09:04,919
-So, is it different in this?
-
-171
-00:09:05,279 --> 00:09:06,440
+00:09:05,360 --> 00:09:06,480
 No, it is the same.
 
-172
-00:09:07,200 --> 00:09:08,519
-I did not pay now.
+167
+00:09:06,480 --> 00:09:08,960
+I have not done the fee yet.
 
-173
-00:09:08,519 --> 00:09:10,279
-Now, they need confirmation.
+168
+00:09:09,100 --> 00:09:10,259
+They need confirmation.
 
-174
-00:09:11,320 --> 00:09:13,639
-So, we will do the same on this too.
+169
+00:09:11,299 --> 00:09:13,059
+We have done the same in this too.
 
-175
-00:09:13,820 --> 00:09:15,059
-So, both have Razorpay.
+170
+00:09:13,879 --> 00:09:17,159
+If there is a razor picker in both, then you will feel comfortable.
 
-176
-00:09:15,179 --> 00:09:17,159
-Only then you will feel comfortable.
-
-177
-00:09:18,470 --> 00:09:19,429
+171
+00:09:18,370 --> 00:09:19,509
 Yes, that is not an issue.
 
-178
-00:09:19,929 --> 00:09:20,789
-I mean, we need confirmation.
+172
+00:09:19,970 --> 00:09:20,789
+We need a confirmation.
 
-179
-00:09:21,789 --> 00:09:22,929
-What happens in that.
+173
+00:09:21,769 --> 00:09:22,850
+What happens in that?
 
-180
-00:09:22,950 --> 00:09:24,450
-You select online.
+174
+00:09:22,950 --> 00:09:24,629
+You select online from here.
 
-181
-00:09:24,789 --> 00:09:25,830
-You just have to select online.
+175
+00:09:24,909 --> 00:09:26,029
+You just have to select online fee.
 
-182
-00:09:26,330 --> 00:09:27,830
+176
+00:09:26,389 --> 00:09:27,830
 It will directly integrate you.
 
+177
+00:09:27,990 --> 00:09:29,389
+It will tell you what to do.
+
+178
+00:09:30,370 --> 00:09:31,450
+I don't understand.
+
+179
+00:09:31,750 --> 00:09:33,029
+What did you say? Online fee?
+
+180
+00:09:33,490 --> 00:09:35,029
+You have two options.
+
+181
+00:09:35,029 --> 00:09:39,250
+One is collect online fee and the other is normal collect fee.
+
+182
+00:09:39,409 --> 00:09:43,610
+In this, collect fee means that you are collecting normal amount in cash and then collecting.
+
 183
-00:09:27,990 --> 00:09:29,230
-You will get the scanner.
+00:09:43,690 --> 00:09:44,789
+I will show you now.
 
 184
-00:09:30,409 --> 00:09:31,429
-I did not understand.
+00:09:45,710 --> 00:09:48,429
+In case you feel that you have been getting online from the beginning.
 
 185
-00:09:32,750 --> 00:09:35,009
-There are two options.
-
-186
-00:09:35,250 --> 00:09:35,649
-You have to collect.
-
-187
-00:09:35,649 --> 00:09:37,490
-One is collect online.
-
-188
-00:09:37,669 --> 00:09:38,549
-The other is normal collect.
-
-189
-00:09:39,370 --> 00:09:41,129
-In this, collect means you are
-
-190
-00:09:41,129 --> 00:09:42,389
-collecting normal amount in cash.
-
-191
-00:09:43,029 --> 00:09:44,710
-Now, I will show you.
-
-192
-00:09:45,629 --> 00:09:47,830
-In case, you feel that you have
-
-193
-00:09:47,830 --> 00:09:48,649
-online from the beginning.
-
-194
 00:09:48,889 --> 00:09:50,870
 Or you have some back gate entries.
 
-195
-00:09:51,429 --> 00:09:53,049
-Or you have cheque in some other way.
+186
+00:09:51,429 --> 00:09:53,210
+Or in some other way, you have cheque etc.
 
-196
-00:09:53,370 --> 00:09:55,169
+187
+00:09:53,309 --> 00:09:55,549
 And you have to collect that by entering online.
 
-197
-00:09:55,870 --> 00:09:56,669
-So, this is that case.
+188
+00:09:55,850 --> 00:09:56,669
+So this is that case.
 
-198
-00:09:57,210 --> 00:09:58,529
-Your institute will become banks.
+189
+00:09:57,230 --> 00:09:58,850
+Your institute banks will be made here.
 
-199
-00:09:58,970 --> 00:10:01,190
-Whatever you will call, that institute will make banks.
+190
+00:09:59,009 --> 00:10:01,370
+Whatever you tell, that institute banks will get it.
 
-200
-00:10:01,850 --> 00:10:03,450
-It will come to you to select.
+191
+00:10:01,370 --> 00:10:03,389
+They will come to you to select.
 
-201
-00:10:03,450 --> 00:10:05,129
-You have to give reference number.
+192
+00:10:04,149 --> 00:10:06,190
+You have to give a reference number corresponding to it.
 
-202
-00:10:06,049 --> 00:10:06,929
+193
+00:10:06,429 --> 00:10:06,950
 You have to select a particular date.
 
+194
+00:10:07,590 --> 00:10:08,289
+These are all optional.
+
+195
+00:10:09,629 --> 00:10:09,990
+These are the options.
+
+196
+00:10:10,389 --> 00:10:11,190
+Then these are remarks.
+
+197
+00:10:11,850 --> 00:10:14,909
+If you are collecting fees, you have to enter some remarks.
+
+198
+00:10:15,250 --> 00:10:16,289
+Then the receipt will also be saved.
+
+199
+00:10:16,370 --> 00:10:17,289
+So these are the remarks options.
+
+200
+00:10:18,570 --> 00:10:19,950
+This will be the collect fee option.
+
+201
+00:10:21,120 --> 00:10:23,789
+You can use all these options for collect fee.
+
+202
+00:10:24,669 --> 00:10:27,210
+Now in case you will directly collect online from ERP.
+
 203
-00:10:07,610 --> 00:10:08,250
-These are all options.
+00:10:27,210 --> 00:10:30,649
+Like you have given the scanner in front of you.
 
 204
-00:10:10,470 --> 00:10:11,190
-Then, these are remarks.
+00:10:30,649 --> 00:10:33,090
+Or online you have given card or debit card.
 
 205
-00:10:11,870 --> 00:10:13,490
-If you are collecting fees.
+00:10:33,269 --> 00:10:35,009
+If you are giving payment like this.
 
 206
-00:10:14,230 --> 00:10:14,950
-You have to enter some remarks.
+00:10:35,529 --> 00:10:36,889
+So in that case, what will happen?
 
 207
-00:10:15,330 --> 00:10:15,870
-You have to save your fee receipt.
+00:10:37,250 --> 00:10:38,870
+You have to select online.
 
 208
-00:10:16,409 --> 00:10:16,970
-So, these are your remarks.
+00:10:39,649 --> 00:10:40,769
+Collect online.
 
 209
-00:10:18,409 --> 00:10:19,750
-This will be your collect fee.
+00:10:41,190 --> 00:10:43,909
+So here it will redirect you to payment gate.
 
 210
-00:10:21,240 --> 00:10:22,490
-You can use all these options
+00:10:44,370 --> 00:10:45,610
+Now payment gate is not signed.
 
 211
-00:10:22,490 --> 00:10:23,649
-for collecting.
+00:10:45,789 --> 00:10:47,289
+That is why no payment gate is signed.
 
 212
-00:10:24,610 --> 00:10:27,330
-In case, you will directly collect online from ERP.
-
-213
-00:10:27,950 --> 00:10:29,389
-For example, you have given the scanner.
-
-214
-00:10:30,009 --> 00:10:31,769
-Or online you have
-
-215
-00:10:31,769 --> 00:10:33,110
-card or debit card.
-
-216
-00:10:34,350 --> 00:10:34,730
-In case, you are giving payment.
-
-217
-00:10:35,570 --> 00:10:38,049
-In that case, you have to select
-
-218
-00:10:38,049 --> 00:10:40,730
-online or collect online.
-
-219
-00:10:40,929 --> 00:10:41,490
-In that case, you have to select online or collect online.
-
-220
-00:10:41,649 --> 00:10:43,970
-So, here it will redirect you to payment gateway.
-
-221
-00:10:44,429 --> 00:10:45,649
-Now, payment gateway is not signed.
-
-222
-00:10:45,870 --> 00:10:47,110
-That is why it is not signed.
-
-223
-00:10:48,429 --> 00:10:49,990
+00:10:48,409 --> 00:10:49,990
 The scanner will come there.
 
-224
-00:10:50,110 --> 00:10:51,230
-It will be scanned and payment will be done.
+213
+00:10:50,129 --> 00:10:50,909
+It will be scanned and paid.
 
-225
-00:10:54,870 --> 00:10:57,429
-Now, I will give you a transaction
+214
+00:10:54,929 --> 00:10:57,450
+Now I will give you a transaction in cash.
 
-226
-00:10:58,129 --> 00:10:59,230
-I will give you a transaction with cash.
+215
+00:10:58,070 --> 00:10:59,210
+I will give you a transaction in cash.
 
-227
-00:11:00,830 --> 00:11:02,149
-Some kids
+216
+00:11:01,649 --> 00:11:03,009
+Some kids...
 
-228
-00:11:02,149 --> 00:11:03,950
-Meenakshi ma'am
+217
+00:11:03,009 --> 00:11:03,970
+Meenakshi ma'am.
 
-229
-00:11:03,950 --> 00:11:06,289
-What is the category
+218
+00:11:04,529 --> 00:11:05,950
+The kids who do it with the scanner.
 
-230
-00:11:07,710 --> 00:11:07,769
-that your kids do with the scanner?
+219
+00:11:06,590 --> 00:11:07,889
+Which category will they go to?
 
-231
-00:11:07,970 --> 00:11:08,710
+220
+00:11:07,990 --> 00:11:08,529
 The ones who come later.
 
-232
-00:11:08,850 --> 00:11:09,529
+221
+00:11:08,870 --> 00:11:09,330
 They do it with the scanner.
 
-233
-00:11:11,870 --> 00:11:13,750
-Yes, they do it with the app.
+222
+00:11:10,070 --> 00:11:11,009
+That we did it from home.
 
-234
-00:11:14,529 --> 00:11:15,870
-Will they collect online
+223
+00:11:12,250 --> 00:11:13,750
+Yes, they do it through the app.
 
-235
-00:11:15,870 --> 00:11:17,769
-or with the collect fee?
+224
+00:11:14,330 --> 00:11:15,889
+Will they come through collect online?
 
-236
-00:11:18,629 --> 00:11:19,789
-If the kids do it with the app
+225
+00:11:16,730 --> 00:11:17,769
+Or collect fee?
 
-237
-00:11:20,590 --> 00:11:22,490
-then Meenakshi ma'am can't do it.
+226
+00:11:18,509 --> 00:11:19,830
+If the kids do it through the app.
 
-238
-00:11:22,649 --> 00:11:23,269
-No, no, not app.
+227
+00:11:21,389 --> 00:11:22,429
+They can't do it with Meenakshi ma'am.
 
-239
-00:11:23,429 --> 00:11:24,409
+228
+00:11:22,990 --> 00:11:24,370
 Not app ma'am.
 
+229
+00:11:24,370 --> 00:11:27,590
+The kids who do it with the scanner.
+
+230
+00:11:28,250 --> 00:11:29,009
+They share it with their friends.
+
+231
+00:11:29,789 --> 00:11:31,370
+Now they have the one in the back.
+
+232
+00:11:32,190 --> 00:11:32,750
+They put it from home.
+
+233
+00:11:33,629 --> 00:11:34,620
+They only have screenshots.
+
+234
+00:11:35,470 --> 00:11:36,809
+Sometimes they bring it after 10 days.
+
+235
+00:11:37,110 --> 00:11:37,610
+Or after 5 days.
+
+236
+00:11:38,070 --> 00:11:40,110
+That it won't come through collect fee.
+
+237
+00:11:41,169 --> 00:11:41,549
+According to me.
+
+238
+00:11:43,149 --> 00:11:43,809
+Okay.
+
+239
+00:11:47,110 --> 00:11:48,830
+Now let's do one transaction.
+
 240
-00:11:25,210 --> 00:11:26,389
-These kids share their
+00:11:49,350 --> 00:11:49,889
+One transaction for one rupee.
 
 241
-00:11:26,389 --> 00:11:28,909
-scanner with the ERP.
+00:11:50,169 --> 00:11:50,710
+We will do it in cash.
 
 242
-00:11:28,909 --> 00:11:31,350
-We have the one at the back.
+00:11:51,049 --> 00:11:53,210
+As soon as you collect,
 
 243
-00:11:32,250 --> 00:11:32,769
-We put it at home.
+00:11:53,210 --> 00:11:54,789
+they will give you a confirmation.
 
 244
-00:11:33,529 --> 00:11:34,870
-They only have a screenshot.
+00:11:55,669 --> 00:11:57,110
+You can still cancel it.
 
 245
-00:11:35,590 --> 00:11:37,070
-Sometimes they bring it after 10 days
+00:11:57,409 --> 00:11:58,750
+There will be confirmation that
 
 246
-00:11:37,070 --> 00:11:37,889
-or 5 days.
+00:11:58,750 --> 00:12:01,190
+you are receiving the amount of the date.
 
 247
-00:11:38,990 --> 00:11:40,210
-It will come in the collect fee.
+00:12:02,210 --> 00:12:03,129
+If you say okay,
 
 248
-00:11:41,169 --> 00:11:42,330
-Collect fee.
+00:12:03,429 --> 00:12:04,169
+they will receive your transaction.
 
 249
-00:11:43,549 --> 00:11:43,889
-Okay.
+00:12:05,289 --> 00:12:06,610
+And this is a format.
 
 250
-00:11:47,169 --> 00:11:48,850
-Now, we will do one transaction
-
-251
-00:11:48,850 --> 00:11:50,289
-with cash.
-
-252
-00:11:51,730 --> 00:11:53,190
-As soon as you collect
-
-253
-00:11:53,190 --> 00:11:54,850
-you will be given a confirmation
-
-254
-00:11:54,850 --> 00:11:56,690
-that you can cancel it now.
-
-255
-00:11:57,330 --> 00:11:58,370
-So, you will be given confirmation
-
-256
-00:11:58,370 --> 00:12:00,370
-that you are receiving
-
-257
-00:12:01,149 --> 00:12:01,409
-this amount of money.
-
-258
-00:12:02,309 --> 00:12:04,549
-If you say yes, you will receive
-
-259
-00:12:05,289 --> 00:12:06,629
-This is a format.
-
-260
-00:12:07,129 --> 00:12:08,409
+00:12:07,070 --> 00:12:08,330
 We have set it according to the office.
 
-261
-00:12:10,639 --> 00:12:12,480
-You can do it according to your office.
+251
+00:12:10,620 --> 00:12:12,059
+You can set it according to your office.
 
-262
-00:12:15,309 --> 00:12:16,450
-This is the format.
+252
+00:12:15,309 --> 00:12:16,669
+This is the format of the receipt.
 
-263
-00:12:17,590 --> 00:12:20,210
-Share a logo with us.
+253
+00:12:17,669 --> 00:12:20,750
+Please share a logo with us.
 
-264
-00:12:21,870 --> 00:12:23,490
+254
+00:12:20,970 --> 00:12:21,409
+Okay.
+
+255
+00:12:21,850 --> 00:12:23,230
 I think we have done it with you.
 
-265
-00:12:24,090 --> 00:12:24,470
+256
+00:12:23,230 --> 00:12:24,350
 Yes.
 
-266
-00:12:25,309 --> 00:12:25,769
-We have shared the logo
+257
+00:12:25,409 --> 00:12:25,750
+We have also shared the logo
 
-267
-00:12:25,769 --> 00:12:27,549
-of the form that you had given.
+258
+00:12:25,750 --> 00:12:27,409
+of the form you gave.
 
-268
-00:12:28,110 --> 00:12:28,929
-We have shared the logo.
+259
+00:12:29,590 --> 00:12:31,169
+That only goes up.
 
-269
-00:12:29,909 --> 00:12:31,250
-It goes up.
-
-270
-00:12:31,490 --> 00:12:32,450
+260
+00:12:31,370 --> 00:12:32,409
 It doesn't come to us.
 
-271
-00:12:33,029 --> 00:12:34,149
-It is better to share it in the group.
+261
+00:12:33,009 --> 00:12:34,149
+It is better if you share it in the group.
 
-272
-00:12:34,850 --> 00:12:36,029
-Then I will integrate it in the ERP.
+262
+00:12:34,830 --> 00:12:36,029
+Then I will integrate it in the app.
 
-273
-00:12:37,029 --> 00:12:37,750
-It goes for the payment.
+263
+00:12:37,129 --> 00:12:37,789
+It goes to the document.
 
-274
-00:12:40,570 --> 00:12:42,269
+264
+00:12:39,070 --> 00:12:40,149
+That is why.
+
+265
+00:12:40,929 --> 00:12:42,250
 Documents don't come to us.
 
-275
-00:12:43,679 --> 00:12:44,559
-This is the template
+266
+00:12:43,460 --> 00:12:46,019
+This is the template of the receipt.
 
-276
-00:12:44,559 --> 00:12:45,399
-of the fee receipt.
+267
+00:12:46,259 --> 00:12:47,419
+You can see it here.
 
-277
-00:12:46,379 --> 00:12:47,700
-I will show it to you.
-
-278
-00:12:54,080 --> 00:12:56,379
+268
+00:12:53,860 --> 00:12:56,320
 You can change it according to it.
 
-279
-00:12:56,700 --> 00:12:57,759
-The fee head comes
+269
+00:12:56,320 --> 00:12:57,759
+This is how it is installed.
 
-280
-00:12:57,759 --> 00:12:58,799
-and installs it.
+270
+00:12:59,059 --> 00:13:02,000
+This is how it is displayed.
 
-281
-00:12:58,799 --> 00:13:00,779
-This is how it is.
-
-282
-00:13:02,519 --> 00:13:03,580
+271
+00:13:02,500 --> 00:13:03,600
 This is customized.
 
+272
+00:13:03,899 --> 00:13:06,080
+You can customize it according to you.
+
+273
+00:13:06,940 --> 00:13:07,960
+Otherwise this will be recorded.
+
+274
+00:13:08,779 --> 00:13:09,019
+Okay.
+
+275
+00:13:11,340 --> 00:13:13,039
+This is the receipt of the receipt.
+
+276
+00:13:13,860 --> 00:13:15,279
+You can add the amount of the padding
+
+277
+00:13:15,279 --> 00:13:16,379
+according to it.
+
+278
+00:13:17,759 --> 00:13:20,360
+The remark you enter is displayed here.
+
+279
+00:13:20,700 --> 00:13:23,299
+Are the fines added now?
+
+280
+00:13:23,740 --> 00:13:24,500
+Yes.
+
+281
+00:13:56,490 --> 00:14:03,269
+Yes, 10th of August, 10th of November, like this.
+
+282
+00:14:03,710 --> 00:14:08,690
+Ok, so if you have August, September, October, then 10th of August will be the first installment.
+
 283
-00:13:03,919 --> 00:13:05,299
-You can do it according to
+00:14:09,230 --> 00:14:10,009
+Yes, the first installment.
 
 284
-00:13:05,299 --> 00:13:06,179
-your design.
+00:14:11,009 --> 00:14:12,610
+Ok, so let's set the last date.
 
 285
-00:13:07,019 --> 00:13:07,960
-Otherwise, it will be decoded.
+00:14:13,330 --> 00:14:16,590
+Yes, so for example, on 11th August, 500 will be set.
 
 286
-00:13:08,799 --> 00:13:09,019
-Okay.
+00:14:19,769 --> 00:14:21,129
+10th August will be set like this.
 
 287
-00:13:11,259 --> 00:13:12,179
-This is the fee receipt.
+00:14:21,789 --> 00:14:24,549
+Everyone will have a fine config that you are saying in the system.
 
 288
-00:13:12,620 --> 00:13:13,500
-It will be according to
+00:14:24,690 --> 00:14:27,389
+From 11th, how much did you tell? What is the percentage?
 
 289
-00:13:13,500 --> 00:13:15,360
-how much you have collected.
+00:14:28,129 --> 00:14:28,610
+500.
 
 290
-00:13:17,240 --> 00:13:19,200
-The remark you enter
+00:14:29,809 --> 00:14:31,590
+500 for every day, right?
 
 291
-00:13:19,200 --> 00:13:20,519
-will be disposed of.
+00:14:31,730 --> 00:14:35,889
+No, not every day. After 15 days, 500 is added.
 
 292
-00:13:20,740 --> 00:13:23,039
-Will there be a fine head?
+00:14:37,110 --> 00:14:41,009
+Ok, so after 15 days, 500 is added. I will take it, then I will set it up.
 
 293
-00:13:24,000 --> 00:13:24,879
-Yes. I will tell you the
+00:14:41,590 --> 00:14:50,370
+Exactly. After the last fee date, 500 and after every 15 days, they will increase by 500.
 
 294
-00:13:24,879 --> 00:13:25,720
-fine criteria.
+00:14:51,419 --> 00:14:54,299
+Ok, so in the last day, 500 and after every 15 days, fine.
 
 295
-00:13:25,720 --> 00:13:27,220
-I will tell you how it works.
+00:14:54,620 --> 00:14:55,139
+Yes.
 
 296
-00:13:27,480 --> 00:13:28,919
-We set up a fine.
+00:15:02,980 --> 00:15:07,320
+Ok, so I will tell you how this fine will work. I have set it up.
 
 297
-00:13:29,179 --> 00:13:30,259
-For example,
+00:15:07,820 --> 00:15:17,399
+After that, if you do collect fee, at the time of collect fee, you have a date here.
 
 298
-00:13:31,120 --> 00:13:32,659
-from August to October,
+00:15:17,519 --> 00:15:19,240
+By default, the current date is coming.
 
 299
-00:13:33,519 --> 00:13:34,940
-the fee is good.
+00:15:19,240 --> 00:15:23,259
+For example, after 10th of August, 11th of August.
 
 300
-00:13:35,340 --> 00:13:36,500
-How does it work?
+00:15:24,360 --> 00:15:26,940
+By default, if you come on 11th of August, you have to collect a little.
 
 301
-00:13:36,840 --> 00:13:37,700
-How much should the fee be?
+00:15:27,259 --> 00:15:30,360
+So in the end, you get a fine and the calculated fine shows up.
 
 302
-00:13:38,360 --> 00:13:41,100
-For example,
+00:15:31,820 --> 00:15:32,379
+Ok.
 
 303
-00:13:41,539 --> 00:13:43,000
-if the last fee is on the 10th,
+00:15:32,980 --> 00:15:36,720
+Ma'am, if we have to do the fine like this, after the last date, it will cost 40 rupees.
 
 304
-00:13:43,379 --> 00:13:44,860
-it costs Rs. 500.
+00:15:36,960 --> 00:15:39,879
+And it keeps increasing by 40-40 every day. So that is also possible, right?
 
 305
-00:13:46,279 --> 00:13:48,200
-After 15 days,
+00:15:40,440 --> 00:15:44,120
+Ma'am, you will have to tell me which criteria you have to follow.
 
 306
-00:13:48,460 --> 00:13:50,059
-the fee is added.
+00:15:44,159 --> 00:15:44,580
+Ok.
 
 307
-00:13:50,509 --> 00:13:51,230
-Okay.
+00:15:44,580 --> 00:15:48,720
+Because earlier we had the 40-40 one.
 
 308
-00:13:51,710 --> 00:13:53,029
-The last 10 days,
+00:15:48,960 --> 00:15:52,799
+Then when we were using software before this, we had the 500 one.
 
 309
-00:13:53,029 --> 00:13:54,549
-the 10th of every month,
+00:15:54,200 --> 00:15:57,279
+So we will tell you once by confirming which one we have.
 
 310
-00:13:54,830 --> 00:13:55,149
-is the fee.
+00:15:57,299 --> 00:15:59,139
+You can confirm the fine easily.
 
 311
-00:13:56,950 --> 00:13:59,330
-The 10th of the quarters?
+00:15:59,639 --> 00:16:02,740
+By doing the fine confirmation, actually how the fine works.
 
 312
-00:14:00,029 --> 00:14:00,649
-The 10th of August,
+00:16:02,940 --> 00:16:06,779
+If we set the fine, then you will understand that it will be applicable to every course and every student.
 
 313
-00:14:00,769 --> 00:14:01,789
-the 10th of November,
+00:16:08,460 --> 00:16:08,799
+Yes.
 
 314
-00:14:02,210 --> 00:14:03,330
-it is like this.
+00:16:09,779 --> 00:16:11,279
+It will work according to you.
 
 315
-00:14:03,789 --> 00:14:05,649
-If it is August, September,
+00:16:12,039 --> 00:16:12,659
+Ok.
 
 316
-00:14:05,690 --> 00:14:07,710
-October, then the 10th of August
+00:16:12,659 --> 00:16:14,059
+Ma'am, this is the interface.
 
 317
-00:14:07,710 --> 00:14:08,690
-is the first installment.
+00:16:14,700 --> 00:16:15,700
+Have you made a concession for Anjali?
 
 318
-00:14:10,950 --> 00:14:12,610
-We will set the last date.
+00:16:17,720 --> 00:16:19,220
+Yes, ma'am.
 
 319
-00:14:13,789 --> 00:14:15,070
-For example,
+00:16:19,519 --> 00:16:21,460
+Ok. For example, ma'am, there is a new student.
 
 320
-00:14:15,169 --> 00:14:16,590
-Rs. 500 will be set.
+00:16:21,659 --> 00:16:22,440
+There is a fresh application.
 
 321
-00:14:19,649 --> 00:14:21,009
-This is how it will be set.
+00:16:22,679 --> 00:16:23,840
+You have to assign a concession.
 
 322
-00:14:21,009 --> 00:14:23,009
-It will be fine configured.
+00:16:24,620 --> 00:16:25,899
+Here you have an option.
 
 323
-00:14:24,610 --> 00:14:25,230
-From 11th,
+00:16:26,200 --> 00:16:28,220
+You will click here and it will take you to the concession.
 
 324
-00:14:25,850 --> 00:14:27,370
-what is the percentage?
+00:16:30,159 --> 00:16:30,700
+Ok.
 
 325
-00:14:27,789 --> 00:14:31,370
-Rs. 500 for every day.
+00:17:05,599 --> 00:17:06,819
+Anjali, please share the screen.
 
 326
-00:14:31,730 --> 00:14:32,690
-No, not every day.
+00:17:57,130 --> 00:17:59,589
+Anjali, you have to tell me about the concession, right?
 
 327
-00:14:33,610 --> 00:14:34,850
-After 15 days,
+00:18:35,519 --> 00:18:36,079
+Yes.
 
 328
-00:14:35,009 --> 00:14:36,110
-Rs. 500 is added.
+00:18:46,890 --> 00:18:48,150
+Anjali, is the voice coming?
 
 329
-00:14:37,250 --> 00:14:37,590
-Okay.
+00:19:00,500 --> 00:19:01,559
+Yes, Anjali, it is coming.
 
 330
-00:14:37,870 --> 00:14:39,590
-After 15 days, Rs. 500 is added.
+00:19:01,559 --> 00:19:04,220
+What do I have to tell you, ma'am?
 
 331
-00:14:39,809 --> 00:14:40,970
-I will set it up.
+00:19:04,519 --> 00:19:06,720
+Tell me about the concession and how to assign it.
 
 332
-00:14:43,649 --> 00:14:45,149
-After the last fee date,
+00:19:07,099 --> 00:19:07,279
+Ok.
 
 333
-00:14:45,210 --> 00:14:46,169
-Rs. 500.
+00:19:09,079 --> 00:19:12,559
+Ma'am, what happens in this is that we have to select a concession here.
 
 334
-00:14:46,750 --> 00:14:48,710
-After every 15 days,
+00:19:13,460 --> 00:19:17,079
+For example, we will make different heads of concessions according to the data that you will give us.
 
 335
-00:14:48,710 --> 00:14:50,529
-they will increase by Rs. 500.
+00:19:17,559 --> 00:19:18,940
+I have made a manual one.
 
 336
-00:14:51,259 --> 00:14:51,539
-Okay.
+00:19:19,579 --> 00:19:22,099
+You click the manual and assign it.
 
 337
-00:14:51,539 --> 00:14:52,759
-Rs. 500 in the last day
+00:19:22,420 --> 00:19:25,660
+After assigning, we will set the amount here.
 
 338
-00:14:52,759 --> 00:14:53,899
-and Rs. 500 after every 15 days.
+00:19:25,660 --> 00:19:27,799
+Either 10% or 1000.
 
 339
-00:14:54,500 --> 00:14:55,100
-Yes.
+00:19:28,079 --> 00:19:30,960
+It will be set according to the amount that you will give us.
 
 340
-00:15:03,039 --> 00:15:05,320
-I will tell you how it will work.
+00:19:32,440 --> 00:19:34,180
+Then we will set the remark.
 
 341
-00:15:06,019 --> 00:15:07,340
-We have set it up.
+00:19:36,490 --> 00:19:38,089
+According to the concession.
 
 342
-00:15:07,879 --> 00:15:08,440
-After that,
+00:19:38,670 --> 00:19:41,130
+After that, we will save it.
 
 343
-00:15:09,000 --> 00:15:11,340
-during the collect fee,
+00:19:42,500 --> 00:19:43,640
+One minute, Anjali.
 
 344
-00:15:15,700 --> 00:15:17,059
-there is a date.
+00:19:43,759 --> 00:19:44,859
+Ma'am, what is the option in this?
 
 345
-00:15:17,519 --> 00:15:18,000
-By default,
+00:19:44,940 --> 00:19:46,460
+For example, you have made it according to the percentage.
 
 346
-00:15:18,240 --> 00:15:19,279
-today's current date is coming.
+00:19:47,819 --> 00:19:48,180
+Right.
 
 347
-00:15:19,679 --> 00:15:21,240
-For example,
+00:19:48,599 --> 00:19:50,640
+You think that you have fixed the student.
 
 348
-00:15:21,340 --> 00:15:22,039
-after 10th of August,
+00:19:50,900 --> 00:19:52,839
+Yes, we have a sports concession.
 
 349
-00:15:22,039 --> 00:15:23,320
-it will be 11th of August.
+00:19:53,039 --> 00:19:54,380
+There are different concession groups.
 
 350
-00:15:24,399 --> 00:15:24,840
-By default,
+00:19:54,380 --> 00:19:57,299
+For example, there is a sports concession and you have to give it in the tuition fee.
 
 351
-00:15:24,879 --> 00:15:25,799
-if you come on 11th of August,
+00:19:57,319 --> 00:19:59,319
+That is 10%.
 
 352
-00:15:26,179 --> 00:15:28,700
-you will get a fine at the end.
+00:19:59,390 --> 00:19:59,710
+Right.
 
 353
-00:15:29,000 --> 00:15:30,379
-Calculated fine will be shown.
+00:20:00,190 --> 00:20:01,990
+We have a master in the system.
 
 354
-00:15:31,639 --> 00:15:32,220
-Okay.
+00:20:02,269 --> 00:20:03,109
+We will define it there.
 
 355
-00:15:33,080 --> 00:15:34,460
-Ma'am, if we want to get a fine
+00:20:03,130 --> 00:20:05,029
+10% and only on the tuition fee.
 
 356
-00:15:34,460 --> 00:15:35,799
-after the last date,
+00:20:05,230 --> 00:20:09,029
+The moment you select and assign, it will automatically calculate according to the fee.
 
 357
-00:15:35,980 --> 00:15:36,360
-it will cost Rs. 40.
+00:20:09,289 --> 00:20:10,650
+10% will be made.
 
 358
-00:15:37,000 --> 00:15:38,240
-It will increase by Rs. 40 every day.
+00:20:11,390 --> 00:20:11,910
+Ok.
 
 359
-00:15:38,940 --> 00:15:39,679
-That is also possible.
+00:20:12,309 --> 00:20:13,730
+Then at the bottom, there is also a manual.
 
 360
-00:15:40,299 --> 00:15:42,299
-Ma'am, you will have to tell us
+00:20:14,269 --> 00:20:17,230
+You think that you have to keep a fixed amount or you have a manual in that case.
 
 361
-00:15:42,299 --> 00:15:43,659
-which criteria to use.
+00:20:17,470 --> 00:20:19,089
+You think that you have to set the amount according to yourself.
 
 362
-00:15:44,120 --> 00:15:44,559
-Okay.
+00:20:19,789 --> 00:20:21,109
+In that case, the manual works.
 
 363
-00:15:44,559 --> 00:15:46,879
-It will be applicable to all.
+00:20:22,019 --> 00:20:22,359
+Ok.
 
 364
-00:15:47,100 --> 00:15:48,259
-Earlier, it was Rs. 40.
+00:20:22,359 --> 00:20:24,420
+Select the concession group.
 
 365
-00:15:48,460 --> 00:15:48,500
-Earlier, it was Rs. 40.
+00:20:25,380 --> 00:20:28,400
+Then after that, come to the bottom once, Anjali.
 
 366
-00:15:49,200 --> 00:15:51,500
-Earlier, it was Rs. 40.
+00:20:28,579 --> 00:20:28,859
+Yes.
 
 367
-00:15:51,500 --> 00:15:52,559
-Now, it is Rs. 500.
+00:20:29,660 --> 00:20:32,579
+Here, ma'am, you have to enter the remark that why are you giving the concession.
 
 368
-00:15:54,220 --> 00:15:55,860
-We will tell you
+00:20:33,480 --> 00:20:35,180
+Along with that, there is an option to choose the file.
 
 369
-00:15:55,860 --> 00:15:56,740
-after confirming it.
+00:20:35,680 --> 00:20:38,900
+Sometimes it happens with principles or an application signature.
 
 370
-00:15:57,299 --> 00:15:58,600
-You can confirm the fine.
+00:20:39,420 --> 00:20:40,880
+You have to upload the application document.
 
 371
-00:16:00,340 --> 00:16:02,799
-How does it work?
+00:20:42,039 --> 00:20:42,579
+Ok.
 
 372
-00:16:03,000 --> 00:16:04,200
-If we set the fine,
+00:20:43,200 --> 00:20:44,240
+So that option remains.
 
 373
-00:16:04,480 --> 00:16:05,419
-it will be applicable to every course
+00:20:44,539 --> 00:20:45,619
+This is not mandatory.
 
 374
-00:16:05,419 --> 00:16:06,799
-and every student.
+00:20:45,799 --> 00:20:46,700
+Basically, it is optional.
 
 375
-00:16:08,480 --> 00:16:08,940
-Okay.
+00:20:46,740 --> 00:20:48,079
+You can upload according to yourself.
 
 376
-00:16:10,360 --> 00:16:11,059
-Okay?
+00:20:48,180 --> 00:20:49,319
+If you feel that you have to upload a document in the concession.
 
 377
-00:16:14,460 --> 00:16:15,360
-yeah,
+00:20:50,319 --> 00:20:52,940
+Ok, ma'am.
 
 378
-00:16:15,860 --> 00:16:15,879
-yeah.
+00:20:53,400 --> 00:20:54,759
+Then save it with the remark.
 
 379
-00:16:18,940 --> 00:16:20,340
-I'm
+00:20:55,279 --> 00:20:55,799
+It will be saved.
 
 380
-00:16:20,340 --> 00:16:21,179
-I'm
+00:20:56,000 --> 00:20:57,099
+Remarks are mandatory.
 
 381
-00:16:21,179 --> 00:16:22,480
-I'm
+00:20:58,380 --> 00:20:58,960
+Ok.
 
 382
-00:19:12,119 --> 00:19:13,400
-So we have to select the amount.
+00:21:03,069 --> 00:21:06,509
+After that, after being assigned from here, you get the payable below.
 
 383
-00:19:13,440 --> 00:19:15,839
-Like we will make different heads for concessions
+00:21:06,509 --> 00:21:07,809
+You will know how much it is made.
 
 384
-00:19:15,839 --> 00:19:16,960
-that you will give us the data.
+00:21:08,910 --> 00:21:10,589
+Anjali, close this once.
 
 385
-00:19:17,339 --> 00:19:19,500
-I have made a manual now.
+00:21:10,910 --> 00:21:11,769
+Come down to the bottom.
 
 386
-00:19:19,640 --> 00:19:22,380
-Clicked on manual and assigned it.
+00:21:13,650 --> 00:21:15,490
+You can collect directly from here.
 
 387
-00:19:22,460 --> 00:19:23,220
-After assigning
+00:21:16,069 --> 00:21:17,410
+You can also collect fee from here.
 
 388
-00:19:23,220 --> 00:19:24,640
-we will set the amount
+00:21:19,940 --> 00:21:20,279
+Ok.
 
 389
-00:19:24,640 --> 00:19:27,819
-Either 10% or 1000
+00:21:21,170 --> 00:21:23,410
+Collect fee will be in the bottom and above.
 
 390
-00:19:27,819 --> 00:19:29,380
-or whatever the quarter
+00:21:23,569 --> 00:21:25,250
+You can also collect fee from the student above.
 
 391
-00:19:30,000 --> 00:19:32,160
-will be, it will be set according to that
+00:21:25,250 --> 00:21:26,349
+Ma'am, the payment history is coming.
 
 392
-00:19:32,160 --> 00:19:33,619
-Then we will
+00:21:26,789 --> 00:21:28,509
+The fee transactions have been cut.
 
 393
-00:19:33,619 --> 00:19:34,640
-set the remark
+00:21:28,970 --> 00:21:30,549
+The receipt is also shown in the payment history.
 
 394
-00:19:36,269 --> 00:19:38,029
-of concession
+00:21:30,990 --> 00:21:32,450
+For a single individual student.
 
 395
-00:19:38,029 --> 00:19:39,289
-according to that.
+00:21:35,759 --> 00:21:37,559
+So from here also, you can collect it.
 
 396
-00:19:44,299 --> 00:19:50,599
-for example, you have made it according to the percentage, you think that you have fixed
+00:21:37,559 --> 00:21:39,640
+Ma'am, we will put it consistently in this pattern.
 
 397
-00:19:50,599 --> 00:19:54,759
-the student that yes, we have a sports concession, there are different concession groups, for
+00:21:40,720 --> 00:21:43,279
+It will automatically show in detail.
 
 398
-00:19:54,759 --> 00:19:59,339
-example, sports concession and you have to give it in tuition fee, that is 10 percent,
+00:21:44,259 --> 00:21:45,500
+Yes, sir.
 
 399
-00:20:00,069 --> 00:20:04,750
-we have a master in the system, we will define it there, 10 percent and only on the tuition
+00:21:45,579 --> 00:21:46,000
+It will show in detail.
 
 400
-00:20:04,750 --> 00:20:05,009
-fee.
+00:21:46,619 --> 00:21:48,720
+What you have shown now,
 
 401
-00:20:05,009 --> 00:20:09,890
-If you select it and sign it, it will automatically calculate according to the fee here, 10 percent
+00:21:48,859 --> 00:21:51,680
+this is just a format to give concession or to apply something.
 
 402
-00:20:09,890 --> 00:20:10,990
-will be made.
-
-403
-00:20:11,869 --> 00:20:15,650
-Then at the bottom and it also remains manual, you think that you have to keep a fixed amount
-
-404
-00:20:15,650 --> 00:20:19,089
-or you have a manual in that case, you think that you have to set the amount according to
-
-405
-00:20:19,089 --> 00:20:25,440
-yourself, so in that case, the manual works, okay, select the concession group, then after
-
-406
-00:20:25,440 --> 00:20:35,400
-that, come to the bottom Anjali, here you have to enter the remark that why are you giving
-
-407
-00:20:42,779 --> 00:20:48,279
-it in tuition fee, it is not mandatory, it is optional, you can upload according to yourself,
-
-408
-00:20:48,279 --> 00:20:52,140
-if you think that you have to upload a document in the concession that you are putting, okay,
-
-409
-00:20:52,859 --> 00:20:57,740
-then save it with the remark, then it will be saved, remarks are mandatory for everyone,
-
-410
-00:20:57,940 --> 00:20:58,839
-okay.
-
-411
-00:21:02,990 --> 00:21:07,809
-After that, after signing from here, you get the payable below, you will know how much
-
-412
-00:21:07,809 --> 00:21:14,809
-it is made, right, Anjali, close this, come down to the bottom, see, from here only you
-
-413
-00:21:14,809 --> 00:21:21,589
-can collect directly, from here you can also collect fee, that is, you will have the collect
-
-414
-00:21:21,589 --> 00:21:26,170
-fee at the bottom and at the top too, you have a payment history on a particular student,
-
-415
-00:21:26,829 --> 00:21:31,490
-the fees that have been cut, its receipt is also shown on the payment history of a single
-
-416
-00:21:31,490 --> 00:21:37,519
-individual student, okay, so from here also you can collect it.
-
-417
-00:21:37,539 --> 00:21:43,099
-Ma'am, in this pattern, we will put it consistently, right, it will automatically show in detail
-
-418
-00:21:43,099 --> 00:21:44,119
-separately, right?
-
-419
-00:21:44,619 --> 00:21:46,000
-Yes, yes, sir, it will show in detail.
-
-420
-00:21:46,619 --> 00:21:51,240
-What you have shown now, this is only a format of giving concessions or putting something,
-
-421
-00:21:51,240 --> 00:21:56,640
-right, but when we are taking it in the receipt, it will be seen automatically, right?
-
-422
-00:21:57,400 --> 00:22:01,680
-You are saying it on the receipt, yes sir, it shows on the receipt, once, for example,
-
-423
-00:22:01,680 --> 00:22:05,359
-if we take it after the concession, then it will show that this is the student's concession
-
-424
-00:22:05,359 --> 00:22:09,140
-one, which I have shown you the receipt format, it will also be shown according to you.
-
-425
-00:22:10,299 --> 00:22:11,220
-Okay, ma'am, okay.
-
-426
-00:22:12,690 --> 00:22:17,130
-And this data is all that you have, the transactions that will be made, there is a transaction list
-
-427
-00:22:17,130 --> 00:22:20,950
-at the top, from there you also have common transactions, this is the transaction list,
-
-428
-00:22:22,009 --> 00:22:26,069
-the daily transaction will be there, the whole list is made, at the top you also have Excel,
-
-429
-00:22:26,349 --> 00:22:27,890
-you can export according to yourself in Excel.
-
-430
-00:22:29,029 --> 00:22:29,569
-Okay.
-
-431
-00:22:30,009 --> 00:22:30,269
-Okay.
-
-432
-00:22:31,740 --> 00:22:34,619
-And there are more reports as well, please go back, Anjali.
-
-433
-00:22:35,420 --> 00:22:40,660
-In the fee, these are your fee reports, in this we have multiple reports, daily fee report,
-
-434
-00:22:40,859 --> 00:22:44,480
-combined daily collection, all these are according to us, there is a due fee, you have to check
-
-435
-00:22:44,480 --> 00:22:48,880
-the due fee, how many students are there, how much will be received, how much is pending,
-
-436
-00:22:49,599 --> 00:22:51,160
-so these are various.
-
-437
-00:22:51,619 --> 00:22:55,599
-Means, if we take out the total of the children's default list, then we will take it out in
-
-438
-00:22:55,599 --> 00:22:57,079
-due fee, right?
-
-439
-00:22:57,079 --> 00:22:57,980
-Yes, yes.
-
-440
-00:22:58,160 --> 00:23:02,319
-Now there is an option in the due fee, Anjali, show the filter, see, the templates are made,
-
-441
-00:23:02,900 --> 00:23:09,420
-these are your, yes, show the filter once, let me tell you the filter, filter, sir, all
-
-442
-00:23:09,420 --> 00:23:13,720
-your reports, you will get a filter in every report section, what will be the filter of
-
-443
-00:23:13,720 --> 00:23:18,720
-any particular class, or it will be like this, like there is a class, stream and batch,
-
-444
-00:23:19,220 --> 00:23:25,519
-there is one in this, it will be Shora, show student with zero dues, what does this mean,
-
-445
-00:23:25,519 --> 00:23:30,799
-for example, you have to see that student at this time, whose zero dues are not there,
-
-446
-00:23:30,839 --> 00:23:34,460
-so you will do it by saying no, I mean, if one is like that, all those who have paid,
-
-447
-00:23:34,619 --> 00:23:39,880
-it does not mean that, those who have pending, they just want the same, if you will do it
-
-448
-00:23:39,880 --> 00:23:41,779
-by saying yes, then both the students will come together.
-
-449
-00:23:43,069 --> 00:23:43,569
-Okay.
-
-450
-00:23:44,250 --> 00:23:49,130
-And we have also taken an awake status, I think if you know a little about this, active
-
-451
-00:23:49,130 --> 00:23:54,230
-students, you know, who are active in our institute, current, awake means, who have
-
-452
-00:23:54,230 --> 00:23:58,910
-paid their fees, students have paid, in case you just want those students, defaulted students,
-
-453
-00:23:59,230 --> 00:24:02,890
-who have not paid till now, one time has gone, August, September has gone and no one has
-
-454
-00:24:02,890 --> 00:24:06,890
-paid till now, so we just want the list of those students, so in that, now if one student
-
-455
-00:24:06,890 --> 00:24:10,650
-will do false and export the data, then only those students will come, who have not paid
-
-456
-00:24:10,650 --> 00:24:12,589
-a rupee till now for a particular session.
-
-457
-00:24:13,890 --> 00:24:14,430
-Okay.
-
-458
-00:24:14,759 --> 00:24:15,440
-So these filters.
-
-459
-00:24:15,960 --> 00:24:21,460
-In this, in this filter, there is a filter related to the amount, that I have to see
-
-460
-00:24:21,460 --> 00:24:27,359
-only 10,000 students, who have paid, for example, the new students come and I have to put that
-
-461
-00:24:27,359 --> 00:24:30,900
-I have to see only 10,000 students, so that they can be seen, by applying the filter.
-
-462
-00:24:31,539 --> 00:24:33,900
-No sir, such amounts will not come to you.
-
-463
-00:24:34,319 --> 00:24:34,839
-Okay.
-
-464
-00:24:35,339 --> 00:24:39,599
-You just have to see the new student, have to see up to a particular date, that is all,
-
-465
-00:24:39,700 --> 00:24:41,380
-there is a term group, there is a date, that is all.
-
-466
-00:24:42,279 --> 00:24:44,059
-There is no filter amount wise, right?
-
-467
-00:24:44,240 --> 00:24:45,500
-No sir, there is no amount wise.
-
-468
-00:24:46,180 --> 00:24:49,900
-Because in that case, it will not be known, because every head has a different amount,
-
-469
-00:24:49,900 --> 00:24:54,319
-if you want to say that, then only up to 10,000 will come to know, right?
-
-470
-00:24:54,779 --> 00:24:57,880
-Exactly, what happens is, that we have registration from 10,000.
-
-471
-00:24:58,539 --> 00:25:03,759
-After a time, we need this list, that the 10,000 who have only paid, how many are left?
-
-472
-00:25:03,940 --> 00:25:07,440
-Because after that, we consider the fees, that we will not consider the 10,000 people,
-
-473
-00:25:07,859 --> 00:25:08,400
-after a time.
-
-474
-00:25:09,099 --> 00:25:09,799
-So then it is necessary.
-
-475
-00:25:09,980 --> 00:25:11,160
-That is why I was asking the amount wise.
-
-476
-00:25:11,980 --> 00:25:15,480
-The 10,000 that you are telling in registration, you take it in admission, right?
-
-477
-00:25:16,180 --> 00:25:16,980
-Yes, yes.
-
-478
-00:25:16,980 --> 00:25:18,400
-That is different for admission, sir.
-
-479
-00:25:18,400 --> 00:25:19,420
-You will get that in the admission reports.
-
-480
-00:25:20,700 --> 00:25:22,839
-But there will not be an amount wise filter, right?
-
-481
-00:25:23,819 --> 00:25:25,259
-No sir, amount wise is not like that.
-
-482
-00:25:25,539 --> 00:25:28,500
-But no problem, I will raise it, if you want, then you will get it in some time.
-
-483
-00:25:28,720 --> 00:25:29,500
-No, no, no.
-
-484
-00:25:30,319 --> 00:25:31,279
-Okay, okay.
-
-485
-00:25:31,660 --> 00:25:36,200
-If you feel that this is what you want, then there is no problem even in that, we will
-
-486
-00:25:36,200 --> 00:25:36,720
-raise it in the future.
-
-487
-00:25:36,940 --> 00:25:40,799
-So that means, we give a timeline and according to that, we get that option too.
-
-488
-00:25:42,359 --> 00:25:46,930
-Okay sir, so these are your reports, these are the different sections that we have seen
-
-489
-00:25:46,930 --> 00:25:48,470
-that you need to be able to receive.
-
-490
-00:25:48,990 --> 00:25:50,450
-So these are according to your columns.
-
-491
-00:25:50,630 --> 00:25:52,950
-For example, you need a class, batch, reg number.
-
-492
-00:25:53,690 --> 00:25:57,150
-If you don't need any column, if you need any column, then it will be according to that.
-
-493
-00:25:59,650 --> 00:26:02,309
-When we will work on all this, then only we will know, ma'am.
-
-494
-00:26:02,730 --> 00:26:03,769
-Exactly, only then we will know.
-
-495
-00:26:04,049 --> 00:26:08,210
-Basically, there are so many reports here, Excel and print, it works according to that.
-
-496
-00:26:08,690 --> 00:26:09,250
-So this is the fee.
-
-497
-00:26:09,869 --> 00:26:11,670
-So you are okay with the fee demand?
-
-498
-00:26:12,170 --> 00:26:12,730
-Yes, yes.
-
-499
-00:26:13,069 --> 00:26:14,269
-Okay ma'am.
-
-500
-00:26:14,470 --> 00:26:16,490
-Okay sir, then you have shared the student data with us.
-
-501
-00:26:17,809 --> 00:26:19,289
-Yes ma'am, yes ma'am.
-
-502
-00:26:19,289 --> 00:26:21,650
-So we will import the student data of the old students.
-
-503
-00:26:22,410 --> 00:26:25,269
-And with the data of the old students, we will also need dues.
-
-504
-00:26:26,170 --> 00:26:28,990
-The old dues will also be pending due to many students who will go ahead.
-
-505
-00:26:29,670 --> 00:26:30,829
-Okay, yes, yes.
-
-506
-00:26:31,089 --> 00:26:32,470
-So according to that, we will also put the dues.
-
-507
-00:26:33,089 --> 00:26:34,109
-So how do we put the dues in the previous dues?
-
-508
-00:26:35,650 --> 00:26:39,529
-How urgent is this that you are asking for the data of the fees of the students?
-
-509
-00:26:40,569 --> 00:26:45,269
-With the data of the old students, sir, as soon as we get it, your collection will start
-
-510
-00:26:45,269 --> 00:26:55,190
-No, I am talking to you about this because the last installment of the year is on May 10th, right?
-
-511
-00:26:56,190 --> 00:27:03,769
-So most probably on the 20th or 23rd, our maximum fee collection will have come.
-
-512
-00:27:04,230 --> 00:27:07,210
-You will have the minimum data that we will have to take from the students.
-
-513
-00:27:07,369 --> 00:27:09,529
-The minimum data of the year will be there.
-
-514
-00:27:09,910 --> 00:27:14,569
-If you fetch that data then I think you will feel comfortable for this.
-
-515
-00:27:14,569 --> 00:27:15,890
-That is not an issue.
-
-516
-00:27:16,049 --> 00:27:16,549
-That will also work.
-
-517
-00:27:17,769 --> 00:27:21,910
-It means that there will not be 2000 students whose dues you will have to pay.
-
-518
-00:27:22,210 --> 00:27:23,289
-They will be 200-400.
-
-519
-00:27:24,390 --> 00:27:25,930
-Okay, let's do one thing.
-
-520
-00:27:26,289 --> 00:27:27,369
-Then you send us the student data.
-
-521
-00:27:28,230 --> 00:27:29,950
-We will import the student data accordingly.
-
-522
-00:27:30,029 --> 00:27:30,950
-The dues will take place later.
-
-523
-00:27:31,769 --> 00:27:32,710
-Done, done, done.
-
-524
-00:27:33,289 --> 00:27:37,809
-Sir, I want to add one thing in this.
-
-525
-00:27:37,910 --> 00:27:39,009
-We will have to raise the dues.
-
-526
-00:27:39,829 --> 00:27:41,269
-How will the fees be collected without the dues?
-
-527
-00:27:41,970 --> 00:27:42,630
-No, no, sir.
-
-528
-00:27:42,750 --> 00:27:43,390
-So the fees collection.
-
-529
-00:27:43,390 --> 00:27:45,309
-When are we going to start with this?
-
-530
-00:27:45,410 --> 00:27:45,670
-This is the point.
-
-531
-00:27:46,829 --> 00:27:48,789
-Sir, we will start as soon as the data is done.
-
-532
-00:27:48,990 --> 00:27:50,009
-We have to receive the money.
-
-533
-00:27:50,549 --> 00:27:56,009
-But sir, the criteria of the fees that are going on right now is so high that I think
-
-534
-00:27:57,089 --> 00:27:58,849
-we will work on it in speed.
-
-535
-00:27:59,910 --> 00:28:02,730
-Right now, our tuning is made from the old software.
-
-536
-00:28:03,509 --> 00:28:03,630
+00:21:51,900 --> 00:21:52,160
 Right?
 
-537
-00:28:04,609 --> 00:28:07,930
-We will not be able to do it right now when 200-400 people are coming to the window so
+403
+00:21:52,160 --> 00:21:54,400
+But when we are collecting it in the receipt,
 
-538
-00:28:09,250 --> 00:28:10,009
-You understand this.
+404
+00:21:55,480 --> 00:21:56,640
+it will automatically show, right?
 
-539
-00:28:10,150 --> 00:28:10,930
+405
+00:21:57,500 --> 00:21:58,519
+You are saying on the receipt, right?
+
+406
+00:21:58,519 --> 00:21:58,940
+Yes, sir.
+
+407
+00:21:58,940 --> 00:21:59,799
+It shows on the receipt.
+
+408
+00:22:00,539 --> 00:22:01,980
+For example, if we collect it after concession,
+
+409
+00:22:03,359 --> 00:22:05,359
+it will show that this is the student's concession.
+
+410
+00:22:05,759 --> 00:22:07,000
+Like I have shown you the receipt format.
+
+411
+00:22:07,500 --> 00:22:09,380
+It will show if you apply according to it.
+
+412
+00:22:09,380 --> 00:22:09,920
+It will also be made.
+
+413
+00:22:10,180 --> 00:22:10,900
+Ok, ma'am.
+
+414
+00:22:12,650 --> 00:22:13,589
+And this data,
+
+415
+00:22:14,130 --> 00:22:15,869
+all the transactions that are made,
+
+416
+00:22:16,049 --> 00:22:17,150
+there is a transaction list above.
+
+417
+00:22:17,230 --> 00:22:19,269
+From there, common transactions are also made.
+
+418
+00:22:19,730 --> 00:22:20,930
+This is the transaction list.
+
+419
+00:22:21,430 --> 00:22:23,609
+The daily transaction will be made.
+
+420
+00:22:23,769 --> 00:22:24,569
+The whole list is made.
+
+421
+00:22:24,690 --> 00:22:26,150
+In this, you also have Excel at the top.
+
+422
+00:22:26,769 --> 00:22:27,890
+You can export according to yourself in Excel.
+
+423
+00:22:29,289 --> 00:22:29,430
+Ok.
+
+424
+00:22:31,960 --> 00:22:33,059
+And there are other reports as well.
+
+425
+00:22:33,640 --> 00:22:34,119
+Anjali, please go back once.
+
+426
+00:22:35,339 --> 00:22:37,279
+In fee, sir, these are your fee reports.
+
+427
+00:22:37,799 --> 00:22:39,779
+In this, we have multiple reports.
+
+428
+00:22:39,900 --> 00:22:41,700
+Daily fee report, combined daily collection,
+
+429
+00:22:41,920 --> 00:22:42,819
+all these are according to ourselves.
+
+430
+00:22:43,200 --> 00:22:43,960
+There is a due fee.
+
+431
+00:22:44,200 --> 00:22:45,200
+You have to check the due fee.
+
+432
+00:22:45,720 --> 00:22:46,579
+How many students are there?
+
+433
+00:22:46,819 --> 00:22:47,819
+How much will be received?
+
+434
+00:22:48,140 --> 00:22:48,859
+How much is pending?
+
+435
+00:22:51,759 --> 00:22:54,000
+If we take out the total of the students'
+
+436
+00:22:54,240 --> 00:22:54,700
+default list,
+
+437
+00:22:55,359 --> 00:22:57,119
+then we will take it out in the due fee, right?
+
+438
+00:22:57,500 --> 00:22:57,819
+Yes.
+
+439
+00:22:58,099 --> 00:22:59,660
+Sir, there is an option in the due fee as well.
+
+440
+00:22:59,680 --> 00:23:00,559
+Anjali, please show the filter.
+
+441
+00:23:00,740 --> 00:23:02,339
+See, the templates are made.
+
+442
+00:23:02,859 --> 00:23:04,859
+This is your filter.
+
+443
+00:23:05,619 --> 00:23:06,319
+Please show the filter.
+
+444
+00:23:06,759 --> 00:23:07,519
+We will show the filter.
+
+445
+00:23:08,039 --> 00:23:12,140
+Sir, you will get filters in every report section
+
+446
+00:23:12,599 --> 00:23:13,799
+Basically, you will have to see
+
+447
+00:23:13,799 --> 00:23:15,279
+a particular class of the filter.
+
+448
+00:23:15,740 --> 00:23:16,400
+It will be like this.
+
+449
+00:23:16,400 --> 00:23:17,599
+It will be like this.
+
+450
+00:23:17,599 --> 00:23:18,700
+There is a class, a stream, a batch.
+
+451
+00:23:19,200 --> 00:23:20,000
+In this, there is one.
+
+452
+00:23:20,500 --> 00:23:21,180
+It will be shown to you.
+
+453
+00:23:21,619 --> 00:23:23,099
+Show student with zero dues.
+
+454
+00:23:24,640 --> 00:23:25,500
+What does this mean?
+
+455
+00:23:25,920 --> 00:23:27,480
+For example, you have to see that student
+
+456
+00:23:27,480 --> 00:23:28,819
+at this time,
+
+457
+00:23:29,200 --> 00:23:30,779
+whose zero dues are not there.
+
+458
+00:23:30,839 --> 00:23:31,880
+So you will do it by saying no.
+
+459
+00:23:32,160 --> 00:23:33,759
+I mean, if it is like this,
+
+460
+00:23:33,759 --> 00:23:34,500
+that all those who have paid,
+
+461
+00:23:34,599 --> 00:23:35,420
+it doesn't mean anything.
+
+462
+00:23:35,420 --> 00:23:35,980
+Those who have pending,
+
+463
+00:23:36,079 --> 00:23:36,460
+they just want the same.
+
+464
+00:23:37,299 --> 00:23:38,420
+It is in that case.
+
+465
+00:23:39,299 --> 00:23:40,539
+Otherwise, if you will do it by saying yes,
+
+466
+00:23:40,740 --> 00:23:41,799
+then both the students will come together.
+
+467
+00:23:43,069 --> 00:23:43,589
+Okay.
+
+468
+00:23:44,190 --> 00:23:45,690
+And we have also taken an awake status.
+
+469
+00:23:45,690 --> 00:23:48,549
+I think if you know a little about this,
+
+470
+00:23:48,769 --> 00:23:49,490
+you know that active students
+
+471
+00:23:49,490 --> 00:23:51,150
+are currently active in our institute.
+
+472
+00:23:51,950 --> 00:23:52,589
+Awake means,
+
+473
+00:23:53,130 --> 00:23:53,630
+those who have paid the fees
+
+474
+00:23:53,630 --> 00:23:54,710
+of this session.
+
+475
+00:23:56,190 --> 00:23:56,690
+In this case,
+
+476
+00:23:57,190 --> 00:23:57,829
+you just need those students,
+
+477
+00:23:58,190 --> 00:23:58,910
+defaulted students,
+
+478
+00:23:59,670 --> 00:24:00,170
+who have not paid the fees
+
+479
+00:24:00,170 --> 00:24:00,230
+till now,
+
+480
+00:24:00,309 --> 00:24:01,049
+one time has passed,
+
+481
+00:24:01,690 --> 00:24:03,230
+and till now no one has paid.
+
+482
+00:24:03,329 --> 00:24:04,349
+So we just need the list of those students.
+
+483
+00:24:05,390 --> 00:24:06,150
+So in that case,
+
+484
+00:24:06,250 --> 00:24:08,289
+if you will do a false data export,
+
+485
+00:24:08,470 --> 00:24:09,670
+then only those students will come
+
+486
+00:24:09,670 --> 00:24:11,410
+who have not paid a rupee
+
+487
+00:24:11,410 --> 00:24:12,509
+till now for a particular session.
+
+488
+00:24:13,369 --> 00:24:13,890
+Okay.
+
+489
+00:24:16,200 --> 00:24:17,740
+In this filter,
+
+490
+00:24:18,299 --> 00:24:19,440
+is there any particular filter
+
+491
+00:24:19,440 --> 00:24:20,099
+related to the amount?
+
+492
+00:24:20,940 --> 00:24:21,460
+That I just have to see
+
+493
+00:24:21,460 --> 00:24:23,960
+10,000 students who have paid.
+
+494
+00:24:24,640 --> 00:24:25,440
+For example,
+
+495
+00:24:25,619 --> 00:24:26,400
+the new students who come,
+
+496
+00:24:26,519 --> 00:24:27,460
+and I have to say that
+
+497
+00:24:27,460 --> 00:24:27,640
+I just have to see
+
+498
+00:24:27,640 --> 00:24:28,599
+10,000 students,
+
+499
+00:24:29,299 --> 00:24:30,059
+so that they can be seen
+
+500
+00:24:30,059 --> 00:24:30,700
+by applying the filter.
+
+501
+00:24:31,480 --> 00:24:32,039
 No, sir.
 
+502
+00:24:32,460 --> 00:24:33,460
+You will not get anything
+
+503
+00:24:34,400 --> 00:24:34,880
+Okay.
+
+504
+00:24:35,359 --> 00:24:36,339
+You just have to see
+
+505
+00:24:36,339 --> 00:24:37,119
+the new students
+
+506
+00:24:37,119 --> 00:24:38,720
+up to a particular date.
+
+507
+00:24:39,259 --> 00:24:39,619
+That is all.
+
+508
+00:24:39,680 --> 00:24:40,220
+There is a term group,
+
+509
+00:24:40,380 --> 00:24:40,700
+a date,
+
+510
+00:24:40,859 --> 00:24:41,339
+that is all.
+
+511
+00:24:42,119 --> 00:24:43,940
+There is no amount-wise filter, right?
+
+512
+00:24:43,940 --> 00:24:44,680
+No, sir.
+
+513
+00:24:44,759 --> 00:24:45,559
+There is no amount-wise.
+
+514
+00:24:46,160 --> 00:24:47,259
+Because in that case,
+
+515
+00:24:47,720 --> 00:24:48,400
+it will not be known
+
+516
+00:24:48,400 --> 00:24:49,940
+because every head has a different amount.
+
+517
+00:24:50,160 --> 00:24:50,640
+You are saying that
+
+518
+00:24:50,640 --> 00:24:51,240
+if you want,
+
+519
+00:24:51,700 --> 00:24:53,039
+then only up to 10,000
+
+520
+00:24:53,039 --> 00:24:54,059
+will be known, right?
+
+521
+00:24:54,759 --> 00:24:55,240
+Exactly.
+
+522
+00:24:55,720 --> 00:24:56,140
+What happens is that
+
+523
+00:24:56,140 --> 00:24:56,859
+we have a registration
+
+524
+00:24:56,859 --> 00:24:57,900
+from 10,000.
+
+525
+00:24:58,539 --> 00:24:59,180
+After a certain time,
+
+526
+00:24:59,480 --> 00:25:00,140
+we need this list
+
+527
+00:25:00,140 --> 00:25:02,019
+that the 10,000 students
+
+528
+00:25:02,019 --> 00:25:02,579
+who have paid,
+
+529
+00:25:02,940 --> 00:25:03,779
+how many are left?
+
+530
+00:25:03,900 --> 00:25:04,500
+Because after that,
+
+531
+00:25:04,740 --> 00:25:05,720
+we consider the fees
+
+532
+00:25:05,720 --> 00:25:07,440
+that we will not consider
+
+533
+00:25:07,440 --> 00:25:08,380
+after a certain time.
+
+534
+00:25:09,019 --> 00:25:09,799
+Then it is necessary.
+
+535
+00:25:09,980 --> 00:25:10,380
+That is why I was asking
+
+536
+00:25:10,380 --> 00:25:11,140
+that amount-wise.
+
+537
+00:25:11,980 --> 00:25:13,000
+That 10,000,
+
+538
+00:25:13,000 --> 00:25:14,099
+you are saying that
+
+539
+00:25:14,099 --> 00:25:16,059
+you take it in admission, right?
+
 540
-00:28:11,250 --> 00:28:12,410
-That is a different thing.
-
-541
-00:28:12,410 --> 00:28:13,529
-That is a different thing.
-
-542
-00:28:15,069 --> 00:28:17,349
-You will take the payment in the last installment.
-
-543
-00:28:18,829 --> 00:28:26,029
-But the dues that we have to raise from them, the data, the status of the fees of a child
-
-544
-00:28:27,039 --> 00:28:29,609
-or the 50,000 fees of a child.
-
-545
-00:28:30,269 --> 00:28:31,309
-Okay, sir.
-
-546
-00:28:31,470 --> 00:28:34,990
-We will have to insert that in order to make the dues.
-
-547
-00:28:35,630 --> 00:28:36,869
-Yes, we will give that.
-
-548
-00:28:37,970 --> 00:28:40,329
-Not only the dues, but also the stand.
-
-549
-00:28:40,910 --> 00:28:41,930
-Yes, the stand.
-
-550
-00:28:41,930 --> 00:28:42,170
-That is what we have to do.
-
-551
-00:28:43,069 --> 00:28:43,089
-That is what we have to do.
-
-552
-00:28:43,130 --> 00:28:45,109
-Yes, yes, that is what we have to do.
-
-553
-00:28:45,109 --> 00:28:45,329
-Yes, yes, that is what we have to do.
-
-554
-00:28:45,329 --> 00:28:48,329
-If you send us the student, we will import the money.
-
-555
-00:28:48,769 --> 00:28:51,029
-The fees of the year will come.
-
-556
-00:28:51,289 --> 00:28:52,430
-You will get the yearly fees.
-
-557
-00:28:52,869 --> 00:28:55,309
-But do not stand on the dues.
-
-558
-00:28:55,589 --> 00:28:56,450
-Sir, that is not the dues.
-
-559
-00:28:56,970 --> 00:28:57,529
-Do not do that.
-
-560
-00:28:57,890 --> 00:28:58,970
-I am saying this.
-
-561
-00:28:58,970 --> 00:29:01,869
-Stand student fees including this.
-
-562
-00:29:02,130 --> 00:29:02,890
-That we will give right now.
-
-563
-00:29:03,250 --> 00:29:04,650
-They will stand on what we have to give.
-
-564
-00:29:04,869 --> 00:29:05,230
-Absolutely.
-
-565
-00:29:06,150 --> 00:29:06,730
-Isn't it?
-
-566
-00:29:06,829 --> 00:29:07,210
-Yes.
-
-567
-00:29:07,920 --> 00:29:09,960
-Sir, this is the student's data.
-
-568
-00:29:10,819 --> 00:29:14,380
-And the old student, is there something like this that the old student's concession continues
-
-569
-00:29:14,380 --> 00:29:16,160
-or the concession lapses till there?
-
-570
-00:29:16,440 --> 00:29:18,420
-No, what we will give you will continue.
-
-571
-00:29:19,640 --> 00:29:20,279
-Okay, okay.
-
-572
-00:29:20,279 --> 00:29:21,400
-The concession will continue.
-
-573
-00:29:22,119 --> 00:29:22,460
-It will continue.
-
-574
-00:29:22,920 --> 00:29:24,079
-It will continue.
-
-575
-00:29:24,859 --> 00:29:27,140
-Okay, so then you will give the concession's data as well.
-
-576
-00:29:27,799 --> 00:29:28,140
-Right.
-
-577
-00:29:28,140 --> 00:29:28,799
-Give the student's data.
-
-578
-00:29:29,680 --> 00:29:33,319
-What we will share with you, ma'am, as far as we know that there will be no concession.
-
-579
-00:29:34,339 --> 00:29:35,480
-Whatever we will do, that will be the stand.
-
-580
-00:29:36,519 --> 00:29:37,039
-Okay.
-
-581
-00:29:37,039 --> 00:29:37,380
-Yes.
-
-582
-00:29:38,279 --> 00:29:39,980
-No, it will be like this.
-
-583
-00:29:41,279 --> 00:29:45,539
-Till now, there are no concessions that are fixed for the students.
-
-584
-00:29:46,440 --> 00:29:47,460
-We used to have it only after the concession.
-
-585
-00:29:48,759 --> 00:29:49,900
-It will start from now.
-
-586
-00:29:50,160 --> 00:29:54,400
-Because the bifurcation, development etc. is starting from your case.
-
-587
-00:29:54,819 --> 00:29:55,579
-It was not there before.
-
-588
-00:29:56,750 --> 00:29:57,670
-Okay, okay.
-
-589
-00:29:57,670 --> 00:29:57,970
-I understood.
-
-590
-00:29:58,750 --> 00:29:59,369
-Yes.
-
-591
-00:29:59,369 --> 00:30:00,029
-Yes, there is no issue.
-
-592
-00:30:00,930 --> 00:30:03,450
-Sir, how does the hostel stay here?
-
-593
-00:30:03,450 --> 00:30:04,809
-The hostel is also the same.
-
-594
-00:30:04,829 --> 00:30:07,569
-There are four divisions of tuition fees.
-
-595
-00:30:08,769 --> 00:30:10,970
-The same hostel comes in four parts.
-
-596
-00:30:11,549 --> 00:30:13,210
-Transport also comes in four parts.
-
-597
-00:30:13,490 --> 00:30:16,269
-Only the security is of one time.
-
-598
-00:30:17,740 --> 00:30:18,099
-Okay, okay.
-
-599
-00:30:18,200 --> 00:30:19,940
-So, sir, it would be better if I get the hostel data as well.
-
-600
-00:30:20,559 --> 00:30:22,019
-Yes, you will get it ma'am.
-
-601
-00:30:22,299 --> 00:30:25,720
-Whatever we will give you, it will also be of the hostel.
-
-602
-00:30:26,359 --> 00:30:26,880
-Okay.
-
-603
-00:30:27,019 --> 00:30:28,579
-And how will you give the hostel, sir?
-
-604
-00:30:28,640 --> 00:30:29,279
-You will only give the fees.
-
-605
-00:30:29,680 --> 00:30:31,619
-Actually, we have the whole hostel module.
-
-606
-00:30:33,039 --> 00:30:37,119
-Ma'am, in that also, like our fees, the same security is of 4000.
-
-607
-00:30:37,619 --> 00:30:41,259
-And the fees, for example, if our non AC is of 65000,
-
-608
-00:30:41,720 --> 00:30:42,559
-then the division is in four parts.
-
-609
-00:30:43,880 --> 00:30:44,200
-Simple.
-
-610
-00:30:45,019 --> 00:30:45,339
-Okay.
-
-611
-00:30:45,480 --> 00:30:47,460
-So, I will tell you how it will be.
-
-612
-00:30:47,500 --> 00:30:49,259
-First, you told that it is fee dependent.
-
-613
-00:30:49,359 --> 00:30:50,500
-You are only telling about the fees.
-
-614
-00:30:51,240 --> 00:30:51,440
+00:25:16,259 --> 00:25:16,980
 Yes, yes.
 
+541
+00:25:17,380 --> 00:25:18,119
+That is different for admission.
+
+542
+00:25:18,359 --> 00:25:18,500
+You will get that
+
+543
+00:25:18,500 --> 00:25:19,420
+in the admission reports.
+
+544
+00:25:20,680 --> 00:25:21,660
+But there also,
+
+545
+00:25:21,799 --> 00:25:22,940
+there will not be an amount-wise filter, right?
+
+546
+00:25:23,799 --> 00:25:24,140
+No, sir.
+
+547
+00:25:24,220 --> 00:25:24,960
+There is no amount-wise.
+
+548
+00:25:25,380 --> 00:25:25,859
+But no problem,
+
+549
+00:25:25,880 --> 00:25:26,519
+I will raise it.
+
+550
+00:25:26,579 --> 00:25:27,319
+If you want,
+
+551
+00:25:27,400 --> 00:25:28,019
+then you will get it
+
+552
+00:25:28,019 --> 00:25:28,500
+in a certain time.
+
+553
+00:25:28,619 --> 00:25:29,240
+No, no.
+
+554
+00:25:30,160 --> 00:25:31,119
+Okay, okay.
+
+555
+00:25:31,680 --> 00:25:32,859
+If you think
+
+556
+00:25:32,859 --> 00:25:34,400
+that you want it,
+
+557
+00:25:34,460 --> 00:25:35,619
+then there is no problem.
+
+558
+00:25:35,819 --> 00:25:36,720
+We will raise it in the future.
+
+559
+00:25:36,960 --> 00:25:37,779
+So, I mean,
+
+560
+00:25:37,779 --> 00:25:38,319
+we will give a timeline
+
+561
+00:25:38,319 --> 00:25:39,799
+and you will get that
+
+562
+00:25:39,799 --> 00:25:40,059
+according to that.
+
+563
+00:25:40,160 --> 00:25:40,720
+That option too.
+
+564
+00:25:41,559 --> 00:25:42,039
+Okay.
+
+565
+00:25:42,039 --> 00:25:43,630
+Okay, sir.
+
+566
+00:25:43,829 --> 00:25:44,509
+So, these are your reports.
+
+567
+00:25:44,809 --> 00:25:46,049
+We have seen
+
+568
+00:25:46,049 --> 00:25:46,329
+different sections
+
+569
+00:25:46,809 --> 00:25:47,130
+that are coming up
+
+570
+00:25:47,130 --> 00:25:47,970
+like payable,
+
+571
+00:25:48,190 --> 00:25:48,470
+with, received.
+
+572
+00:25:48,789 --> 00:25:49,829
+So, these are your columns
+
+573
+00:25:49,829 --> 00:25:50,490
+according to that.
+
+574
+00:25:50,490 --> 00:25:50,990
+For example,
+
+575
+00:25:51,210 --> 00:25:51,930
+you need a class,
+
+576
+00:25:52,369 --> 00:25:52,430
+batch,
+
+577
+00:25:52,490 --> 00:25:52,970
+reg number.
+
+578
+00:25:53,589 --> 00:25:54,049
+If you don't need
+
+579
+00:25:54,049 --> 00:25:54,470
+any column,
+
+580
+00:25:54,990 --> 00:25:55,630
+if you need any column,
+
+581
+00:25:55,869 --> 00:25:56,269
+then according to that
+
+582
+00:25:56,269 --> 00:25:57,250
+it becomes yours.
+
+583
+00:25:59,569 --> 00:26:01,170
+When we will work
+
+584
+00:26:01,170 --> 00:26:01,250
+on all this,
+
+585
+00:26:01,250 --> 00:26:02,309
+then only we will know.
+
+586
+00:26:02,509 --> 00:26:03,049
+Exactly.
+
+587
+00:26:03,269 --> 00:26:03,769
+Then only we will know.
+
+588
+00:26:04,109 --> 00:26:04,549
+Basically,
+
+589
+00:26:04,849 --> 00:26:05,289
+there are reports
+
+590
+00:26:05,289 --> 00:26:06,150
+like this.
+
+591
+00:26:06,150 --> 00:26:06,869
+Excel and print
+
+592
+00:26:06,869 --> 00:26:08,690
+work according to that.
+
+593
+00:26:08,710 --> 00:26:09,269
+So, this is your fee.
+
+594
+00:26:09,269 --> 00:26:09,670
+This is what you mean.
+
+595
+00:26:10,130 --> 00:26:11,329
+you are okay with the fee
+
+596
+00:26:11,329 --> 00:26:11,670
+and demand.
+
+597
+00:26:12,190 --> 00:26:12,309
+Yes.
+
+598
+00:26:13,190 --> 00:26:14,289
+Okay, ma'am.
+
+599
+00:26:14,470 --> 00:26:14,549
+Okay, sir.
+
+600
+00:26:15,329 --> 00:26:15,650
+Then you share
+
+601
+00:26:15,650 --> 00:26:16,430
+your student data.
+
+602
+00:26:18,170 --> 00:26:18,990
+Yes, ma'am.
+
+603
+00:26:19,150 --> 00:26:19,269
+Yes, ma'am.
+
+604
+00:26:19,269 --> 00:26:20,549
+So, we will import
+
+605
+00:26:20,549 --> 00:26:21,650
+of old students.
+
+606
+00:26:22,329 --> 00:26:23,470
+And with the
+
+607
+00:26:23,470 --> 00:26:24,210
+data import of old students,
+
+608
+00:26:24,730 --> 00:26:25,009
+we will also need
+
+609
+00:26:25,009 --> 00:26:25,269
+dues.
+
+610
+00:26:25,990 --> 00:26:26,269
+There will be
+
+611
+00:26:26,269 --> 00:26:27,470
+old dues pending
+
+612
+00:26:27,470 --> 00:26:28,349
+for many students
+
+613
+00:26:28,349 --> 00:26:28,950
+who will go ahead.
+
+614
+00:26:29,549 --> 00:26:30,829
+Okay, yes.
+
 615
-00:30:51,720 --> 00:30:52,480
-It is like that.
+00:26:31,029 --> 00:26:31,789
+According to that,
 
 616
-00:30:52,880 --> 00:30:54,200
-The hostel name.
+00:26:31,789 --> 00:26:32,769
+we will also impose
 
 617
-00:30:54,420 --> 00:30:54,680
-Right.
+00:26:33,069 --> 00:26:33,289
+So, do you
 
 618
-00:30:55,079 --> 00:30:56,819
-What is the room in the hostel name?
+00:26:33,289 --> 00:26:33,509
+impose the dues in
 
 619
-00:30:57,019 --> 00:30:57,480
-What is the bed?
+00:26:33,509 --> 00:26:34,089
+the previous dues?
 
 620
-00:30:57,500 --> 00:30:58,920
-That division is also structured.
+00:26:34,089 --> 00:26:35,049
+How do you do it?
 
 621
-00:30:59,079 --> 00:31:01,220
-If you want to run it, then you can see.
+00:26:35,450 --> 00:26:36,970
+How urgent is this
 
 622
-00:31:01,220 --> 00:31:03,319
-Ma'am, we will talk about that once.
+00:26:36,970 --> 00:26:38,670
+base that you are asking
 
 623
-00:31:03,480 --> 00:31:04,339
-If you want to give it to the warden.
+00:26:38,670 --> 00:26:38,710
+for data of
 
 624
-00:31:04,599 --> 00:31:05,539
-It has not been run till now.
+00:26:38,710 --> 00:26:39,430
+students,
 
 625
-00:31:06,480 --> 00:31:10,019
-But if you give us the details of the rooms, then we will definitely get it fetched.
+00:26:39,430 --> 00:26:39,609
+fees?
 
 626
-00:31:10,740 --> 00:31:11,000
-Yes.
+00:26:40,690 --> 00:26:41,650
+old students,
 
 627
-00:31:11,220 --> 00:31:12,779
-If it is that one, then that is also not an issue.
+00:26:42,210 --> 00:26:43,130
+as soon as
 
 628
-00:31:12,859 --> 00:31:13,619
-That one can also run.
+00:26:43,509 --> 00:26:44,829
+your collection
 
 629
-00:31:14,640 --> 00:31:19,680
-In fact, in transport, it will definitely be that the children are divided in the bus number.
+00:26:44,829 --> 00:26:45,329
+will start.
 
 630
-00:31:20,640 --> 00:31:23,640
-Like they select transport area wise.
+00:26:45,609 --> 00:26:46,210
+There is nothing else.
 
 631
-00:31:24,079 --> 00:31:25,980
-Those divisions will be needed.
+00:26:46,529 --> 00:26:47,430
+No, I am talking
 
 632
-00:31:26,859 --> 00:31:27,319
-Yes.
+00:26:47,430 --> 00:26:49,109
+to you about this
 
 633
-00:31:27,319 --> 00:31:28,180
-Transport is important.
+00:26:49,109 --> 00:26:49,390
+because
 
 634
-00:31:28,299 --> 00:31:29,680
-You also send the transport data.
+00:26:50,250 --> 00:26:52,390
+the last installment
 
 635
-00:31:30,500 --> 00:31:31,339
-Sample Excel.
+00:26:52,390 --> 00:26:52,430
+of the year
 
 636
-00:31:31,980 --> 00:31:33,880
-We will send it according to our transport.
+00:26:52,430 --> 00:26:54,269
+is on 10th May.
 
 637
-00:31:34,220 --> 00:31:35,359
-Sample collection means?
+00:26:55,390 --> 00:26:55,849
+Okay.
 
 638
-00:31:36,279 --> 00:31:40,079
-Sample means, sir, what we will do is we will import all the data from Excel.
+00:26:56,450 --> 00:26:56,529
+So,
 
 639
-00:31:40,579 --> 00:31:42,619
-For that, what is needed is the bus number.
+00:26:56,529 --> 00:26:57,170
+most probably,
 
 640
-00:31:43,859 --> 00:31:47,380
-Like which pick up points are included in the bus number.
+00:26:57,250 --> 00:26:58,690
+around 20th or
 
 641
-00:31:47,500 --> 00:31:51,539
-Ma'am, we don't have it in so much detail till now.
+00:26:59,390 --> 00:27:00,009
+20th to
 
 642
-00:31:53,059 --> 00:31:55,319
-We will have to create all this now.
+00:27:00,009 --> 00:27:00,470
+23rd,
 
 643
-00:31:56,859 --> 00:32:00,269
-Bus wise, the division of the children has not been done yet.
+00:27:01,450 --> 00:27:02,009
+our
 
 644
-00:32:01,630 --> 00:32:03,230
-Then how do you take the fees from the students?
+00:27:02,009 --> 00:27:02,730
+maximum fee
 
 645
-00:32:04,089 --> 00:32:07,230
-Only transport is written and those are amount wise divisions.
+00:27:02,730 --> 00:27:03,069
+collection
 
 646
-00:32:08,789 --> 00:32:12,829
-Let's see the fees and tell you whether it is coming from Faridabad or from Delhi.
+00:27:03,069 --> 00:27:03,549
+will have
 
 647
-00:32:13,630 --> 00:32:14,650
-Because there are fees divisions.
+00:27:04,170 --> 00:27:04,710
+You will have
 
 648
-00:32:15,230 --> 00:32:17,730
-It is 24000, 28000, 32000.
+00:27:04,710 --> 00:27:05,410
+the minimum data
 
 649
-00:32:17,809 --> 00:32:18,349
-It is like this.
+00:27:05,410 --> 00:27:05,910
+that we
 
 650
-00:32:19,140 --> 00:32:21,079
-So you keep it all in that.
+00:27:05,910 --> 00:27:06,089
+have to
 
 651
+00:27:06,089 --> 00:27:07,069
+collect from
+
+652
+00:27:07,069 --> 00:27:07,210
+our students.
+
+653
+00:27:07,369 --> 00:27:07,730
+Okay.
+
+654
+00:27:07,849 --> 00:27:08,849
+There will be a minimum
+
+655
+00:27:08,849 --> 00:27:09,109
+data of
+
+656
+00:27:09,849 --> 00:27:10,869
+If you
+
+657
+00:27:10,869 --> 00:27:11,829
+fetch that
+
+658
+00:27:11,849 --> 00:27:12,990
+then I think
+
+659
+00:27:12,990 --> 00:27:13,410
+you will
+
+660
+00:27:13,410 --> 00:27:14,089
+feel comfortable
+
+661
+00:27:14,089 --> 00:27:14,670
+for this.
+
+662
+00:27:15,369 --> 00:27:15,410
+There is no
+
+663
+00:27:15,410 --> 00:27:15,789
+issue.
+
+664
+00:27:16,029 --> 00:27:16,529
+That will also work.
+
+665
+00:27:16,970 --> 00:27:17,450
+what is there?
+
+666
+00:27:17,950 --> 00:27:18,650
+There will
+
+667
+00:27:18,650 --> 00:27:18,730
+not be
+
+668
+00:27:18,730 --> 00:27:19,529
+2000 students
+
+669
+00:27:19,529 --> 00:27:20,849
+whose dues
+
+670
+00:27:31,930 --> 00:27:33,049
+you will
+
+671
+00:27:33,049 --> 00:27:33,529
+pay.
+
+672
+00:27:35,650 --> 00:27:35,910
+Sir,
+
+673
+00:27:35,910 --> 00:27:37,150
+I want to add
+
+674
+00:27:37,890 --> 00:27:38,549
+We will have
+
+675
+00:27:38,549 --> 00:27:39,049
+to raise
+
+676
+00:27:39,809 --> 00:27:40,609
+How will the fees
+
+677
+00:27:40,609 --> 00:27:41,329
+be collected
+
+678
+00:27:41,990 --> 00:27:42,569
+No, sir.
+
+679
+00:27:42,769 --> 00:27:44,130
+So, when are we
+
+680
+00:27:44,130 --> 00:27:44,250
+going to
+
+681
+00:27:44,250 --> 00:27:44,789
+start the fees
+
+682
+00:27:45,369 --> 00:27:45,670
+This is the point.
+
+683
+00:27:46,190 --> 00:27:46,730
+Sir,
+
+684
+00:27:47,450 --> 00:27:48,230
+as soon as
+
+685
+00:27:48,230 --> 00:27:48,509
+your data
+
+686
+00:27:48,509 --> 00:27:48,730
+starts,
+
+687
+00:27:48,890 --> 00:27:49,470
+we have to
+
+688
+00:27:49,470 --> 00:27:50,009
+receive it.
+
+689
+00:27:50,470 --> 00:27:50,910
+But,
+
+690
+00:27:50,930 --> 00:27:51,210
+sir,
+
+691
+00:27:51,869 --> 00:27:52,049
+the
+
+692
+00:27:52,049 --> 00:27:53,029
+criteria of
+
+693
+00:27:53,029 --> 00:27:53,329
+fees that
+
+694
+00:27:53,329 --> 00:27:53,769
+we have
+
+695
+00:27:53,769 --> 00:27:54,529
+is
+
+696
+00:27:54,529 --> 00:27:55,069
+so high
+
+697
+00:27:55,069 --> 00:27:56,009
+that I think
+
+698
+00:27:56,769 --> 00:27:57,450
+how
+
+699
+00:27:57,450 --> 00:27:58,029
+we will
+
+700
+00:27:58,029 --> 00:27:58,529
+work in
+
+701
+00:27:58,529 --> 00:27:58,890
+speed.
+
+702
+00:27:59,730 --> 00:28:00,529
+Right now,
+
+703
+00:28:00,890 --> 00:28:01,250
+tuning
+
+704
+00:28:01,250 --> 00:28:01,750
+is made
+
+705
+00:28:01,750 --> 00:28:02,190
+from the
+
+706
+00:28:02,190 --> 00:28:02,670
+old software.
+
+707
+00:28:05,309 --> 00:28:06,369
+200-400
+
+708
+00:28:06,369 --> 00:28:06,569
+people
+
+709
+00:28:06,569 --> 00:28:07,269
+daily
+
+710
+00:28:07,269 --> 00:28:07,410
+on the
+
+711
+00:28:07,410 --> 00:28:08,390
+it now?
+
+712
+00:28:09,390 --> 00:28:10,890
+No, sir.
+
+713
+00:28:11,650 --> 00:28:12,910
+That is
+
+714
+00:28:12,910 --> 00:28:13,109
+a different
+
+715
+00:28:14,069 --> 00:28:15,109
+You
+
+716
+00:28:15,109 --> 00:28:16,470
+will
+
+717
+00:28:16,470 --> 00:28:16,869
+the last
+
+718
+00:28:16,869 --> 00:28:17,430
+installment.
+
+719
+00:28:18,809 --> 00:28:19,049
+But,
+
+720
+00:28:19,930 --> 00:28:20,650
+that
+
+721
+00:28:20,650 --> 00:28:21,269
+we
+
+722
+00:28:21,269 --> 00:28:22,130
+have to
+
+723
+00:28:22,130 --> 00:28:22,829
+raise
+
+724
+00:28:22,829 --> 00:28:23,769
+the data
+
+725
+00:28:23,769 --> 00:28:24,369
+of
+
+726
+00:28:24,369 --> 00:28:24,750
+the
+
+727
+00:28:24,750 --> 00:28:25,410
+fees of
+
+728
+00:28:25,410 --> 00:28:26,450
+or
+
+729
+00:28:26,450 --> 00:28:27,710
+the
+
+730
+00:28:27,710 --> 00:28:29,250
+50,000
+
+731
+00:28:29,250 --> 00:28:29,589
+fees
+
+732
+00:28:29,589 --> 00:28:29,690
+of
+
+733
+00:28:29,690 --> 00:28:31,809
+will
+
+734
+00:28:31,809 --> 00:28:32,170
+have to
+
+735
+00:28:32,170 --> 00:28:33,109
+inserted
+
+736
+00:28:33,109 --> 00:28:33,910
+to
+
+737
+00:28:33,910 --> 00:28:34,269
+the
+
+738
+00:28:35,670 --> 00:28:36,170
+Yes,
+
+739
+00:28:36,170 --> 00:28:36,910
+we will
+
+740
+00:28:36,910 --> 00:28:37,309
+that.
+
+741
+00:28:37,650 --> 00:28:38,849
+Not only
+
+742
+00:28:38,849 --> 00:28:39,190
+the dues,
+
+743
+00:28:39,789 --> 00:28:40,009
+but
+
+744
+00:28:40,009 --> 00:28:40,049
+the
+
+745
+00:28:40,049 --> 00:28:40,349
+stand.
+
+746
+00:28:41,269 --> 00:28:42,029
+That is
+
+747
+00:28:43,829 --> 00:28:44,630
+you
+
+748
+00:28:44,630 --> 00:28:45,269
+will
+
+749
+00:28:45,269 --> 00:28:45,329
+send
+
+750
+00:28:45,329 --> 00:28:45,769
+to
+
+751
+00:28:45,769 --> 00:28:46,170
+students.
+
+752
+00:28:48,569 --> 00:28:49,170
+You
+
+753
+00:28:49,170 --> 00:28:50,650
+will
+
+754
+00:28:50,650 --> 00:28:51,309
+get
+
+755
+00:28:51,309 --> 00:28:51,789
+the
+
+756
+00:28:51,789 --> 00:28:51,809
+yearly
+
+757
+00:28:51,809 --> 00:28:52,130
+fees.
+
+758
+00:28:53,430 --> 00:28:53,710
+But,
+
+759
+00:28:53,710 --> 00:28:53,990
+the
+
+760
+00:28:53,990 --> 00:28:54,369
+dues
+
+761
+00:28:54,369 --> 00:28:54,710
+will
+
+762
+00:28:54,710 --> 00:28:54,730
+not
+
+763
+00:28:54,730 --> 00:28:54,950
+be
+
+764
+00:28:54,950 --> 00:28:55,650
+to
+
+765
+00:28:55,650 --> 00:28:56,930
+But,
+
+766
+00:28:58,549 --> 00:28:58,890
+the
+
+767
+00:28:58,890 --> 00:29:00,670
+fees
+
+768
+00:29:00,670 --> 00:29:02,210
+will
+
+769
+00:29:02,210 --> 00:29:02,329
+be
+
+770
+00:29:02,329 --> 00:29:02,589
+sent
+
+771
+00:29:02,589 --> 00:29:02,609
+to
+
+772
+00:29:02,609 --> 00:29:03,190
+students.
+
+773
+00:29:03,230 --> 00:29:04,890
+That is
+
+774
+00:29:04,890 --> 00:29:06,130
+the data
+
+775
+00:29:06,130 --> 00:29:07,890
+of
+
+776
+00:29:07,920 --> 00:29:09,220
+the
+
+777
+00:29:09,220 --> 00:29:09,700
+student.
+
+778
+00:29:13,380 --> 00:29:14,660
+But,
+
+779
+00:29:17,400 --> 00:29:18,119
+fees
+
+780
+00:29:18,119 --> 00:29:18,940
+be
+
+781
+00:29:19,039 --> 00:29:19,400
+to
+
+782
+00:29:19,400 --> 00:29:20,900
+Continue that.
+
+783
+00:29:24,940 --> 00:29:26,319
+So you can give the data of the concession.
+
+784
+00:29:27,940 --> 00:29:28,740
+Right, the data of the student.
+
+785
+00:29:29,740 --> 00:29:33,359
+Whatever you share, as far as I know, there will be no concessions.
+
+786
+00:29:34,420 --> 00:29:35,519
+Whatever we do, it will stand.
+
+787
+00:29:36,619 --> 00:29:37,980
+Ok, ok.
+
+788
+00:29:38,660 --> 00:29:40,059
+No, that's how it is.
+
+789
+00:29:40,160 --> 00:29:45,599
+Till now, there are no fixed concessions of the children.
+
+790
+00:29:46,119 --> 00:29:47,519
+We used to have it only after the concession.
+
+791
+00:29:47,519 --> 00:29:50,299
+It will start from now.
+
+792
+00:29:50,319 --> 00:29:53,519
+Because the bifurcation and development is starting from you.
+
+793
+00:29:54,839 --> 00:29:55,579
+It was not there before.
+
+794
+00:29:57,150 --> 00:29:58,049
+Ok, I understood.
+
+795
+00:29:58,890 --> 00:30:00,029
+Yes, there is no issue.
+
+796
+00:30:01,049 --> 00:30:03,430
+How does the hostel stay here?
+
+797
+00:30:03,970 --> 00:30:07,569
+The hostel has four divisions like tuition fees.
+
+798
+00:30:08,650 --> 00:30:10,950
+The same hostel comes in four parts.
+
+799
+00:30:11,529 --> 00:30:12,710
+Transport also comes in four parts.
+
+800
+00:30:13,430 --> 00:30:16,309
+Only the security is of one time.
+
+801
+00:30:16,700 --> 00:30:20,200
+Ok, so if I get the data of the hostel, it would be better.
+
+802
+00:30:20,740 --> 00:30:21,759
+Yes, you will get it.
+
+803
+00:30:22,460 --> 00:30:25,720
+Whatever we give you, it will also be of the hostel.
+
+804
+00:30:26,559 --> 00:30:27,640
+Ok, and how will you give the hostel?
+
+805
+00:30:28,500 --> 00:30:29,279
+You will only give the fees.
+
+806
+00:30:29,700 --> 00:30:31,660
+Actually, we have the whole hostel module.
+
+807
+00:30:34,339 --> 00:30:37,160
+There is the same security of 4000 like our fees.
+
+808
+00:30:37,660 --> 00:30:41,240
+And the fees, for example, if our non AC is 65000,
+
+809
+00:30:41,700 --> 00:30:42,559
+then the division is in four parts.
+
+810
+00:30:43,819 --> 00:30:44,240
+Simple.
+
+811
+00:30:44,240 --> 00:30:47,460
+Ok, I will tell you how it will be.
+
+812
+00:30:47,539 --> 00:30:49,259
+You told me that it is fee dependent.
+
+813
+00:30:49,400 --> 00:30:50,579
+You are just telling me about the fees.
+
+814
+00:30:52,720 --> 00:30:54,640
+The hostel name, right?
+
+815
+00:30:54,960 --> 00:30:56,240
+What is the room in that hostel name?
+
+816
+00:30:57,099 --> 00:30:57,480
+What is the bed?
+
+817
+00:30:57,539 --> 00:30:58,940
+That division is also structured.
+
+818
+00:30:59,079 --> 00:31:01,180
+If you want to run it, then you can see.
+
+819
+00:31:02,160 --> 00:31:03,259
+We will talk about that once.
+
+820
+00:31:03,420 --> 00:31:05,559
+If you want to give it to Warden, it has not been run yet.
+
+821
+00:31:06,220 --> 00:31:08,640
+But if we get the details of the rooms from there,
+
+822
+00:31:09,119 --> 00:31:10,019
+then we will definitely get it fetched.
+
+823
+00:31:10,660 --> 00:31:12,779
+Yes, if it is that one, then that is also not an issue.
+
+824
+00:31:14,539 --> 00:31:18,859
+In fact, in transport, it is necessary that
+
+825
+00:31:18,859 --> 00:31:19,700
+the children are divided in the bus number.
+
+826
+00:31:20,920 --> 00:31:23,799
+As they select the transport area wise,
+
+827
+00:31:23,980 --> 00:31:25,920
+we will need those divisions.
+
+828
+00:31:26,980 --> 00:31:27,819
+Yes, there is an effect of transport.
+
+829
+00:31:28,299 --> 00:31:29,660
+You can also send the transport data.
+
+830
+00:31:30,500 --> 00:31:31,440
+Did we send the sample Excel?
+
+831
+00:31:31,859 --> 00:31:33,819
+Or will you send the transport according to yourself?
+
+832
+00:31:34,380 --> 00:31:35,339
+Sample collection means?
+
+833
+00:31:36,240 --> 00:31:40,079
+Sample means that we import all the data from Excel.
+
+834
+00:31:40,079 --> 00:31:41,819
+What is required for that?
+
+835
+00:31:41,940 --> 00:31:43,039
+Bus number.
+
+836
+00:31:44,599 --> 00:31:47,380
+What are the pick up points included in the bus number?
+
+837
+00:31:48,380 --> 00:31:51,960
+We do not have it in so much detail yet.
+
+838
+00:31:53,160 --> 00:31:55,400
+We will have to create all this now.
+
+839
+00:31:56,319 --> 00:32:01,089
+Bus wise, the division of the children has not been done yet.
+
+840
+00:32:01,369 --> 00:32:03,190
+Okay, then how do you take the fees from the students?
+
+841
+00:32:04,069 --> 00:32:05,349
+Only transport is written.
+
+842
+00:32:05,710 --> 00:32:07,230
+And those are amount wise divisions.
+
+843
+00:32:08,829 --> 00:32:10,609
+Let's look at the fees and tell them.
+
+844
+00:32:10,630 --> 00:32:12,769
+Is it coming from Faridabad or Delhi?
+
+845
+00:32:13,390 --> 00:32:14,630
+Because the fees are divided.
+
+846
+00:32:15,029 --> 00:32:17,730
+It is 24,000, 28,000, 32,000.
+
+847
+00:32:17,789 --> 00:32:18,150
+It is like this.
+
+848
+00:32:19,160 --> 00:32:21,059
+So you keep it all in that.
+
+849
 00:32:21,119 --> 00:32:21,779
 Exactly.
 
-652
-00:32:21,779 --> 00:32:24,500
+850
+00:32:22,579 --> 00:32:24,500
 There must be a division of four installments.
 
-653
-00:32:25,779 --> 00:32:27,740
-Yes, there are four installments.
-
-654
-00:32:27,920 --> 00:32:34,740
-But as we are talking about the bus number and this route, we don't have that division yet.
-
-655
-00:32:35,759 --> 00:32:37,359
-But we have to get it done, ma'am.
-
-656
-00:32:37,519 --> 00:32:39,500
-We will provide this, ma'am.
-
-657
-00:32:40,299 --> 00:32:41,779
-We will provide the transport data through transport incharge.
-
-658
-00:32:42,720 --> 00:32:46,339
-The routes that are running in front of us are the routes and their stoppages.
-
-659
-00:32:46,359 --> 00:32:47,839
-You can mention this in that.
-
-660
-00:32:47,839 --> 00:32:49,740
-It is simple.
-
-661
-00:32:50,099 --> 00:32:50,819
-I will share the sample excel.
-
-662
-00:32:51,380 --> 00:32:53,460
-I will share the sample excel like this.
-
-663
-00:32:54,920 --> 00:33:00,079
-You can share the particular incharge and we will prepare it.
-
-664
-00:33:00,079 --> 00:33:01,500
-We will import this much in a day.
-
-665
-00:33:02,079 --> 00:33:08,880
-Secondly, if you have an excel account, then you can tell us which forum it is in.
-
-666
-00:33:09,019 --> 00:33:12,039
-Or we can provide it in the forum that we download.
-
-667
-00:33:12,559 --> 00:33:13,619
-You are talking about the accounting module?
-
-668
-00:33:14,200 --> 00:33:14,579
-Yes.
-
-669
-00:33:14,579 --> 00:33:16,059
-What kind of data do you need?
-
-670
-00:33:17,220 --> 00:33:19,019
-Is there a format?
-
-671
-00:33:20,039 --> 00:33:24,500
-Or we can download our excel and mail it to you.
-
-672
-00:33:24,579 --> 00:33:25,059
-We can also do that.
-
-673
-00:33:26,259 --> 00:33:28,859
-That is more easy.
-
-674
-00:33:29,299 --> 00:33:32,220
-The data that is already in our software, we can fetch it ourselves.
-
-675
-00:33:32,420 --> 00:33:34,119
-Yes, that is also better.
-
-676
-00:33:34,500 --> 00:33:36,140
-The student data will be managed.
-
-677
-00:33:36,519 --> 00:33:38,380
-There is transport, fees.
-
-678
-00:33:38,779 --> 00:33:41,480
-We need a little bit of this so that we can get the exact amount that can be imported.
-
-679
-00:33:41,880 --> 00:33:42,319
-That is more.
-
-680
-00:33:42,319 --> 00:33:44,859
-The student data should be unique.
-
-681
-00:33:46,579 --> 00:33:52,220
-The data that you will get, whether it is the transport data or the hostel data.
-
-682
-00:33:52,400 --> 00:33:53,579
-And that is accurate.
-
-683
-00:33:54,740 --> 00:33:55,900
-Okay, fine.
-
-684
-00:33:58,019 --> 00:33:59,500
-Just one minute, ma'am.
-
-685
-00:34:00,000 --> 00:34:05,160
-Our data has an admission number and a university roll number.
-
-686
-00:34:05,799 --> 00:34:07,200
-Okay, ma'am.
-
-687
-00:34:07,380 --> 00:34:09,619
-Both these parts will be included and it will continue.
-
-688
-00:34:09,619 --> 00:34:12,780
-The new admissions that we are taking, we will tell you the series.
-
-689
-00:34:13,320 --> 00:34:14,800
-It will start from 26.
-
-690
-00:34:15,739 --> 00:34:19,239
-Whatever registration is done, their numbers will be generated from the same series.
-
-691
-00:34:19,460 --> 00:34:20,500
-Yes, that series will be done.
-
-692
-00:34:20,980 --> 00:34:22,539
-Sir, you told us two numbers.
-
-693
-00:34:22,840 --> 00:34:25,519
-One is the university registration number and the other is the university roll number.
-
-694
-00:34:26,420 --> 00:34:28,480
-College, university, admission number.
-
-695
-00:34:30,079 --> 00:34:33,639
-Sir, only admission number and university roll number.
-
-696
-00:34:34,139 --> 00:34:34,579
-Okay.
-
-697
-00:34:34,579 --> 00:34:37,760
-So in the primary case, we have three options.
-
-698
-00:34:38,159 --> 00:34:39,619
-The admission number is in the primary case.
-
-699
-00:34:40,099 --> 00:34:41,320
-Yes, the admission number.
-
-700
-00:34:41,820 --> 00:34:45,900
-Because when the university roll number is confirmed by the student, then you will get it from the registrar's office.
-
-701
-00:34:47,139 --> 00:34:47,840
-Yes, that is why.
-
-702
-00:34:48,360 --> 00:34:50,360
-That will be in the data that you will share.
-
-703
-00:34:51,000 --> 00:34:51,159
-Yes.
-
-704
-00:34:52,340 --> 00:34:53,780
-The registration number will be there.
-
-705
-00:34:53,840 --> 00:34:54,360
-Okay, sir.
-
-706
-00:34:54,500 --> 00:34:55,519
-Send the student data once.
-
-707
-00:34:55,699 --> 00:34:59,340
-We have also included sample examples in the mail that was shared.
-
-708
-00:35:00,059 --> 00:35:01,059
-If you want to see.
-
-709
-00:35:01,739 --> 00:35:04,099
-The mail that was shared with you.
-
-710
-00:35:04,239 --> 00:35:07,219
-I have the mail ID of Vivek sir and Meenakshi ma'am.
-
-711
-00:35:08,000 --> 00:35:08,360
-Okay.
-
-712
-00:35:10,880 --> 00:35:12,980
-We have also shared the document.
-
-713
-00:35:13,960 --> 00:35:16,519
-We want some modules to be implemented timely.
-
-714
-00:35:16,880 --> 00:35:19,559
-So it will be suitable for you to see and make changes.
-
-715
-00:35:20,739 --> 00:35:22,119
-You can see that once.
-
-716
-00:35:22,500 --> 00:35:23,739
-Update the dates on it.
-
-717
-00:35:23,900 --> 00:35:26,739
-When can we expect training and all that.
-
-718
-00:35:27,500 --> 00:35:28,860
-Okay, done.
-
-719
-00:35:28,860 --> 00:35:35,099
-I will also share the sample excel of transport and hostel with you.
-
-720
-00:35:35,500 --> 00:35:38,539
-If you want to share it with the students, then you can share it with both.
-
-721
-00:35:38,539 --> 00:35:40,199
-Basically, the whole hostel will be set up.
-
-722
-00:35:40,440 --> 00:35:41,139
-Not just the fees.
-
-723
-00:35:41,579 --> 00:35:42,300
-You will get everything.
-
-724
-00:35:44,440 --> 00:35:45,960
-Thank you.
-
-725
-00:35:46,199 --> 00:35:48,860
-Just one minute, ma'am.
-
-726
-00:35:49,559 --> 00:35:50,340
-Let me complete.
-
-727
-00:35:51,619 --> 00:35:54,280
-You have given the registration form of the module.
-
-728
-00:35:54,280 --> 00:35:54,739
-We have given the registration form.
-
-729
-00:35:56,320 --> 00:35:57,619
-We have integrated it.
-
-730
-00:35:57,880 --> 00:35:58,659
-We will see the money.
-
-731
-00:35:59,780 --> 00:36:00,820
-Online payment.
-
-732
-00:36:01,860 --> 00:36:06,860
-For that, sir, we thought that the whole admission team should have a meeting with them.
-
-733
-00:36:07,000 --> 00:36:07,940
-We will show it to everyone.
-
-734
-00:36:08,579 --> 00:36:12,599
-Sir, ma'am was saying that the marketing team should be involved on Monday.
-
-735
-00:36:14,260 --> 00:36:15,739
-No sir.
-
-736
-00:36:15,860 --> 00:36:20,539
-We will involve the marketing team until our module is completed.
-
-737
-00:36:20,880 --> 00:36:22,380
-That the payment is going in it.
-
-738
-00:36:22,960 --> 00:36:24,380
-And the receipt is going in it.
-
-739
-00:36:24,440 --> 00:36:33,000
-As we told you, the online payment team should get the receipt and forward it to the e-mail.
-
-740
-00:36:35,380 --> 00:36:38,400
-I have also filled a test form regarding it.
-
-741
-00:36:38,900 --> 00:36:39,840
-We will show it once.
-
-742
-00:36:40,099 --> 00:36:43,239
-Anjali, will you share the screen share of the form and the ERP?
-
-743
-00:36:44,480 --> 00:36:46,519
-Tell me how to do it.
-
-744
-00:36:46,699 --> 00:36:48,619
-How will the data go to the e-mail?
-
-745
-00:36:49,840 --> 00:36:51,440
-Sir, Vivek sir.
-
-746
-00:36:52,119 --> 00:36:56,340
-We will show it to the marketing team when our registration is completed.
-
-747
-00:36:57,000 --> 00:36:58,179
-Then we will do the tanning.
-
-748
-00:36:58,920 --> 00:37:03,460
-After filling the form, the fees will come to you.
-
-749
-00:37:03,780 --> 00:37:04,780
-Then we will do the tanning.
-
-750
-00:37:05,780 --> 00:37:10,760
-No sir, we are talking about our new student.
-
-751
-00:37:11,699 --> 00:37:12,280
-New student.
-
-752
-00:37:13,760 --> 00:37:17,320
-The first part of the new student comes when the fees are taken.
-
-753
-00:37:17,320 --> 00:37:22,599
-But until the data comes, how will you take the fees?
-
-754
-00:37:22,739 --> 00:37:24,400
-Sir, you will understand.
-
-755
-00:37:24,780 --> 00:37:27,219
-We have made the registration form and given it to them.
-
-756
-00:37:27,380 --> 00:37:28,059
-Yes, we have given it.
-
-757
-00:37:28,280 --> 00:37:29,300
-We have given it to the marketing team.
-
-758
-00:37:29,739 --> 00:37:30,820
-They are not able to pay the fees.
-
-759
-00:37:31,340 --> 00:37:33,440
-First of all, our module should be completed.
-
-760
-00:37:33,440 --> 00:37:35,780
-That is what we want to say.
-
-761
-00:37:36,000 --> 00:37:39,719
-We want to know how the director is doing it.
-
-762
-00:37:40,739 --> 00:37:42,320
-The payment is not going in it.
-
-763
-00:37:42,880 --> 00:37:44,840
-Please tell us how to show the registration.
-
-764
-00:37:45,219 --> 00:37:48,519
-Sir, we have this form.
-
-765
-00:37:49,280 --> 00:37:50,340
-Anjali, show the form.
-
-766
-00:37:51,139 --> 00:37:53,099
-We have put it in the test gate.
-
-767
-00:37:53,699 --> 00:37:55,599
-We have put it in the test gate.
-
-768
-00:37:55,619 --> 00:37:58,699
-We have put it in the test gate so that you can test it according to you.
-
-769
-00:37:58,760 --> 00:38:00,820
-The day you say live, it will be live.
-
-770
-00:38:01,639 --> 00:38:04,539
-Live means the actual payment is going to be deducted from it.
-
-771
-00:38:05,039 --> 00:38:06,079
-Now test it.
-
-772
-00:38:06,780 --> 00:38:07,579
-Anjali, leave it.
-
-773
-00:38:10,489 --> 00:38:11,829
-We have this form.
-
-774
-00:38:11,829 --> 00:38:13,789
-We have this form.
-
-775
-00:38:14,150 --> 00:38:15,289
-There will be a detail in this form.
-
-776
-00:38:15,570 --> 00:38:17,590
-There will be your student name, photo and gender.
-
-777
-00:38:17,710 --> 00:38:19,690
-Fill one student form, Anjali.
-
-778
-00:38:20,469 --> 00:38:21,469
-We have checked this.
-
-779
-00:38:22,769 --> 00:38:23,690
-Sir has filled this.
-
-780
-00:38:24,369 --> 00:38:25,489
-Yes, I have filled this.
-
-781
-00:38:25,969 --> 00:38:28,230
-I have filled this.
-
-782
-00:38:28,469 --> 00:38:31,610
-This entry will come on your IRP as soon as you fill this entry.
-
-783
-00:38:31,610 --> 00:38:33,469
-If you will pay the payment,
-
-784
-00:38:33,469 --> 00:38:36,630
-then the transaction after the payment will come on this.
-
-785
-00:38:37,369 --> 00:38:38,730
-I will show the transaction.
-
-786
-00:38:39,309 --> 00:38:40,869
-Anjali, open one entry.
-
-787
-00:38:42,230 --> 00:38:44,130
-This has view transactions.
-
-788
-00:38:44,469 --> 00:38:45,769
-Everything is coming on the left side.
-
-789
-00:38:45,909 --> 00:38:47,170
-No transaction has been done yet.
-
-790
-00:38:47,429 --> 00:38:48,829
-You must have filled the over-the-counter one.
-
-791
-00:38:49,369 --> 00:38:50,650
-That you will go to the counter and pay.
-
-792
-00:38:51,170 --> 00:38:53,429
-Click on the admission screen.
-
-793
-00:38:55,400 --> 00:38:56,599
-It is coming here at the bottom.
-
-794
-00:38:57,400 --> 00:39:00,960
-It will only come forward when you will receive the fees of 10,000.
-
-795
-00:39:03,239 --> 00:39:04,320
-This is according to this.
-
-796
-00:39:04,320 --> 00:39:06,360
-In case if a student has paid the fees from the form,
-
-797
-00:39:07,960 --> 00:39:09,460
-then it will show the receipt in the view transaction.
-
-798
-00:39:09,460 --> 00:39:10,840
-It will show the receipt.
-
-799
-00:39:11,460 --> 00:39:14,260
-It will show the receipt here.
-
-800
-00:39:14,500 --> 00:39:15,320
-If you have paid from the form.
-
-801
-00:39:17,030 --> 00:39:18,030
-From online?
-
-802
-00:39:18,829 --> 00:39:19,190
-Yes.
-
-803
-00:39:19,829 --> 00:39:20,530
-And the email comes.
-
-804
-00:39:21,929 --> 00:39:25,130
-Anjali, did we do the email later or after filling the survey?
-
-805
-00:39:26,630 --> 00:39:28,469
-Ma'am, please show me once.
-
-806
-00:39:29,280 --> 00:39:29,880
-I have done it earlier.
-
-807
-00:39:30,139 --> 00:39:32,980
-You fill the form and show me this.
-
-808
-00:39:33,039 --> 00:39:33,800
-The online payment.
-
-809
-00:39:34,119 --> 00:39:36,380
-We will do the transaction and see.
-
-810
-00:39:36,840 --> 00:39:38,139
-Yes, do the transaction.
-
-811
-00:39:38,139 --> 00:39:41,079
-Anjali, please fill the form.
-
-812
-00:39:41,079 --> 00:39:42,179
-Should I do it from the shade?
-
-813
-00:39:43,340 --> 00:39:43,980
-Yes, do it from here.
-
-814
-00:39:58,920 --> 00:40:01,159
-Just fill the mandatory details for now.
-
-815
-00:40:20,690 --> 00:40:21,349
-Anjali sir's email id.
-
-816
-00:40:21,489 --> 00:40:22,010
-Sir, please tell us your email id.
-
-817
-00:40:22,829 --> 00:40:31,380
-My email id is info at the rate acm.edu.in
-
-818
-00:40:31,380 --> 00:40:32,320
-Yes sir.
-
-819
-00:40:32,599 --> 00:40:38,659
-info at the rate acm.edu.in
-
-820
-00:40:40,139 --> 00:40:42,539
-acm.edu.in
-
-821
-00:40:42,539 --> 00:40:42,760
-correct?
-
-822
-00:40:43,340 --> 00:40:44,099
-edu
-
-823
-00:40:44,780 --> 00:40:45,559
-edu
-
-824
-00:40:45,559 --> 00:40:47,320
-e for elephant.
-
-825
-00:40:48,670 --> 00:40:49,210
-edu
-
-826
-00:40:49,210 --> 00:40:49,750
-Is it correct?
-
-827
-00:40:50,250 --> 00:40:51,050
-No, it is not correct.
-
-828
-00:40:51,829 --> 00:40:52,190
-It is correct.
-
-829
-00:40:53,130 --> 00:40:58,090
-I have put a restriction in the Aadhar.
-
-830
-00:40:59,889 --> 00:41:01,349
-It is taking a lot of numbers.
-
-831
-00:41:01,789 --> 00:41:03,789
-Take it to the 12th digit.
-
-832
-00:41:05,650 --> 00:41:07,110
-I have put a restriction in the 12th digit.
-
-833
-00:41:08,250 --> 00:41:10,210
-Otherwise, the children will fill the wrong information.
-
-834
-00:41:10,969 --> 00:41:12,210
-I will note it down.
-
-835
-00:41:16,019 --> 00:41:16,940
-Restriction on hand.
-
-836
-00:41:16,940 --> 00:41:22,309
-I will give you a list of transports.
-
-837
-00:41:22,329 --> 00:41:23,409
-I will give you a list of transports.
-
-838
-00:41:23,809 --> 00:41:26,469
-If it says, yes, please issue the bus number.
-
-839
-00:41:26,469 --> 00:41:26,510
-if it says, yes, please issue the bus number.
-
-840
-00:41:27,449 --> 00:41:28,349
-I will refer it here.
-
-841
-00:41:30,010 --> 00:41:31,809
-Send it to him.
-
-842
-00:41:41,880 --> 00:41:43,639
-Do you have it in the group?
-
-843
-00:41:45,250 --> 00:41:46,010
-yes
-
-844
-00:41:46,170 --> 00:41:48,489
-Share it in the group.
-
-845
-00:41:50,070 --> 00:41:50,869
-Do you have it in the group?
-
-846
-00:41:50,869 --> 00:41:53,909
-If the hostel says yes, then...
-
-847
-00:41:54,579 --> 00:41:56,960
-No, the hostels say yes, but this...
-
-848
-00:41:58,019 --> 00:41:59,519
-I will see later.
-
-849
-00:42:29,519 --> 00:42:32,039
-I don't know exactly, I'll show you how much it is.
-
-850
-00:42:32,820 --> 00:42:34,440
-Whose charges are these?
-
 851
-00:42:34,760 --> 00:42:36,960
-These are the charges for the payment gateway of the bank.
+00:32:25,599 --> 00:32:27,059
+Yes, there are four installments for that too.
 
 852
-00:42:37,619 --> 00:42:39,159
-Isn't it more than 10,000?
+00:32:27,960 --> 00:32:31,819
+But as we are talking about bus number and this route,
 
 853
-00:42:40,860 --> 00:42:41,960
-One minute, let me check.
+00:32:32,140 --> 00:32:33,900
+we do not have that division yet.
 
 854
-00:42:42,659 --> 00:42:44,420
-We don't have any charges for that.
+00:32:34,640 --> 00:32:36,940
+But we have to get it done.
 
 855
-00:42:44,739 --> 00:42:46,139
-That's what I was asking once.
+00:32:37,440 --> 00:32:39,299
+We will provide this, ma'am.
 
 856
-00:42:46,679 --> 00:42:48,219
-Sir, please tell us once.
+00:32:39,680 --> 00:32:41,680
+We will provide this data through transport in charge.
 
 857
-00:42:49,019 --> 00:42:53,519
-No, so ma'am, the charges you are taking with me on the razor,
+00:32:42,779 --> 00:32:44,700
+The routes running in front of us,
 
 858
-00:42:53,860 --> 00:42:54,900
-at what rate, what will it take?
+00:32:44,819 --> 00:32:46,299
+the route wise and their stoppings,
 
 859
-00:42:55,199 --> 00:42:56,420
-Please share with me once.
+00:32:46,400 --> 00:32:47,920
+you also mention that in that.
 
 860
-00:42:56,420 --> 00:42:57,800
-No problem, I'll share the details.
+00:32:47,960 --> 00:32:49,759
+It is simple.
 
 861
-00:42:58,099 --> 00:42:58,900
-Actually, I don't have it.
+00:32:49,900 --> 00:32:50,799
+I will share the sample Excel.
 
 862
-00:42:58,960 --> 00:42:59,699
-I got it from them.
+00:32:51,420 --> 00:32:53,480
+I will share the sample Excel like this.
 
 863
-00:43:00,159 --> 00:43:02,400
-So I'll share the proper details with you.
+00:32:54,680 --> 00:32:56,099
+You will give the particular charges.
 
 864
-00:43:02,440 --> 00:43:03,260
-This is a test.
+00:32:57,000 --> 00:32:57,819
+Share those respective charges.
 
 865
-00:43:04,340 --> 00:43:07,440
-And will you also try to make it competitive, ma'am?
+00:32:58,599 --> 00:32:59,779
+They will be prepared easily.
 
 866
-00:43:07,840 --> 00:43:09,900
-Yes, I'll show you how it is once.
+00:33:00,059 --> 00:33:01,200
+We will import so much time.
 
 867
-00:43:09,940 --> 00:43:11,300
-She will have a discussion for it.
+00:33:02,039 --> 00:33:03,599
+Secondly, the accounts,
 
 868
-00:43:12,900 --> 00:43:14,780
-Because there is a problem with the gateway, ma'am.
+00:33:04,839 --> 00:33:06,640
+if it is Excel,
 
 869
-00:43:14,960 --> 00:43:16,539
-Otherwise, our bank has its own gateway.
+00:33:06,859 --> 00:33:08,839
+then you tell us in which forum it is.
 
 870
-00:43:17,659 --> 00:43:19,380
-Otherwise, we will do it with our own gateway.
+00:33:08,920 --> 00:33:12,039
+Or we will provide it in the form that is downloaded.
 
 871
-00:43:20,039 --> 00:43:21,000
-Because we won't charge so much.
+00:33:12,519 --> 00:33:13,599
+You are talking about the accounting module?
 
 872
-00:43:24,110 --> 00:43:26,030
-No problem, sir, she will discuss it once.
+00:33:13,960 --> 00:33:15,119
+Yes, the accounts.
 
 873
-00:43:26,030 --> 00:43:26,090
-Yes, I'll share the details with you.
+00:33:15,380 --> 00:33:16,700
+The data that you need of the student,
 
 874
-00:43:26,889 --> 00:43:32,650
-I'll have a proper discussion with the ones I got from them.
+00:33:17,220 --> 00:33:18,059
+is it in that?
 
 875
-00:43:33,190 --> 00:43:33,230
-Yes, ma'am.
+00:33:18,059 --> 00:33:21,420
+Or the download that we have,
 
 876
-00:43:33,230 --> 00:43:35,590
-In that, all your charges are there,
+00:33:21,700 --> 00:33:24,160
+we will download it from Excel and mail it to you.
 
 877
-00:43:35,670 --> 00:43:36,809
-whatever your credit card charges are,
+00:33:24,500 --> 00:33:25,099
+You can also do that.
 
 878
-00:43:36,949 --> 00:43:38,210
-whatever the charges are.
+00:33:25,680 --> 00:33:28,880
+Sir, that is more easy.
 
 879
-00:43:39,590 --> 00:43:40,849
-Yes, I'll tell you that.
+00:33:28,880 --> 00:33:30,740
+The data that is already in our software,
 
 880
-00:43:41,170 --> 00:43:42,369
-It shows like this.
+00:33:30,839 --> 00:33:32,220
+we can fetch it.
 
 881
-00:43:42,510 --> 00:43:44,710
-Scan it and do it like this.
+00:33:32,480 --> 00:33:34,119
+That is also better.
 
 882
-00:43:46,159 --> 00:43:47,599
-The test mode is coming up.
+00:33:34,559 --> 00:33:36,160
+The student data will be managed.
 
 883
-00:43:47,679 --> 00:43:48,440
-UPI.
+00:33:36,500 --> 00:33:38,440
+There is transport, fees,
 
 884
-00:43:56,329 --> 00:43:58,730
-She won't scan it now, Anjali.
+00:33:38,779 --> 00:33:40,839
+it is needed that we get the exact amount
 
 885
-00:43:58,730 --> 00:44:00,389
-After scanning it, sir,
+00:33:40,839 --> 00:33:41,700
+as it can be imported.
 
 886
-00:44:00,750 --> 00:44:02,889
-she goes to the payment and gets the payment.
+00:33:42,480 --> 00:33:43,460
+The student data is done.
 
 887
-00:44:03,349 --> 00:44:04,949
-Because it will be scanned now.
+00:33:43,579 --> 00:33:45,180
+The reg number of the child should be unique.
 
 888
-00:44:06,550 --> 00:44:08,670
-After scanning the amount, the amount is deducted.
+00:33:46,119 --> 00:33:48,339
+The data that you will get,
 
 889
-00:44:08,949 --> 00:44:11,030
-And after that, it is redirected there.
+00:33:48,839 --> 00:33:50,180
+whether it is of transport,
 
 890
-00:44:11,510 --> 00:44:12,530
-No, the receipt.
+00:33:51,000 --> 00:33:51,880
+it is also of hostel.
 
 891
-00:44:12,989 --> 00:44:15,269
-I was wondering how you will show the test receipt
+00:33:52,299 --> 00:33:53,559
+And that is accurate.
 
 892
-00:44:15,269 --> 00:44:17,150
-that you must have made.
+00:33:54,539 --> 00:33:55,019
+Okay.
 
 893
-00:44:18,230 --> 00:44:20,349
-What you are saying is,
+00:33:55,019 --> 00:33:55,420
+Okay.
 
 894
-00:44:20,449 --> 00:44:21,409
-after taking 10,000,
+00:33:57,500 --> 00:33:59,619
+Just one minute, ma'am.
 
 895
-00:44:21,750 --> 00:44:24,730
-the forward of the fee registration will come to you.
+00:34:00,240 --> 00:34:01,319
+The data that we have,
 
 896
-00:44:24,809 --> 00:44:25,829
-How does it look?
+00:34:01,339 --> 00:34:03,279
+we have an admission number
 
 897
-00:44:26,110 --> 00:44:26,670
-Show that.
+00:34:03,279 --> 00:34:05,160
+and a university roll number.
 
 898
-00:44:26,670 --> 00:44:26,869
+00:34:06,160 --> 00:34:06,880
 Okay.
 
 899
-00:44:27,070 --> 00:44:28,590
-How will the transaction be?
+00:34:07,180 --> 00:34:08,659
+Both these parts will be included
 
 900
-00:44:29,210 --> 00:44:29,389
-Okay.
+00:34:08,659 --> 00:34:09,599
+and it will continue.
 
 901
-00:44:29,750 --> 00:44:30,250
-Go to ERP.
+00:34:09,960 --> 00:34:10,300
+We will tell you the series
 
 902
-00:44:30,710 --> 00:44:32,250
-How will the show be in the registration receipt?
+00:34:10,300 --> 00:34:12,019
+of the new admissions that we are taking.
 
 903
-00:44:33,789 --> 00:44:34,730
-Yes, go to ERP.
+00:34:13,340 --> 00:34:15,139
+It will start from the 26th.
 
 904
-00:44:35,769 --> 00:44:37,869
-This will be done in dummy.
+00:34:15,539 --> 00:34:17,099
+Whatever the registration will be,
 
 905
-00:44:38,610 --> 00:44:39,869
-Yes, I'll show it in dummy.
+00:34:17,099 --> 00:34:18,980
+their numbers will also be included in the series.
 
 906
-00:44:41,030 --> 00:44:41,969
-Not this, sir.
+00:34:20,000 --> 00:34:21,380
+Okay, ma'am.
 
 907
-00:44:41,969 --> 00:44:42,989
-Not this, Anjali.
+00:34:21,380 --> 00:34:22,559
+Sir, you told us two numbers.
 
 908
+00:34:22,880 --> 00:34:24,280
+One is the university registration number
+
+909
+00:34:24,280 --> 00:34:25,519
+and the other is the university roll number.
+
+910
+00:34:29,519 --> 00:34:31,260
+Sir, only admission number
+
+911
+00:34:31,260 --> 00:34:33,719
+and university roll number.
+
+912
+00:34:34,900 --> 00:34:35,719
+In the primary case,
+
+913
+00:34:36,500 --> 00:34:37,739
+we have three options.
+
+914
+00:34:38,320 --> 00:34:39,440
+The admission number is in the primary case.
+
+915
+00:34:39,940 --> 00:34:40,199
+Yes.
+
+916
+00:34:41,840 --> 00:34:44,679
+Because when the student is confirmed,
+
+917
+00:34:44,679 --> 00:34:46,019
+you will get the roll number from the registrar's office.
+
+918
+00:34:46,699 --> 00:34:47,340
+Okay.
+
+919
+00:34:47,340 --> 00:34:50,460
+That will be in the data that you will share.
+
+920
+00:34:52,460 --> 00:34:53,460
+Registration number.
+
+921
+00:34:53,960 --> 00:34:54,260
+Okay, sir.
+
+922
+00:34:54,619 --> 00:34:55,659
+Send the student data once.
+
+923
+00:34:55,860 --> 00:35:00,039
+We have also included sample excel in the mail.
+
+924
+00:35:00,039 --> 00:35:01,679
+If you want to see.
+
+925
+00:35:01,860 --> 00:35:03,619
+The mail will be shared with you.
+
+926
+00:35:03,920 --> 00:35:05,380
+The mail id is with you.
+
+927
+00:35:05,980 --> 00:35:07,280
+It was with you and Meenakshi ma'am.
+
+928
+00:35:07,880 --> 00:35:08,440
+Okay.
+
+929
+00:35:09,300 --> 00:35:09,599
+Okay.
+
+930
+00:35:10,559 --> 00:35:12,980
+We have also shared the document.
+
+931
+00:35:13,739 --> 00:35:15,519
+We want some modules
+
+932
+00:35:15,519 --> 00:35:16,659
+that are timely implemented.
+
+933
+00:35:17,079 --> 00:35:18,559
+It will be suitable for you to see
+
+934
+00:35:18,559 --> 00:35:19,559
+and make changes.
+
+935
+00:35:20,699 --> 00:35:22,119
+You can see that once.
+
+936
+00:35:22,539 --> 00:35:23,760
+Update the dates on it.
+
+937
+00:35:23,900 --> 00:35:26,739
+When can we expect training and all that.
+
+938
+00:35:27,539 --> 00:35:28,219
+Okay.
+
+939
+00:35:28,599 --> 00:35:31,159
+And I will share the sample excel
+
+940
+00:35:31,159 --> 00:35:33,519
+of transport and a hostel
+
+941
+00:35:33,519 --> 00:35:34,719
+with you.
+
+942
+00:35:35,219 --> 00:35:36,820
+If you want to run it with your partner,
+
+943
+00:35:37,559 --> 00:35:38,099
+you can share both.
+
+944
+00:35:38,539 --> 00:35:40,199
+Basically, the whole hostel will be set up.
+
+945
+00:35:40,440 --> 00:35:42,420
+Not only fees, you will get everything.
+
+946
+00:35:42,420 --> 00:35:43,440
+Okay.
+
+947
+00:35:44,099 --> 00:35:44,519
+Okay.
+
+948
+00:35:46,599 --> 00:35:47,840
+Okay.
+
+949
+00:35:47,840 --> 00:35:48,340
+Just one minute.
+
+950
+00:35:49,099 --> 00:35:50,460
+Let's complete.
+
+951
+00:35:52,099 --> 00:35:54,260
+The registration form
+
+952
+00:35:54,260 --> 00:35:55,380
+you have given.
+
+953
+00:35:56,519 --> 00:35:57,619
+We have integrated it.
+
+954
+00:35:57,980 --> 00:35:58,860
+We will see how it looks.
+
+955
+00:35:59,900 --> 00:36:00,219
+Yes.
+
+956
+00:36:01,019 --> 00:36:02,260
+Okay.
+
+957
+00:36:02,599 --> 00:36:04,460
+Sir, we thought about
+
+958
+00:36:04,460 --> 00:36:05,539
+meeting the whole admission team.
+
+959
+00:36:08,059 --> 00:36:08,679
+Sir,
+
+960
+00:36:38,679 --> 00:36:43,260
+Let's show it once. Anjali, would you please share the screen of the form and the ERP?
+
+961
+00:36:44,429 --> 00:36:49,139
+Tell me how to do it and how the data will be sent to us via email.
+
+962
+00:36:50,059 --> 00:36:51,539
+Sir, Vivek sir.
+
+963
+00:36:51,539 --> 00:36:51,739
+Yes.
+
+964
+00:36:52,300 --> 00:36:53,960
+We have to show them the modern marketing.
+
+965
+00:36:54,460 --> 00:36:57,780
+When our registration is complete, then we will do their training.
+
+966
+00:36:58,960 --> 00:37:03,599
+After the registration of the form, the fees will start coming to you.
+
+967
+00:37:03,719 --> 00:37:04,719
+After that, we will do their training.
+
+968
+00:37:04,719 --> 00:37:10,760
+Sir, we are talking about our new student.
+
+969
+00:37:13,019 --> 00:37:17,179
+Sir, the first part of the new student comes when we have to pay the fees.
+
+970
+00:37:17,800 --> 00:37:22,579
+But until the data comes, how will you pay the fees?
+
+971
+00:37:22,699 --> 00:37:24,400
+Sir, you will understand.
+
+972
+00:37:24,639 --> 00:37:27,079
+We have made the registration form and given it to them.
+
+973
+00:37:27,300 --> 00:37:28,280
+Yes, we have given it to them.
+
+974
+00:37:28,280 --> 00:37:30,800
+We have given marketing to them but they are not able to pay the fees.
+
+975
+00:37:31,579 --> 00:37:33,440
+Sir, that is the purpose of our module.
+
+976
+00:37:34,760 --> 00:37:39,599
+We want to say that we should get to know how the director is working.
+
+977
+00:37:40,940 --> 00:37:42,139
+Yes, yes, the payment is not going.
+
+978
+00:37:42,699 --> 00:37:44,820
+Please tell us how to show the registration.
+
+979
+00:37:45,820 --> 00:37:48,519
+Sir, we have this form.
+
+980
+00:37:49,280 --> 00:37:50,360
+Anjali, show the form.
+
+981
+00:37:51,079 --> 00:37:53,099
+We have put it in a test gate.
+
+982
+00:37:53,099 --> 00:37:58,719
+We have put it in a test gate so that you can test it according to you.
+
+983
+00:37:58,760 --> 00:38:00,840
+The day you say live, it will be live.
+
+984
+00:38:01,699 --> 00:38:04,559
+Live means the actual payment is going to be deducted from it.
+
+985
+00:38:06,559 --> 00:38:07,780
+Anjali, leave it.
+
+986
+00:38:10,710 --> 00:38:11,750
+We have this form.
+
+987
+00:38:13,110 --> 00:38:17,610
+In this form, there will be a detail of your student's name, photo and gender.
+
+988
+00:38:17,710 --> 00:38:19,050
+Anjali, fill one student form.
+
+989
+00:38:20,369 --> 00:38:22,750
+We have checked this.
+
+990
+00:38:22,750 --> 00:38:24,389
+Sir has filled this form with me.
+
+991
+00:38:24,750 --> 00:38:25,909
+Yes, I have filled this form.
+
+992
+00:38:25,989 --> 00:38:28,070
+I have filled this form.
+
+993
+00:38:28,510 --> 00:38:31,349
+Sir, this entry will come on your IERP as soon as you fill this form.
+
+994
+00:38:31,769 --> 00:38:36,150
+If you will do the payment, then after the payment, the entire transaction will come.
+
+995
+00:38:37,429 --> 00:38:38,769
+I will show you the transaction.
+
+996
+00:38:39,309 --> 00:38:40,869
+Anjali, open one entry.
+
+997
+00:38:42,670 --> 00:38:44,409
+There was a view transaction in this.
+
+998
+00:38:44,409 --> 00:38:45,610
+You are getting everything on the left side.
+
+999
+00:38:45,889 --> 00:38:47,130
+No one has done the transaction till now.
+
+1000
+00:38:47,349 --> 00:38:50,670
+You must have filled the over-the-counter form that you will go to the counter and pay.
+
+1001
+00:38:50,670 --> 00:38:53,550
+Click on the admission screen.
+
+1002
+00:38:55,559 --> 00:38:56,519
+It is coming in the bottom.
+
+1003
+00:38:57,219 --> 00:39:01,019
+It will only come forward when you will receive the fees of Rs. 10,000.
+
+1004
+00:39:03,380 --> 00:39:03,900
+This is according.
+
+1005
+00:39:04,380 --> 00:39:09,679
+In case if a student has filled the form, then he will show the receipt in the view transaction.
+
+1006
+00:39:12,719 --> 00:39:15,380
+He will show the receipt here if you have done the payment with the form.
+
+1007
+00:39:17,449 --> 00:39:18,090
+Online.
+
+1008
+00:39:18,969 --> 00:39:25,130
+Anjali, did we do the email later or after filling the survey?
+
+1009
+00:39:26,590 --> 00:39:28,630
+Ma'am, please show me once.
+
+1010
+00:39:28,630 --> 00:39:29,880
+I have done it earlier.
+
+1011
+00:39:30,360 --> 00:39:33,800
+Please fill the form and show me the online payment.
+
+1012
+00:39:34,159 --> 00:39:36,400
+We will do the transaction and see.
+
+1013
+00:39:36,880 --> 00:39:38,159
+Yes, do the transaction.
+
+1014
+00:39:38,300 --> 00:39:39,019
+It is posted.
+
+1015
+00:39:39,320 --> 00:39:40,380
+Anjali, do it.
+
+1016
+00:39:41,059 --> 00:39:42,179
+Should I do it with the sheet?
+
+1017
+00:39:43,139 --> 00:39:43,980
+Do it from here.
+
+1018
+00:39:43,980 --> 00:40:01,599
+Just fill the mandatory details for now.
+
+1019
+00:40:20,090 --> 00:40:22,389
+Anjali, please tell me your email id.
+
+1020
+00:40:22,750 --> 00:40:31,179
+My email id is info at the rate acm.edu.in.
+
+1021
+00:40:31,639 --> 00:40:32,280
+Yes, sir.
+
+1022
+00:40:32,460 --> 00:40:38,800
+info at the rate acm.edu.in.
+
+1023
+00:40:39,860 --> 00:40:42,239
+acm.edu.in.
+
+1024
+00:40:43,119 --> 00:40:44,300
+E-D-U.
+
+1025
+00:40:44,460 --> 00:40:45,480
+E-D-U.
+
+1026
+00:40:45,719 --> 00:40:47,079
+E for elephant.
+
+1027
+00:40:48,030 --> 00:40:49,130
+E-D-U.
+
+1028
+00:40:49,130 --> 00:40:50,110
+Is it OK, sir?
+
+1029
+00:40:50,329 --> 00:40:51,050
+No, it's not OK.
+
+1030
+00:40:51,829 --> 00:40:53,130
+It's OK now.
+
+1031
+00:40:57,909 --> 00:41:04,829
+The restriction is applied on the basis of the number and 12 digits is taken as the limit.
+
+1032
+00:41:05,650 --> 00:41:06,869
+The restriction is applied on 12 digits.
+
+1033
+00:41:08,369 --> 00:41:10,190
+Otherwise, children will give you wrong information.
+
+1034
+00:41:11,070 --> 00:41:12,409
+I will note it.
+
+1035
+00:41:15,960 --> 00:41:16,820
+Restriction on hand.
+
+1036
+00:42:30,159 --> 00:42:32,480
+I don't know if you know, I'll show you, I mean, how much is it?
+
+1037
+00:42:32,699 --> 00:42:34,380
+Whose charges are these?
+
+1038
+00:42:34,780 --> 00:42:36,960
+Sir, these are the charges of the payment gateway of the bank.
+
+1039
+00:42:37,679 --> 00:42:39,119
+Mom, isn't it more than 10,000?
+
+1040
+00:42:40,920 --> 00:42:41,940
+One minute, let me check.
+
+1041
+00:42:42,659 --> 00:42:44,300
+We don't have any charges on it.
+
+1042
+00:42:44,579 --> 00:42:46,179
+That's what I was asking once.
+
+1043
+00:42:46,599 --> 00:42:48,139
+Sir, tell him once.
+
+1044
+00:42:48,920 --> 00:42:49,079
+You didn't?
+
+1045
+00:42:50,340 --> 00:42:54,739
+No, so ma'am, the charges you are taking on the razor with me, what will it take at what rate?
+
+1046
+00:42:55,239 --> 00:42:56,420
+Please share with me once.
+
+1047
+00:42:56,440 --> 00:42:57,400
+No, I will share the details.
+
+1048
+00:42:57,400 --> 00:42:59,019
+Actually, I don't have it.
+
+1049
+00:42:59,280 --> 00:42:59,940
+I got it from him.
+
+1050
+00:43:00,199 --> 00:43:02,280
+So I will share all the property details with you.
+
+1051
+00:43:04,260 --> 00:43:07,500
+And we will also try to make it competitive, ma'am.
+
+1052
+00:43:08,019 --> 00:43:09,980
+Yes, I will show you how it is.
+
+1053
+00:43:09,980 --> 00:43:11,300
+She will have a discussion with him.
+
+1054
+00:43:13,099 --> 00:43:14,800
+Because there is a gateway issue, ma'am.
+
+1055
+00:43:14,960 --> 00:43:16,539
+Otherwise, our bank has its own gateway.
+
+1056
+00:43:17,699 --> 00:43:19,380
+Otherwise, we will do it from our own gateway.
+
+1057
+00:43:20,059 --> 00:43:21,000
+Because we will not charge so much.
+
+1058
+00:43:24,150 --> 00:43:25,030
+No problem, sir.
+
+1059
+00:43:25,030 --> 00:43:26,050
+She will discuss it once.
+
+1060
+00:43:26,050 --> 00:43:26,070
+Yes, I will share the details.
+
+1061
+00:43:26,809 --> 00:43:32,889
+I will have a proper discussion with the ones I have set up.
+
+1062
+00:43:33,130 --> 00:43:33,230
+Yes, ma'am.
+
+1063
+00:43:33,230 --> 00:43:35,570
+In that, all your charges are there.
+
+1064
+00:43:35,750 --> 00:43:36,789
+Your credit card charges.
+
+1065
+00:43:37,030 --> 00:43:38,250
+Whatever charges you want.
+
+1066
+00:43:39,570 --> 00:43:40,909
+Yes, I will tell you.
+
+1067
+00:43:40,909 --> 00:43:42,349
+It shows like this.
+
+1068
+00:43:42,530 --> 00:43:44,710
+Scan it and do it like this.
+
+1069
+00:43:46,119 --> 00:43:47,599
+The test mode is coming up.
+
+1070
+00:43:47,659 --> 00:43:48,440
+UPI.
+
+1071
+00:43:56,349 --> 00:43:58,010
+Anjali will not scan it now.
+
+1072
+00:43:58,010 --> 00:44:00,329
+She will scan it, sir.
+
+1073
+00:44:00,710 --> 00:44:01,449
+After that, she will go to the payment.
+
+1074
+00:44:01,909 --> 00:44:02,789
+I mean, the payment is done.
+
+1075
+00:44:03,269 --> 00:44:04,769
+Because it will be scanned now.
+
+1076
+00:44:06,710 --> 00:44:08,690
+After scanning the amount, the amount is deducted.
+
+1077
+00:44:08,909 --> 00:44:11,409
+And after that, it is redirected.
+
+1078
+00:44:11,409 --> 00:44:12,510
+No, the receipt.
+
+1079
+00:44:13,050 --> 00:44:13,869
+I had a question.
+
+1080
+00:44:14,090 --> 00:44:15,190
+How will you show the test receipt?
+
+1081
+00:44:16,369 --> 00:44:17,110
+The one you must have made.
+
+1082
+00:44:18,869 --> 00:44:21,409
+Sir, he is saying that after taking 10,000.
+
+1083
+00:44:21,750 --> 00:44:23,690
+The form that will come to you.
+
+1084
+00:44:23,789 --> 00:44:24,550
+Of the fee registration.
+
+1085
+00:44:25,210 --> 00:44:25,809
+How does it look?
+
+1086
+00:44:25,809 --> 00:44:26,670
+Show me that.
+
+1087
+00:44:26,670 --> 00:44:28,610
+How will the transaction be?
+
+1088
+00:44:29,670 --> 00:44:30,289
+Go to ERP.
+
+1089
+00:44:30,550 --> 00:44:32,250
+How will the show be in the registration receipt?
+
+1090
+00:44:34,190 --> 00:44:34,730
+Go to ERP.
+
+1091
+00:44:35,570 --> 00:44:37,610
+This will be done in dummy.
+
+1092
+00:44:38,630 --> 00:44:39,869
+Yes, show it in dummy.
+
+1093
+00:44:41,050 --> 00:44:41,949
+Not this, sir.
+
+1094
+00:44:41,949 --> 00:44:42,989
+Not this, Anjali.
+
+1095
 00:44:43,010 --> 00:44:43,449
 Go to admission.
 
-909
-00:44:44,889 --> 00:44:45,570
-Admission.
-
-910
-00:44:45,780 --> 00:44:46,679
+1096
+00:44:45,940 --> 00:44:46,659
 Admission data.
 
-911
-00:44:46,840 --> 00:44:47,659
-Go to application data.
-
-912
-00:44:48,320 --> 00:44:49,480
+1097
+00:44:48,000 --> 00:44:49,539
 Ma'am, won't it be checked with one rupee?
 
-913
-00:44:50,500 --> 00:44:51,519
+1098
+00:44:50,480 --> 00:44:51,500
 Sir, it is fixed.
 
-914
+1099
 00:44:52,239 --> 00:44:53,500
 It won't be checked with one rupee.
 
-915
-00:44:54,039 --> 00:44:55,659
-Because the amount was fixed on it.
+1100
+00:44:53,500 --> 00:44:54,159
+It won't be checked with one rupee.
 
-916
-00:44:55,659 --> 00:44:56,679
-The amount was fixed on it.
+1101
+00:44:54,159 --> 00:44:55,800
+Because the amount that was fixed on it.
 
-917
-00:44:56,679 --> 00:44:57,300
-It is not edited.
+1102
+00:44:56,539 --> 00:44:57,059
+It won't be edited.
 
-918
-00:44:59,280 --> 00:44:59,800
-Vivek sir.
-
-919
-00:45:00,239 --> 00:45:01,699
+1103
+00:44:59,179 --> 00:45:01,659
 Sir, don't fix it.
 
-920
-00:45:03,679 --> 00:45:05,059
-I am saying that
+1104
+00:45:02,880 --> 00:45:03,599
+Sir, don't fix it.
 
-921
-00:45:05,059 --> 00:45:06,900
-why have we fixed it on 10,000?
+1105
+00:45:03,599 --> 00:45:04,940
+I am saying the same thing.
 
-922
-00:45:07,460 --> 00:45:09,440
-There should be a variation in it.
+1106
+00:45:05,119 --> 00:45:06,800
+Why have we fixed it on 10,000?
 
-923
-00:45:11,869 --> 00:45:14,179
+1107
+00:45:07,460 --> 00:45:08,880
+There should be a variation.
+
+1108
+00:45:09,480 --> 00:45:09,599
+Okay.
+
+1109
+00:45:11,889 --> 00:45:14,159
 Don't skip it.
 
-924
+1110
 00:45:14,260 --> 00:45:14,860
 Anjali, you have to pay.
 
-925
-00:45:18,800 --> 00:45:19,800
-Pay it.
+1111
+00:45:18,800 --> 00:45:20,360
+Pay it and save.
 
-926
-00:45:19,920 --> 00:45:20,340
-Save.
-
-927
+1112
 00:45:25,530 --> 00:45:26,250
 It will be saved like this.
 
-928
-00:45:29,800 --> 00:45:31,260
+1113
+00:45:29,739 --> 00:45:31,260
 Sir, this type of receipt is cut.
 
-929
-00:45:31,579 --> 00:45:32,719
-It will also have the same receipt.
-
-930
-00:45:33,900 --> 00:45:34,579
-It is the receipt.
-
-931
-00:45:34,699 --> 00:45:35,760
-Cancel it.
-
-932
-00:45:39,849 --> 00:45:40,409
-Cancel.
-
-933
-00:45:40,949 --> 00:45:41,590
-Now show it in the transaction
-
-934
-00:45:41,590 --> 00:45:43,130
-which is cut by the student.
-
-935
-00:45:43,349 --> 00:45:44,250
-It will start in the admission transaction.
-
-936
-00:45:45,010 --> 00:45:45,530
-Not here.
-
-937
-00:45:45,530 --> 00:45:46,250
-Not here.
-
-938
-00:45:46,369 --> 00:45:47,130
-In the admission,
-
-939
-00:45:47,269 --> 00:45:49,010
-open the application of the student.
-
-940
-00:45:55,760 --> 00:45:56,579
-Here is the transaction.
-
-941
-00:45:57,079 --> 00:45:58,360
-Sir, the transaction will come here.
-
-942
-00:45:59,019 --> 00:45:59,860
-Don't print it now.
-
-943
-00:46:00,079 --> 00:46:00,960
-It will come in the admission transaction.
-
-944
-00:46:01,400 --> 00:46:01,880
-It comes like this.
-
-945
-00:46:04,300 --> 00:46:05,800
-Our logo is not being displayed.
-
-946
-00:46:05,980 --> 00:46:06,960
-Ma'am, I want to see it once.
-
-947
-00:46:07,280 --> 00:46:08,480
-No, it is not available now.
-
-948
-00:46:08,760 --> 00:46:09,699
-Share it in the group.
-
-949
-00:46:10,659 --> 00:46:11,940
-Because sir, you had formed it.
-
-950
-00:46:12,300 --> 00:46:13,199
-The information of that form
-
-951
-00:46:13,199 --> 00:46:14,019
-does not come to everyone.
-
-952
-00:46:14,019 --> 00:46:15,119
-It was your documents.
-
-953
-00:46:17,619 --> 00:46:18,139
-We have to adjust.
-
-954
-00:46:18,400 --> 00:46:20,719
-Sir, look at the receipt for the fee.
-
-955
-00:46:21,000 --> 00:46:21,780
-We have to make some changes.
-
-956
-00:46:22,960 --> 00:46:23,980
-Sir, in this,
-
-957
-00:46:24,000 --> 00:46:25,159
-cash is being written.
-
-958
-00:46:25,260 --> 00:46:26,480
-First of all, we were doing it online.
-
-959
-00:46:27,239 --> 00:46:28,139
-Sir, if you do it online,
-
-960
-00:46:28,619 --> 00:46:29,360
-it will be written online.
-
-961
-00:46:29,679 --> 00:46:30,280
-This is what I have done.
-
-962
-00:46:31,159 --> 00:46:32,559
-So, it is okay.
-
-963
-00:46:33,039 --> 00:46:33,780
-The rest are details.
-
-964
-00:46:33,940 --> 00:46:34,579
-This is the receipt number.
-
-965
-00:46:34,940 --> 00:46:37,139
-Your admission number will be automatically caught.
-
-966
-00:46:38,539 --> 00:46:39,199
-So, one minute.
-
-967
-00:46:39,500 --> 00:46:41,500
-Sir, when this receipt comes,
-
-968
-00:46:41,619 --> 00:46:42,199
-we will fetch it.
-
-969
-00:46:42,199 --> 00:46:43,860
-After that, the admission number will be created.
-
-970
-00:46:45,269 --> 00:46:45,570
-No, sir.
-
-971
-00:46:45,829 --> 00:46:45,929
-We will see.
-
-972
-00:46:46,110 --> 00:46:47,630
-Yes, the admission number will come after that.
-
-973
-00:46:47,869 --> 00:46:48,849
-This is just...
-
-974
-00:46:48,849 --> 00:46:51,530
-This is going to be a token, right?
-
-975
-00:46:51,889 --> 00:46:52,429
-Yes.
-
-976
-00:46:53,409 --> 00:46:53,889
-So, in this,
-
-977
-00:46:54,210 --> 00:46:55,210
-the payment mode is visible.
-
-978
-00:46:55,250 --> 00:46:56,590
-Instrument, instrument number.
-
-979
-00:46:57,230 --> 00:46:57,710
-This is the date.
-
-980
-00:46:59,750 --> 00:47:01,190
-And in this...
-
-981
-00:47:01,190 --> 00:47:02,250
-Sir, but in this,
-
-982
-00:47:02,630 --> 00:47:03,449
-student name is there.
-
-983
-00:47:04,269 --> 00:47:04,710
-Everything is fine.
-
-984
-00:47:05,429 --> 00:47:07,110
-Sir, this form number is the same.
-
-985
-00:47:07,349 --> 00:47:10,289
-The form number from which the application is done,
-
-986
-00:47:10,289 --> 00:47:10,969
-it will be written on it.
-
-987
-00:47:11,190 --> 00:47:11,849
-This is the form number.
-
-988
-00:47:12,630 --> 00:47:14,389
-Even the application that goes to the child,
-
-989
-00:47:14,429 --> 00:47:14,989
-that will also go.
-
-990
-00:47:15,210 --> 00:47:16,170
-I mean, a printable form.
-
-991
-00:47:16,309 --> 00:47:17,170
-So, when this is done,
-
-992
-00:47:17,309 --> 00:47:19,070
-it will be shown in the accounts after that.
-
-993
-00:47:19,090 --> 00:47:20,210
-Yes, it will be shown in the accounts.
-
-994
-00:47:20,469 --> 00:47:21,449
-This will not be shown to the child.
-
-995
-00:47:22,250 --> 00:47:23,869
-And the registration form that is made,
-
-996
-00:47:23,989 --> 00:47:25,170
-will that also be shown to us?
-
-997
-00:47:25,570 --> 00:47:26,630
-Yes, that can also be done.
-
-998
-00:47:26,949 --> 00:47:28,289
-Cancel it, Anjali.
-
-999
-00:47:28,550 --> 00:47:29,010
-Yes, then it's okay.
-
-1000
-00:47:30,130 --> 00:47:31,130
-Ram sir?
-
-1001
-00:47:31,429 --> 00:47:32,250
-Yes, sir.
-
-1002
-00:47:32,429 --> 00:47:32,869
-It will be printed at the end.
-
-1003
-00:47:32,889 --> 00:47:33,469
-Then it's okay.
-
-1004
-00:47:34,210 --> 00:47:35,289
-No, this is okay.
-
-1005
-00:47:35,650 --> 00:47:38,030
-Okay, I just wanted to test it online.
-
-1006
-00:47:38,030 --> 00:47:40,440
-As soon as they make the payment online,
-
-1007
-00:47:42,139 --> 00:47:43,960
-now they are saying that it is not there in the modules.
-
-1008
-00:47:44,179 --> 00:47:46,460
-Otherwise, we had to do this in the lab and see
-
-1009
-00:47:46,460 --> 00:47:51,139
-if the payment slip is coming on our email or not.
-
-1010
-00:47:53,969 --> 00:47:56,550
-Okay, you want to test it on the email.
-
-1011
-00:47:58,230 --> 00:47:59,329
-Now see, ma'am,
-
-1012
-00:47:59,590 --> 00:48:00,750
-as soon as the payment of the off-line is done,
-
-1013
-00:48:01,190 --> 00:48:03,030
-suppose the account has made the payment,
-
-1014
-00:48:03,230 --> 00:48:05,349
-as you just showed the payment of the off-line,
-
-1015
-00:48:06,909 --> 00:48:10,030
-this receipt should be in the account of the email ID mentioned.
-
-1016
-00:48:12,519 --> 00:48:13,599
-If it happens with us,
-
-1017
-00:48:14,099 --> 00:48:15,019
-we don't have to give it to him.
-
-1018
-00:48:15,139 --> 00:48:17,780
-But the receipt should be transferred to his account.
-
-1019
-00:48:17,940 --> 00:48:19,099
-In the student's email?
-
-1020
-00:48:19,539 --> 00:48:20,920
-Yes, in the student's email.
-
-1021
-00:48:20,920 --> 00:48:22,719
-It should be seen in the student's email, ma'am.
-
-1022
-00:48:23,159 --> 00:48:24,300
-Yes, sir, it will go in the student's email.
-
-1023
-00:48:24,860 --> 00:48:26,940
-Sir, what do you want in the student's email?
-
-1024
-00:48:26,940 --> 00:48:27,920
-The receipt should also go to the student's email.
-
-1025
-00:48:28,219 --> 00:48:29,000
-Yes, yes.
-
-1026
-00:48:29,659 --> 00:48:31,320
-It is going to us in the same way.
-
-1027
-00:48:32,219 --> 00:48:34,119
-Okay, so you are saying that the receipt
-
-1028
-00:48:34,119 --> 00:48:34,940
-is also going to the student's email.
-
-1029
-00:48:34,940 --> 00:48:36,000
-In the student's email, sir,
-
-1030
-00:48:36,000 --> 00:48:37,079
-the form will be there,
-
-1031
-00:48:37,139 --> 00:48:38,179
-and it will also be written that
-
-1032
-00:48:38,179 --> 00:48:39,500
-the student has paid like this.
-
-1033
-00:48:40,659 --> 00:48:42,719
-Now the actual receipt has to be collected
-
-1034
-00:48:42,719 --> 00:48:44,480
-from here to the student from the counter
-
-1035
-00:48:44,480 --> 00:48:45,239
-for confirmation.
-
-1036
-00:48:45,840 --> 00:48:47,360
-No, it can't be that it goes to the mail.
-
-1037
-00:48:48,340 --> 00:48:50,059
-Sir, see, sometimes it becomes risky.
-
-1038
-00:48:50,440 --> 00:48:52,260
-By chance, the student has a refund afterwards.
-
-1039
-00:48:52,500 --> 00:48:53,760
-You think about it, sometimes it happens.
-
-1040
-00:48:53,960 --> 00:48:55,260
-You still have the bank,
-
-1041
-00:48:55,440 --> 00:48:56,699
-the bank has taken the money,
-
-1042
-00:48:57,139 --> 00:48:58,179
-but within three days,
-
-1043
-00:48:58,260 --> 00:49:00,699
-it is not confirmed for any explicit reason
-
-1044
-00:49:00,699 --> 00:49:02,199
-and then the refund is going on it.
-
-1045
-00:49:02,360 --> 00:49:03,599
-It must be like this.
-
-1046
-00:49:04,019 --> 00:49:04,659
-No, no.
-
-1047
-00:49:05,099 --> 00:49:06,920
-The amount has gone back.
-
-1048
-00:49:07,760 --> 00:49:08,280
-Yes, this also happens.
-
-1049
-00:49:09,099 --> 00:49:09,360
-The amount has gone back.
-
-1050
-00:49:10,099 --> 00:49:11,619
-What is the problem with that, ma'am?
-
-1051
-00:49:11,699 --> 00:49:12,460
-It gets cancelled.
-
-1052
-00:49:12,780 --> 00:49:14,420
-The problem is, for example,
-
-1053
-00:49:14,559 --> 00:49:16,880
-the student has paid the amount,
-
-1054
-00:49:17,559 --> 00:49:19,780
-so you are getting the receipt from him,
-
-1055
-00:49:19,900 --> 00:49:21,559
-and the receipt should not be generated at that time.
-
-1056
-00:49:22,219 --> 00:49:23,619
-And when the receipt is generated,
-
-1057
-00:49:24,739 --> 00:49:26,000
-then the refund has come afterwards.
-
-1058
-00:49:26,500 --> 00:49:27,500
-Ma'am, he has paid it,
-
-1059
-00:49:27,500 --> 00:49:29,619
-and by chance, if he also does the back,
-
-1060
-00:49:30,159 --> 00:49:32,119
-then our regular receipts
-
-1061
-00:49:32,119 --> 00:49:33,119
-also have a lot of back.
-
-1062
-00:49:33,119 --> 00:49:34,659
-So, we have to make a transaction.
-
-1063
-00:49:35,780 --> 00:49:38,500
-That is a part of accounts.
-
-1064
-00:49:38,920 --> 00:49:39,400
-There is no problem.
-
-1065
-00:49:40,099 --> 00:49:41,039
-There are bounds, checks.
-
-1066
-00:49:41,980 --> 00:49:43,780
-I will discuss this once, sir,
-
-1067
-00:49:44,099 --> 00:49:46,139
-that the receipt is going to the student.
-
-1068
-00:49:46,199 --> 00:49:46,860
-You are saying that the receipt
-
-1069
-00:49:46,860 --> 00:49:48,099
-that the student has paid
-
-1070
-00:49:48,099 --> 00:49:49,179
-is also going to the form.
-
-1071
-00:49:49,480 --> 00:49:51,500
-Whatever he has paid once, ma'am,
-
-1072
-00:49:51,500 --> 00:49:52,059
-it should go.
-
-1073
-00:49:52,260 --> 00:49:53,519
-After that, if it gets cancelled,
-
-1074
-00:49:54,159 --> 00:49:54,940
-then it is a different matter.
-
-1075
-00:49:55,480 --> 00:49:56,099
-It should also be entered.
-
-1076
-00:49:57,900 --> 00:49:58,679
-It is the same thing.
-
-1077
-00:49:59,239 --> 00:50:00,619
-I will see it once.
-
-1078
-00:50:00,840 --> 00:50:01,719
-The receipt is going,
-
-1079
-00:50:01,719 --> 00:50:03,480
-the receipt is not going on the form.
-
-1080
-00:50:04,420 --> 00:50:06,300
-Basically, if we are there, ma'am,
-
-1081
-00:50:06,460 --> 00:50:07,119
-if we have to give the manual,
-
-1082
-00:50:07,840 --> 00:50:08,820
-then we are saying that
-
-1083
-00:50:08,820 --> 00:50:09,980
-we are not completely online.
-
-1084
-00:50:10,639 --> 00:50:11,659
-We have something offline.
-
-1085
-00:50:13,059 --> 00:50:13,840
-Yes, yes, I understood.
-
-1086
-00:50:14,119 --> 00:50:15,219
-The receipt is also basically the same.
-
-1087
-00:50:15,360 --> 00:50:16,960
-Yes, ma'am, generally,
-
-1088
-00:50:17,159 --> 00:50:18,980
-we have told the team also.
-
-1089
-00:50:19,099 --> 00:50:20,659
-Ma'am, your customer base,
-
-1090
-00:50:20,980 --> 00:50:23,059
-I have a continuous discussion with them
-
-1091
-00:50:23,059 --> 00:50:25,480
-that after the registration form,
-
-1092
-00:50:25,500 --> 00:50:26,579
-as soon as the child fills,
-
-1093
-00:50:27,650 --> 00:50:28,670
-he has paid,
-
-1094
-00:50:29,130 --> 00:50:30,550
-then two things will be processed
-
-1095
-00:50:30,550 --> 00:50:31,329
-on his email.
-
-1096
-00:50:31,329 --> 00:50:33,449
-First, the receipt.
-
-1097
-00:50:34,030 --> 00:50:37,289
-Secondly, our digital prospectus.
-
-1098
-00:50:37,289 --> 00:50:38,210
-Yes, prospectus.
-
-1099
-00:50:38,230 --> 00:50:39,090
-Yes, prospectus.
-
-1100
-00:50:39,369 --> 00:50:40,789
-This CD will be diverted on his email.
-
-1101
-00:50:41,590 --> 00:50:42,349
-No problem, sir.
-
-1102
-00:50:42,610 --> 00:50:45,570
-This is what you get me tested.
-
-1103
-00:50:45,690 --> 00:50:47,329
-After this, I will have them lab
-
-1104
-00:50:47,329 --> 00:50:49,289
-our admission team is sitting.
-
-1105
-00:50:50,110 --> 00:50:50,809
-Okay, sir.
-
-1106
-00:50:51,389 --> 00:50:53,050
-And we also have the payment gateway charges.
-
-1107
-00:50:53,530 --> 00:50:54,670
-I mean, the payment gateway charges.
-
-1108
-00:50:55,090 --> 00:50:55,949
-Yes, yes, I told you.
-
-1109
-00:50:56,369 --> 00:50:59,090
-Because until now, such charges
-
-1110
-00:50:59,090 --> 00:50:59,510
-were not kept on our portal.
-
-1111
-00:50:59,510 --> 00:51:02,349
-I mean, now if you fill the online form,
-
-1112
-00:51:03,369 --> 00:51:04,510
-then the total is 10,000.
-
-1113
-00:51:04,989 --> 00:51:06,170
-Yes, ma'am.
-
 1114
-00:51:08,909 --> 00:51:10,230
-There are charges in it, ma'am.
+00:45:31,260 --> 00:45:32,739
+It will have the same receipt.
 
 1115
-00:51:10,329 --> 00:51:10,530
-You listen.
+00:45:34,519 --> 00:45:35,760
+Cancel it.
 
 1116
-00:51:10,769 --> 00:51:11,809
-There are charges in it.
+00:45:38,260 --> 00:45:38,659
+Cancel.
 
 1117
-00:51:13,050 --> 00:51:14,730
-When someone does it with credit card
+00:45:40,889 --> 00:45:41,610
+Show it in the transaction.
 
 1118
-00:51:15,820 --> 00:51:16,760
-or does it with that,
+00:45:42,210 --> 00:45:42,869
+It will be cut by the student.
 
 1119
-00:51:16,760 --> 00:51:18,139
-that too the minimum charge
+00:45:44,210 --> 00:45:45,710
+No, not here.
 
 1120
-00:51:18,139 --> 00:51:19,699
-and as per bank norms,
+00:45:46,469 --> 00:45:47,969
+Open the application in admission.
 
 1121
-00:51:19,860 --> 00:51:20,320
-there are such charges.
+00:45:55,260 --> 00:45:56,599
+Here is the transaction.
 
 1122
-00:51:20,440 --> 00:51:22,119
-But there are no charges like this
+00:45:57,059 --> 00:45:58,360
+Sir, the transaction will come here.
 
 1123
-00:51:22,119 --> 00:51:23,460
-that 15% or 18% of it is charged.
+00:45:59,019 --> 00:45:59,659
+Don't print it.
 
 1124
-00:51:23,780 --> 00:51:24,500
-There are no charges like this.
+00:45:59,880 --> 00:46:00,960
+This is the admission transaction.
 
 1125
-00:51:25,260 --> 00:51:25,820
-Okay.
+00:46:01,300 --> 00:46:01,880
+It comes like this.
 
 1126
-00:51:26,380 --> 00:51:27,840
-Ma'am, you tell me the details.
+00:46:04,360 --> 00:46:05,800
+Our logo is not being displayed.
 
 1127
-00:51:28,360 --> 00:51:29,099
-How is it?
+00:46:05,960 --> 00:46:07,019
+Ma'am, I want to see it.
 
 1128
-00:51:29,099 --> 00:51:30,599
-I will share this.
+00:46:07,019 --> 00:46:08,579
+Thank you.
 
 1129
-00:51:30,920 --> 00:51:31,599
-Actually, I also have to ask.
+00:46:08,780 --> 00:46:09,739
+Share it in the group.
 
 1130
-00:51:32,159 --> 00:51:33,119
-I just got it installed.
+00:46:10,800 --> 00:46:12,019
+Because you had formatted it.
 
 1131
-00:51:33,360 --> 00:51:35,579
-I will ask you and share it with you.
+00:46:12,579 --> 00:46:14,340
+Not everyone has the information of the form.
 
 1132
-00:51:36,840 --> 00:51:38,719
-So ma'am, two things are clear to you.
+00:46:14,340 --> 00:46:15,860
+Your documents go to the same place.
 
 1133
-00:51:39,179 --> 00:51:41,059
-Fees, whether it is an offline payment
+00:46:17,599 --> 00:46:18,340
+We have to adjust it.
 
 1134
-00:51:41,059 --> 00:51:42,980
-or an online payment.
+00:46:18,420 --> 00:46:19,380
+Sir, please check the receipt for the fee.
 
 1135
-00:51:43,079 --> 00:51:45,000
-The receipt will go to the student.
+00:46:21,000 --> 00:46:21,800
+We have to make some changes.
 
 1136
-00:51:45,539 --> 00:51:45,780
-First.
+00:46:23,420 --> 00:46:25,199
+Sir, cash is being written in it.
 
 1137
-00:51:46,480 --> 00:51:46,920
-Arrestation.
+00:46:25,280 --> 00:46:26,599
+We were doing it online.
 
 1138
-00:51:47,159 --> 00:51:47,599
-One minute, sir.
+00:46:27,119 --> 00:46:29,500
+If you do it online, it will be written online.
 
 1139
-00:51:47,599 --> 00:51:49,719
-You will only pay for the offline payment, right?
+00:46:29,659 --> 00:46:30,380
+I have done it online.
 
 1140
-00:51:49,800 --> 00:51:51,380
-I mean, if you have cashed it on the counter.
+00:46:31,659 --> 00:46:32,300
+Okay.
 
 1141
-00:51:52,750 --> 00:51:55,210
-Ma'am, but it shouldn't show on the mail
+00:46:33,400 --> 00:46:34,860
+The receipt number is done.
 
 1142
-00:51:55,210 --> 00:51:56,909
-that he paid today.
+00:46:34,860 --> 00:46:36,800
+The admission number will come automatically.
 
 1143
-00:51:58,400 --> 00:51:59,559
-It will show on the mail.
+00:46:38,719 --> 00:46:39,239
+One minute.
 
 1144
-00:51:59,559 --> 00:52:00,719
-That he is paying over the counter.
+00:46:40,039 --> 00:46:41,519
+When the receipt comes,
 
 1145
-00:52:01,619 --> 00:52:02,960
-Yes, ma'am.
+00:46:41,699 --> 00:46:42,239
+we will fetch it.
 
 1146
-00:52:03,059 --> 00:52:04,559
-It will show on the mail.
+00:46:42,460 --> 00:46:43,840
+After that, the admission number will be created.
 
 1147
-00:52:04,559 --> 00:52:05,780
-That's what they are saying.
+00:46:45,210 --> 00:46:45,550
+No, sir.
 
 1148
-00:52:07,619 --> 00:52:09,519
-Basically, he is taking a hard copy from our counter.
+00:46:46,070 --> 00:46:47,630
+The admission number will come after that.
 
 1149
-00:52:11,079 --> 00:52:12,280
-He is sleeping right now.
+00:46:48,969 --> 00:46:50,849
+This is going to be a token.
 
 1150
-00:52:12,460 --> 00:52:13,659
-Let me see his email.
+00:46:51,869 --> 00:46:52,269
+Yes.
 
 1151
-00:52:14,300 --> 00:52:15,699
-Sir, you must have received a mail.
+00:46:53,510 --> 00:46:55,230
+The payment mode is visible.
 
 1152
-00:52:16,539 --> 00:52:17,519
-Did you submit it to Anjali?
+00:46:55,469 --> 00:46:56,610
+Instrument, instrument number.
 
 1153
-00:52:17,599 --> 00:52:19,139
-Yes, I will check it.
+00:46:57,269 --> 00:46:58,590
+Date is done.
 
 1154
-00:52:19,159 --> 00:52:22,380
-Should I also approve it?
+00:47:00,670 --> 00:47:01,369
+Sir,
 
 1155
-00:52:22,619 --> 00:52:23,940
-No, I am saying, did you submit the form
+00:47:02,449 --> 00:47:03,489
+student name is done.
 
 1156
-00:52:24,369 --> 00:52:25,579
-in which we took the application?
+00:47:03,489 --> 00:47:04,489
+Everything is done.
 
 1157
-00:52:26,639 --> 00:52:27,980
-Yes, the payment was left.
+00:47:04,989 --> 00:47:07,070
+The form number is the same.
 
 1158
-00:52:28,280 --> 00:52:29,400
-No, no, submit it.
+00:47:07,469 --> 00:47:10,809
+The application will be written
 
 1159
-00:52:29,400 --> 00:52:30,119
-It will be fully submitted.
+00:47:10,809 --> 00:47:11,710
+on the form number.
 
 1160
-00:52:30,659 --> 00:52:31,260
-Submit it in some way.
+00:47:12,389 --> 00:47:15,050
+Even the application will go to the student.
 
 1161
-00:52:33,000 --> 00:52:34,519
-It will show only if you submit it, ma'am.
+00:47:15,730 --> 00:47:17,150
+When this is done,
 
 1162
-00:52:37,280 --> 00:52:38,360
-How should I submit it fully?
+00:47:17,329 --> 00:47:18,130
+it will be shown in the accounts.
 
 1163
-00:52:39,719 --> 00:52:41,380
-Just scan it.
+00:47:19,070 --> 00:47:20,210
+Yes, it will be shown in the accounts.
 
 1164
-00:52:41,380 --> 00:52:42,699
-Anjali, just scan it.
+00:47:21,829 --> 00:47:23,610
+The registration form
 
 1165
-00:52:42,800 --> 00:52:43,780
-I have joined from the phone.
+00:47:23,610 --> 00:47:24,750
+will also be shown.
 
 1166
-00:52:44,659 --> 00:52:46,260
-Ma'am, put one rupee in it.
+00:47:25,349 --> 00:47:26,650
+Yes, it can be done.
 
 1167
-00:52:47,039 --> 00:52:48,079
-It will be scanned like this.
+00:47:26,949 --> 00:47:28,309
+Cancel it, Anjali.
 
 1168
-00:52:48,260 --> 00:52:48,840
-Sir, it is a test mode.
+00:47:28,670 --> 00:47:28,989
+Okay.
 
 1169
-00:52:48,860 --> 00:52:49,360
-It won't be cut off.
+00:47:31,550 --> 00:47:34,269
+the print form will be done.
 
 1170
-00:52:49,360 --> 00:52:49,840
-It will be done automatically.
+00:47:34,329 --> 00:47:34,610
+Okay.
 
 1171
-00:52:50,420 --> 00:52:51,760
-Yes, that's good.
+00:47:34,610 --> 00:47:35,389
+This is okay.
 
 1172
-00:52:52,900 --> 00:52:54,139
-Do it once, Anjali.
+00:47:36,550 --> 00:47:38,710
+I wanted to test it
 
 1173
-00:52:54,239 --> 00:52:54,880
-Just scan it.
+00:47:39,880 --> 00:47:41,699
+The way they pay the money
 
 1174
-00:52:57,539 --> 00:52:58,659
-What has happened now, ma'am?
+00:47:44,380 --> 00:47:46,179
+we wanted to see
 
 1175
-00:52:58,659 --> 00:53:00,460
-The child who has filled the details,
+00:47:46,179 --> 00:47:47,420
+whether the payment
 
 1176
-00:53:01,260 --> 00:53:03,099
-the registration form has just been copied.
+00:47:47,420 --> 00:47:49,539
+payment was coming
 
 1177
-00:53:04,980 --> 00:53:06,579
-Nothing else has come after that.
+00:47:49,539 --> 00:47:51,420
+on the e-mail or not.
 
 1178
-00:53:07,159 --> 00:53:08,079
-Yes, nothing else.
+00:47:53,969 --> 00:47:55,389
+You are going.
 
 1179
-00:53:08,139 --> 00:53:11,059
-Ram sir, but their payment has not been done yet.
+00:47:55,489 --> 00:47:56,429
+When is the e-mail?
 
 1180
-00:53:11,139 --> 00:53:12,780
-Ram sir, how will it be seen from there?
+00:48:27,039 --> 00:48:28,260
+Recipts are also going to the student's mail?
 
 1181
-00:53:13,559 --> 00:53:14,559
-Kajish ma'am, should I do it from GP?
+00:48:28,260 --> 00:48:29,480
+Yes, yes.
 
 1182
-00:53:15,199 --> 00:53:15,820
-From UPI?
+00:48:33,639 --> 00:48:35,019
+Recipts are also going to the student's mail?
 
 1183
-00:53:16,000 --> 00:53:18,679
-Just scan it with a scanner like this, Anjali.
+00:48:35,019 --> 00:48:35,199
+Recipts are also going to the student's mail?
 
 1184
-00:53:19,019 --> 00:53:20,059
-Ma'am, I have done something with that.
+00:48:35,300 --> 00:48:36,980
+Sir, there will be a form in the student's mail
 
 1185
-00:53:21,179 --> 00:53:21,820
-Scan it with GP.
+00:48:36,980 --> 00:48:39,019
+where it will be written that the student has paid
 
 1186
-00:53:22,860 --> 00:53:23,280
-Just do it like this.
+00:48:39,019 --> 00:48:39,480
+like this.
 
 1187
-00:53:48,309 --> 00:53:49,369
-It is a test mode, right?
+00:48:40,460 --> 00:48:42,960
+Now the actual receipts have to be collected from here
 
 1188
-00:53:49,429 --> 00:53:50,329
-Ma'am, it is never happening.
+00:48:42,960 --> 00:48:45,260
+from the counter for confirmation.
 
 1189
-00:53:51,090 --> 00:53:52,150
-It is not happening with your case.
+00:48:45,840 --> 00:48:46,900
+No, it can't be that
 
 1190
-00:53:52,150 --> 00:53:52,630
-No.
+00:48:46,900 --> 00:48:47,579
+it goes to the mail.
 
 1191
-00:53:53,269 --> 00:53:55,269
-Can't pay with the QR code.
+00:48:48,360 --> 00:48:50,059
+Sir, look, sometimes it gets risky.
 
 1192
-00:53:55,860 --> 00:53:57,539
-Yes, the testing mode is coming now.
+00:48:50,440 --> 00:48:52,280
+By chance, the child has a refund after that.
 
 1193
-00:53:57,539 --> 00:53:57,860
-It is coming now.
+00:48:52,480 --> 00:48:53,760
+Think about it, sometimes it happens.
 
 1194
-00:53:58,159 --> 00:53:58,840
-It has been over 1,000,000.
+00:48:53,760 --> 00:48:55,400
+You must still have the bank
 
 1195
-00:53:59,559 --> 00:54:00,019
-Okay.
+00:48:55,400 --> 00:48:56,719
+that the bank has taken the money
 
 1196
-00:54:00,239 --> 00:54:00,940
-Do it over the counter.
+00:48:56,719 --> 00:48:59,079
+but within 3 days it is not confirmed
 
 1197
-00:54:01,280 --> 00:54:02,360
-That will go to sir.
+00:48:59,079 --> 00:49:01,360
+for any explicit reason and then
 
 1198
-00:54:02,519 --> 00:54:03,360
-The form will be known.
+00:49:01,360 --> 00:49:02,300
+the refund is going to it.
 
 1199
-00:54:04,099 --> 00:54:05,639
-Ma'am, then do a change in this.
+00:49:04,219 --> 00:49:05,559
+No, no, refund means
 
 1200
-00:54:05,639 --> 00:54:07,119
-The restriction that you have applied 10,000 times,
+00:49:05,559 --> 00:49:06,679
+the amount is back.
 
 1201
-00:54:08,199 --> 00:54:09,539
-do it manually.
+00:49:07,260 --> 00:49:08,239
+Yes, it happens.
 
 1202
-00:54:10,199 --> 00:54:11,119
-Do as much as you want.
+00:49:09,739 --> 00:49:11,380
+What is the problem with that?
 
 1203
-00:54:12,159 --> 00:54:13,659
-Then apply the restriction later.
+00:49:11,679 --> 00:49:12,480
+It gets cancelled.
 
 1204
-00:54:14,480 --> 00:54:14,860
-Okay.
+00:49:13,039 --> 00:49:15,880
+For example, the child has filled
 
 1205
-00:54:15,699 --> 00:54:18,480
-Actually, we are waiting for you.
+00:49:15,880 --> 00:49:16,860
+the amount.
 
 1206
-00:54:18,780 --> 00:54:19,719
-The way this page has come,
+00:49:18,179 --> 00:49:19,659
+You are getting the receipt from him
 
 1207
-00:54:19,719 --> 00:54:23,559
-we will handover it to the marketing team very soon.
+00:49:19,659 --> 00:49:21,619
+and the receipt should not be generated at that time
 
 1208
-00:54:23,940 --> 00:54:24,480
-Anjali, go to the form.
+00:49:21,619 --> 00:49:24,139
+when the receipt has been generated.
 
 1209
-00:54:24,739 --> 00:54:25,079
-Leave this.
+00:49:25,659 --> 00:49:26,699
+Ma'am,
 
 1210
-00:54:25,139 --> 00:54:25,760
-It will be done later.
+00:49:27,199 --> 00:49:27,420
+he has paid
 
 1211
-00:54:25,940 --> 00:54:26,360
-Leave this.
+00:49:27,420 --> 00:49:29,619
+and by chance, if he does the back
 
 1212
-00:54:26,480 --> 00:54:27,239
-Leave this.
+00:49:29,619 --> 00:49:32,199
+then our regular receipts
 
 1213
-00:54:27,320 --> 00:54:28,019
-Yes, just go to this.
+00:49:32,199 --> 00:49:33,039
+also have a lot of back.
 
 1214
-00:54:28,480 --> 00:54:29,099
-Back it.
+00:49:33,719 --> 00:49:34,639
+So we have to do the transaction.
 
 1215
-00:54:32,590 --> 00:54:33,989
-Yes, do it.
+00:49:35,760 --> 00:49:37,619
+That is a part of
 
 1216
-00:54:34,920 --> 00:54:36,019
-Now cancel this.
+00:49:38,139 --> 00:49:38,480
+accounts.
 
 1217
-00:54:39,769 --> 00:54:41,530
-Yes, that one will also be done later.
+00:49:40,000 --> 00:49:41,260
+Bounce, check, pay.
 
 1218
-00:54:42,409 --> 00:54:42,969
-Okay, sir.
+00:49:41,960 --> 00:49:43,260
+Sir, I will discuss this one
 
 1219
-00:54:43,010 --> 00:54:43,710
-Tell me one more thing.
+00:49:43,260 --> 00:49:45,099
+once that the receipt
 
 1220
-00:54:44,989 --> 00:54:45,230
-Yes.
+00:49:45,300 --> 00:49:46,840
+is going to him. You are saying that the receipt
 
 1221
-00:54:45,550 --> 00:54:46,050
-About the amount,
+00:49:46,840 --> 00:49:51,599
+that he has paid to the child is also
 
 1222
-00:54:46,610 --> 00:54:48,349
-I will put you on that.
+00:49:51,599 --> 00:49:53,519
+going to him. After that, if it gets cancelled
 
 1223
-00:54:49,070 --> 00:54:50,550
-First, I will give you the confirmation
+00:49:53,519 --> 00:49:55,019
+then it is a different matter.
 
 1224
-00:54:50,550 --> 00:54:51,429
-of how to do the amount.
+00:49:55,500 --> 00:49:56,099
+It should be entered.
 
 1225
-00:54:52,030 --> 00:54:53,869
-Because the payment gateway is taking charges.
+00:49:57,900 --> 00:50:00,179
+That is the same thing. I will see
 
 1226
-00:54:54,309 --> 00:54:54,829
-Yes.
+00:50:00,719 --> 00:50:01,739
+it once. The receipt is going.
 
 1227
-00:54:55,519 --> 00:54:55,940
-Okay.
+00:50:01,800 --> 00:50:02,980
+The receipt is not going on the phone.
 
 1228
-00:54:55,940 --> 00:54:56,639
-And,
+00:50:04,440 --> 00:50:06,079
+Basically, if we are there
 
 1229
-00:54:57,280 --> 00:54:59,300
-basically, I have to work on the form.
+00:50:06,079 --> 00:50:07,119
+but we had to give the manual
 
 1230
-00:55:00,679 --> 00:55:01,440
-You will share the student data.
+00:50:07,119 --> 00:50:10,000
+then we are saying that we are not completely online.
 
 1231
-00:55:01,980 --> 00:55:02,619
-That will be imported.
+00:50:10,639 --> 00:50:11,579
+We have something offline.
 
 1232
-00:55:03,199 --> 00:55:04,400
-And I have to send a transport card.
+00:50:12,960 --> 00:50:14,619
+Yes, I understood. The receipt is also
 
 1233
-00:55:05,119 --> 00:55:05,980
-Sample excels.
+00:50:14,619 --> 00:50:15,219
+basically the same.
 
 1234
-00:55:06,219 --> 00:55:06,559
-Done.
+00:50:16,440 --> 00:50:18,239
+Generally, we have told the team
 
 1235
-00:55:14,500 --> 00:55:15,079
-Okay, sir.
+00:50:18,780 --> 00:50:20,119
+that the customer
 
 1236
-00:55:15,739 --> 00:55:16,980
-I will share this with you.
+00:50:20,119 --> 00:50:21,980
+is going to receive the receipt.
 
 1237
-00:55:17,159 --> 00:55:17,739
-In the discussion.
+00:50:21,980 --> 00:50:23,340
+My continued discussion with them is
 
 1238
-00:55:18,199 --> 00:55:19,280
-Okay, ma'am.
+00:50:23,340 --> 00:50:25,500
+that after the registration form
 
 1239
-00:55:19,500 --> 00:55:20,800
-So drop it, ma'am.
+00:50:25,500 --> 00:50:26,579
+when the child will fill
 
 1240
-00:55:21,139 --> 00:55:21,500
-Yes.
+00:50:26,579 --> 00:50:28,610
+and he has paid
 
 1241
-00:55:21,500 --> 00:55:21,639
-Yes.
+00:50:28,610 --> 00:50:30,590
+then our two things will be processed
 
 1242
-00:55:22,179 --> 00:55:22,639
-Okay.
+00:50:30,590 --> 00:50:33,250
+on his email. First, the receipt
 
 1243
-00:55:22,920 --> 00:55:23,619
-Thank you.
+00:50:33,250 --> 00:50:35,150
+and second, our digital
 
 1244
-00:55:23,760 --> 00:55:24,260
-Okay, sir.
+00:50:37,289 --> 00:50:38,010
+prospectus
 
 1245
-00:55:24,280 --> 00:55:24,639
-Okay.
+00:50:38,829 --> 00:50:39,710
+will directly
 
 1246
-00:55:24,639 --> 00:55:25,039
-Thank you.
+00:50:39,710 --> 00:50:40,809
+be diverted on his email.
 
 1247
-00:55:25,119 --> 00:55:25,639
-Thank you, ma'am.
+00:50:41,650 --> 00:50:42,150
+That is it.
 
 1248
-00:55:26,099 --> 00:55:26,539
-Okay.
+00:50:43,769 --> 00:50:45,570
+That is what you get me to do the testing.
 
 1249
-00:55:30,960 --> 00:55:31,519
-Anjali.
+00:50:45,750 --> 00:50:47,329
+After this, I will make them live
 
 1250
-00:55:31,860 --> 00:55:32,179
-Yes.
+00:50:47,329 --> 00:50:48,969
+that is our admission team.
 
 1251
-00:55:32,179 --> 00:55:33,440
-I don't know how to say Zoom.
+00:50:50,210 --> 00:50:50,809
+Okay, sir.
 
 1252
-00:55:34,159 --> 00:55:35,920
-Do they know what to say?
+00:50:51,969 --> 00:50:53,150
+When is the payment gateway charges?
 
 1253
-00:55:38,199 --> 00:55:38,840
+00:50:53,570 --> 00:50:54,670
+I mean the payment gateway charges.
+
+1254
+00:50:55,570 --> 00:50:56,050
+Yes, I told you.
+
+1255
+00:50:56,469 --> 00:50:59,289
+Until now, such charges do not
+
+1256
+00:50:59,289 --> 00:50:59,570
+apply on our portal.
+
+1257
+00:51:00,409 --> 00:51:02,369
+If you fill the online form
+
+1258
+00:51:02,369 --> 00:51:04,550
+then it is 10,000 only.
+
+1259
+00:51:05,010 --> 00:51:05,110
+Yes.
+
+1260
+00:51:08,909 --> 00:51:09,730
+When are the charges in it?
+
+1261
+00:51:10,289 --> 00:51:12,349
+When are the charges in it?
+
+1262
+00:51:13,010 --> 00:51:14,550
+When someone does it with credit card
+
+1263
+00:51:14,550 --> 00:51:14,869
+or credit card
+
+1264
+00:51:16,579 --> 00:51:18,239
+then also the minimum charges
+
+1265
+00:51:18,239 --> 00:51:20,320
+as per bank norms are applied.
+
+1266
+00:51:20,519 --> 00:51:21,340
+But it is not such charges
+
+1267
+00:51:21,340 --> 00:51:23,460
+that 15-18% is applied.
+
+1268
+00:51:24,780 --> 00:51:25,539
+Okay.
+
+1269
+00:51:26,380 --> 00:51:28,300
+Ma'am, please tell me in detail
+
+1270
+00:51:28,300 --> 00:51:29,300
+how and what is it?
+
+1271
+00:51:29,380 --> 00:51:30,360
+I will share this.
+
+1272
+00:51:30,860 --> 00:51:33,139
+Actually, I just got it applied.
+
+1273
+00:51:33,320 --> 00:51:34,840
+I will share that as well.
+
+1274
+00:51:35,380 --> 00:51:35,820
+Okay.
+
+1275
+00:51:36,719 --> 00:51:38,699
+Ma'am, two things are clear to you.
+
+1276
+00:51:39,099 --> 00:51:41,159
+Fees, whether it is offline payment
+
+1277
+00:51:41,159 --> 00:51:43,099
+or online payment.
+
+1278
+00:51:43,139 --> 00:51:45,079
+The receipt will go to the student.
+
+1279
+00:51:45,639 --> 00:51:47,000
+First. Arrestation.
+
+1280
+00:51:47,159 --> 00:51:47,659
+Wait a minute, sir. You will only pay
+
+1281
+00:51:47,659 --> 00:51:50,639
+in offline payment, right? I mean if you
+
+1282
+00:51:50,639 --> 00:51:51,679
+have taken cash from the counter.
+
+1283
+00:51:52,769 --> 00:51:54,849
+Ma'am, but it should show in the mail
+
+1284
+00:51:54,849 --> 00:51:56,889
+that he has paid today.
+
+1285
+00:51:58,420 --> 00:51:59,659
+Yes, it will show in the mail
+
+1286
+00:51:59,659 --> 00:52:01,239
+that he is paying over the counter fee.
+
+1287
+00:52:01,559 --> 00:52:02,780
+Yes, ma'am.
+
+1288
+00:52:03,079 --> 00:52:03,380
+It will show.
+
+1289
+00:52:07,420 --> 00:52:08,739
+Basically, the hard copy
+
+1290
+00:52:08,739 --> 00:52:09,519
+is being taken from our counter
+
+1291
+00:52:09,519 --> 00:52:11,480
+but the soft copy is also being taken from the counter.
+
+1292
+00:52:11,480 --> 00:52:12,179
+He is still sleeping.
+
+1293
+00:52:12,380 --> 00:52:13,099
+Should I check my email?
+
+1294
+00:52:14,260 --> 00:52:15,679
+Sir, you must have received a mail.
+
+1295
+00:52:16,480 --> 00:52:17,500
+Will you submit it to Anjali?
+
+1296
+00:52:17,599 --> 00:52:18,960
+Yes, I will check it.
+
+1297
+00:52:19,699 --> 00:52:22,480
+Should I approve it as well?
+
+1298
+00:52:22,619 --> 00:52:24,179
+No, I am asking if you have submitted the form
+
+1299
+00:52:24,179 --> 00:52:25,599
+in which we had taken the application.
+
+1300
+00:52:26,679 --> 00:52:27,980
+Yes, the payment was left.
+
+1301
+00:52:28,300 --> 00:52:30,079
+No, no. Submit it. It will be fully submitted.
+
+1302
+00:52:30,440 --> 00:52:32,480
+Submit it in some way and submit it.
+
+1303
+00:52:33,059 --> 00:52:34,340
+Ma'am, it will show when you submit it.
+
+1304
+00:52:37,260 --> 00:52:38,480
+How should I submit it fully?
+
+1305
+00:52:38,480 --> 00:52:41,440
+You just scan it.
+
+1306
+00:52:41,440 --> 00:52:42,860
+Anjali, just scan it.
+
+1307
+00:52:42,980 --> 00:52:44,119
+It will be joined with the form.
+
+1308
+00:52:44,780 --> 00:52:46,239
+Ma'am, please put one rupee in it.
+
+1309
+00:52:47,119 --> 00:52:48,119
+It will be scanned like this.
+
+1310
+00:52:48,280 --> 00:52:49,360
+Sir, it is a test mode. It will not be cut off.
+
+1311
+00:52:49,360 --> 00:52:49,860
+It will be done automatically.
+
+1312
+00:52:50,460 --> 00:52:51,800
+Then it is good.
+
+1313
+00:52:53,599 --> 00:52:55,199
+Anjali, please scan it once.
+
+1314
+00:52:57,090 --> 00:52:59,019
+Ma'am, what has happened now is
+
+1315
+00:52:59,019 --> 00:53:00,440
+that the children who have filled the details
+
+1316
+00:53:00,440 --> 00:53:02,960
+have received the registration form copy.
+
+1317
+00:53:04,000 --> 00:53:04,199
+Hmm.
+
+1318
+00:53:04,980 --> 00:53:05,920
+There is nothing else after that.
+
+1319
+00:53:05,920 --> 00:53:06,739
+There is nothing else.
+
+1320
+00:53:08,340 --> 00:53:11,019
+Ram sir, but their payment has not been made yet.
+
+1321
+00:53:11,260 --> 00:53:12,820
+Ram sir, how will it be seen from there?
+
+1322
+00:53:13,579 --> 00:53:14,599
+Kajish ma'am, should I do it with GP?
+
+1323
+00:53:15,179 --> 00:53:15,780
+With UPI?
+
+1324
+00:53:16,000 --> 00:53:18,079
+Just scan it with a scanner like this, Anjali.
+
+1325
+00:53:19,019 --> 00:53:19,719
+Ma'am, I am not good with that.
+
+1326
+00:53:21,199 --> 00:53:21,800
+Scan it with GP.
+
+1327
+00:53:22,820 --> 00:53:23,900
+Just scan it like this.
+
+1328
+00:53:48,309 --> 00:53:49,670
+Ma'am, it is a test mode. It is not happening.
+
+1329
+00:53:51,090 --> 00:53:51,550
+It is not happening.
+
+1330
+00:53:52,050 --> 00:53:54,670
+No, it can't be done with the QR code.
+
+1331
+00:53:55,519 --> 00:53:56,639
+Yes, it is a test mode.
+
+1332
+00:53:56,820 --> 00:53:57,079
+It is coming.
+
+1333
+00:53:59,219 --> 00:54:00,940
+Okay, now do an over-the-counter.
+
+1334
+00:54:01,280 --> 00:54:02,400
+That will go to sir.
+
+1335
+00:54:02,739 --> 00:54:05,539
+Ma'am, then do a change in it.
+
+1336
+00:54:05,699 --> 00:54:07,420
+The restriction that you have applied 10,000 times.
+
+1337
+00:54:08,320 --> 00:54:08,420
+Hmm.
+
+1338
+00:54:08,619 --> 00:54:09,519
+Do it manually.
+
+1339
+00:54:10,199 --> 00:54:11,139
+Fill it as much as you want.
+
+1340
+00:54:12,099 --> 00:54:13,739
+Then apply the restriction later.
+
+1341
+00:54:14,420 --> 00:54:14,840
+Okay.
+
+1342
+00:54:16,179 --> 00:54:18,500
+Actually, we are waiting for you
+
+1343
+00:54:18,500 --> 00:54:23,199
+to hand over this page to the marketing team
+
+1344
+00:54:23,539 --> 00:54:24,440
+Anjali, go to the form.
+
+1345
+00:54:24,440 --> 00:54:25,820
+Leave it. It will be done later.
+
+1346
+00:54:25,840 --> 00:54:26,380
+Leave it.
+
+1347
+00:54:28,190 --> 00:54:29,119
+Back it.
+
+1348
+00:54:32,769 --> 00:54:34,010
+Yes, do it.
+
+1349
+00:54:35,039 --> 00:54:36,019
+Now cancel it.
+
+1350
+00:54:40,670 --> 00:54:41,869
+That one will also be done later.
+
+1351
+00:54:42,530 --> 00:54:43,730
+Okay, sir. Tell me one more thing.
+
+1352
+00:54:45,010 --> 00:54:45,230
+Yes.
+
+1353
+00:54:45,550 --> 00:54:45,949
+I will put you on the amount.
+
+1354
+00:54:48,969 --> 00:54:50,550
+First, I will give you the confirmation
+
+1355
+00:54:50,550 --> 00:54:51,449
+of how to do the amount.
+
+1356
+00:54:52,050 --> 00:54:53,869
+Because payment gateway is taking charges.
+
+1357
+00:54:54,269 --> 00:54:54,769
+Yes.
+
+1358
+00:54:55,599 --> 00:54:56,039
+Okay.
+
+1359
+00:54:56,039 --> 00:54:56,699
+And
+
+1360
+00:54:56,699 --> 00:54:59,340
+basically, I have to work on your form.
+
+1361
+00:55:00,699 --> 00:55:01,500
+You will share the student data.
+
+1362
+00:55:01,980 --> 00:55:02,599
+That will be imported.
+
+1363
+00:55:03,219 --> 00:55:04,420
+And you have to send me a transport card.
+
+1364
+00:55:05,719 --> 00:55:06,320
+Done.
+
+1365
+00:55:14,460 --> 00:55:15,599
+Okay, sir. Tell me one more thing.
+
+1366
+00:55:15,739 --> 00:55:17,000
+I will share this with you.
+
+1367
+00:55:17,980 --> 00:55:19,280
+Okay, ma'am.
+
+1368
+00:55:19,800 --> 00:55:23,619
+Okay, thank you.
+
+1369
+00:55:23,780 --> 00:55:24,260
+Okay, sir.
+
+1370
+00:55:24,420 --> 00:55:25,639
+Thank you, ma'am.
+
+1371
+00:55:30,800 --> 00:55:31,400
+Anjali.
+
+1372
+00:55:31,900 --> 00:55:32,139
+Hmm.
+
+1373
+00:55:32,679 --> 00:55:33,739
+You don't show the Zoho form.
+
+1374
+00:55:34,820 --> 00:55:35,920
+You were showing the Zoho form.
+
+1375
+00:55:36,579 --> 00:55:37,219
+Why don't you show the Zoho form?
+
+1376
+00:55:38,420 --> 00:55:38,840
 One minute.
 

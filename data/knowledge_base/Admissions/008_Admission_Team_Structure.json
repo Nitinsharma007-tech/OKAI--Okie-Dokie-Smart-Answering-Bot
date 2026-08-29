@@ -1,0 +1,59 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Team Structure",
+    "summary": "The Admission Team feature allows for the creation of hierarchical team structures within the admissions department. This enables specific data visibility rules, where team leaders can view their team members' leads, but teams or individual counselors may not see each other's data, depending on the configuration.",
+    "navigation": [
+        "Admission Setup",
+        "Admission Master",
+        "Admission Team"
+    ],
+    "steps": [
+        "1. Navigate to Admission Setup > Admission Master > Admission Team.",
+        "2. Click 'Add New Details'.",
+        "3. Enter the 'Team Name' (e.g., 'Domestic Team', 'External Team').",
+        "4. Select the 'Team Leader' for this team.",
+        "5. Add 'Members' who belong to this team.",
+        "6. Click 'Save'.",
+        "Repeat for additional teams as needed."
+    ],
+    "business_rules": [
+        "Team leaders can view the lead data of all members within their assigned team.",
+        "Team members typically cannot view the lead data of other members within the same team or members of other teams.",
+        "Team leaders generally cannot view the lead data of other team leaders or their respective teams.",
+        "If a counselor is a member of multiple teams, their lead data will be visible to all respective team leaders.",
+        "If there is only a single senior person with multiple counselors and no need for restricted data sharing, a team structure is not required."
+    ],
+    "important_notes": [
+        "This feature is designed for organizations with distinct admission teams (e.g., outreach vs. inside sales) that require controlled data access.",
+        "Careful planning of the team hierarchy is essential to ensure appropriate data visibility and prevent unauthorized access."
+    ],
+    "questions": [
+        "How do I set up an admission team in the ERP?",
+        "What are the data visibility rules for team leaders and team members?",
+        "Can a counselor be assigned to more than one admission team?",
+        "When is it necessary to implement an admission team structure?",
+        "How does the team structure affect lead access for different roles?"
+    ],
+    "keywords": [
+        "Admission team",
+        "Team structure",
+        "Team leader",
+        "Team members",
+        "Data visibility",
+        "Hierarchical access",
+        "Outreach team",
+        "Inside team",
+        "Lead access control"
+    ],
+    "related_topics": [
+        "Show Member Detail Filter (Admission Leads Page)",
+        "Counselor Mapping: Round Robin Lead Assignment",
+        "Lead Management"
+    ],
+    "id": "admissions_admission_team_structure",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

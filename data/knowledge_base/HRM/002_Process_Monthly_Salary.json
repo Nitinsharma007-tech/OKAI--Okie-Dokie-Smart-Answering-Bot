@@ -1,0 +1,49 @@
+{
+    "module": "HRM",
+    "topic": "Process Monthly Salary",
+    "summary": "This topic describes the steps to process an employee's monthly salary after their contract is assigned and pay birthdays are set.",
+    "navigation": [
+        "HRM",
+        "Compute Attendance"
+    ],
+    "steps": [
+        "Ensure \"Pay Birthdays\" are set for the employee for the specific month.",
+        "Go to HRM > Compute Attendance.",
+        "Select the desired \"Month\" and \"Year\" for salary processing (e.g., November 2025).",
+        "Click \"Go\".",
+        "Search for the specific employee or view the list of all employees.",
+        "Verify the \"Payable Days\" (e.g., 28 days).",
+        "Select the employee(s) using the checkbox.",
+        "Click \"Process Salary\".",
+        "A success message will indicate that the salary has been processed."
+    ],
+    "business_rules": [
+        "Pay Birthdays must be set before processing salary for a month."
+    ],
+    "important_notes": [
+        "Processing salary here creates the initial salary record for the month based on the assigned contract and attendance. Further edits are done in \"Salary Summary Month Wise\"."
+    ],
+    "questions": [
+        "How do I process an employee's monthly salary?",
+        "What is the first step before processing salary?",
+        "Where can I find the option to compute attendance for salary processing?"
+    ],
+    "keywords": [
+        "Process Salary",
+        "Compute Attendance",
+        "Monthly Salary",
+        "Pay Birthdays",
+        "HRM"
+    ],
+    "related_topics": [
+        "Assign Salary Template",
+        "View and Edit Processed Salary",
+        "Mark Attendance Month Wise"
+    ],
+    "id": "hrm_process_monthly_salary",
+    "source": {
+        "file": "1080p-jeb-mmdt-njb (2025-12-27 12_03 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

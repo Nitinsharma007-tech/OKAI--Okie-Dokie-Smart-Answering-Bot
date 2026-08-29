@@ -1,43 +1,44 @@
 {
     "module": "Academics",
     "topic": "Assigning Optional Subjects to Students",
-    "summary": "This topic describes the process of assigning optional subjects to individual students, differentiating it from general subjects which are assigned to all students in a class.",
+    "summary": "This topic explains the process of assigning optional, additional, or vocational subjects to specific students within a class, as these subjects are not automatically applied to all students.",
     "navigation": [
         "Settings icon",
         "Academics",
-        "Subject Class Mapping (ensure subject is optional)",
-        "Assigned Subject (separate option/icon)"
+        "Subject Class Mapping",
+        "Assigned Subject (or similar option within class mapping details)"
     ],
     "steps": [
-        "Ensure the subject is defined as 'Optional' in 'Subject Class Mapping'.",
-        "Navigate to the 'Assigned Subject' option (or similar icon/menu item).",
+        "Ensure the subject has been defined as 'Optional' (or Additional/Vocational) in the 'Subject Class Mapping'.",
+        "Navigate to the 'Assigned Subject' option (or similar bulk assignment feature) within the class mapping details.",
         "Select the 'Class' for which you want to assign optional subjects.",
         "A list of students in that class will be displayed.",
-        "Select the specific 'Students' who will be taking the optional subject.",
-        "Click the 'Assigned Subject' button.",
-        "Select the 'Optional Subject' from the list.",
-        "Add the subject to assign it to the selected students."
+        "Select the specific students to whom you want to assign the optional subject.",
+        "Click on the 'Assigned Subject' button.",
+        "Select the 'Optional Subject' from the list of available optional subjects.",
+        "Click 'Add' to assign the subject to the selected students."
     ],
     "business_rules": [
-        "Optional subjects are not automatically assigned to all students in a class.",
-        "General subjects can be assigned to all students in a class using a bulk assignment option."
+        "Subjects mapped as 'General' can be assigned to all students in a class in bulk directly from the subject class mapping screen.",
+        "Subjects mapped as 'Optional', 'Additional', or 'Vocational' must be assigned individually or to selected groups of students."
     ],
     "important_notes": [
-        "If a subject is mapped as 'General', there is an option to assign it to all students in bulk directly from the mapping screen or a dedicated bulk assignment feature."
+        "This process is specifically for subjects that are not mandatory for all students in a class.",
+        "If a subject is 'General', there is usually a separate bulk assignment option to apply it to all students in the class."
     ],
     "questions": [
-        "How do I assign an optional subject to specific students?",
-        "What is the process for assigning optional subjects to students?",
-        "Can I assign a general subject to all students in a class at once?",
-        "Where do I define a subject as optional?",
-        "What is the difference in assignment process for general vs. optional subjects?"
+        "How do I assign an optional subject to only certain students?",
+        "Where can I find the option to assign optional subjects?",
+        "What is the difference in assigning general subjects versus optional subjects?",
+        "Can I assign an optional subject to multiple students at once?"
     ],
     "keywords": [
-        "Optional Subject",
-        "Assign Optional Subject",
-        "Student Assignment",
-        "Bulk Assignment",
-        "Academics"
+        "Optional subjects",
+        "Assign optional subject",
+        "Student subject assignment",
+        "Additional subject",
+        "Vocational subject",
+        "Bulk assignment"
     ],
     "related_topics": [
         "Subject Class Mapping"

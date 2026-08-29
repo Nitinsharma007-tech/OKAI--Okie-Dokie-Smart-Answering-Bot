@@ -1,56 +1,57 @@
 {
     "module": "Academics",
     "topic": "Subject Class Mapping",
-    "summary": "This process describes how to map defined subjects to specific classes, streams, and sections. It also covers setting the subject type (General, Optional, Additional, Vocational) which influences how the subject is assigned to students.",
+    "summary": "This topic details how to map defined subjects to specific classes, streams, and sections. It covers the distinction between general subjects (for all students) and optional/additional subjects (for selected students) and how to configure them.",
     "navigation": [
-        "Settings",
+        "Settings icon",
         "Academics",
-        "Subject Class Mapping",
-        "Add New Subject Class Mapping"
+        "Subject Class Mapping"
     ],
     "steps": [
-        "Click on \"Add New Subject Class Mapping\".",
-        "Select the \"Class\" (e.g., Class 5th). Multiple classes can be selected for common subjects.",
-        "The \"Stream\" and \"Sections\" will be selected by default; adjust if necessary.",
-        "Click \"Add Detail of the Subject\".",
-        "Select the \"Subject\" from the dropdown list (e.g., English). The \"Assessment Model\" will auto-populate.",
-        "Select the \"Subject Type\" (e.g., General, Optional, Additional, Vocational).",
-        "Click \"Add\" to save the subject mapping for the selected class.",
-        "Repeat steps 4-7 to add more subjects to the same class mapping."
+        "Navigate to the Academics section.",
+        "Click on 'Subject Class Mapping'.",
+        "Click 'Add new subject class mapping'.",
+        "Select the 'Class' (multiple classes can be selected if subjects are common).",
+        "Optionally, select the 'Stream' and 'Sections' (defaults to all sections).",
+        "Click 'Add Subject' to define subjects for this mapping.",
+        "Select the 'Subject' from the dropdown list.",
+        "Verify the 'Assessment Model' (it will be pre-filled from subject definition).",
+        "Select the 'Subject Type' (General, Optional, Additional, Vocational).",
+        "Click 'Add' to include the subject in the mapping.",
+        "Repeat for all subjects relevant to the selected class(es)."
     ],
     "business_rules": [
-        "\"General\" subjects are applied to all students in the mapped class.",
-        "\"Optional\", \"Additional\", or \"Vocational\" subjects are not automatically applied to all students and require separate assignment to specific students."
+        "General subjects are common and applied to all students in the mapped class.",
+        "Optional, Additional, or Vocational subjects are not common for all students and must be assigned individually to specific students later."
     ],
     "important_notes": [
-        "You can map common subjects to multiple classes simultaneously.",
-        "The \"Display Name\" for a subject can be changed within the mapping, which is what students will see."
+        "The 'Display Name' provided during mapping will be used for marks entry and visible to students and teachers."
     ],
     "questions": [
-        "How do I map subjects to classes?",
-        "Can I map a single subject to multiple classes at once?",
-        "What is the purpose of \"Subject Type\" in subject class mapping?",
+        "How do I assign subjects to a specific class?",
+        "What is the difference between a 'General' and an 'Optional' subject type in mapping?",
+        "Can I map the same subjects to multiple classes simultaneously?",
+        "Where can I set the display name for a subject within a class?",
         "How do I add multiple subjects to a single class mapping?"
     ],
     "keywords": [
-        "Subject class mapping",
-        "map subject to class",
-        "class subject",
-        "subject type",
-        "general subject",
-        "optional subject",
-        "additional subject",
-        "vocational subject"
+        "Subject Class Mapping",
+        "Subject Course Mapping",
+        "Assign Subject to Class",
+        "General Subject",
+        "Optional Subject",
+        "Additional Subject",
+        "Vocational Subject",
+        "Class Stream Section"
     ],
     "related_topics": [
-        "Define Subjects",
-        "Teacher Mapping",
-        "Assigning Subjects to Students",
-        "Creating Timetable"
+        "Subject Definition",
+        "Teacher Assignment for Classes and Subjects",
+        "Student Subject Assignment"
     ],
     "id": "academics_subject_class_mapping",
     "source": {
-        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "file": "122ca6525bfa4ae88dceac484f5c9208_3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

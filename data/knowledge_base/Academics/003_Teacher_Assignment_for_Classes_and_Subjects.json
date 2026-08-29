@@ -1,0 +1,53 @@
+{
+    "module": "Academics",
+    "topic": "Teacher Assignment for Classes and Subjects",
+    "summary": "This topic explains how to assign class teachers, coordinators, and subject teachers to specific classes and subjects within the ERP system. It clarifies the roles and access levels associated with each assignment type.",
+    "navigation": [
+        "Settings icon",
+        "Academics",
+        "Subject Class Mapping"
+    ],
+    "steps": [
+        "Navigate to the 'Subject Class Mapping' list.",
+        "Select the desired class mapping (e.g., Class 5th A) to edit.",
+        "Assign a 'Class Teacher' by selecting an employee from the list.",
+        "Optionally, assign one or more 'Coordinator(s)' by selecting employees from the list.",
+        "For each subject listed in the mapping, assign one or more 'Subject Teacher(s)' by selecting employees from the list."
+    ],
+    "business_rules": [
+        "Only one class teacher can be assigned per class.",
+        "Multiple coordinators can be assigned to a single class.",
+        "Multiple subject teachers can be assigned to a single subject.",
+        "Class teachers and coordinators gain access to all subjects of their assigned class.",
+        "Subject teachers gain access only to their specifically assigned subjects."
+    ],
+    "important_notes": [
+        "Teacher assignments are based on employee IDs created in the system."
+    ],
+    "questions": [
+        "How do I assign a class teacher to a specific class?",
+        "Can a class have multiple coordinators assigned?",
+        "What is the process for assigning a subject teacher to a subject?",
+        "What kind of access do class teachers and subject teachers have?",
+        "Where do I find the option to map teachers to classes and subjects?"
+    ],
+    "keywords": [
+        "Teacher Mapping",
+        "Class Teacher",
+        "Coordinator",
+        "Subject Teacher",
+        "Employee Assignment",
+        "Class Assignment",
+        "Subject Assignment"
+    ],
+    "related_topics": [
+        "Subject Class Mapping",
+        "Timetable Creation"
+    ],
+    "id": "academics_teacher_assignment_for_classes_and_subjects",
+    "source": {
+        "file": "122ca6525bfa4ae88dceac484f5c9208_3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

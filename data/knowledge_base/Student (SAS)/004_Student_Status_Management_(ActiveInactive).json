@@ -1,0 +1,46 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Student Status Management (Active/Inactive)",
+    "summary": "Explains the concept of active and inactive student statuses. An active student is currently enrolled in the session, while an inactive student is one whose admission might be canceled (e.g., due to non-payment of fees or leaving the institute), but their record still exists in the system.",
+    "navigation": [
+        "Student",
+        "Student List"
+    ],
+    "steps": [
+        "Identify a student whose status needs to be managed.",
+        "A student is conceptually set to 'Inactive' if their admission is canceled or they are no longer present in the institute for the current session.",
+        "A student is 'Active' if they are currently enrolled and present in the session."
+    ],
+    "business_rules": [
+        "A student becomes 'Inactive' if their admission is canceled (e.g., non-payment of fees, leaving the institute).",
+        "An 'Active' student is currently enrolled in the session."
+    ],
+    "important_notes": [
+        "The 'active/inactive' status helps manage student records for those who are no longer physically present but whose data needs to be retained.",
+        "The 'Print and Inactive' option can be used when a student is being released, allowing for certificate printing and status change simultaneously."
+    ],
+    "questions": [
+        "What is the difference between an 'active' and 'inactive' student record?",
+        "Under what circumstances would a student be marked as 'inactive'?",
+        "How do I change a student's status to inactive?",
+        "Is it possible to print a certificate and set a student to inactive at the same time?"
+    ],
+    "keywords": [
+        "Student Status",
+        "Active Student",
+        "Inactive Student",
+        "Admission Canceled",
+        "Student Release",
+        "Print and Inactive"
+    ],
+    "related_topics": [
+        "Student List Management",
+        "Student Certificates and ID Cards"
+    ],
+    "id": "student_sas_student_status_management_active_inactive",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

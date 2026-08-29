@@ -67,6 +67,17 @@ class CacheManager:
         else:
             self.entries = []
 
+        seen_questions = set()
+        unique_entries = []
+        for entry in self.entries:
+            normalized = " ".join(str(entry.get("question", "")).split()).lower()
+            if normalized and normalized not in seen_questions:
+                seen_questions.add(normalized)
+                unique_entries.append(entry)
+        if len(unique_entries) != len(self.entries):
+            self.entries = unique_entries
+            self.save()
+
         # Compute embeddings for any predefined entries that don't have
         # one yet (e.g. you hand-wrote {"question":..., "answer":...})
 
@@ -276,6 +287,7 @@ class CacheManager:
         self.entries = []
 
         cache_id = 1
+        seen_questions = set()
 
         for topic in topics:
 
@@ -308,6 +320,11 @@ class CacheManager:
             answer = "\n".join(answer_parts)
 
             for question in questions:
+
+                normalized_question = " ".join(str(question).split()).lower()
+                if not normalized_question or normalized_question in seen_questions:
+                    continue
+                seen_questions.add(normalized_question)
 
                 embedding = self.embed_fn(question)
 

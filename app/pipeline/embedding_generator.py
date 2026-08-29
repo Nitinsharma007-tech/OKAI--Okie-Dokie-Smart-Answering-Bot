@@ -52,38 +52,67 @@ class EmbeddingGenerator:
     # Create Search Text
     # =====================================================
 
+    def _stringify_value(self, value):
+        if value is None:
+            return ""
+
+        if isinstance(value, str):
+            return value.strip()
+
+        if isinstance(value, dict):
+            parts = []
+            for key, item in value.items():
+                text = self._stringify_value(item)
+                if text:
+                    parts.append(f"{key}: {text}")
+            return " ".join(parts)
+
+        if isinstance(value, (list, tuple, set)):
+            parts = [self._stringify_value(item) for item in value]
+            return " ".join(part for part in parts if part)
+
+        return str(value)
+
     def build_search_text(self, topic):
+
+        navigation = self._stringify_value(topic.get("navigation", []))
+        steps = self._stringify_value(topic.get("steps", []))
+        business_rules = self._stringify_value(topic.get("business_rules", []))
+        important_notes = self._stringify_value(topic.get("important_notes", []))
+        questions = self._stringify_value(topic.get("questions", []))
+        keywords = self._stringify_value(topic.get("keywords", []))
+        related_topics = self._stringify_value(topic.get("related_topics", []))
 
         text = f"""
 Module:
-{topic.get("module","")}
+{topic.get("module", "")}
 
 Topic:
-{topic.get("topic","")}
+{topic.get("topic", "")}
 
 Summary:
-{topic.get("summary","")}
+{topic.get("summary", "")}
 
 Navigation:
-{' | '.join(topic.get("navigation", []))}
+{navigation}
 
 Steps:
-{' '.join(topic.get("steps", []))}
+{steps}
 
 Business Rules:
-{' '.join(topic.get("business_rules", []))}
+{business_rules}
 
 Important Notes:
-{' '.join(topic.get("important_notes", []))}
+{important_notes}
 
 Questions:
-{' '.join(topic.get("questions", []))}
+{questions}
 
 Keywords:
-{' '.join(topic.get("keywords", []))}
+{keywords}
 
 Related Topics:
-{' '.join(topic.get("related_topics", []))}
+{related_topics}
 """
 
         return text.strip()

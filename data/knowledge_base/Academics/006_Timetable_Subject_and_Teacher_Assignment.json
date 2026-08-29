@@ -1,59 +1,52 @@
 {
     "module": "Academics",
     "topic": "Timetable Subject and Teacher Assignment",
-    "summary": "This topic describes how to assign specific subjects and their corresponding teachers to the predefined lecture slots for each day of the week within a class's timetable.",
+    "summary": "This topic explains how to assign subjects and their corresponding teachers to specific lecture slots within a created timetable schedule for each day of the week. It also covers defining breaks and handling multiple subjects in the same slot.",
     "navigation": [
         "Settings icon",
         "Academics",
         "Timetable",
-        "View/Edit Timetable (after schedule is created)",
-        "Select Day",
-        "Select Lecture Slot"
+        "Edit existing timetable"
     ],
     "steps": [
-        "After defining the timetable schedule (lecture timings), navigate to the timetable view for the specific class.",
-        "Select the desired 'Day' of the week (e.g., Monday).",
-        "Click on a specific 'Lecture Slot' to assign a subject and teacher.",
-        "Select the 'Subject' from the dropdown list (only subjects mapped to the class will appear).",
-        "Select the 'Employee' (teacher) from the list (only teachers mapped to the subject or class will appear).",
-        "Click 'Push' to confirm the assignment.",
-        "To define a 'Break' for a specific slot on a particular day: Click on the slot, toggle the 'Break' option to ON, and click 'Push'.",
-        "Repeat this process for all lecture slots and days of the week to complete the timetable."
+        "Navigate to the created timetable for the desired class.",
+        "For each day of the week (e.g., Monday, Tuesday, etc.) and for each lecture slot:",
+        "Select the 'Subject' from the dropdown list.",
+        "Select the 'Employee' (teacher) who is mapped for that subject.",
+        "Click 'Push' to assign the subject and teacher to the slot.",
+        "To remove an assignment, click 'Remove'.",
+        "To define a break for a specific slot, toggle the 'Break' option.",
+        "To assign another subject or teacher for the same time slot (e.g., for different sections or parallel activities), use the 'another' option."
     ],
     "business_rules": [
-        "Only subjects that have been mapped to the selected class will be available for assignment.",
-        "Only employees who have been mapped as teachers for the class or specific subject will be available for selection.",
-        "The system allows for defining breaks within specific lecture slots on particular days."
+        "Teachers must be mapped to subjects in the 'Teacher Assignment' section before they can be assigned in the timetable."
     ],
     "important_notes": [
-        "The 'Push' button is crucial for saving any assignments or changes made to a lecture slot.",
-        "The 'Remove' option is available to clear a subject/teacher assignment or a break from a slot.",
-        "The system may support assigning multiple subjects to the same time slot, but this functionality needs explicit configuration."
+        "The system allows for assigning multiple subjects or teachers to the same time slot, which can be useful for managing parallel activities or different sections."
     ],
     "questions": [
-        "How do I assign subjects to specific lecture slots in the timetable?",
-        "How do I assign teachers to subjects within the timetable schedule?",
-        "Can I define a break for a specific lecture slot on a particular day?",
-        "What happens if I need to change a subject or teacher in an already assigned timetable slot?",
-        "Are only mapped subjects and teachers available for selection in the timetable?"
+        "How do I assign subjects to specific lecture periods in the timetable?",
+        "What is the process for assigning teachers to subjects within the timetable?",
+        "Can I define a break directly within the timetable assignment interface?",
+        "Is it possible to assign two different subjects to the same time slot?",
+        "How do I remove a subject or teacher assignment from a timetable slot?"
     ],
     "keywords": [
-        "Timetable",
-        "Assign Subject",
-        "Assign Teacher",
+        "Timetable Assignment",
+        "Subject Assignment",
+        "Teacher Assignment",
         "Lecture Slot",
-        "Daily Schedule",
-        "Break",
-        "Academics"
+        "Push Assignment",
+        "Remove Assignment",
+        "Break in Timetable"
     ],
     "related_topics": [
         "Timetable Schedule Definition",
-        "Teacher Assignment to Classes and Subjects",
-        "Subject Class Mapping"
+        "Teacher Assignment for Classes and Subjects"
     ],
     "id": "academics_timetable_subject_and_teacher_assignment",
     "source": {
-        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "file": "122ca6525bfa4ae88dceac484f5c9208_3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

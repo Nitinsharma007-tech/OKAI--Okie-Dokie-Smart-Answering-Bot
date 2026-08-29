@@ -1,0 +1,44 @@
+{
+    "module": "Fees",
+    "topic": "Hard Deletion of Receipts",
+    "summary": "This feature allows for the permanent deletion of receipts from the system, which is distinct from cancellation. It is typically used in special cases where a receipt should not be shown or needs to be replaced.",
+    "navigation": [
+        "Receipt Setting",
+        "Delete Receipts by Excel"
+    ],
+    "steps": [
+        "Initiate a hard delete operation from the system.",
+        "Upload the list of receipts to be deleted via an Excel file (details for Excel upload to be covered later)."
+    ],
+    "business_rules": [
+        "Receipts are usually cancelled, not permanently deleted, to maintain an audit trail.",
+        "Hard delete is reserved for special cases where receipts must be completely removed or replaced, not just marked as invalid."
+    ],
+    "important_notes": [
+        "Hard delete is a powerful function and should be used with extreme caution as it permanently removes data.",
+        "It differs significantly from simply cancelling a receipt, which typically retains a record of the transaction."
+    ],
+    "questions": [
+        "How can I permanently delete a receipt in the ERP system?",
+        "What is the difference between cancelling and hard deleting a receipt?",
+        "When should I use the hard delete option for receipts?",
+        "Can I delete multiple receipts using an Excel upload feature?"
+    ],
+    "keywords": [
+        "Delete receipt",
+        "hard delete",
+        "cancel receipt",
+        "receipt management",
+        "excel upload delete"
+    ],
+    "related_topics": [
+        "Receipt Numbering Configuration",
+        "Fee Collection"
+    ],
+    "id": "fees_hard_deletion_of_receipts",
+    "source": {
+        "file": "18. 1080p-syb-fmmz-jmq (2025-07-10 12_04 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

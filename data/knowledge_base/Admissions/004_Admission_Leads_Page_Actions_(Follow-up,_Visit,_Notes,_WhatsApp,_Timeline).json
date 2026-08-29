@@ -1,0 +1,50 @@
+{
+    "module": "Admissions",
+    "topic": "Admission Leads Page: Actions (Follow-up, Visit, Notes, WhatsApp, Timeline)",
+    "summary": "The Admission Leads page provides various direct actions for counselors to manage student interactions, including adding follow-ups, recording campus visits, making calls (with IVR), adding notes, reviewing student timelines, and initiating WhatsApp conversations.",
+    "navigation": [
+        "Admission Leads"
+    ],
+    "steps": [
+        "To add a follow-up: Click 'Add Follow-up' and enter the required details.",
+        "To record a campus visit: Click 'Add Visit', specify the visit date, and add any relevant notes.",
+        "To make a call: Click 'Make Calls'. (Requires IVR integration).",
+        "To add a note: Click 'Add Note' to record specific information or discussions with the student.",
+        "To check the student's timeline: Click 'Timeline' to view all historical activities, such as application creation, emails sent, and counselor interactions.",
+        "To open WhatsApp: Click 'Open WhatsApp' next to the student's name. This will automatically open WhatsApp Web with the student's number pre-filled, allowing direct communication."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "The 'Make Calls' feature requires integration with an IVR (Interactive Voice Response) system to function correctly.",
+        "The 'Open WhatsApp' feature automatically populates the student's phone number, streamlining communication."
+    ],
+    "questions": [
+        "How do I log a student's campus visit in the system?",
+        "What is required to make calls to students directly from the ERP?",
+        "Where can I find a complete history of interactions with a student?",
+        "How can I quickly send a WhatsApp message to a student from the leads page?",
+        "Can I add custom notes about my conversations with students?"
+    ],
+    "keywords": [
+        "Add follow-up",
+        "Add visit",
+        "Make calls",
+        "Add note",
+        "Student timeline",
+        "Open WhatsApp",
+        "IVR integration",
+        "Lead actions",
+        "Counselor tools"
+    ],
+    "related_topics": [
+        "Admission Leads Page: Filters and Global Search",
+        "Admission Follow-up Page",
+        "Admission Lead Log Page (IVR Integration)"
+    ],
+    "id": "admissions_admission_leads_page_actions_follow_up_visit_notes_whatsapp_timeline",
+    "source": {
+        "file": "7. syb-fmmz-jmq (2026-07-07 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

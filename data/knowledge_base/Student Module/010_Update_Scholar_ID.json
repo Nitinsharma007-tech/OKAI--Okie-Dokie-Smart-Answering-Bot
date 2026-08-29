@@ -1,0 +1,49 @@
+{
+    "module": "Student Module",
+    "topic": "Update Scholar ID",
+    "summary": "Allows updating the unique Scholar ID for individual students, which serves as a primary identifier similar to an admission number.",
+    "navigation": [
+        "Student Module",
+        "Student List",
+        "(Select Student)",
+        "Update Scholar ID"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Select the specific student whose Scholar ID needs to be updated.",
+        "Click on the 'Update Scholar ID' option associated with the student's profile.",
+        "Enter the new Scholar ID in the designated field.",
+        "Save the changes to update the Scholar ID."
+    ],
+    "business_rules": [
+        "Scholar ID is a unique identifier used to track and identify students within the system.",
+        "It functions similarly to an admission number as a primary search key."
+    ],
+    "important_notes": [
+        "This function is used for modifying an existing student's Scholar ID, not for initial assignment during student creation.",
+        "Ensure the new Scholar ID is correct before saving, as it is a critical identifier."
+    ],
+    "questions": [
+        "How do I update a student's Scholar ID?",
+        "What is the purpose of a Scholar ID in the student module?",
+        "Can a student's Scholar ID be changed after their admission?",
+        "Where can I find the option to edit a student's unique identifier?"
+    ],
+    "keywords": [
+        "Scholar ID",
+        "update scholar ID",
+        "student ID",
+        "unique student number",
+        "edit student ID"
+    ],
+    "related_topics": [
+        "Add New Student (Individual)",
+        "Student Profile Management"
+    ],
+    "id": "student_module_update_scholar_id",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "module": "Admission",
+    "topic": "Token Money vs. Other Admission Heads (Fee Adjustment)",
+    "summary": "Understand the unique behavior of 'Token Money' as an admission head, where the collected amount is automatically adjusted against the student's total fees upon admission approval, unlike other heads (e.g., registration, prospectus) which are separate collections.",
+    "navigation": [
+        "Admission Module",
+        "Configuration",
+        "Admission Heads",
+        "Stage Setup",
+        "View [Desired Stage]",
+        "Transactions Tab",
+        "Student List",
+        "View [Student]",
+        "Fee Tab"
+    ],
+    "steps": [
+        "Ensure 'Token Money' is available as an Admission Head (it is a predefined head and cannot be manually created or removed).",
+        "Map 'Token Money' to a relevant admission stage in 'Stage-wise Transaction Mapping' with a specified amount (e.g., 10,000 rupees).",
+        "Collect the token money from the student during the admission process.",
+        "Approve the student's admission and add them to the student list.",
+        "Navigate to the 'Student List', search for the approved student, and go to their 'Fee' tab.",
+        "Observe that the 'Token Money' amount collected is automatically deducted from the student's total payable fees, reducing their net balance."
+    ],
+    "business_rules": [
+        "Token Money is a special admission head that is automatically adjusted against the student's total fees upon admission approval.",
+        "Other admission heads (e.g., Registration Fees, Prospectus Fees, Visit Fees) are collected separately and do not reduce the student's total fees; they are considered distinct revenue streams.",
+        "The system handles the adjustment of token money automatically once the student is approved and added to the student list."
+    ],
+    "important_notes": [
+        "Token money is typically collected towards the later stages of the admission process.",
+        "Clearly communicate to students the difference between token money (adjustable) and other fees (non-adjustable against tuition).",
+        "The 'Token Money' head itself is not editable in 'Admission Heads' configuration."
+    ],
+    "questions": [
+        "What is the difference between 'Token Money' and 'Registration Fee' in terms of fee adjustment?",
+        "How does token money affect a student's total payable fees?",
+        "When is token money adjusted in the student's fee structure?",
+        "Can I create a custom admission head that adjusts against total fees like token money?",
+        "Where can I see the fee adjustment after collecting token money?"
+    ],
+    "keywords": [
+        "Token money",
+        "fee adjustment",
+        "admission fees",
+        "registration fee",
+        "prospectus fee",
+        "student fees",
+        "fee structure",
+        "admission approval",
+        "net payable balance"
+    ],
+    "related_topics": [
+        "Admission Heads Configuration",
+        "Stage-wise Transaction Mapping",
+        "Student Fee Management"
+    ],
+    "id": "admission_token_money_vs_other_admission_heads_fee_adjustment",
+    "source": {
+        "file": "6. syb-fmmz-jmq (2026-07-03 1730 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "module": "Inventory",
+    "topic": "Inventory Reporting",
+    "summary": "This topic highlights the availability of various reports within the inventory module, essential for monitoring and analyzing inventory status and movement. These reports include stock levels, closing stock, item-specific details, and transfer records.",
+    "navigation": [
+        "Inventory",
+        "Reports"
+    ],
+    "steps": [
+        "Navigate to Inventory > Reports (Assumed based on context).",
+        "Select the desired report type (e.g., 'Stock Report', 'Closing Stock Report', 'Item Report', 'Transfer Report').",
+        "Apply any necessary filters such as date range, specific items, or stores.",
+        "Generate and view the report."
+    ],
+    "business_rules": [
+        "Reports provide critical insights into current stock, historical movements, and overall inventory performance."
+    ],
+    "important_notes": [
+        "The system offers an 'end number of reports' that can be utilized based on specific analytical and operational needs."
+    ],
+    "questions": [
+        "How can I view the current stock levels in the system?",
+        "Where can I find reports related to inventory transfers?",
+        "What types of inventory reports are available?",
+        "Can I generate a report for closing stock?",
+        "How do I get a detailed report for a specific item?"
+    ],
+    "keywords": [
+        "Inventory reports",
+        "Stock reports",
+        "Closing stock",
+        "Item reports",
+        "Transfer reports",
+        "Inventory analysis",
+        "Reporting section"
+    ],
+    "related_topics": [
+        "Item Creation and Management",
+        "Stock Transfer between Stores/Departments",
+        "Recording Purchase Entries"
+    ],
+    "id": "inventory_inventory_reporting",
+    "source": {
+        "file": "kashish _ Okie - 2026_06_02 14_58 IST – Recording (1).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

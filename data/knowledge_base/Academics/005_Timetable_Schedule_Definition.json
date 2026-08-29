@@ -1,58 +1,56 @@
 {
     "module": "Academics",
     "topic": "Timetable Schedule Definition",
-    "summary": "This topic outlines how to create the daily lecture schedule for a class, including defining the start and end times for each lecture period and incorporating breaks.",
+    "summary": "This topic outlines the process of creating a new timetable by defining lecture numbers, setting precise start and end times for each lecture period, and incorporating breaks into the daily schedule.",
     "navigation": [
         "Settings icon",
         "Academics",
         "Timetable",
-        "Add New Timetable",
-        "Add New Schedule"
+        "Add new timetable"
     ],
     "steps": [
-        "Click on the 'Settings' icon.",
-        "Select 'Academics'.",
-        "Choose 'Timetable'.",
-        "Click 'Add New Timetable'.",
-        "Select the 'Class' for which the timetable schedule is being created.",
-        "Click 'Add New Schedule'.",
-        "Define 'Lecture Number 1' by entering its 'Start Time' (e.g., 8:00 AM) and 'End Time' (e.g., 8:45 AM).",
-        "Add subsequent lectures, defining their start and end times. The system may automatically suggest the start time for the next lecture based on the previous one's end time.",
-        "To define a 'Break': Add a lecture slot for the break duration, then click on that slot and toggle the 'Break' option to ON.",
-        "Save the schedule once all lecture timings and breaks are defined."
+        "Navigate to the Academics section.",
+        "Click on 'Timetable'.",
+        "Click 'Add new timetable'.",
+        "Select the 'Class' for which the timetable is being created.",
+        "Click 'Add new schedule'.",
+        "Define 'Lecture Number' (e.g., Lecture 1).",
+        "Enter the 'Start Time' for the lecture (e.g., 8:00 a.m.).",
+        "Enter the 'End Time' for the lecture (e.g., 8:40 a.m.).",
+        "To add more lectures, click 'Add more lectures'; the start time for the next lecture will automatically populate based on the previous lecture's end time.",
+        "To define a break, toggle the 'Break' option for a specific lecture slot and set its duration.",
+        "Click 'Save Schedule' once all lecture and break timings for the day are defined."
     ],
     "business_rules": [
-        "Lecture numbers are sequential.",
-        "Breaks can be defined as specific time slots within the daily schedule."
+        "Lecture numbers are assigned sequentially.",
+        "Start and end times precisely define the duration of each lecture or break period."
     ],
     "important_notes": [
-        "This process defines only the time slots for lectures and breaks; subjects and teachers are assigned in a subsequent step.",
-        "The system often assists by auto-populating the start time for a new lecture based on the end time of the preceding one."
+        "All lecture timings and breaks for the entire day must be added to complete the schedule."
     ],
     "questions": [
-        "How do I create a daily lecture schedule for a class?",
-        "Where do I define the start and end times for each lecture period?",
-        "How can I add a break into the timetable schedule?",
-        "Can I define multiple lecture slots at once?",
-        "What information is required to set up a new timetable schedule?"
+        "How do I create a new timetable for a specific class?",
+        "What is the procedure for defining lecture start and end times?",
+        "Can I include breaks within the timetable schedule?",
+        "How are lecture numbers automatically generated?",
+        "What happens if I add more lectures after defining the first one?"
     ],
     "keywords": [
         "Timetable",
         "Schedule",
-        "Lecture Timings",
-        "Break",
+        "Lecture",
         "Start Time",
         "End Time",
-        "Academics"
+        "Break",
+        "Add Schedule",
+        "Timetable Creation"
     ],
     "related_topics": [
-        "Subject Class Mapping",
-        "Teacher Assignment to Classes and Subjects",
         "Timetable Subject and Teacher Assignment"
     ],
     "id": "academics_timetable_schedule_definition",
     "source": {
-        "file": "1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
+        "file": "122ca6525bfa4ae88dceac484f5c9208_3. 1080p-jeb-mmdt-njb (2026-04-03 11_49 GMT+5_30).txt",
         "generated_by": "Gemini 2.5 Flash",
         "version": "1.0"
     }

@@ -1,0 +1,50 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Student Class and Section Update",
+    "summary": "Describes the process for updating a student's assigned class and section. This is typically done by editing the student's profile, similar to modifying other personal or academic details, and then saving the changes.",
+    "navigation": [
+        "Student",
+        "Student List",
+        "Action (for a specific student)",
+        "View",
+        "Edit (Class/Section fields)"
+    ],
+    "steps": [
+        "Navigate to the 'Student List'.",
+        "Locate the student whose class and/or section needs to be updated.",
+        "Click on the 'Action' button and select 'View' to open the student's detailed profile.",
+        "Locate the section containing the 'Class' and 'Section' details.",
+        "Click 'Edit' for that specific section.",
+        "Update the 'Class' and 'Section' fields to their new values.",
+        "Click 'Save' to apply and store the changes in the student's record."
+    ],
+    "business_rules": [],
+    "important_notes": [
+        "Updating a student's class and section is a common administrative task, especially at the start of a new academic term.",
+        "Changes are saved immediately after clicking the 'Save' button."
+    ],
+    "questions": [
+        "How do I update a student's assigned class?",
+        "Can I change a student's section in the system?",
+        "What is the process for updating a student's academic details like class and section?"
+    ],
+    "keywords": [
+        "Update Student",
+        "Change Class",
+        "Change Section",
+        "Student Class",
+        "Student Section",
+        "Edit Student Details",
+        "Academic Update"
+    ],
+    "related_topics": [
+        "Student Details View and Edit",
+        "Student List Management"
+    ],
+    "id": "student_sas_student_class_and_section_update",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

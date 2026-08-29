@@ -1,0 +1,54 @@
+{
+    "module": "Fee Management",
+    "topic": "Fee Receipt Generation and Customization",
+    "summary": "Explains how fee receipts are generated after payment, their customizable format, and the display of payment details and remarks.",
+    "navigation": [
+        "Collect Fee",
+        "Complete Payment",
+        "Receipt Confirmation"
+    ],
+    "steps": [
+        "After a successful fee collection, a confirmation prompt will appear.",
+        "Confirm the transaction to generate the receipt.",
+        "The system will generate a receipt in a predefined format.",
+        "The receipt can be viewed and printed."
+    ],
+    "business_rules": [
+        "Receipts are generated automatically upon successful payment.",
+        "The receipt format is customizable to fit office requirements."
+    ],
+    "important_notes": [
+        "Receipts display payment details, student information, and any remarks entered during the collection process.",
+        "The institute's logo can be integrated into the receipt template.",
+        "Concession details, if applied, will be clearly shown on the receipt.",
+        "There is a discussion point regarding automatically emailing receipts to students due to potential refund/cancellation risks; currently, physical receipts are often collected from the counter for confirmation."
+    ],
+    "questions": [
+        "How is a fee receipt generated after payment?",
+        "Can the fee receipt format be customized?",
+        "Where do remarks entered during fee collection appear on the receipt?",
+        "Will the institute's logo be displayed on the receipt?",
+        "Do concession details appear on the fee receipt?",
+        "Are receipts automatically sent to the student's email?"
+    ],
+    "keywords": [
+        "Fee receipt",
+        "receipt format",
+        "customization",
+        "logo integration",
+        "payment confirmation",
+        "transaction receipt",
+        "email receipt",
+        "print receipt"
+    ],
+    "related_topics": [
+        "Processing Fee Payments via Various Modes",
+        "Concession Management"
+    ],
+    "id": "fee_management_fee_receipt_generation_and_customization",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -11,18 +11,17 @@ class GeminiAgent:
 
         load_dotenv()
 
-        self.api_keys = [
+        configured_keys = []
+        for index in range(1, 6):
+            key = os.getenv(f"GEMINI_API_KEY_{index}")
+            if key:
+                configured_keys.append(key)
 
-            os.getenv("GEMINI_API_KEY_1"),
-            os.getenv("GEMINI_API_KEY_2"),
-            os.getenv("GEMINI_API_KEY_3"),
-            os.getenv("GEMINI_API_KEY_4"),
-            os.getenv("GEMINI_API_KEY_5")
+        fallback_key = os.getenv("GEMINI_API_KEY")
+        if fallback_key and fallback_key not in configured_keys:
+            configured_keys.insert(0, fallback_key)
 
-        ]
-
-        # Remove empty keys
-        self.api_keys = [key for key in self.api_keys if key]
+        self.api_keys = configured_keys
 
         if not self.api_keys:
             raise ValueError("No Gemini API Keys Found.")
@@ -49,7 +48,7 @@ class GeminiAgent:
 
         last_error = None
 
-        for i, api_key in enumerate(self.api_keys):
+        for i, api_key in enumerate(self.api_keys, start=1):
 
             try:
 
@@ -68,13 +67,13 @@ class GeminiAgent:
 
                 )
 
-                print(f"✅ JSON Success using API Key {i+1}")
+                print(f"✅ JSON Success using API Key {i}")
 
                 return json.loads(response.text)
 
             except Exception as e:
 
-                print(f"❌ API Key {i+1} Failed")
+                print(f"❌ API Key {i} Failed")
 
                 last_error = e
 
@@ -88,7 +87,7 @@ class GeminiAgent:
 
         last_error = None
 
-        for i, api_key in enumerate(self.api_keys):
+        for i, api_key in enumerate(self.api_keys, start=1):
 
             try:
 
@@ -106,13 +105,13 @@ class GeminiAgent:
 
                 )
 
-                print(f"✅ Chat Success using API Key {i+1}")
+                print(f"✅ Chat Success using API Key {i}")
 
                 return response.text
 
             except Exception as e:
 
-                print(f"❌ API Key {i+1} Failed")
+                print(f"❌ API Key {i} Failed")
 
                 last_error = e
 

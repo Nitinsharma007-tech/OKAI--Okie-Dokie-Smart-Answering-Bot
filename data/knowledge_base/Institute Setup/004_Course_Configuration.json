@@ -1,0 +1,69 @@
+{
+    "module": "Institute Setup",
+    "topic": "Course Configuration",
+    "summary": "This topic details the critical process of setting up courses, including defining nomenclature, managing streams, configuring batches (for colleges), and creating sections. It emphasizes that courses cannot be deleted once created and highlights important naming conventions.",
+    "navigation": [
+        "Institute setup",
+        "Institute profile",
+        "Courses"
+    ],
+    "steps": [
+        "Navigate to the 'Courses' section (typically found under 'Institute profile').",
+        "Click 'New Class' or 'Add Course' to create a new course.",
+        "Enter the 'Course Name' following the specified nomenclature: 'Class' (single space) 'Numeric' (e.g., 'Class 1'). Avoid Roman numerals, short forms, or extra spaces at the beginning or end.",
+        "Specify the 'Course Group' if applicable.",
+        "Enter a 'Sequence Number' to ensure proper ordering and filtering of courses.",
+        "Provide a 'Lead Course Name' (this field is compulsory).",
+        "Define 'Stream Name' (e.g., 'Science' for 11th/12th grade; typically the same for grades up to 10th).",
+        "Enter the 'Number of Seats' available for the course.",
+        "For colleges, configure 'Batch' details (semester-wise or year-wise). For schools, ensure the batch option is disabled.",
+        "Add 'Sections' (if not specified, 'Section A' will be the default).",
+        "Optionally, create 'Groups' within sections (e.g., House-wise, A/B/C/D) based on client requirements.",
+        "Click 'Add' to save the course.",
+        "To edit a course, use the second option to change details (streams, seats) or the first option to change the course name."
+    ],
+    "business_rules": [
+        "Courses are fundamental for managing student data, fees, and sections.",
+        "'Lead Course Name' is a compulsory field.",
+        "The batch option must be disabled for schools.",
+        "The batch option must be enabled for colleges and universities (semester-wise or year-wise)."
+    ],
+    "important_notes": [
+        "Courses cannot be deleted once created, so confirm all details before saving.",
+        "Strictly adhere to the course naming nomenclature ('Class 1', 'Class 2') and avoid extra spaces at the beginning or end of the name.",
+        "Sequence numbers are crucial for the correct filtering and ordering of courses in the database."
+    ],
+    "questions": [
+        "How do I add a new course in the ERP system?",
+        "What is the correct naming convention for courses?",
+        "Can I delete a course after it has been created?",
+        "How do I manage batches for college courses?",
+        "What is the purpose of the sequence number in course setup?",
+        "How do I add sections or groups to a course?"
+    ],
+    "keywords": [
+        "Course setup",
+        "course configuration",
+        "nomenclature",
+        "streams",
+        "batches",
+        "sections",
+        "groups",
+        "sequence number",
+        "add course",
+        "edit course",
+        "college courses",
+        "school courses"
+    ],
+    "related_topics": [
+        "Student Admissions",
+        "Fee Management",
+        "Institute Preferences"
+    ],
+    "id": "institute_setup_course_configuration",
+    "source": {
+        "file": "11. 720p-syb-fmmz-jmq (2025-07-02 11_05 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

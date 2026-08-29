@@ -1907,362 +1907,378 @@ Every application,
 every field comes in a group.
 
 478
-00:18:20,029 --> 00:18:22,309
-You get some things in personal details,
+00:18:20,029 --> 00:18:21,549
+For example, in personal details,
 
 479
-00:18:22,990 --> 00:18:23,890
-you get some things in document upload,
+00:18:21,750 --> 00:18:22,230
+you have some things.
 
 480
-00:18:25,130 --> 00:18:25,650
-you get some things in address.
+00:18:22,849 --> 00:18:24,529
+In document upload, you have some things.
 
 481
-00:18:26,769 --> 00:18:27,769
-So how do we do this grouping?
+00:18:25,130 --> 00:18:26,589
+In address, you have some things.
 
 482
-00:18:28,869 --> 00:18:30,410
-So we have the option of group by.
+00:18:26,829 --> 00:18:27,930
+So how do you group?
 
 483
-00:18:31,329 --> 00:18:32,829
-What I did was, I selected 4-5 fields
+00:18:28,609 --> 00:18:30,430
+So here we have the option of group by.
 
 484
-00:18:32,829 --> 00:18:33,829
-and put them in transport detail.
+00:18:31,309 --> 00:18:33,829
+I have taken 4-5 fields and put them in transport details.
 
 485
-00:18:34,309 --> 00:18:35,630
-So what will happen is, if you put them separately in hosted data,
+00:18:34,329 --> 00:18:34,970
+So what will happen is,
 
 486
-00:18:36,250 --> 00:18:37,029
-then these two will come separately.
+00:18:34,970 --> 00:18:35,630
+if you put them separately in hosted data,
 
 487
+00:18:36,250 --> 00:18:37,049
+then these two will come separately.
+
+488
 00:18:37,630 --> 00:18:38,569
 So what will the system do?
 
-488
-00:18:38,670 --> 00:18:40,849
-It will show it according to that group on this page.
-
 489
-00:18:42,150 --> 00:18:43,710
-Then you put the sequence number.
+00:18:38,670 --> 00:18:40,849
+It will show it according to the same group on this page.
 
 490
-00:18:44,170 --> 00:18:46,109
-So there was no sequencing before this.
+00:18:42,210 --> 00:18:43,710
+Then you put the sequence number.
 
 491
-00:18:46,470 --> 00:18:47,769
-So what will the system do?
+00:18:44,369 --> 00:18:46,109
+There was no sequencing before this.
 
 492
-00:18:47,769 --> 00:18:48,490
-According to that sequence,
+00:18:46,109 --> 00:18:47,730
+So what will the system do?
 
 493
-00:18:49,170 --> 00:18:51,569
-it goes to 1, 2, 3 or 4.
+00:18:47,789 --> 00:18:48,509
+According to the same sequence,
 
 494
-00:18:52,009 --> 00:18:53,049
-Before that, it was on 1,
+00:18:49,150 --> 00:18:51,609
+this is on 1, this is on 2, this is on 3, this is on 4.
 
 495
-00:18:53,210 --> 00:18:55,309
-this will go to 0, then on 1.
+00:18:52,069 --> 00:18:53,049
+Before that, this was on 1.
 
 496
-00:18:55,529 --> 00:18:56,630
-Then this sequencing will go.
+00:18:53,210 --> 00:18:55,250
+This will go on 0 and then on 1.
 
 497
-00:18:56,910 --> 00:18:58,789
-So sequencing means that
+00:18:55,529 --> 00:18:56,890
+Then this sequencing will go on.
 
 498
+00:18:56,890 --> 00:18:58,789
+So sequencing means that
+
+499
 00:18:58,789 --> 00:19:01,150
 it will be visible in the sequence you want to keep.
 
-499
-00:19:01,730 --> 00:19:04,470
+500
+00:19:01,710 --> 00:19:04,450
 If I set it up now,
 
-500
-00:19:04,690 --> 00:19:06,049
+501
+00:19:04,690 --> 00:19:06,069
 let's make it fresh.
 
-501
-00:19:09,990 --> 00:19:12,569
+502
+00:19:09,950 --> 00:19:12,609
 I came to this.
 
-502
-00:19:12,829 --> 00:19:13,250
+503
+00:19:12,849 --> 00:19:13,250
 Add field.
 
-503
-00:19:14,210 --> 00:19:16,150
-Suppose you don't have any stage,
-
 504
-00:19:16,529 --> 00:19:18,829
-then you will click on add multiple field.
+00:19:14,130 --> 00:19:16,170
+If you don't have any stage,
 
 505
-00:19:18,829 --> 00:19:20,670
-Because you don't have enough time
+00:19:16,529 --> 00:19:19,230
+then you click here
 
 506
-00:19:20,670 --> 00:19:22,430
-to add one field from here and then another.
+00:19:19,230 --> 00:19:20,650
+because you don't have enough time
 
 507
-00:19:22,849 --> 00:19:23,390
-You don't have enough time.
+00:19:20,650 --> 00:19:22,430
+to add one field from here and then another.
 
 508
-00:19:23,930 --> 00:19:25,029
-Select multiple fields.
+00:19:22,849 --> 00:19:23,410
+You don't have enough time.
 
 509
-00:19:25,450 --> 00:19:28,430
-What do you want? Student's name, student's date, student's gender.
+00:19:23,930 --> 00:19:25,049
+Select multiple fields,
 
 510
-00:19:29,390 --> 00:19:31,690
-Student's phone number, email, address.
+00:19:25,450 --> 00:19:28,470
+student name, student date, student gender,
 
 511
-00:19:32,170 --> 00:19:32,450
-That's it.
+00:19:29,170 --> 00:19:31,690
+student phone number, email, address.
 
 512
+00:19:32,130 --> 00:19:32,950
+That's it.
+
+513
 00:19:33,329 --> 00:19:34,849
 It will depend on your requirement.
 
-513
-00:19:35,210 --> 00:19:36,210
+514
+00:19:35,230 --> 00:19:36,210
 Now I am telling you the basics.
 
-514
-00:19:36,329 --> 00:19:37,509
+515
+00:19:36,390 --> 00:19:37,569
 You have multiple fields.
 
-515
-00:19:37,849 --> 00:19:38,670
+516
+00:19:37,910 --> 00:19:39,190
 You can select whatever you want.
 
-516
-00:19:39,569 --> 00:19:40,730
+517
+00:19:39,569 --> 00:19:40,710
 As soon as you click on save,
 
-517
-00:19:41,470 --> 00:19:42,890
+518
+00:19:41,490 --> 00:19:42,809
 all the fields will be added to you.
 
-518
-00:19:44,859 --> 00:19:46,460
+519
+00:19:44,880 --> 00:19:46,480
 You can give them sequence numbers.
 
-519
-00:19:46,460 --> 00:19:47,859
+520
+00:19:46,480 --> 00:19:47,859
 1, 2, 4.
 
-520
+521
 00:19:48,240 --> 00:19:48,940
 You can give them any sequence number.
 
-521
-00:19:50,819 --> 00:19:53,339
-You can give sequence numbers to the field you want to show.
-
 522
-00:19:54,549 --> 00:19:55,309
-Next,
+00:19:50,619 --> 00:19:50,859
+You can give the sequence number
 
 523
-00:19:55,690 --> 00:19:57,470
-I will tell you the transaction one tomorrow.
+00:19:50,859 --> 00:19:53,160
+to the field you want to show.
 
 524
-00:19:57,549 --> 00:19:58,430
-Save it.
+00:19:54,569 --> 00:19:56,809
+Next, I will tell you about the transaction
 
 525
-00:19:58,750 --> 00:20:00,390
-After saving, refresh it.
+00:19:56,809 --> 00:19:58,589
+and save it.
 
 526
-00:20:00,490 --> 00:20:02,710
-Then your stage will be added.
+00:19:58,690 --> 00:20:00,450
+After saving, refresh it.
 
 527
-00:20:04,690 --> 00:20:06,750
-Your testing stage will be added.
+00:20:00,490 --> 00:20:02,710
+Once you check, your stage will be added.
 
 528
-00:20:07,509 --> 00:20:08,549
-Is it clear, guys?
+00:20:04,690 --> 00:20:06,670
+Your testing stage will be added.
 
 529
-00:20:10,190 --> 00:20:10,849
-Yes, sir.
+00:20:07,490 --> 00:20:08,569
+Is it clear, guys?
 
 530
-00:20:10,950 --> 00:20:12,130
-Sir, tell me the difference between lead and application.
+00:20:10,170 --> 00:20:10,849
+Yes, sir.
 
 531
-00:20:14,150 --> 00:20:15,950
-What happens in the case of lead?
+00:20:10,950 --> 00:20:11,450
+Sir, please tell us the difference between lead
 
 532
-00:20:17,250 --> 00:20:17,930
-In general,
+00:20:11,450 --> 00:20:12,650
+and application.
 
 533
-00:20:17,930 --> 00:20:19,349
-I will tell you in advance.
+00:20:14,190 --> 00:20:15,970
+What happens in the case of lead?
 
 534
-00:20:19,710 --> 00:20:20,549
-I have two pages.
-
-535
-00:20:20,890 --> 00:20:23,190
-One is application data and one is admission leads.
-
-536
-00:20:24,190 --> 00:20:26,089
-If you want to show any application
-
-537
-00:20:26,089 --> 00:20:27,049
-on the leads page,
-
-538
-00:20:27,890 --> 00:20:28,630
-then you need to tag it as lead.
-
-539
-00:20:29,490 --> 00:20:31,730
-In general, the lead is
-
-540
-00:20:31,730 --> 00:20:32,829
-that nothing has been done on it.
-
-541
-00:20:32,990 --> 00:20:33,549
-It is fresh.
-
-542
-00:20:34,650 --> 00:20:35,910
-No data has been added.
-
-543
-00:20:36,150 --> 00:20:38,109
-No document request has been filled.
-
-544
-00:20:38,390 --> 00:20:39,450
-To keep it on that stage,
-
-545
-00:20:40,549 --> 00:20:43,650
-you have to set that stage as a lead stage.
-
-546
-00:20:45,349 --> 00:20:45,970
+00:20:16,809 --> 00:20:17,930
 In general,
 
+535
+00:20:18,150 --> 00:20:19,309
+I will tell you in advance.
+
+536
+00:20:19,690 --> 00:20:20,549
+I have two pages.
+
+537
+00:20:20,890 --> 00:20:22,329
+One is application data, and the other is
+
+538
+00:20:22,329 --> 00:20:23,210
+admission leads.
+
+539
+00:20:24,190 --> 00:20:26,029
+If you want to show any application
+
+540
+00:20:26,029 --> 00:20:27,029
+on the leads page,
+
+541
+00:20:27,769 --> 00:20:28,650
+then you need to tag it as lead.
+
+542
+00:20:29,430 --> 00:20:31,690
+In general, the lead is
+
+543
+00:20:31,690 --> 00:20:32,849
+that nothing has been done on it.
+
+544
+00:20:32,990 --> 00:20:33,529
+It is fresh.
+
+545
+00:20:34,630 --> 00:20:35,910
+No data has been added,
+
+546
+00:20:36,130 --> 00:20:38,029
+no document request has been filled.
+
 547
-00:20:45,970 --> 00:20:47,210
-your first stage,
+00:20:38,349 --> 00:20:39,430
+To keep it on that stage,
 
 548
-00:20:47,829 --> 00:20:49,009
-the very first stage,
+00:20:39,430 --> 00:20:41,789
+you need to set that stage
 
 549
-00:20:49,859 --> 00:20:51,029
-is the lead stage.
+00:20:41,789 --> 00:20:43,509
+as a lead stage.
 
 550
-00:20:51,109 --> 00:20:52,210
-You have to set all the other applications.
+00:20:44,630 --> 00:20:44,970
+Okay, sir.
 
 551
-00:20:54,009 --> 00:20:55,950
-Because you are taking only the data.
+00:20:45,549 --> 00:20:46,950
+In general, the first stage,
 
 552
-00:20:56,329 --> 00:20:57,490
-You have to do the work first.
+00:20:47,730 --> 00:20:49,009
+the very first stage,
 
 553
-00:21:00,220 --> 00:21:00,599
-Is it clear?
+00:20:50,190 --> 00:20:51,009
+is the lead stage.
 
 554
-00:21:00,839 --> 00:21:01,480
-I will not go into too much detail.
+00:20:51,089 --> 00:20:52,289
+You need to set all the other applications.
 
 555
-00:21:03,589 --> 00:21:05,859
-Tell me the doubts in this.
+00:20:53,609 --> 00:20:54,970
+Because you are only taking
 
 556
-00:21:06,160 --> 00:21:06,859
-Is there any doubt,
+00:20:54,970 --> 00:20:55,930
+the data.
 
 557
-00:21:06,960 --> 00:21:07,799
-any question?
+00:20:57,549 --> 00:21:00,599
+It is clear.
 
 558
-00:21:09,509 --> 00:21:10,940
-We have just done the stage part.
+00:21:00,839 --> 00:21:01,480
+I won't go into much detail.
 
 559
-00:21:16,180 --> 00:21:16,980
-Amit sir, any doubt?
+00:21:03,480 --> 00:21:04,960
+Now tell me your doubts.
 
 560
-00:21:19,710 --> 00:21:20,630
-No, sir.
+00:21:06,180 --> 00:21:06,880
+Is there any doubt,
 
 561
-00:21:20,630 --> 00:21:21,069
-Clear.
+00:21:06,960 --> 00:21:07,859
+any question,
 
 562
-00:21:22,690 --> 00:21:23,630
-Parvathan, any doubt?
+00:21:07,859 --> 00:21:09,140
+about the stage?
 
 563
-00:21:24,700 --> 00:21:25,180
-Clear, sir.
+00:21:09,420 --> 00:21:10,960
+We have only done the stage part.
 
 564
-00:21:27,279 --> 00:21:29,279
-Can I close, sir?
+00:21:16,259 --> 00:21:17,039
+Amit sir, any doubt?
 
 565
-00:21:30,160 --> 00:21:30,619
-Thank you.
+00:21:19,950 --> 00:21:21,190
+No, sir. It is clear.
 
 566
-00:21:31,480 --> 00:21:33,079
-Thank you for your time.
+00:21:22,730 --> 00:21:23,730
+Abhay, do you have any doubt?
 
 567
+00:21:26,480 --> 00:21:27,440
+No, sir.
+
+568
+00:21:28,640 --> 00:21:29,059
+Can I close?
+
+569
+00:21:29,920 --> 00:21:30,400
+Yes.
+
+570
+00:21:31,539 --> 00:21:33,180
+Okay, guys. Thank you for your time.
+
+571
 00:21:33,599 --> 00:21:34,140
 Have a nice day.
 

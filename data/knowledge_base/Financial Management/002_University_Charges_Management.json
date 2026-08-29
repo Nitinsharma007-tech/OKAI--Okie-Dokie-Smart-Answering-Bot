@@ -1,0 +1,35 @@
+{
+    "module": "Financial Management",
+    "topic": "University Charges Management",
+    "summary": "This topic covers the management of various charges levied by the university, which typically include student fees, tuition, and other institutional costs.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [],
+    "questions": [
+        "How are university charges configured in the system?",
+        "Where can I view a student's university charges?",
+        "What types of university charges can be managed through the ERP?"
+    ],
+    "keywords": [
+        "University charges",
+        "student fees",
+        "tuition",
+        "billing",
+        "finance",
+        "charges management",
+        "fee structure"
+    ],
+    "related_topics": [
+        "Student Module",
+        "Fee Management",
+        "Payment Processing",
+        "Financial Aid"
+    ],
+    "id": "financial_management_university_charges_management",
+    "source": {
+        "file": "17. 720p-syb-fmmz-jmq (2025-07-09 12_10 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

@@ -38,1216 +38,1339 @@ Otherwise, you can also collect from the collect fee online option.
 You can also collect from the first option.
 This is how you have two or three different options.
 You can also collect from the collect fee online option.
-You can also add this to many sessions.
-We have added a student by testing it.
-You can search for the student's name.
+You can also add it to your session.
+We have added a student after testing.
+You can search for the student by its name.
 You can also search for the student's registration number.
 You can also search for the student's father's name, phone number.
 You can search for the student from various options.
-You can search for the student and the student will appear.
+You will search for the student and the student will appear.
 Some details will be shown on the interface.
-It will verify the student.
+You can verify the student.
 You will click on this.
 From here, the student's fee collection section will be opened.
 Here, the student's personal details are there.
 Then, what is the fee demand?
 I have added the student to Paytech Civil.
-We have added the total fee to the student in the first year.
+We have added the total fee of the student in the first year.
 We have added a fresh application.
-They have taken a fresh one for a literal entry.
+They have taken a fresh application for a literal entry.
 There is a goal.
-If the student is in the second year or third year, you will have only one student.
-We have added a fresh one and a literal entry.
-Then, the total fees are coming.
-If the student has a concession, they will get two concessions.
-After concessionless, the student's payable amount will come to you.
-The student has received it and its balance is according to the work.
+If the student is in the second year or third year, then you are the only student.
+We have added a fresh application and a literal entry.
+Here, the total fee is coming.
+If you ask the student for concession, then concession comes.
+After concession, the fee will come to you.
+The fee will be received by the student.
+Then the balance of the fee will come.
 From here, they can redirect the student to concession.
 You can click on this and make a concession.
 We have not made a concession group yet.
-Please share your concession groups.
+Share your concession groups.
 50% of the criteria is concession.
-Staff and staff are also your concession groups.
-Okay.
+You can also make a movie like this.
 Send me a criteria.
-Send me your fee structure.
-We will add a concession criteria in the setup.
-If the student has made a concession, then it will be imported.
-If you want to make a new one, I will tell you.
-We will add a copy.
-Anjali, add a man-to-man concession.
-Okay.
-We have made a due demand.
-There is an installment here.
+Send me the fee structure.
+Send me the fee structure.
+We will add a criteria for concession.
+According to the student, if there is a concession, then it will be imported.
+If you want to add a new one, I will tell you.
+Anju, add a man-to-concession.
+Ok.
+First of all, we have put a due demand.
+Here you have an installment.
 There are four installments.
 By default, your first installment will come.
-The date that you have given will be automatically selected according to the date.
-If the due date is the second installment, it will be automatically selected in the second installment.
+The date you have given will be automatically selected according to the date.
+If the due date is the second installment, then it will be automatically selected in the second installment.
 If you select all, then all the installments will be selected.
-We have selected all.
 The student's total pay is all.
 This is the overall fee.
-We have made this according to the case installment fee.
+According to the case installment fee.
+We have made this now.
 If you think there will be any changes, then this will be the case.
-Ma'am, it is possible that our amount will change.
-That is possible, ma'am.
+Because ma'am, it is possible that our amount will change now.
+Yes, that is possible.
 I meant the interface.
-You have made it that we will take this much in August, then in November, then in February.
-Okay.
-This is okay.
-You take it like this in August, November, February and May.
+You made it that we will take this much in August, then in November, then in February.
+Ok.
+This is ok.
+You take it like this in August, November, May.
 There is one more option in this.
 It is possible that the student's fee is this.
 I will select all the installments.
-For example, you have to take one installment, but the student does not pay so much now.
+For example, you have to take one installment.
+But the student does not pay so much now.
 You have to enter the amount according to yourself.
-There is one option, you can enter the amount directly here.
+There is one option.
+You can enter the amount directly here.
 For example, the student is paying 10,000 now.
 You will enter according to yourself.
-The first fee head will get the 10,000.
-The first fee head will get the 10,000.
-He will take all the fees.
-In case you feel that you have to enter according to yourself, you can do that too.
-Your cycle is here.
-You can enter according to yourself.
+10,000.
+The first fee head will get the first fee head.
+He will take all the fees from that.
+In case you feel that you have to pay according to yourself, you can do that too.
+You have a cycle here.
+You can do according to yourself.
 You have to take 2,000 in this.
 You have to take 1,000 in this.
-You are entering according to yourself.
-Ma'am, excuse me.
-By default, you are saying that the fees in the tuition fee, what will the tuition fee catch first?
-Will the tuition fee catch first or something else?
-This is the sequence of the head.
-This is the first tuition fee.
-You can do the head sequence according to yourself.
-Okay, okay.
-Because we also have the tuition fee in this.
-So, first the tuition fee, security, then the tuition fee.
-How does this work?
+You are paying according to yourself.
+Ma'am, excuse me ma'am.
+By default, you are saying that the fees in the tuition fee, what will the tuition fee get first?
+Will the tuition fee get first or something else?
+This is the head sequence.
+You have the first tuition fee here.
+You can get the head sequence according to yourself.
+Because we also have tuition fee in this.
+So, first the tuition fee, then the security, then the tuition fee.
+This should be done like this.
 First, tell me the head sequence.
 I will note it down.
-First, security, then tuition fee.
-Then transport and also.
-First, security, then tuition fee.
+First comes the security, then the tuition fee.
+Then the transport and also.
+First, there will be security, then the tuition fee.
 Then transport and hostel.
-Now, all these will remain after that?
-Yes, yes, yes.
 Transport and hostel.
-If someone has both transport and hostel, then transport and hostel.
-No, no. Transport and hostel cannot be both.
-Okay, both.
+If someone has both transport and hostel, then there will be transport and hostel.
 Transport and hostel.
-After that, I think, Narsimh.
-All fines and recharges should not be there after this.
-Before fines, all fees should be there.
-Student fund, corpus fund, other things.
-Fine should be there.
-Fine can also be calculated according to the date.
+Ma'am, after that, I think...
+All the fines and recharges should be done after this.
+Before the fines, there should be all the fees like student fund, corpus fund, etc.
+Fine should be done at the end.
+Ma'am, we can also calculate the fines according to the date.
 I will tell you that too.
-After this, the student development fund will come.
+Ma'am, after this, the student development fund will come.
 Student fund, then development fund.
-First there is the development fund, then the student fund.
-What you have written.
-First there is the development fund, then the student fund.
-Then the student fund.
-So, according to the sequence.
-When you collect, then you have to show here.
-In case, if we edit the coding, then it will show here.
-How much was paid and how much you are taking.
-So, you know this too.
-I will show you a transaction of one rupees.
-For testing.
-You will stay like this.
+First is the development fund, then the student fund.
+Whatever you have written.
+First is the development fund, then the student fund.
+This is the sequence and contribution.
+There will be a sequence according to that.
+When you do the collect, you have to show here.
+In case if we are taking it by editing, then it will show here.
+How much was the pay and how much you are taking from it.
+This is also known to you.
+I will show you a transition of one rupees.
+Just to test.
+You will be like this.
 Then you have to proceed.
-After proceeding, you will show here.
-How much you are taking.
+After proceeding, it will show you how much you are taking from it.
 You have the payment mode.
-You are getting cash and cheque.
+You are getting cash, cheque, etc.
 By default, cash is selected.
-Now, according to your cheque and payment.
-Now, it is a payment gate.
-We have integrated Razorpay.
-So, shall we do Razorpay on this too?
-So, is it different in this?
+Now you have to check according to your payment.
+Now it is a payment gate.
+We have integrated the razor picker in it.
+Should we do the razor picker in this too?
+Ma'am, is it different in this?
 No, it is the same.
-I did not pay now.
-Now, they need confirmation.
-So, we will do the same on this too.
-So, both have Razorpay.
-Only then you will feel comfortable.
+I have not done the fee yet.
+They need confirmation.
+We have done the same in this too.
+If there is a razor picker in both, then you will feel comfortable.
 Yes, that is not an issue.
-I mean, we need confirmation.
-What happens in that.
-You select online.
-You just have to select online.
+We need a confirmation.
+What happens in that?
+You select online from here.
+You just have to select online fee.
 It will directly integrate you.
-You will get the scanner.
-I did not understand.
-There are two options.
-You have to collect.
-One is collect online.
-The other is normal collect.
-In this, collect means you are
-collecting normal amount in cash.
-Now, I will show you.
-In case, you feel that you have
-online from the beginning.
+It will tell you what to do.
+I don't understand.
+What did you say? Online fee?
+You have two options.
+One is collect online fee and the other is normal collect fee.
+In this, collect fee means that you are collecting normal amount in cash and then collecting.
+I will show you now.
+In case you feel that you have been getting online from the beginning.
 Or you have some back gate entries.
-Or you have cheque in some other way.
+Or in some other way, you have cheque etc.
 And you have to collect that by entering online.
-So, this is that case.
-Your institute will become banks.
-Whatever you will call, that institute will make banks.
-It will come to you to select.
-You have to give reference number.
+So this is that case.
+Your institute banks will be made here.
+Whatever you tell, that institute banks will get it.
+They will come to you to select.
+You have to give a reference number corresponding to it.
 You have to select a particular date.
-These are all options.
-Then, these are remarks.
-If you are collecting fees.
-You have to enter some remarks.
-You have to save your fee receipt.
-So, these are your remarks.
-This will be your collect fee.
-You can use all these options
-for collecting.
-In case, you will directly collect online from ERP.
-For example, you have given the scanner.
-Or online you have
-card or debit card.
-In case, you are giving payment.
-In that case, you have to select
-online or collect online.
-In that case, you have to select online or collect online.
-So, here it will redirect you to payment gateway.
-Now, payment gateway is not signed.
-That is why it is not signed.
+These are all optional.
+These are the options.
+Then these are remarks.
+If you are collecting fees, you have to enter some remarks.
+Then the receipt will also be saved.
+So these are the remarks options.
+This will be the collect fee option.
+You can use all these options for collect fee.
+Now in case you will directly collect online from ERP.
+Like you have given the scanner in front of you.
+Or online you have given card or debit card.
+If you are giving payment like this.
+So in that case, what will happen?
+You have to select online.
+Collect online.
+So here it will redirect you to payment gate.
+Now payment gate is not signed.
+That is why no payment gate is signed.
 The scanner will come there.
-It will be scanned and payment will be done.
-Now, I will give you a transaction
-I will give you a transaction with cash.
-Some kids
-Meenakshi ma'am
-What is the category
-that your kids do with the scanner?
+It will be scanned and paid.
+Now I will give you a transaction in cash.
+I will give you a transaction in cash.
+Some kids...
+Meenakshi ma'am.
+The kids who do it with the scanner.
+Which category will they go to?
 The ones who come later.
 They do it with the scanner.
-Yes, they do it with the app.
-Will they collect online
-or with the collect fee?
-If the kids do it with the app
-then Meenakshi ma'am can't do it.
-No, no, not app.
+That we did it from home.
+Yes, they do it through the app.
+Will they come through collect online?
+Or collect fee?
+If the kids do it through the app.
+They can't do it with Meenakshi ma'am.
 Not app ma'am.
-These kids share their
-scanner with the ERP.
-We have the one at the back.
-We put it at home.
-They only have a screenshot.
-Sometimes they bring it after 10 days
-or 5 days.
-It will come in the collect fee.
-Collect fee.
+The kids who do it with the scanner.
+They share it with their friends.
+Now they have the one in the back.
+They put it from home.
+They only have screenshots.
+Sometimes they bring it after 10 days.
+Or after 5 days.
+That it won't come through collect fee.
+According to me.
 Okay.
-Now, we will do one transaction
-with cash.
-As soon as you collect
-you will be given a confirmation
-that you can cancel it now.
-So, you will be given confirmation
-that you are receiving
-this amount of money.
-If you say yes, you will receive
-This is a format.
+Now let's do one transaction.
+One transaction for one rupee.
+We will do it in cash.
+As soon as you collect,
+they will give you a confirmation.
+You can still cancel it.
+There will be confirmation that
+you are receiving the amount of the date.
+If you say okay,
+they will receive your transaction.
+And this is a format.
 We have set it according to the office.
-You can do it according to your office.
-This is the format.
-Share a logo with us.
+You can set it according to your office.
+This is the format of the receipt.
+Please share a logo with us.
+Okay.
 I think we have done it with you.
 Yes.
-We have shared the logo
-of the form that you had given.
-We have shared the logo.
-It goes up.
+We have also shared the logo
+of the form you gave.
+That only goes up.
 It doesn't come to us.
-It is better to share it in the group.
-Then I will integrate it in the ERP.
-It goes for the payment.
+It is better if you share it in the group.
+Then I will integrate it in the app.
+It goes to the document.
+That is why.
 Documents don't come to us.
-This is the template
-of the fee receipt.
-I will show it to you.
+This is the template of the receipt.
+You can see it here.
 You can change it according to it.
-The fee head comes
-and installs it.
-This is how it is.
+This is how it is installed.
+This is how it is displayed.
 This is customized.
-You can do it according to
-your design.
-Otherwise, it will be decoded.
+You can customize it according to you.
+Otherwise this will be recorded.
 Okay.
-This is the fee receipt.
-It will be according to
-how much you have collected.
-The remark you enter
-will be disposed of.
-Will there be a fine head?
-Yes. I will tell you the
-fine criteria.
-I will tell you how it works.
-We set up a fine.
-For example,
-from August to October,
-the fee is good.
-How does it work?
-How much should the fee be?
-For example,
-if the last fee is on the 10th,
-it costs Rs. 500.
-After 15 days,
-the fee is added.
-Okay.
-The last 10 days,
-the 10th of every month,
-is the fee.
-The 10th of the quarters?
-The 10th of August,
-the 10th of November,
-it is like this.
-If it is August, September,
-October, then the 10th of August
-is the first installment.
-We will set the last date.
-For example,
-Rs. 500 will be set.
-This is how it will be set.
-It will be fine configured.
-From 11th,
-what is the percentage?
-Rs. 500 for every day.
-No, not every day.
-After 15 days,
-Rs. 500 is added.
-Okay.
-After 15 days, Rs. 500 is added.
-I will set it up.
-After the last fee date,
-Rs. 500.
-After every 15 days,
-they will increase by Rs. 500.
-Okay.
-Rs. 500 in the last day
-and Rs. 500 after every 15 days.
+This is the receipt of the receipt.
+You can add the amount of the padding
+according to it.
+The remark you enter is displayed here.
+Are the fines added now?
 Yes.
-I will tell you how it will work.
-We have set it up.
-After that,
-during the collect fee,
-there is a date.
-By default,
-today's current date is coming.
-For example,
-after 10th of August,
-it will be 11th of August.
-By default,
-if you come on 11th of August,
-you will get a fine at the end.
-Calculated fine will be shown.
-Okay.
-Ma'am, if we want to get a fine
-after the last date,
-it will cost Rs. 40.
-It will increase by Rs. 40 every day.
-That is also possible.
-Ma'am, you will have to tell us
-which criteria to use.
-Okay.
-It will be applicable to all.
-Earlier, it was Rs. 40.
-Earlier, it was Rs. 40.
-Earlier, it was Rs. 40.
-Now, it is Rs. 500.
-We will tell you
-after confirming it.
-You can confirm the fine.
-How does it work?
-If we set the fine,
-it will be applicable to every course
-and every student.
-Okay.
-Okay?
-yeah,
-yeah.
-I'm
-I'm
-I'm
-So we have to select the amount.
-Like we will make different heads for concessions
-that you will give us the data.
-I have made a manual now.
-Clicked on manual and assigned it.
-After assigning
-we will set the amount
-Either 10% or 1000
-or whatever the quarter
-will be, it will be set according to that
-Then we will
-set the remark
-of concession
-according to that.
-for example, you have made it according to the percentage, you think that you have fixed
-the student that yes, we have a sports concession, there are different concession groups, for
-example, sports concession and you have to give it in tuition fee, that is 10 percent,
-we have a master in the system, we will define it there, 10 percent and only on the tuition
-fee.
-If you select it and sign it, it will automatically calculate according to the fee here, 10 percent
-will be made.
-Then at the bottom and it also remains manual, you think that you have to keep a fixed amount
-or you have a manual in that case, you think that you have to set the amount according to
-yourself, so in that case, the manual works, okay, select the concession group, then after
-that, come to the bottom Anjali, here you have to enter the remark that why are you giving
-it in tuition fee, it is not mandatory, it is optional, you can upload according to yourself,
-if you think that you have to upload a document in the concession that you are putting, okay,
-then save it with the remark, then it will be saved, remarks are mandatory for everyone,
-okay.
-After that, after signing from here, you get the payable below, you will know how much
-it is made, right, Anjali, close this, come down to the bottom, see, from here only you
-can collect directly, from here you can also collect fee, that is, you will have the collect
-fee at the bottom and at the top too, you have a payment history on a particular student,
-the fees that have been cut, its receipt is also shown on the payment history of a single
-individual student, okay, so from here also you can collect it.
-Ma'am, in this pattern, we will put it consistently, right, it will automatically show in detail
-separately, right?
-Yes, yes, sir, it will show in detail.
-What you have shown now, this is only a format of giving concessions or putting something,
-right, but when we are taking it in the receipt, it will be seen automatically, right?
-You are saying it on the receipt, yes sir, it shows on the receipt, once, for example,
-if we take it after the concession, then it will show that this is the student's concession
-one, which I have shown you the receipt format, it will also be shown according to you.
-Okay, ma'am, okay.
-And this data is all that you have, the transactions that will be made, there is a transaction list
-at the top, from there you also have common transactions, this is the transaction list,
-the daily transaction will be there, the whole list is made, at the top you also have Excel,
-you can export according to yourself in Excel.
-Okay.
-Okay.
-And there are more reports as well, please go back, Anjali.
-In the fee, these are your fee reports, in this we have multiple reports, daily fee report,
-combined daily collection, all these are according to us, there is a due fee, you have to check
-the due fee, how many students are there, how much will be received, how much is pending,
-so these are various.
-Means, if we take out the total of the children's default list, then we will take it out in
-due fee, right?
-Yes, yes.
-Now there is an option in the due fee, Anjali, show the filter, see, the templates are made,
-these are your, yes, show the filter once, let me tell you the filter, filter, sir, all
-your reports, you will get a filter in every report section, what will be the filter of
-any particular class, or it will be like this, like there is a class, stream and batch,
-there is one in this, it will be Shora, show student with zero dues, what does this mean,
-for example, you have to see that student at this time, whose zero dues are not there,
-so you will do it by saying no, I mean, if one is like that, all those who have paid,
-it does not mean that, those who have pending, they just want the same, if you will do it
-by saying yes, then both the students will come together.
-Okay.
-And we have also taken an awake status, I think if you know a little about this, active
-students, you know, who are active in our institute, current, awake means, who have
-paid their fees, students have paid, in case you just want those students, defaulted students,
-who have not paid till now, one time has gone, August, September has gone and no one has
-paid till now, so we just want the list of those students, so in that, now if one student
-will do false and export the data, then only those students will come, who have not paid
-a rupee till now for a particular session.
-Okay.
-So these filters.
-In this, in this filter, there is a filter related to the amount, that I have to see
-only 10,000 students, who have paid, for example, the new students come and I have to put that
-I have to see only 10,000 students, so that they can be seen, by applying the filter.
-No sir, such amounts will not come to you.
-Okay.
-You just have to see the new student, have to see up to a particular date, that is all,
-there is a term group, there is a date, that is all.
-There is no filter amount wise, right?
-No sir, there is no amount wise.
-Because in that case, it will not be known, because every head has a different amount,
-if you want to say that, then only up to 10,000 will come to know, right?
-Exactly, what happens is, that we have registration from 10,000.
-After a time, we need this list, that the 10,000 who have only paid, how many are left?
-Because after that, we consider the fees, that we will not consider the 10,000 people,
-after a time.
-So then it is necessary.
-That is why I was asking the amount wise.
-The 10,000 that you are telling in registration, you take it in admission, right?
-Yes, yes.
-That is different for admission, sir.
-You will get that in the admission reports.
-But there will not be an amount wise filter, right?
-No sir, amount wise is not like that.
-But no problem, I will raise it, if you want, then you will get it in some time.
-No, no, no.
-Okay, okay.
-If you feel that this is what you want, then there is no problem even in that, we will
-raise it in the future.
-So that means, we give a timeline and according to that, we get that option too.
-Okay sir, so these are your reports, these are the different sections that we have seen
-that you need to be able to receive.
-So these are according to your columns.
-For example, you need a class, batch, reg number.
-If you don't need any column, if you need any column, then it will be according to that.
-When we will work on all this, then only we will know, ma'am.
-Exactly, only then we will know.
-Basically, there are so many reports here, Excel and print, it works according to that.
-So this is the fee.
-So you are okay with the fee demand?
-Yes, yes.
-Okay ma'am.
-Okay sir, then you have shared the student data with us.
-Yes ma'am, yes ma'am.
-So we will import the student data of the old students.
-And with the data of the old students, we will also need dues.
-The old dues will also be pending due to many students who will go ahead.
-Okay, yes, yes.
-So according to that, we will also put the dues.
-So how do we put the dues in the previous dues?
-How urgent is this that you are asking for the data of the fees of the students?
-With the data of the old students, sir, as soon as we get it, your collection will start
-No, I am talking to you about this because the last installment of the year is on May 10th, right?
-So most probably on the 20th or 23rd, our maximum fee collection will have come.
-You will have the minimum data that we will have to take from the students.
-The minimum data of the year will be there.
-If you fetch that data then I think you will feel comfortable for this.
-That is not an issue.
-That will also work.
-It means that there will not be 2000 students whose dues you will have to pay.
-They will be 200-400.
-Okay, let's do one thing.
-Then you send us the student data.
-We will import the student data accordingly.
-The dues will take place later.
-Done, done, done.
-Sir, I want to add one thing in this.
-We will have to raise the dues.
-How will the fees be collected without the dues?
-No, no, sir.
-So the fees collection.
-When are we going to start with this?
-This is the point.
-Sir, we will start as soon as the data is done.
-We have to receive the money.
-But sir, the criteria of the fees that are going on right now is so high that I think
-we will work on it in speed.
-Right now, our tuning is made from the old software.
-Right?
-We will not be able to do it right now when 200-400 people are coming to the window so
-You understand this.
-No, sir.
-That is a different thing.
-That is a different thing.
-You will take the payment in the last installment.
-But the dues that we have to raise from them, the data, the status of the fees of a child
-or the 50,000 fees of a child.
-Okay, sir.
-We will have to insert that in order to make the dues.
-Yes, we will give that.
-Not only the dues, but also the stand.
-Yes, the stand.
-That is what we have to do.
-That is what we have to do.
-Yes, yes, that is what we have to do.
-Yes, yes, that is what we have to do.
-If you send us the student, we will import the money.
-The fees of the year will come.
-You will get the yearly fees.
-But do not stand on the dues.
-Sir, that is not the dues.
-Do not do that.
-I am saying this.
-Stand student fees including this.
-That we will give right now.
-They will stand on what we have to give.
-Absolutely.
-Isn't it?
+Yes, 10th of August, 10th of November, like this.
+Ok, so if you have August, September, October, then 10th of August will be the first installment.
+Yes, the first installment.
+Ok, so let's set the last date.
+Yes, so for example, on 11th August, 500 will be set.
+10th August will be set like this.
+Everyone will have a fine config that you are saying in the system.
+From 11th, how much did you tell? What is the percentage?
+500.
+500 for every day, right?
+No, not every day. After 15 days, 500 is added.
+Ok, so after 15 days, 500 is added. I will take it, then I will set it up.
+Exactly. After the last fee date, 500 and after every 15 days, they will increase by 500.
+Ok, so in the last day, 500 and after every 15 days, fine.
 Yes.
-Sir, this is the student's data.
-And the old student, is there something like this that the old student's concession continues
-or the concession lapses till there?
-No, what we will give you will continue.
-Okay, okay.
-The concession will continue.
-It will continue.
-It will continue.
-Okay, so then you will give the concession's data as well.
+Ok, so I will tell you how this fine will work. I have set it up.
+After that, if you do collect fee, at the time of collect fee, you have a date here.
+By default, the current date is coming.
+For example, after 10th of August, 11th of August.
+By default, if you come on 11th of August, you have to collect a little.
+So in the end, you get a fine and the calculated fine shows up.
+Ok.
+Ma'am, if we have to do the fine like this, after the last date, it will cost 40 rupees.
+And it keeps increasing by 40-40 every day. So that is also possible, right?
+Ma'am, you will have to tell me which criteria you have to follow.
+Ok.
+Because earlier we had the 40-40 one.
+Then when we were using software before this, we had the 500 one.
+So we will tell you once by confirming which one we have.
+You can confirm the fine easily.
+By doing the fine confirmation, actually how the fine works.
+If we set the fine, then you will understand that it will be applicable to every course and every student.
+Yes.
+It will work according to you.
+Ok.
+Ma'am, this is the interface.
+Have you made a concession for Anjali?
+Yes, ma'am.
+Ok. For example, ma'am, there is a new student.
+There is a fresh application.
+You have to assign a concession.
+Here you have an option.
+You will click here and it will take you to the concession.
+Ok.
+Anjali, please share the screen.
+Anjali, you have to tell me about the concession, right?
+Yes.
+Anjali, is the voice coming?
+Yes, Anjali, it is coming.
+What do I have to tell you, ma'am?
+Tell me about the concession and how to assign it.
+Ok.
+Ma'am, what happens in this is that we have to select a concession here.
+For example, we will make different heads of concessions according to the data that you will give us.
+I have made a manual one.
+You click the manual and assign it.
+After assigning, we will set the amount here.
+Either 10% or 1000.
+It will be set according to the amount that you will give us.
+Then we will set the remark.
+According to the concession.
+After that, we will save it.
+One minute, Anjali.
+Ma'am, what is the option in this?
+For example, you have made it according to the percentage.
 Right.
-Give the student's data.
-What we will share with you, ma'am, as far as we know that there will be no concession.
-Whatever we will do, that will be the stand.
-Okay.
+You think that you have fixed the student.
+Yes, we have a sports concession.
+There are different concession groups.
+For example, there is a sports concession and you have to give it in the tuition fee.
+That is 10%.
+Right.
+We have a master in the system.
+We will define it there.
+10% and only on the tuition fee.
+The moment you select and assign, it will automatically calculate according to the fee.
+10% will be made.
+Ok.
+Then at the bottom, there is also a manual.
+You think that you have to keep a fixed amount or you have a manual in that case.
+You think that you have to set the amount according to yourself.
+In that case, the manual works.
+Ok.
+Select the concession group.
+Then after that, come to the bottom once, Anjali.
 Yes.
-No, it will be like this.
-Till now, there are no concessions that are fixed for the students.
+Here, ma'am, you have to enter the remark that why are you giving the concession.
+Along with that, there is an option to choose the file.
+Sometimes it happens with principles or an application signature.
+You have to upload the application document.
+Ok.
+So that option remains.
+This is not mandatory.
+Basically, it is optional.
+You can upload according to yourself.
+If you feel that you have to upload a document in the concession.
+Ok, ma'am.
+Then save it with the remark.
+It will be saved.
+Remarks are mandatory.
+Ok.
+After that, after being assigned from here, you get the payable below.
+You will know how much it is made.
+Anjali, close this once.
+Come down to the bottom.
+You can collect directly from here.
+You can also collect fee from here.
+Ok.
+Collect fee will be in the bottom and above.
+You can also collect fee from the student above.
+Ma'am, the payment history is coming.
+The fee transactions have been cut.
+The receipt is also shown in the payment history.
+For a single individual student.
+So from here also, you can collect it.
+Ma'am, we will put it consistently in this pattern.
+It will automatically show in detail.
+Yes, sir.
+It will show in detail.
+What you have shown now,
+this is just a format to give concession or to apply something.
+Right?
+But when we are collecting it in the receipt,
+it will automatically show, right?
+You are saying on the receipt, right?
+Yes, sir.
+It shows on the receipt.
+For example, if we collect it after concession,
+it will show that this is the student's concession.
+Like I have shown you the receipt format.
+It will show if you apply according to it.
+It will also be made.
+Ok, ma'am.
+And this data,
+all the transactions that are made,
+there is a transaction list above.
+From there, common transactions are also made.
+This is the transaction list.
+The daily transaction will be made.
+The whole list is made.
+In this, you also have Excel at the top.
+You can export according to yourself in Excel.
+Ok.
+And there are other reports as well.
+Anjali, please go back once.
+In fee, sir, these are your fee reports.
+In this, we have multiple reports.
+Daily fee report, combined daily collection,
+all these are according to ourselves.
+There is a due fee.
+You have to check the due fee.
+How many students are there?
+How much will be received?
+How much is pending?
+If we take out the total of the students'
+default list,
+then we will take it out in the due fee, right?
+Yes.
+Sir, there is an option in the due fee as well.
+Anjali, please show the filter.
+See, the templates are made.
+This is your filter.
+Please show the filter.
+We will show the filter.
+Sir, you will get filters in every report section
+Basically, you will have to see
+a particular class of the filter.
+It will be like this.
+It will be like this.
+There is a class, a stream, a batch.
+In this, there is one.
+It will be shown to you.
+Show student with zero dues.
+What does this mean?
+For example, you have to see that student
+at this time,
+whose zero dues are not there.
+So you will do it by saying no.
+I mean, if it is like this,
+that all those who have paid,
+it doesn't mean anything.
+Those who have pending,
+they just want the same.
+It is in that case.
+Otherwise, if you will do it by saying yes,
+then both the students will come together.
+Okay.
+And we have also taken an awake status.
+I think if you know a little about this,
+you know that active students
+are currently active in our institute.
+Awake means,
+those who have paid the fees
+of this session.
+In this case,
+you just need those students,
+defaulted students,
+who have not paid the fees
+till now,
+one time has passed,
+and till now no one has paid.
+So we just need the list of those students.
+So in that case,
+if you will do a false data export,
+then only those students will come
+who have not paid a rupee
+till now for a particular session.
+Okay.
+In this filter,
+is there any particular filter
+related to the amount?
+That I just have to see
+10,000 students who have paid.
+For example,
+the new students who come,
+and I have to say that
+I just have to see
+10,000 students,
+so that they can be seen
+by applying the filter.
+No, sir.
+You will not get anything
+Okay.
+You just have to see
+the new students
+up to a particular date.
+That is all.
+There is a term group,
+a date,
+that is all.
+There is no amount-wise filter, right?
+No, sir.
+There is no amount-wise.
+Because in that case,
+it will not be known
+because every head has a different amount.
+You are saying that
+if you want,
+then only up to 10,000
+will be known, right?
+Exactly.
+What happens is that
+we have a registration
+from 10,000.
+After a certain time,
+we need this list
+that the 10,000 students
+who have paid,
+how many are left?
+Because after that,
+we consider the fees
+that we will not consider
+after a certain time.
+Then it is necessary.
+That is why I was asking
+that amount-wise.
+That 10,000,
+you are saying that
+you take it in admission, right?
+Yes, yes.
+That is different for admission.
+You will get that
+in the admission reports.
+But there also,
+there will not be an amount-wise filter, right?
+No, sir.
+There is no amount-wise.
+But no problem,
+I will raise it.
+If you want,
+then you will get it
+in a certain time.
+No, no.
+Okay, okay.
+If you think
+that you want it,
+then there is no problem.
+We will raise it in the future.
+So, I mean,
+we will give a timeline
+and you will get that
+according to that.
+That option too.
+Okay.
+Okay, sir.
+So, these are your reports.
+We have seen
+different sections
+that are coming up
+like payable,
+with, received.
+So, these are your columns
+according to that.
+For example,
+you need a class,
+batch,
+reg number.
+If you don't need
+any column,
+if you need any column,
+then according to that
+it becomes yours.
+When we will work
+on all this,
+then only we will know.
+Exactly.
+Then only we will know.
+Basically,
+there are reports
+like this.
+Excel and print
+work according to that.
+So, this is your fee.
+This is what you mean.
+you are okay with the fee
+and demand.
+Yes.
+Okay, ma'am.
+Okay, sir.
+Then you share
+your student data.
+Yes, ma'am.
+Yes, ma'am.
+So, we will import
+of old students.
+And with the
+data import of old students,
+we will also need
+dues.
+There will be
+old dues pending
+for many students
+who will go ahead.
+Okay, yes.
+According to that,
+we will also impose
+So, do you
+impose the dues in
+the previous dues?
+How do you do it?
+How urgent is this
+base that you are asking
+for data of
+students,
+fees?
+old students,
+as soon as
+your collection
+will start.
+There is nothing else.
+No, I am talking
+to you about this
+because
+the last installment
+of the year
+is on 10th May.
+Okay.
+So,
+most probably,
+around 20th or
+20th to
+23rd,
+our
+maximum fee
+collection
+will have
+You will have
+the minimum data
+that we
+have to
+collect from
+our students.
+Okay.
+There will be a minimum
+data of
+If you
+fetch that
+then I think
+you will
+feel comfortable
+for this.
+There is no
+issue.
+That will also work.
+what is there?
+There will
+not be
+2000 students
+whose dues
+you will
+pay.
+Sir,
+I want to add
+We will have
+to raise
+How will the fees
+be collected
+No, sir.
+So, when are we
+going to
+start the fees
+This is the point.
+Sir,
+as soon as
+your data
+starts,
+we have to
+receive it.
+But,
+sir,
+the
+criteria of
+fees that
+we have
+is
+so high
+that I think
+how
+we will
+work in
+speed.
+Right now,
+tuning
+is made
+from the
+old software.
+200-400
+people
+daily
+on the
+it now?
+No, sir.
+That is
+a different
+You
+will
+the last
+installment.
+But,
+that
+we
+have to
+raise
+the data
+of
+the
+fees of
+or
+the
+50,000
+fees
+of
+will
+have to
+inserted
+to
+the
+Yes,
+we will
+that.
+Not only
+the dues,
+but
+the
+stand.
+That is
+you
+will
+send
+to
+students.
+You
+will
+get
+the
+yearly
+fees.
+But,
+the
+dues
+will
+not
+be
+to
+But,
+the
+fees
+will
+be
+sent
+to
+students.
+That is
+the data
+of
+the
+student.
+But,
+fees
+be
+to
+Continue that.
+So you can give the data of the concession.
+Right, the data of the student.
+Whatever you share, as far as I know, there will be no concessions.
+Whatever we do, it will stand.
+Ok, ok.
+No, that's how it is.
+Till now, there are no fixed concessions of the children.
 We used to have it only after the concession.
 It will start from now.
-Because the bifurcation, development etc. is starting from your case.
+Because the bifurcation and development is starting from you.
 It was not there before.
-Okay, okay.
-I understood.
-Yes.
+Ok, I understood.
 Yes, there is no issue.
-Sir, how does the hostel stay here?
-The hostel is also the same.
-There are four divisions of tuition fees.
+How does the hostel stay here?
+The hostel has four divisions like tuition fees.
 The same hostel comes in four parts.
 Transport also comes in four parts.
 Only the security is of one time.
-Okay, okay.
-So, sir, it would be better if I get the hostel data as well.
-Yes, you will get it ma'am.
-Whatever we will give you, it will also be of the hostel.
-Okay.
-And how will you give the hostel, sir?
+Ok, so if I get the data of the hostel, it would be better.
+Yes, you will get it.
+Whatever we give you, it will also be of the hostel.
+Ok, and how will you give the hostel?
 You will only give the fees.
 Actually, we have the whole hostel module.
-Ma'am, in that also, like our fees, the same security is of 4000.
-And the fees, for example, if our non AC is of 65000,
+There is the same security of 4000 like our fees.
+And the fees, for example, if our non AC is 65000,
 then the division is in four parts.
 Simple.
-Okay.
-So, I will tell you how it will be.
-First, you told that it is fee dependent.
-You are only telling about the fees.
-Yes, yes.
-It is like that.
-The hostel name.
-Right.
-What is the room in the hostel name?
+Ok, I will tell you how it will be.
+You told me that it is fee dependent.
+You are just telling me about the fees.
+The hostel name, right?
+What is the room in that hostel name?
 What is the bed?
 That division is also structured.
 If you want to run it, then you can see.
-Ma'am, we will talk about that once.
-If you want to give it to the warden.
-It has not been run till now.
-But if you give us the details of the rooms, then we will definitely get it fetched.
-Yes.
-If it is that one, then that is also not an issue.
-That one can also run.
-In fact, in transport, it will definitely be that the children are divided in the bus number.
-Like they select transport area wise.
-Those divisions will be needed.
-Yes.
-Transport is important.
-You also send the transport data.
-Sample Excel.
-We will send it according to our transport.
+We will talk about that once.
+If you want to give it to Warden, it has not been run yet.
+But if we get the details of the rooms from there,
+then we will definitely get it fetched.
+Yes, if it is that one, then that is also not an issue.
+In fact, in transport, it is necessary that
+the children are divided in the bus number.
+As they select the transport area wise,
+we will need those divisions.
+Yes, there is an effect of transport.
+You can also send the transport data.
+Did we send the sample Excel?
+Or will you send the transport according to yourself?
 Sample collection means?
-Sample means, sir, what we will do is we will import all the data from Excel.
-For that, what is needed is the bus number.
-Like which pick up points are included in the bus number.
-Ma'am, we don't have it in so much detail till now.
+Sample means that we import all the data from Excel.
+What is required for that?
+Bus number.
+What are the pick up points included in the bus number?
+We do not have it in so much detail yet.
 We will have to create all this now.
 Bus wise, the division of the children has not been done yet.
-Then how do you take the fees from the students?
-Only transport is written and those are amount wise divisions.
-Let's see the fees and tell you whether it is coming from Faridabad or from Delhi.
-Because there are fees divisions.
-It is 24000, 28000, 32000.
+Okay, then how do you take the fees from the students?
+Only transport is written.
+And those are amount wise divisions.
+Let's look at the fees and tell them.
+Is it coming from Faridabad or Delhi?
+Because the fees are divided.
+It is 24,000, 28,000, 32,000.
 It is like this.
 So you keep it all in that.
 Exactly.
 There must be a division of four installments.
-Yes, there are four installments.
-But as we are talking about the bus number and this route, we don't have that division yet.
-But we have to get it done, ma'am.
+Yes, there are four installments for that too.
+But as we are talking about bus number and this route,
+we do not have that division yet.
+But we have to get it done.
 We will provide this, ma'am.
-We will provide the transport data through transport incharge.
-The routes that are running in front of us are the routes and their stoppages.
-You can mention this in that.
+We will provide this data through transport in charge.
+The routes running in front of us,
+the route wise and their stoppings,
+you also mention that in that.
 It is simple.
-I will share the sample excel.
-I will share the sample excel like this.
-You can share the particular incharge and we will prepare it.
-We will import this much in a day.
-Secondly, if you have an excel account, then you can tell us which forum it is in.
-Or we can provide it in the forum that we download.
+I will share the sample Excel.
+I will share the sample Excel like this.
+You will give the particular charges.
+Share those respective charges.
+They will be prepared easily.
+We will import so much time.
+Secondly, the accounts,
+if it is Excel,
+then you tell us in which forum it is.
+Or we will provide it in the form that is downloaded.
 You are talking about the accounting module?
-Yes.
-What kind of data do you need?
-Is there a format?
-Or we can download our excel and mail it to you.
-We can also do that.
-That is more easy.
-The data that is already in our software, we can fetch it ourselves.
-Yes, that is also better.
+Yes, the accounts.
+The data that you need of the student,
+is it in that?
+Or the download that we have,
+we will download it from Excel and mail it to you.
+You can also do that.
+Sir, that is more easy.
+The data that is already in our software,
+we can fetch it.
+That is also better.
 The student data will be managed.
-There is transport, fees.
-We need a little bit of this so that we can get the exact amount that can be imported.
-That is more.
-The student data should be unique.
-The data that you will get, whether it is the transport data or the hostel data.
+There is transport, fees,
+it is needed that we get the exact amount
+as it can be imported.
+The student data is done.
+The reg number of the child should be unique.
+The data that you will get,
+whether it is of transport,
+it is also of hostel.
 And that is accurate.
-Okay, fine.
-Just one minute, ma'am.
-Our data has an admission number and a university roll number.
-Okay, ma'am.
-Both these parts will be included and it will continue.
-The new admissions that we are taking, we will tell you the series.
-It will start from 26.
-Whatever registration is done, their numbers will be generated from the same series.
-Yes, that series will be done.
-Sir, you told us two numbers.
-One is the university registration number and the other is the university roll number.
-College, university, admission number.
-Sir, only admission number and university roll number.
 Okay.
-So in the primary case, we have three options.
+Okay.
+Just one minute, ma'am.
+The data that we have,
+we have an admission number
+and a university roll number.
+Okay.
+Both these parts will be included
+and it will continue.
+We will tell you the series
+of the new admissions that we are taking.
+It will start from the 26th.
+Whatever the registration will be,
+their numbers will also be included in the series.
+Okay, ma'am.
+Sir, you told us two numbers.
+One is the university registration number
+and the other is the university roll number.
+Sir, only admission number
+and university roll number.
+In the primary case,
+we have three options.
 The admission number is in the primary case.
-Yes, the admission number.
-Because when the university roll number is confirmed by the student, then you will get it from the registrar's office.
-Yes, that is why.
-That will be in the data that you will share.
 Yes.
-The registration number will be there.
+Because when the student is confirmed,
+you will get the roll number from the registrar's office.
+Okay.
+That will be in the data that you will share.
+Registration number.
 Okay, sir.
 Send the student data once.
-We have also included sample examples in the mail that was shared.
+We have also included sample excel in the mail.
 If you want to see.
-The mail that was shared with you.
-I have the mail ID of Vivek sir and Meenakshi ma'am.
+The mail will be shared with you.
+The mail id is with you.
+It was with you and Meenakshi ma'am.
+Okay.
 Okay.
 We have also shared the document.
-We want some modules to be implemented timely.
-So it will be suitable for you to see and make changes.
+We want some modules
+that are timely implemented.
+It will be suitable for you to see
+and make changes.
 You can see that once.
 Update the dates on it.
 When can we expect training and all that.
-Okay, done.
-I will also share the sample excel of transport and hostel with you.
-If you want to share it with the students, then you can share it with both.
+Okay.
+And I will share the sample excel
+of transport and a hostel
+with you.
+If you want to run it with your partner,
+you can share both.
 Basically, the whole hostel will be set up.
-Not just the fees.
-You will get everything.
-Thank you.
-Just one minute, ma'am.
-Let me complete.
-You have given the registration form of the module.
-We have given the registration form.
+Not only fees, you will get everything.
+Okay.
+Okay.
+Okay.
+Just one minute.
+Let's complete.
+The registration form
+you have given.
 We have integrated it.
-We will see the money.
-Online payment.
-For that, sir, we thought that the whole admission team should have a meeting with them.
-We will show it to everyone.
-Sir, ma'am was saying that the marketing team should be involved on Monday.
-No sir.
-We will involve the marketing team until our module is completed.
-That the payment is going in it.
-And the receipt is going in it.
-As we told you, the online payment team should get the receipt and forward it to the e-mail.
-I have also filled a test form regarding it.
-We will show it once.
-Anjali, will you share the screen share of the form and the ERP?
-Tell me how to do it.
-How will the data go to the e-mail?
+We will see how it looks.
+Yes.
+Okay.
+Sir, we thought about
+meeting the whole admission team.
+Sir,
+Let's show it once. Anjali, would you please share the screen of the form and the ERP?
+Tell me how to do it and how the data will be sent to us via email.
 Sir, Vivek sir.
-We will show it to the marketing team when our registration is completed.
-Then we will do the tanning.
-After filling the form, the fees will come to you.
-Then we will do the tanning.
-No sir, we are talking about our new student.
-New student.
-The first part of the new student comes when the fees are taken.
-But until the data comes, how will you take the fees?
+Yes.
+We have to show them the modern marketing.
+When our registration is complete, then we will do their training.
+After the registration of the form, the fees will start coming to you.
+After that, we will do their training.
+Sir, we are talking about our new student.
+Sir, the first part of the new student comes when we have to pay the fees.
+But until the data comes, how will you pay the fees?
 Sir, you will understand.
 We have made the registration form and given it to them.
-Yes, we have given it.
-We have given it to the marketing team.
-They are not able to pay the fees.
-First of all, our module should be completed.
-That is what we want to say.
-We want to know how the director is doing it.
-The payment is not going in it.
+Yes, we have given it to them.
+We have given marketing to them but they are not able to pay the fees.
+Sir, that is the purpose of our module.
+We want to say that we should get to know how the director is working.
+Yes, yes, the payment is not going.
 Please tell us how to show the registration.
 Sir, we have this form.
 Anjali, show the form.
-We have put it in the test gate.
-We have put it in the test gate.
-We have put it in the test gate so that you can test it according to you.
+We have put it in a test gate.
+We have put it in a test gate so that you can test it according to you.
 The day you say live, it will be live.
 Live means the actual payment is going to be deducted from it.
-Now test it.
 Anjali, leave it.
 We have this form.
-We have this form.
-There will be a detail in this form.
-There will be your student name, photo and gender.
-Fill one student form, Anjali.
+In this form, there will be a detail of your student's name, photo and gender.
+Anjali, fill one student form.
 We have checked this.
-Sir has filled this.
-Yes, I have filled this.
-I have filled this.
-This entry will come on your IRP as soon as you fill this entry.
-If you will pay the payment,
-then the transaction after the payment will come on this.
-I will show the transaction.
+Sir has filled this form with me.
+Yes, I have filled this form.
+I have filled this form.
+Sir, this entry will come on your IERP as soon as you fill this form.
+If you will do the payment, then after the payment, the entire transaction will come.
+I will show you the transaction.
 Anjali, open one entry.
-This has view transactions.
-Everything is coming on the left side.
-No transaction has been done yet.
-You must have filled the over-the-counter one.
-That you will go to the counter and pay.
+There was a view transaction in this.
+You are getting everything on the left side.
+No one has done the transaction till now.
+You must have filled the over-the-counter form that you will go to the counter and pay.
 Click on the admission screen.
-It is coming here at the bottom.
-It will only come forward when you will receive the fees of 10,000.
-This is according to this.
-In case if a student has paid the fees from the form,
-then it will show the receipt in the view transaction.
-It will show the receipt.
-It will show the receipt here.
-If you have paid from the form.
-From online?
-Yes.
-And the email comes.
+It is coming in the bottom.
+It will only come forward when you will receive the fees of Rs. 10,000.
+This is according.
+In case if a student has filled the form, then he will show the receipt in the view transaction.
+He will show the receipt here if you have done the payment with the form.
+Online.
 Anjali, did we do the email later or after filling the survey?
 Ma'am, please show me once.
 I have done it earlier.
-You fill the form and show me this.
-The online payment.
+Please fill the form and show me the online payment.
 We will do the transaction and see.
 Yes, do the transaction.
-Anjali, please fill the form.
-Should I do it from the shade?
-Yes, do it from here.
+It is posted.
+Anjali, do it.
+Should I do it with the sheet?
+Do it from here.
 Just fill the mandatory details for now.
-Anjali sir's email id.
-Sir, please tell us your email id.
-My email id is info at the rate acm.edu.in
-Yes sir.
-info at the rate acm.edu.in
-acm.edu.in
-correct?
-edu
-edu
-e for elephant.
-edu
-Is it correct?
-No, it is not correct.
-It is correct.
-I have put a restriction in the Aadhar.
-It is taking a lot of numbers.
-Take it to the 12th digit.
-I have put a restriction in the 12th digit.
-Otherwise, the children will fill the wrong information.
-I will note it down.
+Anjali, please tell me your email id.
+My email id is info at the rate acm.edu.in.
+Yes, sir.
+info at the rate acm.edu.in.
+acm.edu.in.
+E-D-U.
+E-D-U.
+E for elephant.
+E-D-U.
+Is it OK, sir?
+No, it's not OK.
+It's OK now.
+The restriction is applied on the basis of the number and 12 digits is taken as the limit.
+The restriction is applied on 12 digits.
+Otherwise, children will give you wrong information.
+I will note it.
 Restriction on hand.
-I will give you a list of transports.
-I will give you a list of transports.
-If it says, yes, please issue the bus number.
-if it says, yes, please issue the bus number.
-I will refer it here.
-Send it to him.
-Do you have it in the group?
-yes
-Share it in the group.
-Do you have it in the group?
-If the hostel says yes, then...
-No, the hostels say yes, but this...
-I will see later.
-I don't know exactly, I'll show you how much it is.
+I don't know if you know, I'll show you, I mean, how much is it?
 Whose charges are these?
-These are the charges for the payment gateway of the bank.
-Isn't it more than 10,000?
+Sir, these are the charges of the payment gateway of the bank.
+Mom, isn't it more than 10,000?
 One minute, let me check.
-We don't have any charges for that.
+We don't have any charges on it.
 That's what I was asking once.
-Sir, please tell us once.
-No, so ma'am, the charges you are taking with me on the razor,
-at what rate, what will it take?
+Sir, tell him once.
+You didn't?
+No, so ma'am, the charges you are taking on the razor with me, what will it take at what rate?
 Please share with me once.
-No problem, I'll share the details.
+No, I will share the details.
 Actually, I don't have it.
-I got it from them.
-So I'll share the proper details with you.
-This is a test.
-And will you also try to make it competitive, ma'am?
-Yes, I'll show you how it is once.
-She will have a discussion for it.
-Because there is a problem with the gateway, ma'am.
+I got it from him.
+So I will share all the property details with you.
+And we will also try to make it competitive, ma'am.
+Yes, I will show you how it is.
+She will have a discussion with him.
+Because there is a gateway issue, ma'am.
 Otherwise, our bank has its own gateway.
-Otherwise, we will do it with our own gateway.
-Because we won't charge so much.
-No problem, sir, she will discuss it once.
-Yes, I'll share the details with you.
-I'll have a proper discussion with the ones I got from them.
+Otherwise, we will do it from our own gateway.
+Because we will not charge so much.
+No problem, sir.
+She will discuss it once.
+Yes, I will share the details.
+I will have a proper discussion with the ones I have set up.
 Yes, ma'am.
-In that, all your charges are there,
-whatever your credit card charges are,
-whatever the charges are.
-Yes, I'll tell you that.
+In that, all your charges are there.
+Your credit card charges.
+Whatever charges you want.
+Yes, I will tell you.
 It shows like this.
 Scan it and do it like this.
 The test mode is coming up.
 UPI.
-She won't scan it now, Anjali.
-After scanning it, sir,
-she goes to the payment and gets the payment.
+Anjali will not scan it now.
+She will scan it, sir.
+After that, she will go to the payment.
+I mean, the payment is done.
 Because it will be scanned now.
 After scanning the amount, the amount is deducted.
-And after that, it is redirected there.
+And after that, it is redirected.
 No, the receipt.
-I was wondering how you will show the test receipt
-that you must have made.
-What you are saying is,
-after taking 10,000,
-the forward of the fee registration will come to you.
+I had a question.
+How will you show the test receipt?
+The one you must have made.
+Sir, he is saying that after taking 10,000.
+The form that will come to you.
+Of the fee registration.
 How does it look?
-Show that.
-Okay.
+Show me that.
 How will the transaction be?
-Okay.
 Go to ERP.
 How will the show be in the registration receipt?
-Yes, go to ERP.
+Go to ERP.
 This will be done in dummy.
-Yes, I'll show it in dummy.
+Yes, show it in dummy.
 Not this, sir.
 Not this, Anjali.
 Go to admission.
-Admission.
 Admission data.
-Go to application data.
 Ma'am, won't it be checked with one rupee?
 Sir, it is fixed.
 It won't be checked with one rupee.
-Because the amount was fixed on it.
-The amount was fixed on it.
-It is not edited.
-Vivek sir.
+It won't be checked with one rupee.
+Because the amount that was fixed on it.
+It won't be edited.
 Sir, don't fix it.
-I am saying that
-why have we fixed it on 10,000?
-There should be a variation in it.
+Sir, don't fix it.
+I am saying the same thing.
+Why have we fixed it on 10,000?
+There should be a variation.
+Okay.
 Don't skip it.
 Anjali, you have to pay.
-Pay it.
-Save.
+Pay it and save.
 It will be saved like this.
 Sir, this type of receipt is cut.
-It will also have the same receipt.
-It is the receipt.
+It will have the same receipt.
 Cancel it.
 Cancel.
-Now show it in the transaction
-which is cut by the student.
-It will start in the admission transaction.
-Not here.
-Not here.
-In the admission,
-open the application of the student.
+Show it in the transaction.
+It will be cut by the student.
+No, not here.
+Open the application in admission.
 Here is the transaction.
 Sir, the transaction will come here.
-Don't print it now.
-It will come in the admission transaction.
+Don't print it.
+This is the admission transaction.
 It comes like this.
 Our logo is not being displayed.
-Ma'am, I want to see it once.
-No, it is not available now.
+Ma'am, I want to see it.
+Thank you.
 Share it in the group.
-Because sir, you had formed it.
-The information of that form
-does not come to everyone.
-It was your documents.
-We have to adjust.
-Sir, look at the receipt for the fee.
+Because you had formatted it.
+Not everyone has the information of the form.
+Your documents go to the same place.
+We have to adjust it.
+Sir, please check the receipt for the fee.
 We have to make some changes.
-Sir, in this,
-cash is being written.
-First of all, we were doing it online.
-Sir, if you do it online,
-it will be written online.
-This is what I have done.
-So, it is okay.
-The rest are details.
-This is the receipt number.
-Your admission number will be automatically caught.
-So, one minute.
-Sir, when this receipt comes,
+Sir, cash is being written in it.
+We were doing it online.
+If you do it online, it will be written online.
+I have done it online.
+Okay.
+The receipt number is done.
+The admission number will come automatically.
+One minute.
+When the receipt comes,
 we will fetch it.
 After that, the admission number will be created.
 No, sir.
-We will see.
-Yes, the admission number will come after that.
-This is just...
-This is going to be a token, right?
+The admission number will come after that.
+This is going to be a token.
 Yes.
-So, in this,
-the payment mode is visible.
+The payment mode is visible.
 Instrument, instrument number.
-This is the date.
-And in this...
-Sir, but in this,
-student name is there.
-Everything is fine.
-Sir, this form number is the same.
-The form number from which the application is done,
-it will be written on it.
-This is the form number.
-Even the application that goes to the child,
-that will also go.
-I mean, a printable form.
-So, when this is done,
-it will be shown in the accounts after that.
+Date is done.
+Sir,
+student name is done.
+Everything is done.
+The form number is the same.
+The application will be written
+on the form number.
+Even the application will go to the student.
+When this is done,
+it will be shown in the accounts.
 Yes, it will be shown in the accounts.
-This will not be shown to the child.
-And the registration form that is made,
-will that also be shown to us?
-Yes, that can also be done.
+The registration form
+will also be shown.
+Yes, it can be done.
 Cancel it, Anjali.
-Yes, then it's okay.
-Ram sir?
-Yes, sir.
-It will be printed at the end.
-Then it's okay.
-No, this is okay.
-Okay, I just wanted to test it online.
-As soon as they make the payment online,
-now they are saying that it is not there in the modules.
-Otherwise, we had to do this in the lab and see
-if the payment slip is coming on our email or not.
-Okay, you want to test it on the email.
-Now see, ma'am,
-as soon as the payment of the off-line is done,
-suppose the account has made the payment,
-as you just showed the payment of the off-line,
-this receipt should be in the account of the email ID mentioned.
-If it happens with us,
-we don't have to give it to him.
-But the receipt should be transferred to his account.
-In the student's email?
-Yes, in the student's email.
-It should be seen in the student's email, ma'am.
-Yes, sir, it will go in the student's email.
-Sir, what do you want in the student's email?
-The receipt should also go to the student's email.
+Okay.
+the print form will be done.
+Okay.
+This is okay.
+I wanted to test it
+The way they pay the money
+we wanted to see
+whether the payment
+payment was coming
+on the e-mail or not.
+You are going.
+When is the e-mail?
+Recipts are also going to the student's mail?
 Yes, yes.
-It is going to us in the same way.
-Okay, so you are saying that the receipt
-is also going to the student's email.
-In the student's email, sir,
-the form will be there,
-and it will also be written that
-the student has paid like this.
-Now the actual receipt has to be collected
-from here to the student from the counter
-for confirmation.
-No, it can't be that it goes to the mail.
-Sir, see, sometimes it becomes risky.
-By chance, the student has a refund afterwards.
-You think about it, sometimes it happens.
-You still have the bank,
-the bank has taken the money,
-but within three days,
-it is not confirmed for any explicit reason
-and then the refund is going on it.
-It must be like this.
-No, no.
-The amount has gone back.
-Yes, this also happens.
-The amount has gone back.
-What is the problem with that, ma'am?
+Recipts are also going to the student's mail?
+Recipts are also going to the student's mail?
+Sir, there will be a form in the student's mail
+where it will be written that the student has paid
+like this.
+Now the actual receipts have to be collected from here
+from the counter for confirmation.
+No, it can't be that
+it goes to the mail.
+Sir, look, sometimes it gets risky.
+By chance, the child has a refund after that.
+Think about it, sometimes it happens.
+You must still have the bank
+that the bank has taken the money
+but within 3 days it is not confirmed
+for any explicit reason and then
+the refund is going to it.
+No, no, refund means
+the amount is back.
+Yes, it happens.
+What is the problem with that?
 It gets cancelled.
-The problem is, for example,
-the student has paid the amount,
-so you are getting the receipt from him,
-and the receipt should not be generated at that time.
-And when the receipt is generated,
-then the refund has come afterwards.
-Ma'am, he has paid it,
-and by chance, if he also does the back,
+For example, the child has filled
+the amount.
+You are getting the receipt from him
+and the receipt should not be generated at that time
+when the receipt has been generated.
+Ma'am,
+he has paid
+and by chance, if he does the back
 then our regular receipts
 also have a lot of back.
-So, we have to make a transaction.
-That is a part of accounts.
-There is no problem.
-There are bounds, checks.
-I will discuss this once, sir,
-that the receipt is going to the student.
-You are saying that the receipt
-that the student has paid
-is also going to the form.
-Whatever he has paid once, ma'am,
-it should go.
-After that, if it gets cancelled,
+So we have to do the transaction.
+That is a part of
+accounts.
+Bounce, check, pay.
+Sir, I will discuss this one
+once that the receipt
+is going to him. You are saying that the receipt
+that he has paid to the child is also
+going to him. After that, if it gets cancelled
 then it is a different matter.
-It should also be entered.
-It is the same thing.
-I will see it once.
-The receipt is going,
-the receipt is not going on the form.
-Basically, if we are there, ma'am,
-if we have to give the manual,
-then we are saying that
-we are not completely online.
+It should be entered.
+That is the same thing. I will see
+it once. The receipt is going.
+The receipt is not going on the phone.
+Basically, if we are there
+but we had to give the manual
+then we are saying that we are not completely online.
 We have something offline.
-Yes, yes, I understood.
-The receipt is also basically the same.
-Yes, ma'am, generally,
-we have told the team also.
-Ma'am, your customer base,
-I have a continuous discussion with them
-that after the registration form,
-as soon as the child fills,
-he has paid,
-then two things will be processed
-on his email.
-First, the receipt.
-Secondly, our digital prospectus.
-Yes, prospectus.
-Yes, prospectus.
-This CD will be diverted on his email.
-No problem, sir.
-This is what you get me tested.
-After this, I will have them lab
-our admission team is sitting.
+Yes, I understood. The receipt is also
+basically the same.
+Generally, we have told the team
+that the customer
+is going to receive the receipt.
+My continued discussion with them is
+that after the registration form
+when the child will fill
+and he has paid
+then our two things will be processed
+on his email. First, the receipt
+and second, our digital
+prospectus
+will directly
+be diverted on his email.
+That is it.
+That is what you get me to do the testing.
+After this, I will make them live
+that is our admission team.
 Okay, sir.
-And we also have the payment gateway charges.
-I mean, the payment gateway charges.
-Yes, yes, I told you.
-Because until now, such charges
-were not kept on our portal.
-I mean, now if you fill the online form,
-then the total is 10,000.
-Yes, ma'am.
-There are charges in it, ma'am.
-You listen.
-There are charges in it.
+When is the payment gateway charges?
+I mean the payment gateway charges.
+Yes, I told you.
+Until now, such charges do not
+apply on our portal.
+If you fill the online form
+then it is 10,000 only.
+Yes.
+When are the charges in it?
+When are the charges in it?
 When someone does it with credit card
-or does it with that,
-that too the minimum charge
-and as per bank norms,
-there are such charges.
-But there are no charges like this
-that 15% or 18% of it is charged.
-There are no charges like this.
+or credit card
+then also the minimum charges
+as per bank norms are applied.
+But it is not such charges
+that 15-18% is applied.
 Okay.
-Ma'am, you tell me the details.
-How is it?
+Ma'am, please tell me in detail
+how and what is it?
 I will share this.
-Actually, I also have to ask.
-I just got it installed.
-I will ask you and share it with you.
-So ma'am, two things are clear to you.
-Fees, whether it is an offline payment
-or an online payment.
-The receipt will go to the student.
-First.
-Arrestation.
-One minute, sir.
-You will only pay for the offline payment, right?
-I mean, if you have cashed it on the counter.
-Ma'am, but it shouldn't show on the mail
-that he paid today.
-It will show on the mail.
-That he is paying over the counter.
-Yes, ma'am.
-It will show on the mail.
-That's what they are saying.
-Basically, he is taking a hard copy from our counter.
-He is sleeping right now.
-Let me see his email.
-Sir, you must have received a mail.
-Did you submit it to Anjali?
-Yes, I will check it.
-Should I also approve it?
-No, I am saying, did you submit the form
-in which we took the application?
-Yes, the payment was left.
-No, no, submit it.
-It will be fully submitted.
-Submit it in some way.
-It will show only if you submit it, ma'am.
-How should I submit it fully?
-Just scan it.
-Anjali, just scan it.
-I have joined from the phone.
-Ma'am, put one rupee in it.
-It will be scanned like this.
-Sir, it is a test mode.
-It won't be cut off.
-It will be done automatically.
-Yes, that's good.
-Do it once, Anjali.
-Just scan it.
-What has happened now, ma'am?
-The child who has filled the details,
-the registration form has just been copied.
-Nothing else has come after that.
-Yes, nothing else.
-Ram sir, but their payment has not been done yet.
-Ram sir, how will it be seen from there?
-Kajish ma'am, should I do it from GP?
-From UPI?
-Just scan it with a scanner like this, Anjali.
-Ma'am, I have done something with that.
-Scan it with GP.
-Just do it like this.
-It is a test mode, right?
-Ma'am, it is never happening.
-It is not happening with your case.
-No.
-Can't pay with the QR code.
-Yes, the testing mode is coming now.
-It is coming now.
-It has been over 1,000,000.
+Actually, I just got it applied.
+I will share that as well.
 Okay.
-Do it over the counter.
+Ma'am, two things are clear to you.
+Fees, whether it is offline payment
+or online payment.
+The receipt will go to the student.
+First. Arrestation.
+Wait a minute, sir. You will only pay
+in offline payment, right? I mean if you
+have taken cash from the counter.
+Ma'am, but it should show in the mail
+that he has paid today.
+Yes, it will show in the mail
+that he is paying over the counter fee.
+Yes, ma'am.
+It will show.
+Basically, the hard copy
+is being taken from our counter
+but the soft copy is also being taken from the counter.
+He is still sleeping.
+Should I check my email?
+Sir, you must have received a mail.
+Will you submit it to Anjali?
+Yes, I will check it.
+Should I approve it as well?
+No, I am asking if you have submitted the form
+in which we had taken the application.
+Yes, the payment was left.
+No, no. Submit it. It will be fully submitted.
+Submit it in some way and submit it.
+Ma'am, it will show when you submit it.
+How should I submit it fully?
+You just scan it.
+Anjali, just scan it.
+It will be joined with the form.
+Ma'am, please put one rupee in it.
+It will be scanned like this.
+Sir, it is a test mode. It will not be cut off.
+It will be done automatically.
+Then it is good.
+Anjali, please scan it once.
+Ma'am, what has happened now is
+that the children who have filled the details
+have received the registration form copy.
+Hmm.
+There is nothing else after that.
+There is nothing else.
+Ram sir, but their payment has not been made yet.
+Ram sir, how will it be seen from there?
+Kajish ma'am, should I do it with GP?
+With UPI?
+Just scan it with a scanner like this, Anjali.
+Ma'am, I am not good with that.
+Scan it with GP.
+Just scan it like this.
+Ma'am, it is a test mode. It is not happening.
+It is not happening.
+No, it can't be done with the QR code.
+Yes, it is a test mode.
+It is coming.
+Okay, now do an over-the-counter.
 That will go to sir.
-The form will be known.
-Ma'am, then do a change in this.
-The restriction that you have applied 10,000 times,
-do it manually.
-Do as much as you want.
+Ma'am, then do a change in it.
+The restriction that you have applied 10,000 times.
+Hmm.
+Do it manually.
+Fill it as much as you want.
 Then apply the restriction later.
 Okay.
-Actually, we are waiting for you.
-The way this page has come,
-we will handover it to the marketing team very soon.
+Actually, we are waiting for you
+to hand over this page to the marketing team
 Anjali, go to the form.
-Leave this.
-It will be done later.
-Leave this.
-Leave this.
-Yes, just go to this.
+Leave it. It will be done later.
+Leave it.
 Back it.
 Yes, do it.
-Now cancel this.
-Yes, that one will also be done later.
-Okay, sir.
-Tell me one more thing.
+Now cancel it.
+That one will also be done later.
+Okay, sir. Tell me one more thing.
 Yes.
-About the amount,
-I will put you on that.
+I will put you on the amount.
 First, I will give you the confirmation
 of how to do the amount.
-Because the payment gateway is taking charges.
+Because payment gateway is taking charges.
 Yes.
 Okay.
-And,
-basically, I have to work on the form.
+And
+basically, I have to work on your form.
 You will share the student data.
 That will be imported.
-And I have to send a transport card.
-Sample excels.
+And you have to send me a transport card.
 Done.
-Okay, sir.
+Okay, sir. Tell me one more thing.
 I will share this with you.
-In the discussion.
 Okay, ma'am.
-So drop it, ma'am.
-Yes.
-Yes.
-Okay.
-Thank you.
+Okay, thank you.
 Okay, sir.
-Okay.
-Thank you.
 Thank you, ma'am.
-Okay.
 Anjali.
-Yes.
-I don't know how to say Zoom.
-Do they know what to say?
+Hmm.
+You don't show the Zoho form.
+You were showing the Zoho form.
+Why don't you show the Zoho form?
 One minute.

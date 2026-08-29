@@ -1,0 +1,65 @@
+{
+    "module": "Admissions",
+    "topic": "Online Admission Registration and Payment Process",
+    "summary": "Describes the online registration form for new admissions, its integration with the ERP, payment processing, and how transactions are recorded.",
+    "navigation": [
+        "External URL for registration form",
+        "ERP: Admission module",
+        "Admission Data",
+        "View Transaction"
+    ],
+    "steps": [
+        "**For Student/Applicant:**",
+        "1. Fill out the online registration form with mandatory details (name, photo, gender, etc.).",
+        "2. Proceed to payment for the registration fee (e.g., 10,000).",
+        "3. Complete the payment via the integrated payment gateway (e.g., UPI scanner, card).",
+        "4. Receive a registration form copy and potentially a receipt via email.",
+        "**For ERP User:**",
+        "1. Once the form is filled, the entry appears in the ERP's Admission module.",
+        "2. If payment is made, the transaction details appear in the 'View Transaction' section for that application.",
+        "3. The admission process proceeds after the registration fee is successfully received."
+    ],
+    "business_rules": [
+        "The online registration form is fully integrated with the ERP.",
+        "Payment of the registration fee is required for the application to proceed to the next stage (e.g., admission screen).",
+        "The registration fee amount can be fixed (e.g., 10,000).",
+        "Email notifications (registration form copy, receipt) are sent to the applicant upon successful submission and payment."
+    ],
+    "important_notes": [
+        "The form can be set to 'test gate' for testing payments without actual deductions; 'live' mode processes actual payments.",
+        "A fixed amount for registration (e.g., 10,000) might be restrictive for testing with smaller amounts; flexibility for testing is desired.",
+        "There is an ongoing discussion about whether the actual payment receipt should be emailed immediately due to potential refunds/cancellations.",
+        "A digital prospectus can also be sent via email after registration."
+    ],
+    "questions": [
+        "How does the online admission registration form integrate with the ERP?",
+        "What is the process for a student to register and pay online?",
+        "How can we test the online payment process without actual deductions?",
+        "Where can I view online registration transactions in the ERP?",
+        "Will students receive a receipt and registration form copy via email after online payment?",
+        "Can the registration fee amount be varied for testing purposes?"
+    ],
+    "keywords": [
+        "Online registration",
+        "admission form",
+        "payment gateway",
+        "test mode",
+        "live mode",
+        "registration fee",
+        "transaction view",
+        "email receipt",
+        "digital prospectus",
+        "application status",
+        "online payment"
+    ],
+    "related_topics": [
+        "Payment Gateway Charges",
+        "Fee Receipt Generation"
+    ],
+    "id": "admissions_online_admission_registration_and_payment_process",
+    "source": {
+        "file": "2.kashish  Okie - 20260509 1455 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

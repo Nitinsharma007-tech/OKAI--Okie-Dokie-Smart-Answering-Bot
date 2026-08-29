@@ -1,0 +1,55 @@
+{
+    "module": "Transport",
+    "topic": "Assigning Vendor GPS ID to Vehicles",
+    "summary": "This process involves linking an individual vehicle record in the ERP system to its corresponding unique identifier (GPS ID) in the external vendor's tracking system. This `GPS ID` is crucial for the ERP backend to query the vendor API for specific vehicle data and enable tracking in the application.",
+    "navigation": [
+        "Transport",
+        "Vehicles",
+        "Search for the desired vehicle",
+        "View",
+        "GPS ID (field)"
+    ],
+    "steps": [
+        "Navigate to `Transport` -> `Vehicles`.",
+        "Search for the specific vehicle you wish to configure.",
+        "Click on the `View` option for that vehicle.",
+        "Locate the `GPS ID` field.",
+        "Enter the unique identifier (e.g., `wickle number`) provided by the GPS vendor for this specific vehicle into the `GPS ID` field.",
+        "Save the vehicle record."
+    ],
+    "business_rules": [
+        "The value entered in the `GPS ID` field must be the exact identifier that the vendor's API expects for that vehicle, corresponding to the `GPS ID Key` configured in Track Config.",
+        "If a vehicle's `GPS ID` is not configured, tracking for that vehicle will fail in the app, resulting in an error message (e.g., 'Please contact us').",
+        "The ERP backend uses this `GPS ID` value, passed via the `GPS ID Key` configured in Track Config, to fetch data from the vendor API."
+    ],
+    "important_notes": [
+        "This setup is performed per vehicle.",
+        "The `GPS ID` field on the vehicle master is where the vendor's unique vehicle identifier is stored."
+    ],
+    "questions": [
+        "How do I link an ERP vehicle to its GPS tracking ID from a vendor?",
+        "Where do I enter the vendor's unique vehicle ID in the ERP system?",
+        "What happens if I don't set up the GPS ID for a vehicle?",
+        "How does the ERP system use the GPS ID to track vehicles?"
+    ],
+    "keywords": [
+        "Vehicle GPS ID",
+        "GPS ID setup",
+        "Vehicle tracking",
+        "Transport module",
+        "Vehicle master",
+        "Wickle number",
+        "Vendor vehicle ID",
+        "Vehicle configuration"
+    ],
+    "related_topics": [
+        "Configure Vendor API (Track Config)",
+        "Configure Vendor API Response (Response Config)"
+    ],
+    "id": "transport_assigning_vendor_gps_id_to_vehicles",
+    "source": {
+        "file": "10. fri-kkag-cxw (2026-06-29 1130 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

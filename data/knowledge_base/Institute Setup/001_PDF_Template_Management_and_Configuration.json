@@ -1,0 +1,76 @@
+{
+    "module": "Institute Setup",
+    "topic": "PDF Template Management and Configuration",
+    "summary": "This topic covers the process of setting up and managing various PDF templates within the ERP system, including ID cards, certificates, receipts, and admission forms. It details how to add new templates, configure print layouts, associate templates with specific courses or schools, and manage default settings.",
+    "navigation": [
+        "Institute Setup",
+        "Template Reference",
+        "PDF Template"
+    ],
+    "steps": [
+        "Navigate to the \"PDF Template\" section.",
+        "Click to add a new template.",
+        "Select the template type (e.g., Fee Receipt, ID Card, Character Certificate).",
+        "Provide a unique name for the template.",
+        "Configure the print count and layout: \"One\" for a single print, \"Two with Horizontal\" for two prints horizontally, \"Two as Vertical\" for two prints vertically (one below the other), or \"Four\" for four prints (divided into four sections).",
+        "Associate the template with specific courses, classes, or schools (e.g., Class One, School of Engineering).",
+        "(Optional) Select a default template from available back-end options.",
+        "(Optional) Use the preview function to check the template design."
+    ],
+    "business_rules": [
+        "The system prints the template specifically attached to a particular trigger, regardless of the code content. For example, if a \"Fee Receipt\" trigger is linked to a \"Bona Fide Certificate\" template, printing a fee receipt will result in a bona fide certificate.",
+        "If a template's \"Default\" toggle is \"On\", that template will be printed.",
+        "If a template's \"Default\" toggle is \"Off\", the previously active template will be printed.",
+        "If no existing template is defaulted \"On\", the back-end default template will be used.",
+        "If multiple templates are defaulted \"On\" for the same trigger (e.g., multiple student ID cards for the same class), the first one in the series will be printed.",
+        "Certificates can be different for respective classes or schools."
+    ],
+    "important_notes": [
+        "The preview function is for checking design, layout, and code, but it is not the final print.",
+        "Always verify the template code and its associated trigger to ensure the correct document is printed.",
+        "Default templates often suffice for standard requirements; customization is typically for advanced or specific needs.",
+        "Ensure all HTML tags (e.g., `div`, `section`) are properly closed in the template code to avoid rendering issues during preview or printing."
+    ],
+    "questions": [
+        "How do I add a new PDF template in the ERP system?",
+        "What are the different print layout options for templates?",
+        "Can I associate a template with specific classes or schools?",
+        "How does the \"Default\" toggle affect which template is printed?",
+        "What happens if I link a \"Fee Receipt\" trigger to a \"Bona Fide Certificate\" template?",
+        "How can I preview a template before printing?",
+        "What is a Bona Fide Certificate and when is it used?"
+    ],
+    "keywords": [
+        "PDF template",
+        "template management",
+        "fee receipt",
+        "ID card",
+        "certificate",
+        "admission receipt",
+        "event notice",
+        "admit card",
+        "student certificate",
+        "template count",
+        "print layout",
+        "horizontal print",
+        "vertical print",
+        "courses",
+        "classes",
+        "schools",
+        "default template",
+        "template preview",
+        "Bona Fide Certificate",
+        "Institute Setup"
+    ],
+    "related_topics": [
+        "PDF Template Customization and Debugging",
+        "Report Card Template Configuration",
+        "Variable Management in Templates"
+    ],
+    "id": "institute_setup_pdf_template_management_and_configuration",
+    "source": {
+        "file": "1080p-syb-fmmz-jmq (2025-07-23 12_37 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

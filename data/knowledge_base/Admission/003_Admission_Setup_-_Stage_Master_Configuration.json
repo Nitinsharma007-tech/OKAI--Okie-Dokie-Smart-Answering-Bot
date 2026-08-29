@@ -1,0 +1,53 @@
+{
+    "module": "Admission",
+    "topic": "Admission Setup - Stage Master Configuration",
+    "summary": "Describes how to define and manage the various stages an admission lead progresses through, such as application submission, document verification, and final approval. It also clarifies the nature of default system-generated stages.",
+    "navigation": [
+        "Admission Module",
+        "Admission Setup",
+        "Admission Master",
+        "Stage Master Setup"
+    ],
+    "steps": [
+        "Navigate to Admission Module > Admission Setup > Admission Master.",
+        "Click on \"Stage Master Setup\".",
+        "Observe the default stages like \"Approved\" and \"Rejected\", which are system-generated and cannot be manually created or removed.",
+        "To add a new custom stage, click \"Add New\".",
+        "Enter the \"Stage Name\" (e.g., \"Application Submission\", \"Document Upload\", \"Counselor Doc Verification\", \"Academic Doc Verification\", \"Transport and Hostel Selection\").",
+        "Repeat for all required custom stages."
+    ],
+    "business_rules": [
+        "\"Approved\" and \"Rejected\" are default, back-end stages and cannot be created or deleted manually.",
+        "Custom stages can be added or removed (by unchecking) as per the institute's admission process.",
+        "The sequence and detailed configuration of these stages are managed in the 'Stage Setup' section."
+    ],
+    "important_notes": [
+        "The stages in the admission process are highly customizable and depend on the client's specific requirements and workflows."
+    ],
+    "questions": [
+        "How do I create new admission stages for my institute?",
+        "What are the default stages in the Admission module and can I modify them?",
+        "Where do I define the names of the different admission process stages?",
+        "Can I remove an admission stage once it's created?"
+    ],
+    "keywords": [
+        "Stage Master Setup",
+        "Admission stages",
+        "Application submission stage",
+        "Document verification stage",
+        "Approved stage",
+        "Rejected stage",
+        "Custom stages",
+        "Admission process flow"
+    ],
+    "related_topics": [
+        "Admission Setup - Application Number Configuration",
+        "Admission Setup - Stage Field and Communication Configuration"
+    ],
+    "id": "admission_admission_setup_stage_master_configuration",
+    "source": {
+        "file": "5. syb-fmmz-jmq (2026-07-01 1746 GMT+530).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

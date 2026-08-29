@@ -1,0 +1,33 @@
+{
+    "module": "Education Management",
+    "topic": "Student Module Overview",
+    "summary": "The Student module is a core component of the ERP system, designed for managing student-related information and processes within an educational institution.",
+    "navigation": [],
+    "steps": [],
+    "business_rules": [],
+    "important_notes": [],
+    "questions": [
+        "What is the primary function of the Student module?",
+        "How do I access student records in the Student module?",
+        "What types of data are managed within the Student module?"
+    ],
+    "keywords": [
+        "Student module",
+        "student management",
+        "education ERP",
+        "student information system",
+        "student records"
+    ],
+    "related_topics": [
+        "Schools Module",
+        "University Charges",
+        "Student Enrollment",
+        "Academic Records"
+    ],
+    "id": "education_management_student_module_overview",
+    "source": {
+        "file": "16. 720p-syb-fmmz-jmq (2025-07-09 12_10 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

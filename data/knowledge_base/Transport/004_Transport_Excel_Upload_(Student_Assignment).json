@@ -1,0 +1,57 @@
+{
+    "module": "Transport",
+    "topic": "Transport Excel Upload (Student Assignment)",
+    "summary": "This topic explains how to assign specific transport routes and pick-up points to students in bulk using an Excel upload. This process links students to their transport details, automatically applying associated transport fees.",
+    "navigation": [
+        "Settings icon",
+        "Institute Setup",
+        "Transport",
+        "Transport Excel Upload"
+    ],
+    "steps": [
+        "Navigate to 'Transport' setup.",
+        "Click on the 'Transport Excel Upload' option.",
+        "Download the 'Sample Excel' template.",
+        "Fill the Excel with the following columns:",
+        "'Reg Number' (the student's unique ID or admission number).",
+        "'Vehicle Route' (the exact name of the route, e.g., Route 1).",
+        "'Pick-up Point' (the exact name of the pick-up point, e.g., Ansal).",
+        "Choose the filled Excel file.",
+        "Click 'Submit'."
+    ],
+    "business_rules": [
+        "The system uses the student's unique 'Reg Number' to identify them.",
+        "The transport fees associated with the assigned route and pick-up point will automatically be charged to the student's fee demand."
+    ],
+    "important_notes": [
+        "This feature is for bulk assignment of transport details to students.",
+        "Vehicle number is not needed in this Excel as it is already defined within the Vehicle Route setup.",
+        "Manual assignment of transport to students is also possible (though not detailed here)."
+    ],
+    "questions": [
+        "How can I assign transport routes to multiple students at once?",
+        "What information is required in the Transport Excel Upload for students?",
+        "What is the 'Reg Number' used for in the transport assignment?",
+        "Will transport fees be automatically applied after Excel upload?"
+    ],
+    "keywords": [
+        "Assign transport to student",
+        "student transport Excel",
+        "bulk transport assignment",
+        "reg number",
+        "vehicle route student",
+        "pick-up point student",
+        "transport fees automation"
+    ],
+    "related_topics": [
+        "Vehicle Route Management",
+        "Fee Management",
+        "Student Management"
+    ],
+    "id": "transport_transport_excel_upload_student_assignment",
+    "source": {
+        "file": "1. kashish  Okie - 20260609 1658 IST – Recording.txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

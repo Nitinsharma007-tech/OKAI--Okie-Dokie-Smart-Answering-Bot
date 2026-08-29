@@ -1,0 +1,57 @@
+{
+    "module": "Student (SAS)",
+    "topic": "Viewing and Filtering Student List",
+    "summary": "Explains how to view a comprehensive list of all students, adjust the number of records displayed per page, and apply filters to search for specific student data based on criteria such as class, section, fee category (e.g., General, RTE 134A), and student status (Old/New).",
+    "navigation": [
+        "Student",
+        "Student List"
+    ],
+    "steps": [
+        "Navigate to the 'Student' module.",
+        "Click on 'Student List'.",
+        "View the data of all students present in the institute.",
+        "To adjust the number of students displayed per screen, modify the 'item bar page' setting (e.g., set to 25).",
+        "To filter the student list, click on the 'Filter' option.",
+        "Select desired criteria such as 'Class' (e.g., Nursery), 'Section', 'Fee Category' (e.g., General, RTE 134A), or 'Student Status' (Old/New).",
+        "Unselect any categories not needed for filtering.",
+        "Click 'Filter' to apply the selected criteria and narrow down the list."
+    ],
+    "business_rules": [
+        "RTE 134A is a specific fee category for students who may not pay fees due to government provisions.",
+        "'Old' and 'New' distinguish students based on their enrollment session."
+    ],
+    "important_notes": [
+        "The filter option is a common feature available across many screens in the system.",
+        "The 'item bar page' setting directly controls how many records are visible on the screen at once."
+    ],
+    "questions": [
+        "How can I view a list of all students in the ERP system?",
+        "How do I filter the student list by class and section?",
+        "What are the available options for filtering student data?",
+        "What is the purpose of the 'item bar page' setting in the student list?",
+        "How can I find students belonging to the RTE 134A category?"
+    ],
+    "keywords": [
+        "Student List",
+        "Filter Students",
+        "Search Students",
+        "Class Filter",
+        "Section Filter",
+        "Fee Category",
+        "RTE 134A",
+        "Old Student",
+        "New Student",
+        "Item Bar Page",
+        "View Student Data"
+    ],
+    "related_topics": [
+        "Student Details View and Edit",
+        "Student Status Management (Active/Inactive)"
+    ],
+    "id": "student_sas_viewing_and_filtering_student_list",
+    "source": {
+        "file": "13. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}

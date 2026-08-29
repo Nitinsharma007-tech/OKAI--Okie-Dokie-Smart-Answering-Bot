@@ -1,0 +1,46 @@
+{
+    "module": "Student Module",
+    "topic": "Bulk Print Student Certificates",
+    "summary": "Allows printing multiple certificates, such as ID cards and Admit Cards, for several selected students simultaneously.",
+    "navigation": [
+        "Student Module",
+        "Student Certificates",
+        "Bulk Print"
+    ],
+    "steps": [
+        "Navigate to 'Student Certificates'.",
+        "Select multiple students from the list for whom certificates need to be printed.",
+        "Click on the 'Bulk Print' option.",
+        "Choose the specific certificate type for bulk printing (e.g., ID Card, Admit Card).",
+        "The system will generate and print the selected certificates for all chosen students."
+    ],
+    "business_rules": [
+        "Only specific certificate types, such as ID Cards and Admit Cards, are supported for bulk printing."
+    ],
+    "important_notes": [
+        "This feature is efficient for generating a large number of certificates at once.",
+        "Ensure the correct students are selected before initiating a bulk print job."
+    ],
+    "questions": [
+        "Can I print ID cards for multiple students at the same time?",
+        "How do I bulk print admit cards for an entire class?",
+        "Which types of student certificates can be printed in bulk?",
+        "What is the process for bulk printing student documents?"
+    ],
+    "keywords": [
+        "Bulk print",
+        "multiple certificates",
+        "ID card bulk print",
+        "admit card bulk print",
+        "mass certificate printing"
+    ],
+    "related_topics": [
+        "Print Student Certificates"
+    ],
+    "id": "student_module_bulk_print_student_certificates",
+    "source": {
+        "file": "12. 1080p-syb-fmmz-jmq (2025-07-03 10_45 GMT+5_30).txt",
+        "generated_by": "Gemini 2.5 Flash",
+        "version": "1.0"
+    }
+}
