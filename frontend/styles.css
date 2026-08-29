@@ -230,6 +230,7 @@ kbd {
 
 .app-body {
   flex: 1;
+  min-height: 0;
   display: grid;
   grid-template-columns: 320px minmax(400px, 1fr) 0px;
   transition: grid-template-columns var(--transition);
@@ -245,6 +246,7 @@ kbd {
   grid-template-columns: minmax(0, 1fr) 0px;
   gap: 16px;
   min-width: 0;
+  min-height: 0;
   transition: grid-template-columns 0.38s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
@@ -491,7 +493,8 @@ body.chat-open .workspace {
   width: 0;
   min-width: 0;
   max-width: 100%;
-  height: min(700px, calc(100vh - 160px));
+  /* Match the workspace height so the open chat is a full side panel. */
+  height: 100%;
   border-radius: var(--radius-lg);
   border: 1px solid var(--border-glow);
   box-shadow: 0 24px 60px rgba(var(--accent-rgb), 0.16), 0 0 0 1px rgba(255,255,255,0.5) inset;
