@@ -123,28 +123,9 @@
 
             height: 54px;
 
-            border-radius: 16px;
+            object-fit: contain;
 
-            display: flex;
-
-            align-items: center;
-
-            justify-content: center;
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #ff7138,
-                    #ff9b52
-                );
-
-            color: white;
-
-            font-size: 28px;
-
-            box-shadow:
-                0 8px 20px
-                rgba(255, 113, 56, 0.22);
+            flex: 0 0 auto;
         }
 
 
@@ -1307,9 +1288,11 @@
 
         <div class="brand">
 
-            <div class="brand-icon">
-                ▱
-            </div>
+            <img
+                class="brand-icon"
+                src="assets/okie-dokie-students-portal-logo.png"
+                alt="Okie Dokie Students Portal"
+            >
 
             <div>
 
@@ -1796,21 +1779,12 @@ loginBack.addEventListener(
    REQUIRE LOGIN FOR EACH PAGE LOAD
 ========================================================= */
 
-// Keep the authenticated state across browser refreshes and browser restarts,
-// so a logged-in user stays on the upload page instead of being bounced back
-// to the login form after reloads or revisits.
-const existingUploadToken = localStorage.getItem("data_upload_token");
-
-if (existingUploadToken) {
-
-    showUploadPage();
-
-} else {
-
-    loginSection.style.display = "block";
-    uploadSection.style.display = "none";
-
-}
+// A refresh must always require a new login. Remove an older persisted
+// token (including one left by a previous version using localStorage).
+sessionStorage.removeItem("data_upload_token");
+localStorage.removeItem("data_upload_token");
+loginSection.style.display = "block";
+uploadSection.style.display = "none";
 
 
 /* =========================================================
@@ -1941,7 +1915,7 @@ loginForm.addEventListener(
                 "data-upload-authenticated";
 
 
-            localStorage.setItem(
+            sessionStorage.setItem(
                 "data_upload_token",
                 token
             );
@@ -2207,7 +2181,7 @@ startButton.addEventListener(
     async function () {
 
         const token =
-            localStorage.getItem(
+            sessionStorage.getItem(
                 "data_upload_token"
             );
 
