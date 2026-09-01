@@ -11,6 +11,7 @@ const input = document.getElementById("question-input");
 const sendButton = document.getElementById("send-button");
 const searchBox = document.getElementById("knowledge-search");
 const searchClearButton = document.getElementById("search-clear");
+const searchResults = document.getElementById("search-results");
 const errorBanner = document.getElementById("error-banner");
 const suggestionButtons = document.querySelectorAll(".ai-chip");
 const moduleCount = document.getElementById("module-count");
@@ -157,6 +158,24 @@ async function askQuestion(question){
     }
 }
 
+// Knowledge Explorer selections should stay in the main workspace. Only a
+// manually opened assistant uses the chat conversation.
+async function answerKnowledgeTreeQuestion(question){
+    question = question.trim();
+    if(question === ""){ return; }
+    state.currentQuestion = question;
+    showViewerLoading();
+    try{
+        const result = await api.post("/api/ask", { question });
+        showKnowledge(result.knowledge, result.answer, question);
+    } catch(error){
+        viewerTitle.textContent = "Answer unavailable";
+        viewerSubtitle.textContent = "Knowledge Explorer";
+        viewerContent.innerHTML = `<div class="welcome-card glass-card"><h2>Unable to load this answer</h2><p>${escapeHtml(error.message)}</p></div>`;
+        showError(error.message);
+    }
+}
+
 form.addEventListener("submit", function(event){ event.preventDefault(); askQuestion(input.value); });
 
 suggestionButtons.forEach(button=>{
@@ -240,21 +259,21 @@ function renderNavigationFlowchart(steps){
     return `<div class="nav-flowchart">${stepsHtml}</div>`;
 }
 
-function showKnowledge(items){
-    if(!items || items.length===0){ return; }
-    const topic = items[0];
-    viewerTitle.textContent = topic.topic;
-    viewerSubtitle.textContent = topic.module;
+function showKnowledge(items, answer, question){
+    const topic = items && items.length ? items[0] : null;
+    viewerTitle.textContent = topic ? topic.topic : (question || "Knowledge answer");
+    viewerSubtitle.textContent = topic ? topic.module : "Knowledge Explorer";
     let html = `<div class="doc-card">`;
-    if(topic.summary) html += `<h3>Synthesis</h3><p>${topic.summary}</p>`;
-    if(topic.navigation && topic.navigation.length) html += `<h3 class="nav-path-heading">System Path</h3>${renderNavigationFlowchart(topic.navigation)}`;
+    if(answer) html += `<h3>Answer</h3><div class="knowledge-answer">${marked.parse(answer)}</div>`;
+    if(topic && topic.summary) html += `<h3>Synthesis</h3><p>${topic.summary}</p>`;
+    if(topic && topic.navigation && topic.navigation.length) html += `<h3 class="nav-path-heading">System Path</h3>${renderNavigationFlowchart(topic.navigation)}`;
     html += `<button class="ask-ai-btn ripple" id="ask-ai-btn" type="button">✨ Probe neural net for deeper insight</button></div>`;
     viewerContent.innerHTML = html;
     const askAiBtn = document.getElementById("ask-ai-btn");
     if(askAiBtn){
         askAiBtn.addEventListener("click", ()=>{
             openChatWidget();
-            input.value = "Expand on: " + topic.topic;
+            input.value = "Expand on: " + (topic ? topic.topic : question);
             input.focus();
         });
     }
@@ -379,7 +398,7 @@ function toggleTopic(card, topic) {
         div.addEventListener("click", () => {
             document.querySelectorAll(".tree-question").forEach(q => q.classList.remove("active"));
             div.classList.add("active");
-            askQuestion(question);
+            answerKnowledgeTreeQuestion(question);
         });
         questionBox.appendChild(div);
     });
@@ -411,7 +430,7 @@ function renderSearchTopics(container, topics, lowerQuery){
             qDiv.addEventListener("click", ()=>{
                 document.querySelectorAll(".tree-question").forEach(q => q.classList.remove("active"));
                 qDiv.classList.add("active");
-                askQuestion(question);
+                answerKnowledgeTreeQuestion(question);
             });
             questionBox.appendChild(qDiv);
         });
@@ -423,42 +442,37 @@ function renderSearchTopics(container, topics, lowerQuery){
 async function filterKnowledgeTree(rawQuery){
     const lowerQuery = rawQuery.trim().toLowerCase();
     searchClearButton.classList.toggle("hidden", lowerQuery === "");
-    if(!lowerQuery){ resetKnowledgeTree(); return; }
+    if(!lowerQuery){ searchResults.classList.add("hidden"); searchResults.innerHTML = ""; return; }
     if(treeReadyPromise) { try{ await treeReadyPromise; } catch(error){} }
-    let anyModuleMatched = false;
+    if(searchBox.value.trim().toLowerCase() !== lowerQuery) return;
+    const matches = [];
     state.modules.forEach(module=>{
-        const moduleCard = getModuleCard(module.module);
-        if(!moduleCard) return;
-        const topics = fullTreeCache[module.module] || [];
-        const moduleNameMatches = textMatches(module.module, lowerQuery);
-        const hasDescendantMatch = topics.some(topic=>{ return textMatches(topic.topic, lowerQuery) || (topic.questions || []).some(q => textMatches(q, lowerQuery)); });
-        const titleEl = moduleCard.querySelector(".tree-module-title");
-        if(!moduleNameMatches && !hasDescendantMatch){
-            moduleCard.classList.add("search-no-match"); titleEl.textContent = module.module; return;
-        }
-        anyModuleMatched = true;
-        moduleCard.classList.remove("search-no-match"); moduleCard.classList.add("open");
-        titleEl.innerHTML = highlightMatch(module.module, moduleNameMatches ? lowerQuery : "");
-        const topicsBox = moduleCard.querySelector(".tree-topics"); topicsBox.dataset.loaded = "true";
-        renderSearchTopics(topicsBox, topics, lowerQuery);
+        (fullTreeCache[module.module] || []).forEach(topic=>{
+            (topic.questions || []).forEach(question=>{
+                if(textMatches(question, lowerQuery)) matches.push(question);
+            });
+        });
     });
-    let emptyNotice = moduleList.querySelector(".tree-search-empty");
-    if(!anyModuleMatched){
-        if(!emptyNotice){ emptyNotice = document.createElement("div"); emptyNotice.className = "tree-empty tree-search-empty"; moduleList.appendChild(emptyNotice); }
-        emptyNotice.textContent = `No results found for "${rawQuery.trim()}".`;
-    } else if(emptyNotice){ emptyNotice.remove(); }
-}
-
-function resetKnowledgeTree(){
-    const emptyNotice = moduleList.querySelector(".tree-search-empty");
-    if(emptyNotice) emptyNotice.remove();
-    document.querySelectorAll(".tree-module").forEach(card=>{
-        card.classList.remove("search-no-match", "open");
-        const titleEl = card.querySelector(".tree-module-title");
-        if(titleEl) titleEl.textContent = card.dataset.moduleName;
-        const topicsBox = card.querySelector(".tree-topics");
-        if(topicsBox){ topicsBox.innerHTML = ""; delete topicsBox.dataset.loaded; }
-    });
+    searchResults.innerHTML = "";
+    if(matches.length === 0){
+        searchResults.innerHTML = `<div class="search-result-empty">No matching questions found.</div>`;
+    } else {
+        matches.slice(0, 8).forEach(question=>{
+            const result = document.createElement("button");
+            result.type = "button";
+            result.className = "search-result";
+            result.setAttribute("role", "option");
+            result.innerHTML = highlightMatch(question, lowerQuery);
+            result.addEventListener("click", ()=>{
+                searchBox.value = question;
+                searchClearButton.classList.remove("hidden");
+                searchResults.classList.add("hidden");
+                answerKnowledgeTreeQuestion(question);
+            });
+            searchResults.appendChild(result);
+        });
+    }
+    searchResults.classList.remove("hidden");
 }
 
 searchBox.addEventListener("input", ()=>{
@@ -469,6 +483,9 @@ searchBox.addEventListener("input", ()=>{
 
 searchBox.addEventListener("keydown", (event)=>{ if(event.key === "Escape"){ searchBox.value = ""; filterKnowledgeTree(""); }});
 searchClearButton.addEventListener("click", ()=>{ searchBox.value = ""; filterKnowledgeTree(""); searchBox.focus(); });
+document.addEventListener("click", (event)=>{
+    if(!searchBox.closest(".topbar-search").contains(event.target)) searchResults.classList.add("hidden");
+});
 
 
 /*=========================================================
