@@ -148,6 +148,7 @@ async function askQuestion(question){
         const result = await api.post("/api/ask", { question });
         hideTyping();
         appendAssistantMessage(result.answer);
+        addQuestionToKnowledgeTree(result.treeAddition);
         showKnowledge(result.knowledge);
     } catch(error){
         hideTyping();
@@ -473,6 +474,26 @@ async function filterKnowledgeTree(rawQuery){
         });
     }
     searchResults.classList.remove("hidden");
+}
+
+function addQuestionToKnowledgeTree(addition){
+    if(!addition || !fullTreeCache[addition.module]) return;
+    const topic = fullTreeCache[addition.module].find(item => String(item.id) === String(addition.topicId));
+    if(!topic || topic.questions.includes(addition.question)) return;
+
+    topic.questions.push(addition.question);
+    topic.question_count = topic.questions.length;
+    const module = state.modules.find(item => item.module === addition.module);
+    if(module) module.questions = (module.questions || 0) + 1;
+    updateQuestionCountStat();
+
+    // Refresh an already expanded branch so the saved question is visible
+    // immediately, without waiting for a page reload.
+    const moduleCard = getModuleCard(addition.module);
+    const topicsBox = moduleCard && moduleCard.querySelector(".tree-topics");
+    if(moduleCard && moduleCard.classList.contains("open") && topicsBox && topicsBox.dataset.loaded === "true"){
+        renderTopics(topicsBox, fullTreeCache[addition.module]);
+    }
 }
 
 searchBox.addEventListener("input", ()=>{

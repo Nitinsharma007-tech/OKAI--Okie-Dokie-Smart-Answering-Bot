@@ -1497,7 +1497,8 @@
         "What is the process for assigning teachers to subjects within the timetable?",
         "Can I define a break directly within the timetable assignment interface?",
         "Is it possible to assign two different subjects to the same time slot?",
-        "How do I remove a subject or teacher assignment from a timetable slot?"
+        "How do I remove a subject or teacher assignment from a timetable slot?",
+        "assign lectures to teachers?"
       ],
       "keywords": [
         "Timetable Assignment",

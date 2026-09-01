@@ -43,6 +43,7 @@ app = FastAPI(
 )
 
 _runtime_refresh_lock = threading.Lock()
+_knowledge_tree_lock = threading.Lock()
 
 app.add_middleware(
     CORSMiddleware,
@@ -254,11 +255,31 @@ def ask(request: AskRequest):
                 }
             )
 
+        # A useful manual question is retained as a question under the best
+        # semantic topic, making it discoverable from the tree on later visits.
+        tree_addition = None
+        answer_is_knowledge_based = answer and not any(
+            phrase in answer.lower()
+            for phrase in (
+                "i couldn't find this information",
+                "i could not find this information",
+                "not available in the erp knowledge base",
+            )
+        )
+        if answer_is_knowledge_based and search_results:
+            best_topic_id = search_results[0]["topic_data"].get("id")
+            if best_topic_id is not None:
+                with _knowledge_tree_lock:
+                    tree_addition = app.state.browser.add_question_to_topic(question, best_topic_id)
+                    if tree_addition:
+                        app.state.runtime_data_signature = _runtime_data_signature()
+
         return {
             "question": question,
             "answer": answer,
             "fromCache": from_cache,
             "knowledge": knowledge,
+            "treeAddition": tree_addition,
         }
 
     except Exception as exc:

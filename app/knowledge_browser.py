@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from tempfile import NamedTemporaryFile
 
 
 class KnowledgeBrowser:
@@ -210,3 +211,34 @@ class KnowledgeBrowser:
             })
 
         return tree
+
+    def add_question_to_topic(self, question, topic_id):
+        """Persist a newly asked question beneath its best matching topic."""
+        normalized_question = " ".join(str(question).split()).casefold()
+        if not normalized_question:
+            return None
+
+        # A question should appear only once in the entire Knowledge Explorer.
+        for topic in self.topics:
+            for existing_question in topic.get("questions", []):
+                if " ".join(str(existing_question).split()).casefold() == normalized_question:
+                    return None
+
+        target_topic = next((topic for topic in self.topics if topic.get("id") == topic_id), None)
+        if target_topic is None:
+            return None
+
+        target_topic.setdefault("questions", []).append(question)
+        with NamedTemporaryFile("w", encoding="utf-8", dir=self.master_file.parent, delete=False) as temp_file:
+            json.dump(self.master_data, temp_file, ensure_ascii=False, indent=2)
+            temp_file.write("\n")
+            temporary_path = Path(temp_file.name)
+        temporary_path.replace(self.master_file)
+        self.build_tree()
+
+        return {
+            "module": target_topic.get("module", "General"),
+            "topicId": target_topic.get("id"),
+            "topic": target_topic.get("topic", "Knowledge"),
+            "question": question,
+        }
